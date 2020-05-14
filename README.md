@@ -8,7 +8,7 @@ Project started at May/2020<br>
 
 **最後更新日期 Last Update: 14May,2020 2110**
 ### 相簿 Album
-[1st Single](../master/Markdown/1st%20Single.md)
+[1st Single](https://github.com/LYHPandaKing/227PhotoBackup/blob/master/Markdown/1st%20Single.md)
 
 
 ### 鳴謝 Credit
