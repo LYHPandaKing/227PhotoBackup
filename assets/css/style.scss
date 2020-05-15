@@ -5,5 +5,7 @@
 .page-header {
   color: #009DDD;
   background-color: #E8E8E8;
-  background-image: url('https://github.com/LYHPandaKing/227PhotoBackup/master/Img/227Blur.PNG');
+  background-image: url('../Img/227Blur.PNG');
+  background: url('../Img/227Blur.PNG') no-repeat center center fixed;
+   background-size: cover;
 }
