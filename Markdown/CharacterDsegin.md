@@ -1,7 +1,6 @@
 ### 角色設計 Character Dsegin
 ##### [Back](../readme.md)
 
-#### 動畫 Anime
 ![Miyako_anime](../Character%20Design/Anime/Miyako_anime.PNG){: width="33%"}
 ![Miyako_design](../Character%20Design/Original%20Design/Miyako_design.PNG){: width="33%"}
 ![Miyako_game](../Character%20Design/音楽の時間/Miyako_game.PNG){: width="33%"}
