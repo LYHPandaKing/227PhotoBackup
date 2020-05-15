@@ -2,31 +2,50 @@
 ##### [Back](readme.md)
 <br>
 
-![Miu](../1st%20Single/5A94B61A-828A-4205-B83B-856546A2897B.jpeg).
+![Miu](../1st%20Single/Miu_anime.PNG).
 <br>
 
- Miu | [Source](https://www.facebook.com/nanabunnoID/photos/a.595744770791956/595745237458576/?type=3) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/1st%20Single/5A94B61A-828A-4205-B83B-856546A2897B.jpeg)
+ Miu | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/05_miu/img_chara_anime.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/1st%20Single/Miu_anime.PNG)
 <br>
 
-![Sakura](../1st%20Single/0792F716-0663-48C7-86F6-51DB7272BBB0.jpeg)
+![Sakura](../1st%20Single/Sakura_anime.PNG)
 <br>
 
- Sakura | [Source](https://www.facebook.com/nanabunnoID/photos/a.595744770791956/595745270791906/?type=3) | [Download](https://raw.githubusercontent.com/LYHPandaKing/227PhotoBackup/master/1st%20Single/0792F716-0663-48C7-86F6-51DB7272BBB0.jpeg) 
+ Sakura | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/07_sakura/img_chara_anime.png) | [Download](https://raw.githubusercontent.com/LYHPandaKing/227PhotoBackup/master/1st%20Single/Sakura_anime.PNG) 
 <br>
 
-![Jun](../1st%20Single/29104081_595745304125236_3038986633786425344_o.jpg)
+![Jun](../1st%20Single/Jun_anime.PNG)
 <br>
 
- Jun | [Source](https://www.facebook.com/nanabunnoID/photos/a.595744770791956/595745300791903/?type=3) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/1st%20Single/29104081_595745304125236_3038986633786425344_o.jpg)
+ Jun | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/06_jun/img_chara_anime.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/1st%20Single/Jun_anime.PNG)
  <br>
 
-![Ayaka](../1st%20Single/1C15B2ED-D34E-4AFB-BE27-BD2BDB544015.jpeg)
+![Ayaka](../1st%20Single/Ayaka_anime.PNG)
 <br>
 
- Ayaka | [Source](https://www.facebook.com/nanabunnoID/photos/a.595744770791956/595745340791899/?type=3) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/1st%20Single/1C15B2ED-D34E-4AFB-BE27-BD2BDB544015.jpeg)
+ Ayaka | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/04_ayaka/img_chara_anime.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/1st%20Single/Ayaka_anime.PNG)
 <br>
 
-![Nicole](../1st%20Single/3718B1F5-988A-4E96-B84A-9BC6505CB19F.jpeg)
+![Nicole](../1st%20Single/Nicole_anime.PNG)
 <br>
 
- Nicole | [Source](
+ Nicole | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/02_nicole/img_chara_anime.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/1st%20Single/Nicole_anime.PNG)
+<br>
+
+![Reika](../1st%20Single/Reika_anime.PNG)
+<br>
+
+ Reika | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/03_reika/img_chara_anime.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/1st%20Single/Reika_anime.PNG)
+<br>
+
+![Miyako](../1st%20Single/Miyako_anime.PNG)
+<br>
+
+ Miyako | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/01_miyako/img_chara_anime.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/1st%20Single/Miyako_anime.PNG)
+<br>
+
+![Akane](../1st%20Single/Akane_anime.PNG)
+<br>
+
+ Akane | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/08_akane/img_chara_anime.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/1st%20Single/Akane_anime.PNG)
+<br>
