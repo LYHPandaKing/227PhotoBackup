@@ -7,9 +7,9 @@ Please feel free to download and use.
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 16May,2020 07:14 (HKT)**
+**最後更新日期 Last Update: 16May,2020 07:23 (HKT)**
 ### 相簿 Album
-[1st Single](Markdown/1st%20Single.html)<br>
+[出道單曲 1st Single](Markdown/1st%20Single.html)<br>
 [角色設計 Character Design](Markdown/CharacterDsegin.html)  
 ### 其他資訊 Other Information  
 [22/7 日曆 Calender](Markdown/Calendar.md)  
