@@ -7,12 +7,12 @@ Please feel free to download and use.
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 15May,2020 23:57 (HKT)**
+**最後更新日期 Last Update: 16May,2020 07:14 (HKT)**
 ### 相簿 Album
 [1st Single](Markdown/1st%20Single.html)<br>
 [角色設計 Character Design](Markdown/CharacterDsegin.html)  
 ### 其他資訊 Other Information  
-[22/7 生日日曆 Birthday Calender](Markdown/Calendar.md)  
+[22/7 日曆 Calender](Markdown/Calendar.md)  
 ### 鳴謝 Credit
 - 22/7 ナナブンノニジュウニ Indonesia Fanspage [@nanabunnoID](https://www.facebook.com/pg/nanabunnoID/)
 - 22/7 Fandom Wiki [Link](https://nanabunnonijyuuni.fandom.com/wiki/22/7_Wiki)
