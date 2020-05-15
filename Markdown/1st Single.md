@@ -1,5 +1,4 @@
-# 1st Single 
-##### [Back](../readme.md)
+# 1st Single ##### [Back](../readme.md)
 
 ![Miu](../1st%20Single/Miu_anime.PNG){: width="50%"}
 
