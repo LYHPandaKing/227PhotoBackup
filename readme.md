@@ -1,3 +1,7 @@
+---
+permalink: /readme.html
+---
+
 ![227Main](Img/227Main.png)
 ### 背景資料 Background Information
 此為非官方 22/7 相簿，主要備份Twitter、Instagram及公式照等，供粉絲使用及收藏。<br>
