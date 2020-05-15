@@ -1,4 +1,4 @@
-## Calender
+## 22/7 生日日曆 Birthday Calender
 
 這日曆紀錄了22/7成員及角色的生日。  
 This calender recorded the birthday of 22/7 members and characters.
