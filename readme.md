@@ -10,10 +10,11 @@ Please feel free to download and use.
 
 Project started at May/2020<br>
 
-**最後更新日期 Last Update: 15May,2020 09:01**
+**最後更新日期 Last Update: 15May,2020 10:11**
 ### 相簿 Album
 [1st Single](Markdown/1st%20Single.html)
 
 
 ### 鳴謝 Credit
 - 22/7 ナナブンノニジュウニ Indonesia Fanspage [@nanabunnoID](https://www.facebook.com/pg/nanabunnoID/)
+- 22/7 Fandom Wiki [Link](https://nanabunnonijyuuni.fandom.com/wiki/22/7_Wiki)
