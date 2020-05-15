@@ -2,7 +2,7 @@
 ##### [Back](../readme.md)
 
 #### 動畫 Anime
-![Miyako_anime](../Character%20Design/Anime/Miyako_anime.PNG){: width="50%"}
+![Miyako_anime](../Character%20Design/Anime/Miyako_anime.PNG){: width="60%"}
 
  Miyako | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/01_miyako/img_chara_anime.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Character%20Design/Anime/Miyako_anime.PNG)
  
