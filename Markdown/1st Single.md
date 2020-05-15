@@ -49,3 +49,8 @@
  
  Kanae_Chiharu_Sally | [Source](https://www.facebook.com/nanabunnoID/photos/a.595744770791956/595757284124038/?type=3) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/1st%20Single/IMG_2637.JPG)
 
+![Mizuha_Ruri](../1st%20Single/IMG_2638.JPG)
+
+ Mizuha_Ruri | [Source](https://www.facebook.com/nanabunnoID/photos/a.595744770791956/595757297457370/?type=3) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/1st%20Single/IMG_2638.JPG)
+ 
+ 
