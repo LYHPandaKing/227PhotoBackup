@@ -7,7 +7,7 @@ Please feel free to download and use.<br>
 
 Project started at May/2020<br>
 
-**最後更新日期 Last Update: 15May,2020 13:48 (HKT)**
+**最後更新日期 Last Update: 15May,2020 14:14 (HKT)**
 ### 相簿 Album
 [1st Single](Markdown/1st%20Single.html)<br>
 [角色設計 Character Design](Markdown/CharacterDsegin.html)
