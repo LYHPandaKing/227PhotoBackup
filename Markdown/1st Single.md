@@ -41,8 +41,11 @@
 
  Mei_Nagomi_Reina | [Source](https://www.facebook.com/nanabunnoID/photos/a.595744770791956/595757510790682/?type=3) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/1st%20Single/IMG_2635.JPG)
  
- ![Mei_Nagomi_Reina #2](../1st%20Single/IMG_2636.JPG)
+![Mei_Nagomi_Reina #2](../1st%20Single/IMG_2636.JPG)
 
  Mei_Nagomi_Reina #2 | [Source](https://www.facebook.com/nanabunnoID/photos/a.595744770791956/595757290790704/?type=3) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/1st%20Single/IMG_2636.JPG)
  
+![Kanae_Chiharu_Sally](../1st%20Single/IMG_2637.JPG)
  
+ Kanae_Chiharu_Sally | [Source](https://www.facebook.com/nanabunnoID/photos/a.595744770791956/595757284124038/?type=3) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/1st%20Single/IMG_2637.JPG)
+
