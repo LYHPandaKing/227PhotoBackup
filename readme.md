@@ -9,7 +9,7 @@ Project started at May/2020<br>
 
 **最後更新日期 Last Update: 15May,2020 10:32 (HKT)**
 ### 相簿 Album
-[1st Single](Markdown/1st%20Single.html)
+[1st Single](Markdown/1st%20Single.html)<br>
 [角色設計 Character Design](Markdown/CharacterDsegin.html)
 
 ### 鳴謝 Credit
