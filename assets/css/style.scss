@@ -10,3 +10,14 @@
   background: url('../../Img/227Blur.PNG') no-repeat top left fixed;
    background-size: cover;
 }
+
+.btn-default {
+  color: #333;
+  background-color: #f4f6f9;
+  border-color: #ccc;
+  &:hover {
+    color: #333;
+    background-color: #d3dbe7;
+    border-color: #adadad;
+  }
+}
