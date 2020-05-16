@@ -17,7 +17,7 @@ Project started at May/2020
 - 22/7 ナナブンノニジュウニ Indonesia Fanspage [@nanabunnoID](https://www.facebook.com/pg/nanabunnoID/)
 - 22/7 Fandom Wiki [Link](https://nanabunnonijyuuni.fandom.com/wiki/22/7_Wiki)
 
-<video width="" height="720" controls>
+<video width="100vw" height="100vh" controls>
   <source src="https://www.youtube.com/watch?v=QH2-TGUlwu4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
