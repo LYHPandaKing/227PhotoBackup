@@ -16,6 +16,7 @@ Project started at May/2020
 ### 鳴謝 Credit
 - 22/7 ナナブンノニジュウニ Indonesia Fanspage [@nanabunnoID](https://www.facebook.com/pg/nanabunnoID/)
 - 22/7 Fandom Wiki [Link](https://nanabunnonijyuuni.fandom.com/wiki/22/7_Wiki)
+- 22/7 ナナニジ Seiyuu Posting [@227posting](https://www.facebook.com/227posting/)
 
 <video width="100%" height="100%" controls>
   <source src="宮瀬玲奈/Twitter/May2020/Nicole_test.mp4" type="video/mp4">
