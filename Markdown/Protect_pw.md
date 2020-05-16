@@ -48,12 +48,6 @@ location.href= decURL;
 
 </head>
   <body>
-  <button onclick="protection()">進入保護頁。</button>
-  
-  ### Test , this is pw proected page.
-  content
-  ![227](../Img/227Blur.PNG)
-  ok now
-  see if can see the above content or not 
+  <button onclick="protection()">Press to Enter</button>
  </body>
 </html>
