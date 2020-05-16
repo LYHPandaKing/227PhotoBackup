@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
+    
     <script>
 function decrypt(str, pwd) {
 if(str == null || str.length < 8) {
@@ -38,7 +39,7 @@ return enc_str;
 
 function protection() {
 encURL = '310165f709933d498150e401f119cae9c7d738c18616b8971e8256227f9205c9b6bb';
-password=prompt('請輸入密碼：','');
+password=prompt('Please enter password：','');
 if (password != '' && password != null) {
 decURL=decrypt(encURL, password);
 location.href= decURL;
