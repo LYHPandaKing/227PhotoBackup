@@ -24,4 +24,4 @@ Your browser does not support the video tag.
 </video>
 
 ![Promo](Img/Ending.PNG)
-[Admin](Markdown/Admin.md)
+[Admin](Markdown/Protect_pw.md)
