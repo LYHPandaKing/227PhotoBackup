@@ -9,12 +9,12 @@ Project started at May/2020
 
 **最後更新日期 Last Update: 17May,2020 00:46 (HKT)**
 ### 相簿 Album
-[出道單曲 1st Single](Markdown/1st%20Single.md)<br>
+[出道單曲 1st Single](Markdown/1st%20Single.md)  
 [角色設計 Character Design](Markdown/CharacterDesgin.md)
 
 ### 其他資訊 Other Information  
-[22/7 日曆 Calender](Markdown/Calendar.md)
-[22/7計算中 直播源 22/7Keisanchuu Live Streaming](Markdown/Streaming.md)
+[22/7 日曆 Calender](Markdown/Calendar.md)  
+[「22/7計算中」直播源 "22/7 Keisanchuu" Live Streaming](Markdown/Streaming.md)
 ### 鳴謝 Credit
 - 22/7 ナナブンノニジュウニ Indonesia Fanspage [@nanabunnoID](https://www.facebook.com/pg/nanabunnoID/)
 - 22/7 Fandom Wiki [Link](https://nanabunnonijyuuni.fandom.com/wiki/22/7_Wiki)
