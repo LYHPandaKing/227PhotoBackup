@@ -23,7 +23,9 @@
  Anime | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/03_reika/img_chara_anime.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Character%20Design/Anime/Reika_anime.PNG) | Design | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/03_reika/img_chara_design.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Character%20Design/Original%20Design/Reika_design.PNG) | Game | [Source](https://227-game.com/assets/img/character/characters/reika/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Character%20Design/音楽の時間/Reika_game.PNG)
  
 #### 滝川みう Takigawa Miu
-![Miu_anime](../Character%20Design/Anime/Reika_anime.PNG){: width="32%"}
-![Reika_design](../Character%20Design/Original%20Design/Reika_design.PNG){: width="32%"}
-![Reika_game](../Character%20Design/音楽の時間/Reika_game.PNG){: width="32%"}
+![Miu_anime](../Character%20Design/Anime/Miu_anime.PNG){: width="32%"}
+![Miu_design](../Character%20Design/Original%20Design/Miu_design.PNG){: width="32%"}
+![Miu_game](../Character%20Design/音楽の時間/Miu_game.PNG){: width="32%"}
+
+ Anime | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/03_reika/img_chara_anime.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Character%20Design/Anime/Miu_anime.PNG) | Design | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/03_reika/img_chara_design.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Character%20Design/Original%20Design/Miu_design.PNG) | Game | [Source](https://227-game.com/assets/img/character/characters/reika/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Character%20Design/音楽の時間/Miu_game.PNG)
  
