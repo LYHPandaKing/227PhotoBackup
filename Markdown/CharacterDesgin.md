@@ -1,4 +1,4 @@
-### 角色設計 Character Dsegin
+### 角色設計 Character Desgin
 ##### [Back](../readme.md)
 
 #### 河野都 Kono Miyako
