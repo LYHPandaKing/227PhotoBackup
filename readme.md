@@ -17,7 +17,9 @@ Project started at May/2020
 - 22/7 ナナブンノニジュウニ Indonesia Fanspage [@nanabunnoID](https://www.facebook.com/pg/nanabunnoID/)
 - 22/7 Fandom Wiki [Link](https://nanabunnonijyuuni.fandom.com/wiki/22/7_Wiki)
 
-<video width="100vw" height="100vh" controls>
+<video width="100%" height="100%" controls>
   <source src="宮瀬玲奈/Twitter/May2020/Nicole_test.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+![Promo](Img/Ending.PNG)
