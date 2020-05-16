@@ -7,7 +7,7 @@ Please feel free to download and use.
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 16May,2020 22:46 (HKT)**
+**最後更新日期 Last Update: 16May,2020 23:09 (HKT)**
 ### 相簿 Album
 [出道單曲 1st Single](Markdown/1st%20Single.html)<br>
 [角色設計 Character Design](Markdown/CharacterDesgin.html)  
@@ -24,4 +24,3 @@ Your browser does not support the video tag.
 </video>
 
 ![Promo](Img/Ending.PNG)
-[Admin](Markdown/Protect_pw.md)
