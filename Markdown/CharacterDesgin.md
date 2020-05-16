@@ -84,14 +84,14 @@
 #### 丸之内薫子 Marunouchi Kaoruko
 ![Kaoruko_game](../Character%20Design/音楽の時間/Kaoruko_game.PNG){: width="70%"}
 
- Game | [Source](https://227-game.com/assets/img/character/characters/kaoruko/ph.png) | [Download]
+ Game | [Source](https://227-game.com/assets/img/character/characters/kaoruko/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Character%20Design/音楽の時間/Kaoruko_game.PNG)
 
 #### 君島奈々 Kimijima Nana
 ![Nana_game](../Character%20Design/音楽の時間/Nana_game.PNG){: width="70%"}
 
- Game | [Source](https://227-game.com/assets/img/character/characters/nana/ph.png) | [Download]
+ Game | [Source](https://227-game.com/assets/img/character/characters/nana/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Character%20Design/音楽の時間/Nana_game.PNG)
 
 #### 文野ミコ Fumino Miko
 ![Miko_game](../Character%20Design/音楽の時間/Miko_game.PNG){: width="70%"}
 
- Game | [Source](https://227-game.com/assets/img/character/characters/miko/ph.png) | [Download]
+ Game | [Source](https://227-game.com/assets/img/character/characters/miko/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Character%20Design/音楽の時間/Miko_game.PNG)
