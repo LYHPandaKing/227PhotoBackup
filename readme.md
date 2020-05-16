@@ -18,6 +18,6 @@ Project started at May/2020
 - 22/7 Fandom Wiki [Link](https://nanabunnonijyuuni.fandom.com/wiki/22/7_Wiki)
 
 <video width="100vw" height="100vh" controls>
-  <source src="https://www.youtube.com/watch?v=QH2-TGUlwu4" type="video/mp4">
+  <source src="宮瀬玲奈/Twitter/May2020/Nicole_test.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
