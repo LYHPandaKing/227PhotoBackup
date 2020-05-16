@@ -56,5 +56,42 @@
 ![Akane_game](../Character%20Design/音楽の時間/Akane_game.PNG){: width="32%"}
 
  Anime | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/08_akane/img_chara_anime.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Character%20Design/Anime/Akane_anime.PNG) | Design | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/08_akane/img_chara_design.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Character%20Design/Original%20Design/Akane_design.PNG) | Game | [Source](https://227-game.com/assets/img/character/characters/akane/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Character%20Design/音楽の時間/Akane_game.PNG)
+
+#### 神木みかみ Kamiki Mikami
+![Mikami_anime](../Character%20Design/Anime/Mikami_anime.PNG){: width="32%"}
+![Mikami_design](../Character%20Design/Original%20Design/Mikami_design.PNG){: width="32%"}
+![Mikami_game](../Character%20Design/音楽の時間/Mikami_game.PNG){: width="32%"}
+
+ Anime | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/09_mikami/img_chara_anime.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Character%20Design/Anime/Mikami_anime.PNG) | Design | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/09_mikami/img_chara_design.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Character%20Design/Original%20Design/Mikami_design.PNG) | Game | [Source](https://227-game.com/assets/img/character/characters/mikami/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Character%20Design/音楽の時間/Mikami_game.PNG)
+
+#### 東条悠希 Tojo Yuki
+![Yuki_anime](../Character%20Design/Anime/Yuki_anime.PNG){: width="32%"}
+![Yuki_design](../Character%20Design/Original%20Design/Yuki_design.PNG){: width="32%"}
+![Yuki_game](../Character%20Design/音楽の時間/Yuki_game.PNG){: width="32%"}
+
+ Anime | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/10_yuki/img_chara_anime.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Character%20Design/Anime/Yuki_anime.PNG) | Design | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/10_yuki/img_chara_design.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Character%20Design/Original%20Design/Yuki_design.PNG) | Game | [Source](https://227-game.com/assets/img/character/characters/yuki/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Character%20Design/音楽の時間/Yuki_game.PNG)
  
+#### 柊つぼみ Hiiragi Tsubomi
+![Tsubomi_anime](../Character%20Design/Anime/Tsubomi_anime.PNG){: width="32%"}
+![Tsubomi_design](../Character%20Design/Original%20Design/Tsubomi_design.PNG){: width="32%"}
+![Tsubomi_game](../Character%20Design/音楽の時間/Tsubomi_game.PNG){: width="32%"}
+
+ Anime | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/11_tsubomi/img_chara_anime.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Character%20Design/Anime/Tsubomi_anime.PNG) | Design | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/11_tsubomi/img_chara_design.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Character%20Design/Original%20Design/Tsubomi_design.PNG) | Game | [Source](https://227-game.com/assets/img/character/characters/tsubomi/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Character%20Design/音楽の時間/Tsubomi_game.PNG)
  
+---
+
+#### 「音楽の時間」學院中最強敵對偶像團體 Strongest rival idol group in school - ChouChou
+#### 丸之内薫子 Marunouchi Kaoruko
+![Kaoruko_game](../Character%20Design/音楽の時間/Kaoruko_game.PNG){: width="70%"}
+
+ Game | [Source](https://227-game.com/assets/img/character/characters/kaoruko/ph.png) | [Download]
+
+#### 君島奈々 Kimijima Nana
+![Nana_game](../Character%20Design/音楽の時間/Nana_game.PNG){: width="70%"}
+
+ Game | [Source](https://227-game.com/assets/img/character/characters/nana/ph.png) | [Download]
+
+#### 文野ミコ Fumino Miko
+![Miko_game](../Character%20Design/音楽の時間/Miko_game.PNG){: width="70%"}
+
+ Game | [Source](https://227-game.com/assets/img/character/characters/miko/ph.png) | [Download]
