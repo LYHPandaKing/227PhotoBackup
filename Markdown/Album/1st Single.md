@@ -1,7 +1,7 @@
 ### 出道單曲 1st Single  
 ##### [Back](../readme.md)
 
-![Miu](../1st%20Single/Miu_anime.PNG){: width="70%"}
+![Miu](../../../Album/1st%20Single/Miu_anime.PNG){: width="70%"}
 
  Miu | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/05_miu/img_chara_anime.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/1st%20Single/Miu_anime.PNG)
 
