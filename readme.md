@@ -7,7 +7,7 @@ Also provide useful information about 22/7. Please feel free to download and use
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 17May,2020 01:15 (HKT)**
+**最後更新日期 Last Update: 17May,2020 08:46 (HKT)**
 
 ### 相簿 Album
 [出道單曲 1st Single](Markdown/1st%20Single.html)  
@@ -22,8 +22,8 @@ Project started at May/2020
 - 22/7 Fandom Wiki [Link](https://nanabunnonijyuuni.fandom.com/wiki/22/7_Wiki)
 - 22/7 ナナニジ Seiyuu Posting [@227posting](https://www.facebook.com/227posting/)
 
-<video width="70%" height="70%" controls>
-  <source src="Vid/2ndSingle_May_Stayathome.mp4" type="video/mp4">
+<video width="100%" height="100%" controls>
+  <source src="Vid/227 『風は吹いてるか？』.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
