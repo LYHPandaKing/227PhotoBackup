@@ -55,4 +55,8 @@
 
 ![Reina](../1st%20Single/IMG_2722.JPG){: width="70%"}
 
- Reina | [Source](https://www.facebook.com/nanabunnoID/photos/a.595744770791956/595758574123909/?type=3) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/1st%20Single/IMG_26722.JPG)
+ Reina | [Source](https://www.facebook.com/nanabunnoID/photos/a.595744770791956/595758574123909/?type=3) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/1st%20Single/IMG_2722.JPG)
+
+![Reina #2](../1st%20Single/IMG_2723.JPG){: width="70%"}
+
+ Reina #2 | [Source](https://www.facebook.com/nanabunnoID/photos/a.595744770791956/595757977457302/?type=3) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/1st%20Single/IMG_2723.JPG)
