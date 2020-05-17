@@ -13,7 +13,7 @@ Project started at May/2020
 [出道單曲 Debut Single](Markdown/1st%20Single.html)  
 [第二單曲 2nd Single](Markdown/2nd%20Single.html)  
 [角色設計 Character Design](Markdown/CharacterDesgin.md)
-
+[宮瀬玲奈 Miyase Reina](Markdown/MiyaseReina.md)
 ### 備份 Backup  
 [22/7(ナナブンノニジュウニ) Twitter](Markdown/Backup/@227_staff.md)  
 
@@ -23,7 +23,7 @@ Project started at May/2020
 
 ### 鳴謝 Credit
 - 22/7 ナナブンノニジュウニ Indonesia Fanspage [@nanabunnoID](https://www.facebook.com/pg/nanabunnoID/)
-- 22/7 Fandom Wiki [Link](https://nanabunnonijyuuni.fandom.com/wiki/22/7_Wiki)
+- 22/7 Fandom Wiki [22/7 wiki](https://nanabunnonijyuuni.fandom.com/wiki/22/7_Wiki)
 - 22/7 ナナニジ Seiyuu Posting [@227posting](https://www.facebook.com/227posting/)
 
 <video width="100%" height="100%" controls>
