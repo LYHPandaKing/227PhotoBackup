@@ -72,3 +72,11 @@
 ![Ruri](../1st%20Single/IMG_2727.JPG){: width="70%"}
 
  Ruri | [Source](https://www.facebook.com/nanabunnoID/photos/a.595744770791956/595757814123985/?type=3) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/1st%20Single/IMG_2727.JPG)
+ 
+![Mizuha](../1st%20Single/IMG_2728.JPG){: width="70%"}
+
+ Mizuha | [Source](https://www.facebook.com/nanabunnoID/photos/a.595744770791956/595757404124026/?type=3) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/1st%20Single/IMG_2728.JPG)
+
+![Mizuha #2](../1st%20Single/IMG_2729.JPG){: width="70%"}
+
+ Mizuha #2 | [Source](https://www.facebook.com/nanabunnoID/photos/a.595744770791956/595757404124026/?type=3) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/1st%20Single/IMG_2729.JPG)
