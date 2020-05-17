@@ -1,4 +1,4 @@
-![227Main](Img/227Main.png)
+![227Main](Img/227Cover.PNG)
 ### 背景資料 Background Information
 此為非官方 22/7 網頁，主要備份Twitter、Instagram及公式照等，並提供資訊，供粉絲使用及收藏。  
 This is unofficial 22/7 website. Mainly focusing on backup Twitter, Instagram and official photos etc.  
