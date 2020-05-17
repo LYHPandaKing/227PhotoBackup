@@ -10,7 +10,8 @@ Project started at May/2020
 **最後更新日期 Last Update: 17May,2020 11:14 (HKT)**
 
 ### 相簿 Album
-[出道單曲 1st Single](Markdown/1st%20Single.html)  
+[出道單曲 Debut Single](Markdown/1st%20Single.html)  
+[第二單曲 2nd Single](Markdown/2nd%20Single.html)
 [角色設計 Character Design](Markdown/CharacterDesgin.md)
 
 ### 其他資訊 Other Information  
