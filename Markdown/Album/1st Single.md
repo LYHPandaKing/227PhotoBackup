@@ -1,4 +1,4 @@
-### 出道單曲 1st Single  
+### 出道單曲 Debut Single  
 ##### [Back](../readme.md)
 
 ![Miu](../../Album/1st%20Single/Miu_anime.PNG){: width="70%"}
