@@ -7,12 +7,15 @@ Also provide useful information about 22/7. Please feel free to download and use
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 17May,2020 11:14 (HKT)**
+**最後更新日期 Last Update: 17May,2020 20:56 (HKT)**
 
 ### 相簿 Album
 [出道單曲 Debut Single](Markdown/1st%20Single.html)  
-[第二單曲 2nd Single](Markdown/2nd%20Single.html)
+[第二單曲 2nd Single](Markdown/2nd%20Single.html)  
 [角色設計 Character Design](Markdown/CharacterDesgin.md)
+
+### 備份 Backup  
+[22/7(ナナブンノニジュウニ) Twitter](Markdown/Backup/@227_staff.md)  
 
 ### 其他資訊 Other Information  
 [22/7 日曆 Calender](Markdown/Calendar.md)  
