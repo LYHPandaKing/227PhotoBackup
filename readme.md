@@ -13,7 +13,8 @@ Project started at May/2020
 [出道單曲 Debut Single](Markdown/1st%20Single.html)  
 [第二單曲 2nd Single](Markdown/2nd%20Single.html)  
 [角色設計 Character Design](Markdown/CharacterDesgin.md)
-[宮瀬玲奈 Miyase Reina](Markdown/MiyaseReina.md)
+[宮瀬玲奈 Miyase Reina](Markdown/Album/MiyaseReina/@reinyan_0526.md)
+
 ### 備份 Backup  
 [22/7(ナナブンノニジュウニ) Twitter](Markdown/Backup/@227_staff.md)  
 
