@@ -32,6 +32,4 @@ Project started at May/2020
 Your browser does not support the video tag.
 </video>
 
-<iframe width="100%" height="100%" src="//sendvid.com/embed/wuxazx1g" frameborder="0" allowfullscreen></iframe>
-
 ![Promo](Img/Ending.PNG)
