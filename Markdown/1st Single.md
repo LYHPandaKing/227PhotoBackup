@@ -52,5 +52,7 @@
 ![Mizuha_Ruri](../1st%20Single/IMG_2638.JPG){: width="70%"}
 
  Mizuha_Ruri | [Source](https://www.facebook.com/nanabunnoID/photos/a.595744770791956/595757297457370/?type=3) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/1st%20Single/IMG_2638.JPG)
- 
- 
+
+![Reina](../1st%20Single/IMG_2722.JPG){: width="70%"}
+
+ Reina | [Source](https://www.facebook.com/nanabunnoID/photos/a.595744770791956/595758574123909/?type=3) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/1st%20Single/IMG_26722.JPG)
