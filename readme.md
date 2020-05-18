@@ -7,7 +7,7 @@ Also provide useful information about 22/7. Please feel free to download and use
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 18May,2020 22:07 (HKT)**
+**最後更新日期 Last Update: 18May,2020 22:30 (HKT)**
 
 ### 相簿 Album
 [出道單曲 Debut Single](Markdown/1st%20Single.html)  
@@ -17,7 +17,7 @@ Project started at May/2020
 
 ### 備份 Backup  
 [Twitter - 22/7(ナナブンノニジュウニ)](Markdown/Backup/@227_staff.md)  
-[Youtube - Sally Amaki[official]](Markdown/Backup/Sally%20Amaki[official]/Sally%20Amaki[official].md)  
+[Youtube - Sally Amaki[official]](Markdown/Backup/Sally%20Amaki[official]/Sally%20Amaki[official].html)  
 
 ### 其他資訊 Other Information  
 [22/7 日曆 Calender](Markdown/Calendar.md)  
@@ -32,7 +32,5 @@ Project started at May/2020
   <source src="Vid/227 『風は吹いてるか？』.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
-
-<iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7tzd1n" allowfullscreen allow="autoplay"></iframe>
 
 ![Promo](Img/Ending.PNG)
