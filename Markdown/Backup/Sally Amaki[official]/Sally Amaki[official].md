@@ -1,4 +1,4 @@
-#### [備份 Backup] YouTube - Sally Amaki[official] ![SallyYT_th](../../../Img/SallyYT_th.PNG)
+#### [備份 Backup] YouTube - Sally Amaki[official] ![SallyYT_th](../../../Img/SallyYT_th.JPG)
 ### [Back](../../../readme.md)
 
 ##### [Make Up]Looking cute for just me myself and I
