@@ -7,7 +7,7 @@ Also provide useful information about 22/7. Please feel free to download and use
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 18May,2020 21:35 (HKT)**
+**最後更新日期 Last Update: 18May,2020 21:40 (HKT)**
 
 ### 相簿 Album
 [出道單曲 Debut Single](Markdown/1st%20Single.html)  
@@ -29,6 +29,11 @@ Project started at May/2020
 
 <video width="100%" height="100%" controls>
   <source src="Vid/227 『風は吹いてるか？』.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="100%" height="100%" controls>
+  <source src="https://share.vidyard.com/watch/T7qa3zKTmCzWwcJAfDE6e4?" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
