@@ -7,7 +7,7 @@ Also provide useful information about 22/7. Please feel free to download and use
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 18May,2020 21:40 (HKT)**
+**最後更新日期 Last Update: 18May,2020 22:07 (HKT)**
 
 ### 相簿 Album
 [出道單曲 Debut Single](Markdown/1st%20Single.html)  
@@ -32,19 +32,6 @@ Project started at May/2020
 Your browser does not support the video tag.
 </video>
 
-<video width="100%" height="100%" controls>
-  <source src="https://share.vidyard.com/watch/T7qa3zKTmCzWwcJAfDE6e4?" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
-<script type="text/javascript" async src="https://play.vidyard.com/embed/v4.js"></script>
-<img
-  style="width: 100%; margin: auto; display: block;"
-  class="vidyard-player-embed"
-  src="https://play.vidyard.com/T7qa3zKTmCzWwcJAfDE6e4.jpg"
-  data-uuid="T7qa3zKTmCzWwcJAfDE6e4"
-  data-v="4"
-  data-type="inline"
-/>
+<iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7tzd1n" allowfullscreen allow="autoplay"></iframe>
 
 ![Promo](Img/Ending.PNG)
