@@ -16,7 +16,8 @@ Project started at May/2020
 [宮瀬玲奈 Miyase Reina](Markdown/Album/MiyaseReina/@reinyan_0526.md)
 
 ### 備份 Backup  
-[22/7(ナナブンノニジュウニ) Twitter](Markdown/Backup/@227_staff.md)  
+[Twitter - 22/7(ナナブンノニジュウニ)](Markdown/Backup/@227_staff.md)  
+[Youtube - Sally Amaki[official]](Markdown/Backup/Sally%20Amaki[official]/Sally%20Amaki[official].md)  
 
 ### 其他資訊 Other Information  
 [22/7 日曆 Calender](Markdown/Calendar.md)  
