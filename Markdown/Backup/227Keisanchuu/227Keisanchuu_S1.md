@@ -12,6 +12,6 @@
 #### #1 私たちをもっと知って欲しい 22/7自己PR動画コンテスト
 >記念すべき初回の放送はメンバーの半分が動かない前代未聞の事態に！そんな中お届けするのは「メンバーの自己紹介企画」！各メンバーが様々な事に挑戦してきた自己PR動画を紹介！河野都はナニワ娘らしいPR動画を披露！丸山あかねは手づかみで魚を獲る伝統漁法に挑戦！戸田ジュンはSNS映えする揚げ物店を巡る！立川絢香は大人気ゲーム荒野行動のゲーム実況に挑戦！ライブ情報やシングルリリース情報もお見逃し無く！
 
-<iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7tzr95?queue-enable=false" allowfullscreen allow="autoplay"></iframe>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7tzr95?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
 
- #1 | [Source](https://nyaa.si/view/1161338) | [Download **Dailymotion**](https://dai.ly/x7tzr95)
+ #1 | [Source](https://nyaa.si/view/1161338) | [Dailymotion](https://dai.ly/x7tzr95)
