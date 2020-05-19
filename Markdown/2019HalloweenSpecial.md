@@ -6,7 +6,7 @@
 
 #### 頭像 Icon
 ![Icon_01_Miu](../Album/2019HalloweenSpecial/Icon_01_Miu.PNG)
-![Miu_TV](../Album/2019HalloweenSpecial/Miu_TV.PNG){: width="60%"}
+![Miu_TV](../Album/2019HalloweenSpecial/Miu_TV.PNG){: width="50%"}
 
  Miu | [Source](https://227anime.com/assets/img/special/halloween/icon_01.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/2019HalloweenSpecial/Icon_01_Miu.PNG) | Miu_TV | [Source](https://twitter.com/227anime/status/1189814262035701761) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/2019HalloweenSpecial/Miu_TV.PNG)
 
