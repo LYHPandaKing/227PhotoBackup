@@ -1,4 +1,5 @@
-#### [備份 Backup] YouTube - Sally Amaki[official] [![SallyYT_th](../../../Img/SallyYT_th.PNG){width="200" height="200"}](https://www.youtube.com/channel/UCi4UjmN8HSi16sAhh_iEb6w)
+#### [備份 Backup] YouTube - Sally Amaki[official] ![SallyYT_th](../../../Img/SallyYT_th.PNG){width="200" height="200"}
+[YouTube](https://www.youtube.com/channel/UCi4UjmN8HSi16sAhh_iEb6w)
 ### [Back](../../../readme.md)  
 
 ##### [[Make Up]Looking cute for just me myself and I](https://www.youtube.com/watch?v=A6H5jr9-fP0)
