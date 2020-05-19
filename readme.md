@@ -7,7 +7,7 @@ Also provide useful information about 22/7. Please feel free to download and use
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 19May,2020 22:17 (HKT)**
+**最後更新日期 Last Update: 19May,2020 22:38 (HKT)**
 
 ### 相簿 Album
 [出道單曲 Debut Single](Markdown/1st%20Single.html)  
@@ -23,7 +23,7 @@ Project started at May/2020
 
 ### 其他資訊 Other Information  
 [22/7 日曆 Calender](Markdown/Calendar.md)  
-[「22/7計算中」直播源 "22/7 Keisanchuu" Live Stream](Markdown/Streaming.md)
+[22/7計算中 直播源 "22/7 Keisanchuu" Live Stream](Markdown/Streaming.md)
 
 ### 鳴謝 Credit
 - 22/7 ナナブンノニジュウニ Indonesia Fanspage [@nanabunnoID](https://www.facebook.com/pg/nanabunnoID/)
