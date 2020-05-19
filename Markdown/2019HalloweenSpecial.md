@@ -34,5 +34,5 @@
 ![wp_pc](../Album/2019HalloweenSpecial/wp_pc.PNG)  
  PC (1920x1080) | [Source](https://227anime.com/assets/img/special/halloween/wp_pc.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/2019HalloweenSpecial/wp_pc.ONG)  
  
-![wp_sp](../Album/2019HalloweenSpecial/wp_sp.PNG)  
+![wp_sp](../Album/2019HalloweenSpecial/wp_sp.PNG){: width="70%"}  
  Smart Phone (1080x1920) | [Source](https://227anime.com/assets/img/special/halloween/wp_sp.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/2019HalloweenSpecial/wp_sp.PNG)  
