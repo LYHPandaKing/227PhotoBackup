@@ -1,4 +1,4 @@
-### 「22/7計算中」直播源 “22/7 Keisanchuu” Live Stream
+### 22/7計算中 "22/7 Keisanchuu" Live Stream
 ##### [Back](../readme.md)
 
 - [Dテレ](http://dsgstng.herokuapp.com/tv)
