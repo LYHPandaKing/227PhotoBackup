@@ -1,5 +1,5 @@
 ### ♦︎ ♦︎ ♦︎
-[2017.12.26](http://blog.nanabunnonijyuuni.com/s/n227/diary/detail/58?ima=0939&cd=blog)
+[2017.12.26](http://blog.nanabunnonijyuuni.com/s/n227/diary/detail/58?ima=0939&cd=blog) | [中文翻譯 bilibili](https://www.bilibili.com/read/cv4776829)
 <br><br><br><br><br><br>
 朝起きたら指から血がでてました。何があったんでしょう。  
 寝てる時の自分ってこわいですよね、どうなってるんだろう。
