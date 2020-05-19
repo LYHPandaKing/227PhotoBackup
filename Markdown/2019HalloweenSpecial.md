@@ -4,3 +4,22 @@
 ![2019HalloweenSpecial](../Img/2019HalloweenSpecial.JPG)  
 [Official Link](https://227anime.com/special/halloween/)
 
+#### Twitter Icon
+![Icon_01_Miu](../Album/2019HalloweenSpecial/Icon_01_Miu.JPG)  
+ Miu | [Source](https://227anime.com/assets/img/special/halloween/icon_01.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/2019HalloweenSpecial/Icon_01_Miu.JPG)  
+
+![Icon_02_Sakura](../Album/2019HalloweenSpecial/Icon_02_Sakura.JPG)  
+ Sakura | [Source](https://227anime.com/assets/img/special/halloween/icon_02.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/2019HalloweenSpecial/Icon_02_Sakura.JPG)  
+ 
+![Icon_03_Miyako](../Album/2019HalloweenSpecial/Icon_03_Miyako.JPG)  
+ Miyako | [Source](https://227anime.com/assets/img/special/halloween/icon_03.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/2019HalloweenSpecial/Icon_03_Miyako.JPG)  
+
+![Icon_04_Reika](../Album/2019HalloweenSpecial/Icon_04_Reika.JPG)  
+ Reika | [Source](https://227anime.com/assets/img/special/halloween/icon_04.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/2019HalloweenSpecial/Icon_04_Reika.JPG)  
+ 
+![Icon_05_Jun](../Album/2019HalloweenSpecial/Icon_05_Jun.JPG)  
+ Jun | [Source](https://227anime.com/assets/img/special/halloween/icon_05.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/2019HalloweenSpecial/Icon_05_Jun.JPG)  
+ 
+![Icon_06_Akane](../Album/2019HalloweenSpecial/Icon_06_Akane.JPG)  
+ Jun | [Source](https://227anime.com/assets/img/special/halloween/icon_06.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/2019HalloweenSpecial/Icon_06_Akane.JPG)  
+ 
