@@ -37,4 +37,4 @@ Project started at May/2020
 ![Promo](Img/Ending.PNG)
 
 
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="Vid/227 『風は吹いてるか？』.mp4" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
+<div style="left: 0; width: 100%; height: 100%; position: relative; padding-bottom: 56.0417%;"><iframe src="Vid/227 『風は吹いてるか？』.mp4" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
