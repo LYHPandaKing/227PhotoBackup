@@ -8,8 +8,8 @@ Date: 18May,2020
 
 #### [[就活]アメリカ育ち VS 日本育ち！就職できるのはどっち！？ft.海乃るり(eng sub)](https://www.youtube.com/watch?v=KvJo98nnVXU)
 Date: 18May,2020
-<iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7tzeui?queue-enable=false" allowfullscreen allow="autoplay"></iframe>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7tzeui?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>  
 
 #### [[声優]天城サリーYouTube始めます(eng sub)](https://www.youtube.com/watch?v=yeAV3Pb2mDY)
 Date: 18May,2020
-<iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/x7tzev9?queue-enable=false" allowfullscreen allow="autoplay"></iframe>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7tzev9?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
