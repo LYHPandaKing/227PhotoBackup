@@ -10,21 +10,21 @@ Project started at May/2020
 **最後更新日期 Last Update: 20May,2020 07:59 (HKT)**
 
 ### 相簿 Album
-[出道單曲 Debut Single](Markdown/1st%20Single.html)  
-[第二單曲 2nd Single](Markdown/2nd%20Single.html)  
-[角色設計 Character Design](Markdown/CharacterDesgin.md)  
-[萬聖節限定頭像及壁紙 Halloween Special Icon & Wallpaper 2019](Markdown/2019HalloweenSpecial.md)  
-[宮瀬玲奈 Miyase Reina](Markdown/Album/MiyaseReina/@reinyan_0526.md)
+- [出道單曲 Debut Single](Markdown/1st%20Single.html)  
+- [第二單曲 2nd Single](Markdown/2nd%20Single.html)  
+- [角色設計 Character Design](Markdown/CharacterDesgin.md)  
+- [萬聖節限定頭像及壁紙 Halloween Special Icon & Wallpaper 2019](Markdown/2019HalloweenSpecial.md)  
+- [宮瀬玲奈 Miyase Reina](Markdown/Album/MiyaseReina/@reinyan_0526.md)
 
 ### 備份 Backup  
-[Twitter - 22/7(ナナブンノニジュウニ)](Markdown/Backup/@227_staff.md)  
-[Youtube - Sally Amaki[official]](Markdown/Backup/Sally%20Amaki[official]/Sally%20Amaki[official].html)  
-[22/7計算中 "22/7 Keisanchuu"](Markdown/Backup/227Keisanchuu/227Keisanchuu_List.md)  
-[22/7 Blog](Markdown/Backup/Blog/Blog_List.md)
+- [Twitter - 22/7(ナナブンノニジュウニ)](Markdown/Backup/@227_staff.md)  
+- [Youtube - Sally Amaki[official]](Markdown/Backup/Sally%20Amaki[official]/Sally%20Amaki[official].html)  
+- [22/7計算中 "22/7 Keisanchuu"](Markdown/Backup/227Keisanchuu/227Keisanchuu_List.md)  
+- [22/7 Blog](Markdown/Backup/Blog/Blog_List.md)
 
 ### 其他資訊 Other Information  
-[22/7 日曆 Calender](Markdown/Calendar.md)  
-[22/7計算中 直播源 "22/7 Keisanchuu" Live Stream](Markdown/Streaming.md)
+- [22/7 日曆 Calender](Markdown/Calendar.md)  
+- [22/7計算中 直播源 "22/7 Keisanchuu" Live Stream](Markdown/Streaming.md)
 
 ### 鳴謝 Credit
 - 22/7 ナナブンノニジュウニ Indonesia Fanspage [@nanabunnoID](https://www.facebook.com/pg/nanabunnoID/)
