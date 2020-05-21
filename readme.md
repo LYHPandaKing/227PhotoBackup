@@ -7,13 +7,13 @@ Also provide useful information about 22/7. Please feel free to download and use
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 21May,2020 16:39 (HKT)**
+**最後更新日期 Last Update: 21May,2020 21:58 (HKT)**
 
 ### 相簿 Album
-- [出道單曲 Debut Single](Markdown/1st%20Single.html)  
-- [第二單曲 2nd Single](Markdown/2nd%20Single.html)  
-- [角色設計 Character Design](Markdown/CharacterDesgin.md)  
-- [萬聖節限定頭像及壁紙 Halloween Special Icon & Wallpaper 2019](Markdown/2019HalloweenSpecial.md)  
+- [出道單曲 Debut Single](Markdown/Album/1st%20Single.html)  
+- [第二單曲 2nd Single](Markdown/Album/2nd%20Single.html)  
+- [角色設計 Character Design](Markdown/Album/CharacterDesgin.md)  
+- [萬聖節限定頭像及壁紙 Halloween Special Icon & Wallpaper 2019](Markdown/Album/2019HalloweenSpecial.md)  
 - [宮瀬玲奈 Miyase Reina](Markdown/Album/MiyaseReina/@reinyan_0526.md)
 
 ### 備份 Backup  
