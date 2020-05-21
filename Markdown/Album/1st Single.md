@@ -1,13 +1,13 @@
-### 出道單曲 1st Single  
-##### [Back](../readme.md)
+### 出道單曲 Debut Single  
+##### [Back](../../readme.md)
 
-![Miu](../1st%20Single/Miu_anime.PNG){: width="70%"}
+![Miu](../Album/1st%20Single/Miu_anime.PNG){: width="70%"}
 
- Miu | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/05_miu/img_chara_anime.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/1st%20Single/Miu_anime.PNG)
+ Miu | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/05_miu/img_chara_anime.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/1st%20Single/Miu_anime.PNG)
 
-![Sakura](../1st%20Single/Sakura_anime.PNG){: width="70%"}
+![Sakura](../Album/1st%20Single/Sakura_anime.PNG){: width="70%"}
 
- Sakura | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/07_sakura/img_chara_anime.png) | [Download](https://raw.githubusercontent.com/LYHPandaKing/227PhotoBackup/master/1st%20Single/Sakura_anime.PNG) 
+ Sakura | [Source](http://www.nanabunnonijyuuni.com/assets/img/chara/07_sakura/img_chara_anime.png) | [Download](https://raw.githubusercontent.com/LYHPandaKing/227PhotoBackup/master/Album/1st%20Single/Sakura_anime.PNG) 
 
 ![Jun](../1st%20Single/Jun_anime.PNG){: width="70%"}
 
