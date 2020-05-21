@@ -20,7 +20,7 @@ Project started at May/2020
 - [Twitter - 22/7(ナナブンノニジュウニ)](Markdown/Backup/@227_staff.md)  
 - [Youtube - Sally Amaki[official]](Markdown/Backup/Sally%20Amaki[official]/Sally%20Amaki[official].html)  
 - [22/7計算中 "22/7 Keisanchuu"](Markdown/Backup/227Keisanchuu/227Keisanchuu_List.md)  
-- [Showroom](Markdown/Backup/Showroom_List.md)
+- [Showroom](Markdown/Backup/Showroom/Showroom_List.md)
 - [22/7 Official Blog](Markdown/Backup/Blog/Blog_List.md)
 
 ### 其他資訊 Other Information  
