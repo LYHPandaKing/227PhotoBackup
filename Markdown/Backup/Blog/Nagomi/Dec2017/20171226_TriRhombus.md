@@ -8,7 +8,7 @@
 <br><br><br><br><br><br><br><br><br><br>
 そして今日地元、兵庫に帰ってきました…！！
 <br><br><br><br>
-![20171226Nagomi_#1](../../../../../Album/Backup/Blog/Nagomi/Dec2017/20171226Nagomi_%231.JPG)
+![20171226Nagomi_#1](../../../../../Album/Backup/Blog/Nagomi/Dec2017/20171225_Blog_Nagomi_%231.JPG)
 <br><br><br><br><br><br>
 新神戸のホームの匂いやっぱり好きやな〜帰ってきたな〜って思います。
 <br><br><br><br><br><br><br><br><br><br>
