@@ -9,7 +9,7 @@
 <br><br><br><br><br><br>
 ふぁいっ
 <br><br>
-![20171227_Blog_Nagomi_#1](../../../../../Album/Backup/Blog/Nagomi/Dec2017/20171227_Blog_Nagomi_%231.JPG)
+![20171227_Blog_Nagomi_#1](../../../../../Album/Backup/Blog/Nagomi/Dec2017/20171227_Blog_Nagomi_%231.PNG)
 <br><br><br><br><br>
 ルミナリエ.:*
 <br><br><br><br><br><br>
