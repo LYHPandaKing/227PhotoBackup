@@ -1,14 +1,14 @@
-### 萬聖節限定頭像及壁紙 Halloween Special Icon & Wallpaper 2019
+﻿### 萬聖節限定頭像及壁紙 Halloween Special Icon & Wallpaper 2019
 ##### [Back](../../readme.md)
 
 ![2019HalloweenSpecial](../Img/2019HalloweenSpecial.JPG)  
 [Official Link](https://227anime.com/special/halloween/)
 
 #### 頭像 Icon
-![Icon_01_Miu](../Album/2019HalloweenSpecial/Icon_01_Miu.PNG)
-![Miu_TV](../Album/2019HalloweenSpecial/Miu_TV.PNG){: width="48%"}
+![Icon_01_Miu](../../Album/2019HalloweenSpecial/Icon_01_Miu.PNG)
+![Miu_TV](../../Album/2019HalloweenSpecial/Miu_TV.PNG){: width="48%"}
 
- Miu | [Source](https://227anime.com/assets/img/special/halloween/icon_01.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/2019HalloweenSpecial/Icon_01_Miu.PNG) | Miu_TV | [Source](https://twitter.com/227anime/status/1189814262035701761) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/2019HalloweenSpecial/Miu_TV.PNG)
+ Miu | [Source](https://227anime.com/assets/img/special/halloween/icon_01.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/../../Album/2019HalloweenSpecial/Icon_01_Miu.PNG) | Miu_TV | [Source](https://twitter.com/227anime/status/1189814262035701761) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/../../Album/2019HalloweenSpecial/Miu_TV.PNG)
 
 ![Icon_02_Sakura](../Album/2019HalloweenSpecial/Icon_02_Sakura.PNG)
 ![Sakura_TV](../Album/2019HalloweenSpecial/Sakura_TV.PNG){: width="48%"}
