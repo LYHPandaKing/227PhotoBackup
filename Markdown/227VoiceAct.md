@@ -15,4 +15,4 @@
 
 >¹ https://tinyurl.com/yccmyndd
 
-<iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/k23MuSTvTE6GJow3MxN" allowfullscreen allow="autoplay"></iframe>
+<iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/k23MuSTvTE6GJow3MxN?queue-enable=false" allowfullscreen allow="autoplay"></iframe>
