@@ -17,4 +17,4 @@
 
 >¹ https://tinyurl.com/yccmyndd
 
-<iframe frameborder="0" width="640" height="360" src="https://www.dailymotion.com/embed/video/k23MuSTvTE6GJow3MxN?queue-enable=false" allowfullscreen allow="autoplay"></iframe>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/k23MuSTvTE6GJow3MxN?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>  
