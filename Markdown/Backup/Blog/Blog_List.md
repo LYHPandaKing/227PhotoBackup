@@ -3,4 +3,5 @@
 ##### [Back](../../../readme.md)
 
 - [天城サリー Amaki Sally](Sally/SallyBlog_List.md)
+- [海乃るり Umino Ruri](Ruri/RuriBlog_List.md)
 - [西條和 Saijo Nagomi](Nagomi/NagomiBlog_List.md)
