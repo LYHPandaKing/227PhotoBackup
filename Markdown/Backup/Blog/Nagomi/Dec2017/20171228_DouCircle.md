@@ -1,5 +1,5 @@
 ### 。◯
-[2017.12.28](http://blog.nanabunnonijyuuni.com/s/n227/diary/detail/86?ima=4405&cd=blog)
+[2017.12.28](http://blog.nanabunnonijyuuni.com/s/n227/diary/detail/86?ima=4405&cd=blog) | [中文翻譯 bilibili](https://www.bilibili.com/read/cv4813579)
 <br><br><br><br><br><br><br><br>
 レモン
 <br><br><br><br><br><br><br><br>
@@ -35,4 +35,8 @@
 <br><br><br><br><br><br><br><br><br><br>
 今日も読んでくださりありがとうございます
 <br><br>
-
+![20171228_Blog_Nagomi_#1](../../../../../Album/Backup/Blog/Nagomi/Dec2017/20171228_Blog_Nagomi_%231.JPG)
+<br><br><br>
+昔撮ったレッサーパンダでばいばい
+<br><br><br><br>
+西條和でした。
