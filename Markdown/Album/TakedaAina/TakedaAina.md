@@ -1,2 +1,1 @@
-### 武田愛奈 Takeda Aina
-[![Icon_Twitter_Char](../../../Img/Icon_Twitter_Char.PNG){: height="100"}](https://twitter.com/_tsubomihiiragi)
+### 武田愛奈 Takeda Aina [![Icon_Twitter_Mem](../../../Img/Icon_Twitter_Mem.PNG){: height="30"}](https://twitter.com/aina__227) [![Icon_Twitter_Char](../../../Img/Icon_Twitter_Char.PNG){: height="30"}](https://twitter.com/_tsubomihiiragi) 
