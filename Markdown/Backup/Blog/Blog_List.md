@@ -4,5 +4,7 @@
 
 - [天城サリー Amaki Sally](Sally/SallyBlog_List.md)
 - [海乃るり Umino Ruri](Ruri/RuriBlog_List.md)
-- [西條和 Saijo Nagomi](Nagomi/NagomiBlog_List.md)
 - [河瀬詩 Kawase Uta](Uta/UtaBlog_List.md)
+- [倉岡水巴 Kuraoka Mizuha](Mizuha/MizuhaBlog_List.md)
+- [西條和 Saijo Nagomi](Nagomi/NagomiBlog_List.md)
+- [白沢かなえ Shirosawa Kanae](Kanae/KanaeBlog_List.md)
