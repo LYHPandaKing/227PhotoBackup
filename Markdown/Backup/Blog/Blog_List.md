@@ -8,3 +8,5 @@
 - [倉岡水巴 Kuraoka Mizuha](Mizuha/MizuhaBlog_List.md)
 - [西條和 Saijo Nagomi](Nagomi/NagomiBlog_List.md)
 - [白沢かなえ Shirosawa Kanae](Kanae/KanaeBlog_List.md)
+- [涼花萌 Suzuhana Moe](Moe/MoeBlog_List.md)
+- [武田愛奈 Takeda Aina](Aina/AinaBlog_List.md)
