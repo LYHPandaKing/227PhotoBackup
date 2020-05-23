@@ -7,14 +7,14 @@ Also provide useful information about 22/7. Please feel free to download and use
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 23May,2020 14:55 (HKT)**
+**最後更新日期 Last Update: 23May,2020 19:25 (HKT)**
 
 ### 相簿 Album
 - [出道單曲 Debut Single](Markdown/Album/1st%20Single.html)  
 - [第二單曲 2nd Single](Markdown/Album/2nd%20Single.html)  
 - [角色設計 Character Design](Markdown/Album/CharacterDesgin.md)  
 - [萬聖節限定頭像及壁紙 Halloween Special Icon & Wallpaper 2019](Markdown/Album/2019HalloweenSpecial.md)  
-- [宮瀬玲奈 Miyase Reina](Markdown/Album/MiyaseReina/@reinyan_0526.md)
+- [宮瀬玲奈 Miyase Reina](Markdown/Album/MiyaseReina/MiyaseReina.md)
 
 ### 備份 Backup  
 - [Twitter - 22/7(ナナブンノニジュウニ)](Markdown/Backup/@227_staff.md)  
