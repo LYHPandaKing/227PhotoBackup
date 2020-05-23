@@ -1,4 +1,4 @@
-### 天城サリー Amaki Sally
+### 天城サリー Amaki Sally Blog
 ##### [Back](../Blog_List.md)
 
 
