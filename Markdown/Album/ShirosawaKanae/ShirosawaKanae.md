@@ -1,0 +1,2 @@
+### 白沢かなえ Shirosawa Kanae [![twitter_@_maruyamaakane](../../../Img/Icon_Twitter_Char.PNG){: height="30"}](https://twitter.com/_maruyamaakane) [![instagram_@__shiro227](../../../Img/Icon_Instagram.PNG){: height="30"}](https://www.instagram.com/__shiro227/) [![youtube](../../../Img/Icon_Youtube_Char.PNG){: height="30"}](https://www.youtube.com/channel/UCjOqQvf4u1mlzRNaphEbc7A)
+##### [Back](../../../readme.md)
