@@ -8,7 +8,7 @@
 
 #### 2017
 ##### December
-- [20171231 - \ \ \](Dec2017/20171231_TriBackslash.md)
+- [20171231 - \ \ \ ](Dec2017/20171231_TriBackslash.md)
 - [20171230 - ▽△▽](Dec2017/20171230_TriTriangle.md)
 - [20171229 - ✧︎˖](Dec2017/20171229_DouStar.md)
 - [20171228 - 。◯](Dec2017/20171228_DouCircle.md)
