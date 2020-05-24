@@ -5,4 +5,4 @@
 This place stored some of my creations upon 22/7. Please don't repost to other website.
 
 - [22/7 出演系列 Voice Act Series](227VoiceAct.md)
-- [尚未完成 Not yet finish]
+- [即將推出 Coming Soon]

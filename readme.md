@@ -7,17 +7,27 @@ Also provide useful information about 22/7. Please feel free to download and use
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 23May,2020 19:25 (HKT)**
+**最後更新日期 Last Update: 24May,2020 16:36 (HKT)**
 
 ### 相簿 Album
-- [出道單曲 Debut Single](Markdown/Album/1st%20Single.html)  
-- [第二單曲 2nd Single](Markdown/Album/2nd%20Single.html)  
-- [角色設計 Character Design](Markdown/Album/CharacterDesgin.md)  
-- [萬聖節限定頭像及壁紙 Halloween Special Icon & Wallpaper 2019](Markdown/Album/2019HalloweenSpecial.md)  
+- [出道單曲 Debut Single](Markdown/Album/1st%20Single.html)
+- [第二單曲 2nd Single](Markdown/Album/2nd%20Single.html)
+- [角色設計 Character Design](Markdown/Album/CharacterDesgin.md)
+- [萬聖節限定頭像及壁紙 Halloween Special Icon & Wallpaper 2019](Markdown/Album/2019HalloweenSpecial.md)<br><br>
+- [天城サリー Amaki Sally](Markdown/Album/AmakiSally/AmakiSally.md)
+- [花川芽衣 Hanakawa Mei](Markdown/Album/HanakawaMei/HanakawaMei.md)
+- [帆風千春 Hokaze Chiharu](Markdown/Album/HokazeChiharu/HokazeChiharu.md)
+- [河瀬詩 Kawase Uta](Markdown/Album/KawaseUta/KawaseUta.md)
+- [倉岡水巴 Kuraoka Mizuha](Markdown/Album/KuraokaMizuha/KuraokaMizuha.md)
 - [宮瀬玲奈 Miyase Reina](Markdown/Album/MiyaseReina/MiyaseReina.md)
+- [西條和 Saijo Nagomi](Markdown/Album/SaijoNagomi/SaijoNagomi.md)
+- [白沢かなえ Shirosawa Kanae](Markdown/Album/ShirosawaKanae/ShirosawaKanae.md)
+- [涼花萌 Suzuhana Moe](Markdown/Album/SuzuhanaMoe/SuzuhanaMoe.md)
+- [高辻麗 Takatsuji Urara](Markdown/Album/TakatsujiUrara/TakatsujiUrara.md)
+- [武田愛奈 Takeda Aina](Markdown/Album/TakedaAina/TakedaAina.md)
+- [海乃るり Umino Ruri](Markdown/Album/UminoRuri/UminoRuri.md)
 
 ### 備份 Backup  
-- [Twitter - 22/7(ナナブンノニジュウニ)](Markdown/Backup/@227_staff.md)  
 - [Youtube - Sally Amaki[official]](Markdown/Backup/Sally%20Amaki[official]/Sally%20Amaki[official].html)  
 - [22/7計算中 "22/7 Keisanchuu"](Markdown/Backup/227Keisanchuu/227Keisanchuu_List.md)  
 - [22/7 Official Blog](Markdown/Backup/Blog/Blog_List.md)
