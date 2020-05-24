@@ -1,5 +1,5 @@
 \ \ \
-[2017.12.31](http://blog.nanabunnonijyuuni.com/s/n227/diary/detail/122?ima=5613&cd=blog) | [中文翻譯 bilibili](
+[2017.12.31](http://blog.nanabunnonijyuuni.com/s/n227/diary/detail/122?ima=5613&cd=blog) | [中文翻譯 bilibili](https://www.bilibili.com/read/cv4911751)
 <br><br><br><br>
 最近枕元の電気が反抗期です
 <br><br><br><br><br>
