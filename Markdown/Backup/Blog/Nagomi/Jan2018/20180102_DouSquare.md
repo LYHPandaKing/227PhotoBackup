@@ -15,7 +15,7 @@
 <br><br><br><br>
 それがこちら
 <br><br><br>
-![20180102_Blog_Nagomi_#1](../../../../../Album/Backup/Blog/Nagomi/Jan2018/20180102_Blog_Nagomi_%231.JPG)
+![20180102_Blog_Nagomi_#1](../../../../../Album/Backup/Blog/Nagomi/Jan2018/20180102_Blog_Nagomi_%231.PNG)
 <br><br><br><br><br><br><br>
 うぬ。
 <br><br><br><br>
