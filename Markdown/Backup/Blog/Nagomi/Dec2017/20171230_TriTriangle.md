@@ -53,7 +53,7 @@
 <br><br><br><br>
 もえちゃん好きそうやな〜って見てたら撮られてた。
 <br><br><br><br><br><br>
-![20171230_Blog_Nagomi_#3](../../../../../Album/Backup/Blog/Nagomi/Dec2017/20171230_Blog_Nagomi_%233.JPG)
+![20171230_Blog_Nagomi_#3](../../../../../Album/Backup/Blog/Nagomi/Dec2017/20171230_Blog_Nagomi_%233.PNG)
 <br><br><br><br><br>
 いろんな動物を物色〜
 <br><br><br><br>
