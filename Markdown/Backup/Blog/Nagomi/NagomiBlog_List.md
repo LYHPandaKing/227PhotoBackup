@@ -6,6 +6,10 @@
 #### [2018](https://227photo.nets.hk/Markdown/Backup/Blog/Nagomi/NagomiBlog_List.html#2018-1)
 #### [2017](https://227photo.nets.hk/Markdown/Backup/Blog/Nagomi/NagomiBlog_List.html#2017-1)
 
+#### 2018
+##### January
+- [20180101 - ❄︎](Jan2018/20180101_Snow.md)
+
 #### 2017
 ##### December
 - [20171231 - \ \ \ ](Dec2017/20171231_TriBackslash.md)
