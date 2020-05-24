@@ -10,9 +10,9 @@ Project started at May/2020
 **最後更新日期 Last Update: 23May,2020 19:25 (HKT)**
 
 ### 相簿 Album
-- [出道單曲 Debut Single](Markdown/Album/1st%20Single.html)  
-- [第二單曲 2nd Single](Markdown/Album/2nd%20Single.html)  
-- [角色設計 Character Design](Markdown/Album/CharacterDesgin.md)  
+- [出道單曲 Debut Single](Markdown/Album/1st%20Single.html)
+- [第二單曲 2nd Single](Markdown/Album/2nd%20Single.html)
+- [角色設計 Character Design](Markdown/Album/CharacterDesgin.md)
 - [萬聖節限定頭像及壁紙 Halloween Special Icon & Wallpaper 2019](Markdown/Album/2019HalloweenSpecial.md)
 
 - [天城サリー Amaki Sally](Markdown/Album/AmakiSally/AmakiSally.md)
