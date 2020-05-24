@@ -7,7 +7,7 @@ Also provide useful information about 22/7. Please feel free to download and use
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 24May,2020 12:08 (HKT)**
+**最後更新日期 Last Update: 24May,2020 16:36 (HKT)**
 
 ### 相簿 Album
 - [出道單曲 Debut Single](Markdown/Album/1st%20Single.html)
@@ -28,7 +28,6 @@ Project started at May/2020
 - [海乃るり Umino Ruri](Markdown/Album/UminoRuri/UminoRuri.md)
 
 ### 備份 Backup  
-- [Twitter - 22/7(ナナブンノニジュウニ)](Markdown/Backup/@227_staff.md)  
 - [Youtube - Sally Amaki[official]](Markdown/Backup/Sally%20Amaki[official]/Sally%20Amaki[official].html)  
 - [22/7計算中 "22/7 Keisanchuu"](Markdown/Backup/227Keisanchuu/227Keisanchuu_List.md)  
 - [22/7 Official Blog](Markdown/Backup/Blog/Blog_List.md)
