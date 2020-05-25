@@ -7,7 +7,7 @@ Also provide useful information about 22/7. Please feel free to download and use
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 24May,2020 16:36 (HKT)**
+**最後更新日期 Last Update: 25May,2020 12:04 (HKT)**
 
 ### 相簿 Album
 - [出道單曲 Debut Single](Markdown/Album/1st%20Single.html)
