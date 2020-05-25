@@ -1,4 +1,5 @@
 ### 22/7計算中 "22/7 Keisanchuu" Season 2
+##### [Back](227Keisanchuu_List.md)
 
 #### #7 第１回『ナナオンクイーン」決定戦』
 >![20200523_S2Ep8](../../../Img/227Keisanchuu/20200523_S2Ep8.JPG)  
