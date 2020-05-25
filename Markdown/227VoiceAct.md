@@ -26,6 +26,8 @@
 
 >原片: https://youtu.be/7ItYrScnzC0
 
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7u3rtd?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>  
+
 ---
 
 【字幕】22/7出演系列 #1 // 倉岡水巴「メガネの魔法」[全段]  
