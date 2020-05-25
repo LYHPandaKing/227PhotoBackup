@@ -1,4 +1,4 @@
-### 備份 Backup - YouTube - Sally Amaki[official] [![SallyYT_th](../../../Img/SallyYT_th.PNG){: width="50"}](https://www.youtube.com/channel/UCi4UjmN8HSi16sAhh_iEb6w)
+### YouTube - Sally Amaki[official] [![SallyYT_th](../../../Img/SallyYT_th.PNG){: width="50"}](https://www.youtube.com/channel/UCi4UjmN8HSi16sAhh_iEb6w)
 ##### [Back](../../../readme.md)  
 
 #### [[おうちカフェ] I’m late to the trend but I’m fashionably late (日本語字幕)](https://www.youtube.com/watch?v=jh-FQvz0EhQ&t=33s)
