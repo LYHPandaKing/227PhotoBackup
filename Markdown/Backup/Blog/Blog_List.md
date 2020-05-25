@@ -1,5 +1,5 @@
 ![227OfficialBlog](../../../Img/227OfficialBlog.JPG)
-### 備份 Backup - 22/7 Blog
+### 22/7 Official Blog
 ##### [Back](../../../readme.md)
 
 - [天城サリー Amaki Sally](Sally/SallyBlog_List.md)
