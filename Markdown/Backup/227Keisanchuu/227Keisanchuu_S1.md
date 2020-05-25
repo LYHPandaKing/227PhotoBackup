@@ -1,4 +1,5 @@
 ### 22/7計算中 "22/7 Keisanchuu" Season 1
+##### [Back](../../../readme.md)
 
 #### #78 『パネル解除争奪!クリスマス告白クイーン決定戦!!』完結編
 >12月28日(土)の企画は『パネル解除争奪!クリスマ
@@ -14,4 +15,4 @@
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7tzr95?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
 
- #1 | [Source](https://nyaa.si/view/1161338) | [Dailymotion](https://dai.ly/x7tzr95)
+ #1 | [Source](https://nyaa.si/view/1161338)
