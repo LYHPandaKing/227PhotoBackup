@@ -1,10 +1,7 @@
 ### 西條和 Saijo Nagomi Blog
 ##### [Back](../Blog_List.md)
 
-#### [2020](https://227photo.nets.hk/Markdown/Backup/Blog/Nagomi/NagomiBlog_List.html#2020-1)
-#### [2019](https://227photo.nets.hk/Markdown/Backup/Blog/Nagomi/NagomiBlog_List.html#2019-1)
-#### [2018](https://227photo.nets.hk/Markdown/Backup/Blog/Nagomi/NagomiBlog_List.html#2018-1)
-#### [2017](https://227photo.nets.hk/Markdown/Backup/Blog/Nagomi/NagomiBlog_List.html#2017-1)
+[2020](https://227photo.nets.hk/Markdown/Backup/Blog/Nagomi/NagomiBlog_List.html#2020-1) | [2019](https://227photo.nets.hk/Markdown/Backup/Blog/Nagomi/NagomiBlog_List.html#2019-1) | [2018](https://227photo.nets.hk/Markdown/Backup/Blog/Nagomi/NagomiBlog_List.html#2018-1) | [2017](https://227photo.nets.hk/Markdown/Backup/Blog/Nagomi/NagomiBlog_List.html#2017-1)
 
 #### 2018
 ##### January
