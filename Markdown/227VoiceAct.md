@@ -35,3 +35,5 @@
 >字幕: 官方製作
 
 >原片: https://www.youtube.com/watch?v=-zy8_URizhE
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7u3rgo?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>  
