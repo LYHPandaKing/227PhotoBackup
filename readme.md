@@ -7,9 +7,10 @@ Also provide useful information about 22/7. Please feel free to download and use
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 25May,2020 18:26 (HKT)**
+**最後更新日期 Last Update: 26May,2020 08:29 (HKT)**
 
 ### 相簿 Album
+- [出道前 Pre-Debut](Markdown/PreDebut.md)
 - [出道單曲 Debut Single](Markdown/Album/1st%20Single.html)
 - [第二單曲 2nd Single](Markdown/Album/2nd%20Single.html)
 - [角色設計 Character Design](Markdown/Album/CharacterDesgin.md)
