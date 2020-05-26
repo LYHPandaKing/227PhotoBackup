@@ -1,2 +1,2 @@
 ### 出道前 Pre-Debut
-##### [Back](../../../readmw.md)
+##### [Back](../../../readme.md)
