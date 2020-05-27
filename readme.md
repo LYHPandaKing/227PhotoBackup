@@ -7,14 +7,15 @@ Also provide useful information about 22/7. Please feel free to download and use
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 27May,2020 10:26 (HKT)**
+**最後更新日期 Last Update: 27May,2020 16:04 (HKT)**
 
 ### 相簿 Album
 - [出道前 Pre-Debut](Markdown/Album/PreDebut.md)
 - [出道單曲 Debut Single](Markdown/Album/1st%20Single.html)
 - [第二單曲 2nd Single](Markdown/Album/2nd%20Single.html)
 - [角色設計 Character Design](Markdown/Album/CharacterDesgin.md)
-- [萬聖節限定頭像及壁紙 Halloween Special Icon & Wallpaper 2019](Markdown/Album/2019HalloweenSpecial.md)<br><br>
+- [萬聖節限定頭像及壁紙 Halloween Special Icon & Wallpaper 2019](Markdown/Album/2019HalloweenSpecial.md)
+- [22/7 音楽の時間](Markdwon/Album/Nanaon.md)<br><br>
 - [天城サリー Amaki Sally](Markdown/Album/AmakiSally/AmakiSally.md)
 - [花川芽衣 Hanakawa Mei](Markdown/Album/HanakawaMei/HanakawaMei.md)
 - [帆風千春 Hokaze Chiharu](Markdown/Album/HokazeChiharu/HokazeChiharu.md)
