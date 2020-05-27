@@ -1,8 +1,8 @@
 ### 西條和 Saijo Nagomi - 2017
 ##### [Back](SaijoNagomi.md)
+###### Total: 6
 
 #### December
-
 ###### 2017.12.30
 ![20171230_Blog_Nagomi_#1.JPG](../../../Album/Backup/Blog/Nagomi/Dec2017/20171230_Blog_Nagomi_%231.JPG){:width="vw"}  
 [Source](http://blog.nanabunnonijyuuni.com/s/n227/diary/detail/115?ima=5613&cd=blog) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Backup/Blog/Nagomi/Dec2017/20171230_Blog_Nagomi_%231.JPG)
@@ -19,3 +19,8 @@
 ###### 2017.12.26
 ![20171226_Blog_Nagomi_#2.JPG](../../../Album/Backup/Blog/Nagomi/Dec2017/20171226_Blog_Nagomi_%232.JPG){:width="vw"}  
 [Source](http://blog.nanabunnonijyuuni.com/s/n227/diary/detail/58?ima=1402&cd=blog) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Backup/Blog/Nagomi/Dec2017/20171226_Blog_Nagomi_%232.JPG)
+
+#### May
+###### 2017.05.21
+![Nagomi](../../../Album/Pre-Debut/Nagomi.JPG){:width="vw"}  
+[Source](https://nanabunnonijyuuni.fandom.com/wiki/Nagomi_Saijo) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Pre-Debut/Nagomi.JPG)
