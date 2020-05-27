@@ -1,5 +1,6 @@
 ### 帆風千春 Hokaze Chiharu - 2017
 ##### [Back](HokazeChiharu.md)
+###### Total: 1
 
 #### May
 
