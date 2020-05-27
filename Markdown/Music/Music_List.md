@@ -8,4 +8,4 @@
 ![BDDVDVol2](../../Img/Music/BDDVDVol2.jpg){: width="50%"}  
 
 - [ムズイ Muzui](05_Muzui.html)  
-![Muzui](../../Img/Music/MuzuiTypeA.jpg){: width="50%"}  )
+![Muzui](../../Img/Music/MuzuiTypeA.jpg){: width="50%"}
