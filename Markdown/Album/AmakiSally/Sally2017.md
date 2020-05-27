@@ -1,6 +1,8 @@
 ### 天城サリー Amaki Sally - 2017
 ##### [Back](AmakiSally.md)
 
+###### Total: 1
+
 #### May
 
 ###### 2017.05.21
