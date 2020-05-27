@@ -1,0 +1,86 @@
+### ムズイ Muzui
+##### [Back](Music_List.md)
+
+#### ムズイ【初回仕様限定盤Type-A】  
+![MuzuiTypeA](../../Img/Music/MuzuiTypeA.jpg){: width="70%"}  
+Date: 26Feb,2020  
+
+**01.ムズイ**  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/05_Muzui/01.ムズイ.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**02.空のエメラルド**  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/05_Muzui/02.空のエメラルド.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**03.僕らの環境**  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/05_Muzui/03.僕らの環境.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**04.ムズイ-off vocal ver.**  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/05_Muzui//Off%20Vocal%20(Type%20A)/04.ムズイ-off%20vocal%20ver.-.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**05.空のエメラルド-off vocal ver.**  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/05_Muzui//Off%20Vocal%20(Type%20A)/05.空のエメラルド-off%20vocal%20ver.-.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**06.僕らの環境-off vocal ver.**  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/05_Muzui//Off%20Vocal%20(Type%20A)/06.僕らの環境-off%0vocal%20ver.-.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+---
+
+#### ムズイ【初回仕様限定盤Type-B】  
+![MuzuiTypeB](../../Img/Music/MuzuiTypeB.jpg){: width="70%"}  
+Date: 26Feb,2020  
+
+**01.ムズイ**  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/05_Muzui/01.ムズイ.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**02.空のエメラルド**  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/05_Muzui/02.空のエメラルド.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**03.足を洗え！**  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/05_Muzui/04.足を洗え!.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**04.ムズイ-off vocal ver.**  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/05_Muzui//Off%20Vocal%20(Type%20A)/04.ムズイ-off%20vocal%20ver.-.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**05.空のエメラルド-off vocal ver.**  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/05_Muzui//Off%20Vocal%20(Type%20A)/05.空のエメラルド-off%20vocal%20ver.-.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**06.足を洗え！ -off vocal ver.-**  
+<audio controls="controls">
+  <source type="audio/mp3" src=" "></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+---
