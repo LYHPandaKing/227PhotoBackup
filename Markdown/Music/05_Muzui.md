@@ -77,7 +77,7 @@ Date: 26Feb,2020
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-**06.足を洗え！ -off vocal ver.-** ^Not Available Now  
+**06.足を洗え！ -off vocal ver.-** ^Currently Unavailable  
 <audio controls="controls">
   <source type="audio/mp3" src=" "></source>
   <p>Your browser does not support the audio element.</p>
@@ -119,7 +119,7 @@ Date: 26Feb,2020
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-**06.願いの眼差し -off vocal ver.-** ^Not Available Now  
+**06.願いの眼差し -off vocal ver.-** ^Currently Unavailable  
 <audio controls="controls">
   <source type="audio/mp3" src=" "></source>
   <p>Your browser does not support the audio element.</p>
