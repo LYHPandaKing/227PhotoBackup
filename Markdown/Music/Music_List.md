@@ -10,5 +10,8 @@
 - [ムズイ Muzui](05_Muzui.html)  
 ![Muzui](../../Img/Music/MuzuiTypeA.jpg){: width="30%"}
 
+- [シャンプーの匂いがした Shampoo no Nioi ga Shita](02_ShampoonoNioigaShita.html)  
+![Shampoo](../../Img/Music/ShampooTypeA.jpg){: width="30%"}
+
 - [僕は存在していなかった Boku wa Sonzai Shiteinakatta](01_BokuwaSonzaiShiteinakatta.html)  
 ![Boku](../../Img/Music/BokuTypeA.jpg){: width="30%"}
