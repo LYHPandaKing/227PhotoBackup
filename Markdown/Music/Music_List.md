@@ -10,7 +10,7 @@
 - [ムズイ Muzui](05_Muzui.html)  
 ![Muzui](../../Img/Music/MuzuiTypeA.jpg){: width="30%"}
 
-- [何もしてあげられない Nani Mo Shiteagerarenai](04_NaniMoShiteagerarenai.html)
+- [何もしてあげられない Nani Mo Shiteagerarenai](04_NaniMoShiteagerarenai.html)  
 ![NaniMo](../../Img/Music/NaniMoTypeA.jpg){: width="30%"}
 
 - [理解者 Rikaisha](03_Rikaisha.html)  
