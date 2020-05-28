@@ -1,5 +1,5 @@
 ### ▷▶︎  
-[2018.01.04](http://blog.nanabunnonijyuuni.com/s/n227/diary/detail/174?ima=2551&cd=blog) | [中文翻譯 bilinili](https://www.bilibili.com/read/cv4972746)  
+[2018.01.04](http://blog.nanabunnonijyuuni.com/s/n227/diary/detail/174?ima=2551&cd=blog) | [中文翻譯 bilibili](https://www.bilibili.com/read/cv4972746)  
 <br><br><br><br><br><br>
 こたつに入りながらテレビを観る。  
 <br><br><br><br>
