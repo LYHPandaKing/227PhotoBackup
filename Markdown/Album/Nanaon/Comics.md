@@ -62,7 +62,7 @@
 ![Yuki2](../../../Album/Nanaon/Comics/Yuki2.PNG){: width="vw"}
 
 柊つぼみ(1) 蕾純遊戲的最終形 Final form of game between Tsubomi and Jun  
-![Tsubomi1](../../../Album/Nanaon/Comics/Tsubomi1.PNG){: width="200"}
+![Tsubomi1](../../../Album/Nanaon/Comics/Tsubomi1.PNG){: width="vw"}
 
 柊つぼみ(2) 飲品吧料理 "Cooking" at drink bar  
-![Tsubomi2](../../../Album/Nanaon/Comics/Tsubomi2.PNG){: width="150"}
+![Tsubomi2](../../../Album/Nanaon/Comics/Tsubomi2.PNG){: width="vw"}
