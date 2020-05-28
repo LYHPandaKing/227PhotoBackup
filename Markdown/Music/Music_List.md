@@ -10,6 +10,9 @@
 - [ムズイ Muzui](05_Muzui.html)  
 ![Muzui](../../Img/Music/MuzuiTypeA.jpg){: width="30%"}
 
+- [理解者 Rikaisha](03_Rikaisha.html)  
+![Rikaisha](../../Img/Music/RikaishaTypeA.jpg){: width="30%"}
+
 - [シャンプーの匂いがした Shampoo no Nioi ga Shita](02_ShampoonoNioigaShita.html)  
 ![Shampoo](../../Img/Music/ShampooTypeA.jpg){: width="30%"}
 
