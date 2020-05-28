@@ -23,19 +23,19 @@ Date: 26Feb,2020
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-**04.ムズイ-off vocal ver.**  
+**04.ムズイ -off vocal ver.**  
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/05_Muzui//Off%20Vocal%20(Type%20A)/04.ムズイ-off%20vocal%20ver.-.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-**05.空のエメラルド-off vocal ver.**  
+**05.空のエメラルド -off vocal ver.**  
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/05_Muzui//Off%20Vocal%20(Type%20A)/05.空のエメラルド-off%20vocal%20ver.-.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-**06.僕らの環境-off vocal ver.**  
+**06.僕らの環境 -off vocal ver.**  
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/05_Muzui//Off%20Vocal%20(Type%20A)/06.僕らの環境-off%20vocal%20ver.-.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -65,22 +65,62 @@ Date: 26Feb,2020
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-**04.ムズイ-off vocal ver.**  
+**04.ムズイ -off vocal ver.**  
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/05_Muzui//Off%20Vocal%20(Type%20A)/04.ムズイ-off%20vocal%20ver.-.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-**05.空のエメラルド-off vocal ver.**  
+**05.空のエメラルド -off vocal ver.**  
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/05_Muzui//Off%20Vocal%20(Type%20A)/05.空のエメラルド-off%20vocal%20ver.-.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-**06.足を洗え！ -off vocal ver.-**  
+**06.足を洗え！ -off vocal ver.-** ^Not Available Now  
 <audio controls="controls">
   <source type="audio/mp3" src=" "></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
 ---
+
+#### ムズイ  
+![Muzui](../../Img/Music/Muzui.jpg){: width="70%"}  
+Date: 26Feb,2020  
+
+**01.ムズイ**  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/05_Muzui/01.ムズイ.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**02.空のエメラルド**  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/05_Muzui/02.空のエメラルド.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**03.願いの眼差し**  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/05_Muzui/05.願いの眼差し.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**04.ムズイ -off vocal ver.**  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/05_Muzui//Off%20Vocal%20(Type%20A)/04.ムズイ-off%20vocal%20ver.-.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**05.空のエメラルド -off vocal ver.**  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/05_Muzui//Off%20Vocal%20(Type%20A)/05.空のエメラルド-off%20vocal%20ver.-.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**06.願いの眼差し -off vocal ver.-** ^Not Available Now  
+<audio controls="controls">
+  <source type="audio/mp3" src=" "></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
