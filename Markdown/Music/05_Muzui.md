@@ -37,7 +37,7 @@ Date: 26Feb,2020
 
 **06.僕らの環境-off vocal ver.**  
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/05_Muzui//Off%20Vocal%20(Type%20A)/06.僕らの環境-off%0vocal%20ver.-.mp3"></source>
+  <source type="audio/mp3" src="../../Music/05_Muzui//Off%20Vocal%20(Type%20A)/06.僕らの環境-off%20vocal%20ver.-.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
