@@ -2,6 +2,20 @@
 ###### ^The following videos only provide CHT(Chinese) subtitle.
 ##### [Back](HostsCreation.md)
 
+【生肉】22/7出演系列 #8  | 涼花萌 「アルバム「ずっと好きでした。presented by 胸キュンスカッと」TV-SPOT」    
+![#8](../Img/227VoiceActSeries/.jpeg){: width="70%"}  
+
+>原片: https://www.youtube.com/watch?v=edB0rutDxZ0
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7u6hth?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>  
+
+---
+
+
+
+
+
+
 【字幕】22/7出演系列 #4 // 天城サリー「豆しば学園 第6話」[全段]  
 ![#4](../Img/227VoiceActSeries/出演系列%234%20天城サリー%20豆しば第6話.jpeg){: width="70%"}  
 >天城サリー 飾演 女高中生  
