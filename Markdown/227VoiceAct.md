@@ -3,7 +3,7 @@
 ##### [Back](HostsCreation.md)
 
 【生肉】22/7出演系列 #8  | 涼花萌 「アルバム「ずっと好きでした。presented by 胸キュンスカッと」TV-SPOT」    
-![#8](../Img/227VoiceActSeries/.jpeg){: width="70%"}  
+![#8](../Img/227VoiceActSeries/出演系列%238%20涼花萌%20Sony%20Music%20CM.JPG){: width="70%"}  
 
 >原片: https://www.youtube.com/watch?v=edB0rutDxZ0
 
