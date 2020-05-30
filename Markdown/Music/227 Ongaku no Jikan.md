@@ -15,6 +15,6 @@ Date: 27May,2020
 **02.恋するフォーチュンクッキー** 藤間桜（CV. 天城サリー）; 戸田ジュン（CV.海乃るり）; 滝川みう（CV. 西條和）; 東条悠希（CV. 高辻麗）; 丸山あかね（CV. 白沢かなえ）  
 ![恋するフォーチュンクッキー](../../Img/Music/恋するフォーチュンクッキー.PNG){: width="70%"}  
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20zJikan/02.恋するフォーチュンクッキー.mp3"></source>
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/02.恋するフォーチュンクッキー.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
