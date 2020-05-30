@@ -1,7 +1,7 @@
 ### 音樂 Music
 ##### [Back](../../readme.md)
 
-- [22/7 音楽の時間 Ongaku no Jikan](227%20Ongaku%20no%20Jikan.html)
+- [22/7 音楽の時間 Ongaku no Jikan](227%20Ongaku%20no%20Jikan.html)  
 ![Ongaku no Jikan](../../Img/Music/Ongaku%20no%20Jikan.jpg){: width="30%"}
 
 - [風は吹いてるか? Kaze wa Fuiteruka](Kaze%20wa%20Fuiteruka.html)  
