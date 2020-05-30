@@ -34,7 +34,7 @@ Date: 27May,2020
 </audio>
 
 **05.Preserved Roses** 佐藤麗華（CV.帆風千春）; 柊つぼみ（CV.武田愛奈）   
-![Preserved Roses](../../Img/Music/Preserved%20Roses.PNG){: width="70%"}  
+![Preserved Roses](../..){: width="70%"}  
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/05.Preserved%20Roses.mp3"></source>
   <p>Your browser does not support the audio element.</p>
