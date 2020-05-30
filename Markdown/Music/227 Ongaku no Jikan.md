@@ -26,3 +26,12 @@ Date: 27May,2020
   <p>Your browser does not support the audio element.</p>
 </audio>
 
+**04.象さんのすきゃんてぃ** 丸山あかね（CV. 白沢かなえ）; 立川絢香（CV. 宮瀬玲奈）  
+![象さんのすきゃんてぃ](../../Img/Music/象さんのすきゃんてぃ.PNG){: width="70%"}  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/04.象さんのすきゃんてぃ.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+
+
