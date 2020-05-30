@@ -18,3 +18,14 @@ Date: 27May,2020
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/02.恋するフォーチュンクッキー.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
+
+**03.コネクト** 河野都（CV. 倉岡水巴）; 戸田ジュン（CV.海乃るり）  
+![コネクト](../../Img/Music/コネクト.PNG){: width="70%"}  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/03.コネクト.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+
+
+
