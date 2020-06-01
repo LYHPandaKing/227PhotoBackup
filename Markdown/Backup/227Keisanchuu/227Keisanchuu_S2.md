@@ -1,7 +1,16 @@
 ### 22/7計算中 "22/7 Keisanchuu" Season 2
 ##### [Back](227Keisanchuu_List.md)
 
-#### #7 第１回『ナナオンクイーン」決定戦』
+#### #9 第１回『ナナオンクイーン」決定戦』２週目
+>![20200530_S2Ep9](../../../Img/227Keisanchuu/20200530_S2Ep9.jpg){: width="vw"}  
+メンバー全員が自宅からリモート出演でお届けする今回の企画は『２２／７リズムゲームアプリ音楽の時間配信記念！  
+第１回ナナオンクイーン決定戦』熱すぎるガチンコ対決も２週目に突入！  
+白熱した勝負の末、今夜いよいよ準決勝進出者が決定！  
+果たして一番上手いメンバーは誰なのか！？   
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7u8eve?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
+
+#### #8 第１回『ナナオンクイーン」決定戦』
 >![20200523_S2Ep8](../../../Img/227Keisanchuu/20200523_S2Ep8.PNG){: width="vw"}  
 5月23日(土)の企画は番組史上初のリモート収録を決行！  
 メンバー全員が自宅からリモート出演！  
