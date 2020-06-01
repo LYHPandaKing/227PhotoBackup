@@ -10,6 +10,8 @@
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7u8eve?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
 
+#9 | [Source](https://www.facebook.com/nanabunnoID/photos/a.596906514009115/1160957800937314/) | [Download **Original**](https://drive.google.com/file/d/1NLayegvgXjXa3dVSEtgXolHQ2Elnj5HO)
+
 #### #8 第１回『ナナオンクイーン」決定戦』
 >![20200523_S2Ep8](../../../Img/227Keisanchuu/20200523_S2Ep8.PNG){: width="vw"}  
 5月23日(土)の企画は番組史上初のリモート収録を決行！  
