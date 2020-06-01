@@ -4,5 +4,5 @@
 - [Dテレ](http://dsgstng.herokuapp.com/tv)
 ![dsgstng](../Img/dsgstng.JPG)
 
-- [Aqstream](https://aqstream.com/jp/tmx/Tokyo-MX)
-![aqstream](../Img/aqstream.pngn)
+- [Aqstream](https://aqstream.com/jp/tmx/Tokyo-MX)  
+![aqstream](../Img/aqstream.png)
