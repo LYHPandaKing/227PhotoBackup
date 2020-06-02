@@ -46,3 +46,10 @@ Date: 27May,2020
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/06.ヘビーローテーション.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
+
+**07.時の河を越えて** 神木みかみ（CV. 涼花萌）; 東条悠希（CV. 高辻麗）; 柊つぼみ（CV.武田愛奈）  
+![時の河を越えて](../../Img/Music/時の河を越えて.PNG){: width="70%"}  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/07.時の河を越えて.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
