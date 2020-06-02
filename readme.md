@@ -38,7 +38,7 @@ Project started at May/2020
 ### 其他資訊 Other Information  
 - [版主作品 Host's Creation](Markdown/HostsCreation.md)
 - [22/7 日曆 Calender](Markdown/Calendar.md)  
-- [22/7計算中 直播源 "22/7 Keisanchuu" Live Stream](Markdown/Streaming.md)
+- [22/7計算中 直播源<br>"22/7 Keisanchuu" Live Stream](Markdown/Streaming.md)
 - [音樂 Music](Markdown/Music/Music_List.md)
 
 ### 鳴謝 Credit
