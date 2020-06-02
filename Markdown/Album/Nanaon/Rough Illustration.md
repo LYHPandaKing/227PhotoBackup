@@ -17,3 +17,19 @@
 ##### やさしい記憶  
 ![RoughIllustration_13100005](../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13100005.png){: width="vw"}
 [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13100005.png)
+
+---
+
+#### 斎藤ニコル Saito Nicole
+##### オーマイガー!  
+![RoughIllustration_13200006](../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13200006.png){: width="vw"}
+[Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13200006.png)
+
+##### 未来があるから  
+![RoughIllustration_13100012](../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13100012.png){: width="vw"}
+[Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13100012.png)
+
+##### 理解者  
+![RoughIllustration_13100002](../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13100002.png){: width="vw"}
+[Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13100002.png)
+
