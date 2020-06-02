@@ -39,3 +39,10 @@ Date: 27May,2020
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/05.Preserved%20Roses.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
+
+**06.ヘビーローテーション** 藤間桜（CV. 天城サリー）; 戸田ジュン（CV.海乃るり）; 河野都（CV. 倉岡水巴）; 佐藤麗華（CV.帆風千春）; 丸山あかね（CV. 白沢かなえ）  
+![ヘビーローテーション](../../Img/Music/ヘビーローテーション.PNG){: width="70%"}  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/06.ヘビーローテーション.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
