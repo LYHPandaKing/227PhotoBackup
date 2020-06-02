@@ -1,4 +1,4 @@
-### 故事插圖 Story Illustration
+### 場景 Scenes
 ##### [Back](Nanaon.md)
 
 #### 校門前 School Entrance
