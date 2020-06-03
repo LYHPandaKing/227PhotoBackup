@@ -76,7 +76,7 @@ Date: 27May,2020
 
 **08.桃色タイフーン**  
 東条悠希（CV. 高辻麗）  
-![桃色タイフーン](../../Img/Music/.PNG){: width="70%"}  
+![桃色タイフーン](../../Img/Music/桃色タイフーン.PNG){: width="70%"}  
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/08.桃色タイフーン.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -84,7 +84,7 @@ Date: 27May,2020
 
 **09.IGNITE**  
 佐藤麗華（CV. 帆風千春）  
-![IGNITE](../../Img/Music/.PNG){: width="70%"}  
+![IGNITE](../../Img/Music/IGNITE.PNG){: width="70%"}  
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/09.IGNITE.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -92,7 +92,7 @@ Date: 27May,2020
 
 **10.色彩**  
 河野都（CV. 倉岡水巴）  
-![色彩](../../Img/Music/.PNG){: width="70%"}  
+![色彩](../../Img/Music/色彩.PNG){: width="70%"}  
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/10.色彩.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -100,7 +100,7 @@ Date: 27May,2020
 
 **11.センチメンタルクライシス**  
 戸田ジュン（CV. 海乃るり）  
-![センチメンタルクライシス](../../Img/Music/.PNG){: width="70%"}  
+![センチメンタルクライシス](../../Img/Music/センチメンタルクライシス.PNG){: width="70%"}  
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/11.センチメンタルクライシス.mp3"></source>
   <p>Your browser does not support the audio element.</p>
