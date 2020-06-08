@@ -1,6 +1,20 @@
 ### 22/7計算中 "22/7 Keisanchuu" Season 2
 ##### [Back](227Keisanchuu_List.md)
 
+#### #10 第１回『ナナオンクイーン」決定戦』３週目
+>![20200606_S2Ep10](../../../Img/227Keisanchuu/20200606_S2Ep10.PNG){: width="vw"}  
+6月6日(土)の企画はメンバー全員が自宅からリモート出演！  
+第１回『ナナオンクイーン決定戦！』  
+真剣勝負も佳境を迎える３週目！  
+華麗なるフルコンボやトリッキーなプレイが飛び出すなかいよいよ決勝進出者が決定！  
+さらに謎のプレイヤーXの正体も明らかに！  
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7ucqqe?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
+
+#10| [Source](https://www.facebook.com/nanabunnoID/photos/a.596906514009115/1166720907027670/) | [Download **Original**](https://drive.google.com/file/d/1p8y7WqpSU-QKxqYk0aPS9IR2n7ghfuFm/view?usp=drivesdk)
+
+
+
 #### #9 第１回『ナナオンクイーン」決定戦』２週目
 >![20200530_S2Ep9](../../../Img/227Keisanchuu/20200530_S2Ep9.jpg){: width="vw"}  
 メンバー全員が自宅からリモート出演でお届けする今回の企画は『２２／７リズムゲームアプリ音楽の時間配信記念！  
