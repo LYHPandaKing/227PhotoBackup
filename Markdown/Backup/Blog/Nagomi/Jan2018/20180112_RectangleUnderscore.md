@@ -13,7 +13,7 @@
 <br><br><br><br>
 ふぁいっ  
 <br><br>
-![20180112_Blog_Nagomi_#1](../../../../../Album/Backup/Blig/Nagomi/Jan2018/20180112_Blog_Nagomi_%231.JPG)  
+![20180112_Blog_Nagomi_#1](../../../../../Album/Backup/Blog/Nagomi/Jan2018/20180112_Blog_Nagomi_%231.JPG)  
 <br><br><br><br><br><br><br>
 課長とおそろいなのです〜！  
 <br><br><br><br>
