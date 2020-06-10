@@ -137,7 +137,6 @@ Date: 27May,2020
 **15.ideal white**  
 河野都（CV. 倉岡水巴）  
 ![ideal white](../../Img/Music/ideal%20white.PNG){: width="70%"}  
-^ Currently Unavailable
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/15.ideal%20white.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -158,7 +157,6 @@ Date: 27May,2020
 **17.SPEED STAR**  
 柊つぼみ（CV. 武田愛奈）  
 ![SPEED STAR](../../Img/Music/SPEED%20STAR.PNG){: width="70%"}  
-^ Currently Unavailable
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/17.SPEED%20STAR.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -171,7 +169,6 @@ Date: 27May,2020
 柊つぼみ（CV. 武田愛奈）  
 立川絢香（CV. 宮瀬玲奈）  
 ![走れ!ペンギン](../../Img/Music/走れ!ペンギン.PNG){: width="70%"}  
-^ Currently Unavailable
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/18.走れ!ペンギン.mp3"></source>
   <p>Your browser does not support the audio element.</p>
