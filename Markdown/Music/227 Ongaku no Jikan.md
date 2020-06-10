@@ -157,7 +157,7 @@ Date: 27May,2020
 
 **17.SPEED STAR**  
 柊つぼみ（CV. 武田愛奈）  
-![SPEED STAR](../../Img/Music/SPEED%20STAR!.PNG){: width="70%"}  
+![SPEED STAR](../../Img/Music/SPEED%20STAR.PNG){: width="70%"}  
 ^ Currently Unavailable
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/17.SPEED%20STAR.mp3"></source>
