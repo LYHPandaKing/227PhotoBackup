@@ -1,6 +1,18 @@
 ### 22/7計算中 "22/7 Keisanchuu" Season 2
 ##### [Back](227Keisanchuu_List.md)
 
+#### #11 第１回『ナナオンクイーン」決定戦』最終決戦
+>![20200613_S2Ep11](../../../Img/227Keisanchuu/20200613_S2Ep11.jpg){: width="vw"}  
+６月１３日(土)の企画は４週に渡ってお届けしてきた第１回『ナナオンクイーン決定戦』もいよいよ最終決戦！  
+決勝は佐藤麗華ＶＳ藤間桜！  
+果たして初代ナナオンクイーンの座をつかむのはどちらなのか！？  
+番組後半は第３回『あなたはどっち派？究極の選択』をお届け！  
+メンバーがなぜか相田との結婚を巡って大激論！？  
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7ugn9d?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
+
+#11 | [Source](https://www.facebook.com/nanabunnoID/photos/a.596906514009115/1172379663128461/) | [Download **Original**](https://drive.google.com/file/d/14LgfZv2LD_qR48OSYXQMOqFDYb2Jf04a/view?fbclid=IwAR3g4AHd65tAaAe5PH62J6sCMb4oLhk6foI2iqKtTsJjr2jOqrn_h5cl_VQ)
+
 #### #10 第１回『ナナオンクイーン」決定戦』３週目
 >![20200606_S2Ep10](../../../Img/227Keisanchuu/20200606_S2Ep10.PNG){: width="vw"}  
 6月6日(土)の企画はメンバー全員が自宅からリモート出演！  
@@ -11,9 +23,7 @@
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7ucqqe?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
 
-#10| [Source](https://www.facebook.com/nanabunnoID/photos/a.596906514009115/1166720907027670/) | [Download **Original**](https://drive.google.com/file/d/1p8y7WqpSU-QKxqYk0aPS9IR2n7ghfuFm/view?usp=drivesdk)
-
-
+#10 | [Source](https://www.facebook.com/nanabunnoID/photos/a.596906514009115/1166720907027670/) | [Download **Original**](https://drive.google.com/file/d/1p8y7WqpSU-QKxqYk0aPS9IR2n7ghfuFm/view?usp=drivesdk)
 
 #### #9 第１回『ナナオンクイーン」決定戦』２週目
 >![20200530_S2Ep9](../../../Img/227Keisanchuu/20200530_S2Ep9.jpg){: width="vw"}  
