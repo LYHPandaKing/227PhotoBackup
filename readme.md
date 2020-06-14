@@ -7,7 +7,7 @@ Also provide useful information about 22/7. Please feel free to download and use
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 14June,2020 22:15 (HKT)**
+**最後更新日期 Last Update: 14June,2020 22:21 (HKT)**
 
 ### 相簿 Album
 - [出道前 Pre-Debut](Markdown/Album/PreDebut.md)
@@ -42,9 +42,16 @@ Project started at May/2020
 - [音樂 Music](Markdown/Music/Music_List.md)
 
 ### 鳴謝 Credit
+- [22/7 ナナブンのニジュウニ 香港應援支部 (22/7 Hong Kong Fans Group)](https://www.facebook.com/groups/2591995264350406)
+- 22/7tw ナナブンのニジュウニ台灣情報頁 [@227FanTW](https://www.facebook.com/227FanTW/)
+- 22/7音楽の時間～中文情報區～ [@nanaonzh](https://www.facebook.com/nanaonzh/)
 - 22/7 ナナブンノニジュウニ Indonesia Fanspage [@nanabunnoID](https://www.facebook.com/pg/nanabunnoID/)
 - 22/7 ナナニジ Seiyuu Posting [@227posting](https://www.facebook.com/227posting/)
-- 22/7 Fandom Wiki [22/7 wiki](https://nanabunnonijyuuni.fandom.com/wiki/22/7_Wiki)  
+- 22/7 English [@Nanaon_Eng](https://twitter.com/Nanaon_Eng)
+- aga-yuu [@Agayuu1400](https://twitter.com/Agayuu1400)
+- Felis [@felis_227](https://twitter.com/felis_227)
+- 22/7 ファン [@227_fans](https://twitter.com/227_fans)
+- [22/7 Fandom Wiki](https://nanabunnonijyuuni.fandom.com/wiki/22/7_Wiki)  
 
 <video width="100%" height="100%" controls>
   <source src="Vid/227 『風は吹いてるか？』.mp4" type="video/mp4">
