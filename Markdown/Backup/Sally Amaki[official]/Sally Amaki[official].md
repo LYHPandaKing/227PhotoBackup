@@ -1,6 +1,18 @@
 ### YouTube - Sally Amaki[official] [![SallyYT_th](../../../Img/SallyYT_th.PNG){: width="50"}](https://www.youtube.com/channel/UCi4UjmN8HSi16sAhh_iEb6w)
 ##### [Back](../../../readme.md)  
 
+#### [日が昇るにつれ気が沈む声優IDOLの[MORNING ROUTINE](sub/字幕）](https://www.youtube.com/watch?v=uVm12EkaJhw&t=19s)
+Date: 12Jun,2020
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7ugnee?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>  
+
+#### [[一人暮らし料理]劇場版かってくらい今までで一番作画いいかも[sub/字幕]](https://www.youtube.com/watch?v=ki2W1Ay3yW4)
+Date: 9Jun,2020
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7ugne3?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>  
+
+#### [[A Day in the Life of an Idol / Voice Actor]声優アイドルのソーシャルディスタンスなお仕事密着（eng sub)](https://www.youtube.com/watch?v=1LLoUsMcZh8)
+Date: 5Jun,2020
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7ugndn?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>  
+
 #### [[What's in My Bag?]声優アイドルのカバンの中身(日本語字幕）](https://www.youtube.com/watch?v=GbcgDB1akvs)
 Date: 28May,2020
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7u5vie?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>  
