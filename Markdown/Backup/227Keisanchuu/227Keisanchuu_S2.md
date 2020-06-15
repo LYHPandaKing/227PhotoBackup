@@ -2,6 +2,7 @@
 ##### [Back](227Keisanchuu_List.md)
 
 #### #11 第１回『ナナオンクイーン」決定戦』最終決戦
+Date: 13Jun,2020
 >![20200613_S2Ep11](../../../Img/227Keisanchuu/20200613_S2Ep11.jpg){: width="vw"}  
 ６月１３日(土)の企画は４週に渡ってお届けしてきた第１回『ナナオンクイーン決定戦』もいよいよ最終決戦！  
 決勝は佐藤麗華ＶＳ藤間桜！  
@@ -11,9 +12,10 @@
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7ugn9d?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
 
-#11 | [Source](https://www.facebook.com/nanabunnoID/photos/a.596906514009115/1172379663128461/) | [Download **Original**](https://drive.google.com/file/d/14LgfZv2LD_qR48OSYXQMOqFDYb2Jf04a/view?fbclid=IwAR3g4AHd65tAaAe5PH62J6sCMb4oLhk6foI2iqKtTsJjr2jOqrn_h5cl_VQ)
+#11 | [Source](https://www.facebook.com/nanabunnoID/photos/a.596906514009115/1172379663128461/) | [Download **Original**](https://drive.google.com/file/d/14LgfZv2LD_qR48OSYXQMOqFDYb2Jf04a/) | [中文翻譯 bilibili](https://www.bilibili.com/video/BV19A411v7Jq)
 
 #### #10 第１回『ナナオンクイーン」決定戦』３週目
+Date: 6Jun,2020
 >![20200606_S2Ep10](../../../Img/227Keisanchuu/20200606_S2Ep10.PNG){: width="vw"}  
 6月6日(土)の企画はメンバー全員が自宅からリモート出演！  
 第１回『ナナオンクイーン決定戦！』  
@@ -23,9 +25,10 @@
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7ucqqe?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
 
-#10 | [Source](https://www.facebook.com/nanabunnoID/photos/a.596906514009115/1166720907027670/) | [Download **Original**](https://drive.google.com/file/d/1p8y7WqpSU-QKxqYk0aPS9IR2n7ghfuFm/view?usp=drivesdk)
+#10 | [Source](https://www.facebook.com/nanabunnoID/photos/a.596906514009115/1166720907027670/) | [Download **Original**](https://drive.google.com/file/d/1p8y7WqpSU-QKxqYk0aPS9IR2n7ghfuFm/) | [中文翻譯 bilibili](https://www.bilibili.com/video/BV1VA411B7aD)
 
 #### #9 第１回『ナナオンクイーン」決定戦』２週目
+Date: 30May,2020
 >![20200530_S2Ep9](../../../Img/227Keisanchuu/20200530_S2Ep9.jpg){: width="vw"}  
 メンバー全員が自宅からリモート出演でお届けする今回の企画は『２２／７リズムゲームアプリ音楽の時間配信記念！  
 第１回ナナオンクイーン決定戦』熱すぎるガチンコ対決も２週目に突入！  
@@ -34,9 +37,10 @@
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7u8eve?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
 
-#9 | [Source](https://www.facebook.com/nanabunnoID/photos/a.596906514009115/1160957800937314/) | [Download **Original**](https://drive.google.com/file/d/1NLayegvgXjXa3dVSEtgXolHQ2Elnj5HO)
+#9 | [Source](https://www.facebook.com/nanabunnoID/photos/a.596906514009115/1160957800937314/) | [Download **Original**](https://drive.google.com/file/d/1NLayegvgXjXa3dVSEtgXolHQ2Elnj5HO) | [中文翻譯 bilibili](https://www.bilibili.com/video/BV1Lz4y197im)
 
 #### #8 第１回『ナナオンクイーン」決定戦』
+Date: 23May,2020
 >![20200523_S2Ep8](../../../Img/227Keisanchuu/20200523_S2Ep8.PNG){: width="vw"}  
 5月23日(土)の企画は番組史上初のリモート収録を決行！  
 メンバー全員が自宅からリモート出演！  
@@ -47,8 +51,7 @@
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7u3ig1?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
 
-#8 | [Source](https://www.facebook.com/nanabunnoID/photos/a.596906514009115/1155583961474698/) | [Download **Original**](https://drive.google.com/file/d/1Wjsv3mraZ3YAhXSW1tb7-aiBRKl3ktSZ/view?fbclid=IwAR3GAOx_jI5ZqYVcuor40arelu1jWBKPyu72WvZv_ylpG0ytLw75zl-JCqk)
-
+#8 | [Source](https://www.facebook.com/nanabunnoID/photos/a.596906514009115/1155583961474698/) | [Download **Original**](https://drive.google.com/file/d/1Wjsv3mraZ3YAhXSW1tb7-aiBRKl3ktSZ/view?fbclid=IwAR3GAOx_jI5ZqYVcuor40arelu1jWBKPyu72WvZv_ylpG0ytLw75zl-JCqk) | [中文翻譯 bilibili](https://www.bilibili.com/video/BV1UQ4y1A7kx)
 
 #### #7 『斎藤ニコルプレゼンツ！発想力料理クイーン決定戦』
 Date: 16May,2020
@@ -62,4 +65,4 @@ Date: 16May,2020
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7tzkj1?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
 
-#7 | [Source](https://www.facebook.com/nanabunnoID/photos/a.596906514009115/1149963888703372) | [Download **Original**](https://drive.google.com/file/d/1ieOBkhaUiKTsaY8kFCd5hxP1fJ5rCagY/view?fbclid=IwAR2dOTdJFt7mGmvYl2z81IUWfsCPosUCwXtrVhsvKpoHcH7z5hqBMiYC-mY)
+#7 | [Source](https://www.facebook.com/nanabunnoID/photos/a.596906514009115/1149963888703372) | [Download **Original**](https://drive.google.com/file/d/1ieOBkhaUiKTsaY8kFCd5hxP1fJ5rCagY/view?fbclid=IwAR2dOTdJFt7mGmvYl2z81IUWfsCPosUCwXtrVhsvKpoHcH7z5hqBMiYC-mY) | [中文翻譯 bilibili](https://www.bilibili.com/video/BV1vk4y167L6)
