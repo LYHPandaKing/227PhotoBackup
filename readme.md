@@ -64,4 +64,4 @@ Project started at May/2020
 
 ![Promo](Img/Ending.PNG)
 
-<center><h1>2 + 2 + 7 = 12</h1></center>
+<center><h1>2 + 2 + / + 7 = 12</h1></center>
