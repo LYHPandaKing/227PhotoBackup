@@ -3,11 +3,11 @@
 此為非官方 22/7 網頁，主要備份Twitter、Instagram及公式照等，並提供資訊，供粉絲使用及收藏。  
 This is unofficial 22/7 website. Mainly focusing on backup Twitter, Instagram and official photos etc.  
 Also provide useful information about 22/7. Please feel free to download and use.  
-###### _^ 部分相片或會在不同資料夾中重複出現 Some photos may appear in more than one of the folders._
+###### _^ 部分相片或會在不同相簿中重複出現 Some photos may appear in more than one of the Albums._
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 14June,2020 22:21 (HKT)**
+**最後更新日期 Last Update: 15June,2020 16:15 (HKT)**
 
 ### 相簿 Album
 - [出道前 Pre-Debut](Markdown/Album/PreDebut.md)
@@ -42,6 +42,7 @@ Project started at May/2020
 - [音樂 Music](Markdown/Music/Music_List.md)
 
 ### 鳴謝 Credit
+###### _^ 排名不分先後 in arbitrary order_
 - [22/7 ナナブンのニジュウニ 香港應援支部 (22/7 Hong Kong Fans Group)](https://www.facebook.com/groups/2591995264350406)
 - 22/7tw ナナブンのニジュウニ台灣情報頁 [@227FanTW](https://www.facebook.com/227FanTW/)
 - 22/7音楽の時間～中文情報區～ [@nanaonzh](https://www.facebook.com/nanaonzh/)
