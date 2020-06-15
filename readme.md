@@ -45,6 +45,7 @@ Project started at May/2020
 ### 鳴謝 Credit
 ###### _^ 排名不分先後 in arbitrary order_
 - [22/7 ナナブンのニジュウニ 香港應援支部 (22/7 Hong Kong Fans Group)](https://www.facebook.com/groups/2591995264350406)
+- [ナナブンノニジュウニ交流討論區 22/7FansGroup](https://www.facebook.com/groups/227FG/)
 - 22/7tw ナナブンのニジュウニ台灣情報頁 [@227FanTW](https://www.facebook.com/227FanTW/)
 - 22/7音楽の時間～中文情報區～ [@nanaonzh](https://www.facebook.com/nanaonzh/)
 - 22/7 ナナブンノニジュウニ Indonesia Fanspage [@nanabunnoID](https://www.facebook.com/pg/nanabunnoID/)
