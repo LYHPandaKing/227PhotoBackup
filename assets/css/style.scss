@@ -12,6 +12,15 @@
   background-position: center;
 }
 
+.inner {
+  max-width: 80%;
+}
+
+div.disabled {
+    overflow-x: hidden; //horizontal
+    overflow-y: scroll; //vertical
+}
+
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
@@ -30,8 +39,8 @@
     border-color: rgba(0, 157, 221, 0.3);
   }
 }
-
-h1,
+.main-content {
+  h1,
   h2,
   h3,
   h4,
