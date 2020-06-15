@@ -16,6 +16,11 @@
   max-width: 80%;
 }
 
+div.disabled {
+    overflow-x: hidden; //horizontal
+    overflow-y: scroll; //vertical
+}
+
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
