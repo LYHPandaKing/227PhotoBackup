@@ -17,7 +17,8 @@ Project started at May/2020
 - [萬聖節限定頭像及壁紙 Halloween Special Icon & Wallpaper 2019](Markdown/Album/2019HalloweenSpecial.md)
 - [22/7 anime 20,000 followers 紀念頭像 Icon](Markdown/Album/TW20000fol.md)
 - [22/7 anime 30,000 followers 紀念頭像 Icon](Markdown/Album/TW30000fol.md)
-- [22/7 音楽の時間 Ongaku no Jikan](Markdown/Album/Nanaon/Nanaon.md)<br><br>
+- [22/7 音楽の時間 Ongaku no Jikan](Markdown/Album/Nanaon/Nanaon.md)
+<br><br>
 - [天城サリー Amaki Sally](Markdown/Album/AmakiSally/AmakiSally.md)
 - [花川芽衣 Hanakawa Mei](Markdown/Album/HanakawaMei/HanakawaMei.md)
 - [帆風千春 Hokaze Chiharu](Markdown/Album/HokazeChiharu/HokazeChiharu.md)
@@ -63,5 +64,3 @@ Project started at May/2020
 </video>
 
 ![Promo](Img/Ending.PNG)
-
-<center><h1>2 + 2 + / + 7 = 12</h1></center>
