@@ -3,11 +3,11 @@
 此為非官方 22/7 網頁，主要備份Twitter、Instagram及公式照等，並提供資訊，供粉絲使用及收藏。  
 This is unofficial 22/7 website. Mainly focusing on backup Twitter, Instagram and official photos etc.  
 Also provide useful information about 22/7. Please feel free to download and use.  
-###### _^ 部分相片或會在不同資料夾中重複出現 Some photos may appear in more than one of the folders._
+###### _^ 部分相片或會在不同相簿中重複出現 Some photos may appear in more than one of the Albums._
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 14June,2020 22:21 (HKT)**
+**最後更新日期 Last Update: 15June,2020 16:20 (HKT)**
 
 ### 相簿 Album
 - [出道前 Pre-Debut](Markdown/Album/PreDebut.md)
@@ -15,7 +15,7 @@ Project started at May/2020
 - [第二單曲 2nd Single](Markdown/Album/2nd%20Single.html)
 - [角色設計 Character Design](Markdown/Album/CharacterDesgin.md)
 - [萬聖節限定頭像及壁紙 Halloween Special Icon & Wallpaper 2019](Markdown/Album/2019HalloweenSpecial.md)
-- [22/7 音楽の時間](Markdown/Album/Nanaon/Nanaon.md)<br><br>
+- [22/7 音楽の時間 Ongaku no Jikan](Markdown/Album/Nanaon/Nanaon.md)<br><br>
 - [天城サリー Amaki Sally](Markdown/Album/AmakiSally/AmakiSally.md)
 - [花川芽衣 Hanakawa Mei](Markdown/Album/HanakawaMei/HanakawaMei.md)
 - [帆風千春 Hokaze Chiharu](Markdown/Album/HokazeChiharu/HokazeChiharu.md)
@@ -42,6 +42,7 @@ Project started at May/2020
 - [音樂 Music](Markdown/Music/Music_List.md)
 
 ### 鳴謝 Credit
+###### _^ 排名不分先後 in arbitrary order_
 - [22/7 ナナブンのニジュウニ 香港應援支部 (22/7 Hong Kong Fans Group)](https://www.facebook.com/groups/2591995264350406)
 - 22/7tw ナナブンのニジュウニ台灣情報頁 [@227FanTW](https://www.facebook.com/227FanTW/)
 - 22/7音楽の時間～中文情報區～ [@nanaonzh](https://www.facebook.com/nanaonzh/)
@@ -51,7 +52,8 @@ Project started at May/2020
 - aga-yuu [@Agayuu1400](https://twitter.com/Agayuu1400)
 - Felis [@felis_227](https://twitter.com/felis_227)
 - 22/7 ファン [@227_fans](https://twitter.com/227_fans)
-- [22/7 Fandom Wiki](https://nanabunnonijyuuni.fandom.com/wiki/22/7_Wiki)  
+- [22/7 Fandom Wiki](https://nanabunnonijyuuni.fandom.com/wiki/22/7_Wiki)
+- [22/7 Ongaku no Jikan Fandom Wiki](https://nanaon.fandom.com/wiki/Nanabunnonijyuuni:_Ongaku_no_Jikan_Wiki)  
 
 <video width="100%" height="100%" controls>
   <source src="Vid/227 『風は吹いてるか？』.mp4" type="video/mp4">
