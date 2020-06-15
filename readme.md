@@ -7,7 +7,7 @@ Also provide useful information about 22/7. Please feel free to download and use
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 15June,2020 16:15 (HKT)**
+**最後更新日期 Last Update: 15June,2020 16:20 (HKT)**
 
 ### 相簿 Album
 - [出道前 Pre-Debut](Markdown/Album/PreDebut.md)
@@ -15,7 +15,7 @@ Project started at May/2020
 - [第二單曲 2nd Single](Markdown/Album/2nd%20Single.html)
 - [角色設計 Character Design](Markdown/Album/CharacterDesgin.md)
 - [萬聖節限定頭像及壁紙 Halloween Special Icon & Wallpaper 2019](Markdown/Album/2019HalloweenSpecial.md)
-- [22/7 音楽の時間](Markdown/Album/Nanaon/Nanaon.md)<br><br>
+- [22/7 音楽の時間 Ongaku no Jikan](Markdown/Album/Nanaon/Nanaon.md)<br><br>
 - [天城サリー Amaki Sally](Markdown/Album/AmakiSally/AmakiSally.md)
 - [花川芽衣 Hanakawa Mei](Markdown/Album/HanakawaMei/HanakawaMei.md)
 - [帆風千春 Hokaze Chiharu](Markdown/Album/HokazeChiharu/HokazeChiharu.md)
@@ -52,7 +52,8 @@ Project started at May/2020
 - aga-yuu [@Agayuu1400](https://twitter.com/Agayuu1400)
 - Felis [@felis_227](https://twitter.com/felis_227)
 - 22/7 ファン [@227_fans](https://twitter.com/227_fans)
-- [22/7 Fandom Wiki](https://nanabunnonijyuuni.fandom.com/wiki/22/7_Wiki)  
+- [22/7 Fandom Wiki](https://nanabunnonijyuuni.fandom.com/wiki/22/7_Wiki)
+- [22/7 Ongaku no Jikan Fandom Wiki](https://nanaon.fandom.com/wiki/Nanabunnonijyuuni:_Ongaku_no_Jikan_Wiki)  
 
 <video width="100%" height="100%" controls>
   <source src="Vid/227 『風は吹いてるか？』.mp4" type="video/mp4">
