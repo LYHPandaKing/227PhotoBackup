@@ -7,7 +7,7 @@ Also provide useful information about 22/7. Please feel free to download and use
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 16Jun,2020 00:41 (HKT)**
+**最後更新日期 Last Update: 16Jun,2020 21:34 (HKT)**
 
 ### 相簿 Album
 - [出道前 Pre-Debut](Markdown/Album/PreDebut.md)
@@ -15,6 +15,7 @@ Project started at May/2020
 - [第二單曲 2nd Single](Markdown/Album/2nd%20Single.html)
 - [角色設計 Character Design](Markdown/Album/CharacterDesgin.md)
 - [萬聖節限定頭像及壁紙 Halloween Special Icon & Wallpaper 2019](Markdown/Album/2019HalloweenSpecial.md)
+- [22/7 計算中 放送紀念頭像及壁紙 Commemoration Icons & Wallpapers for 22/7 Keisanchuu](Markdown/Album/KeisanchuuBroadcast.md)
 - [22/7 anime 20,000 followers 紀念頭像 Icon](Markdown/Album/TW20000fol.md)
 - [22/7 anime 30,000 followers 紀念頭像 Icon](Markdown/Album/TW30000fol.md)
 - [22/7 音楽の時間 Ongaku no Jikan](Markdown/Album/Nanaon/Nanaon.md)
@@ -33,7 +34,8 @@ Project started at May/2020
 - [海乃るり Umino Ruri](Markdown/Album/UminoRuri/UminoRuri.md)
 
 ### 備份 Backup  
-- [Youtube - Sally Amaki[official]](Markdown/Backup/Sally%20Amaki[official]/Sally%20Amaki[official].html)  
+- [YouTube - 22/7 OFFICIAL YouTube CHANNEL](Markdwon/Backup/227OfficialYouTube.md)
+- [YouTube - Sally Amaki[official]](Markdown/Backup/Sally%20Amaki[official]/Sally%20Amaki[official].html)  
 - [22/7 相關影片 Related Videos](Markdown/Backup/227Related/227Related.md)
 - [22/7計算中 "22/7 Keisanchuu"](Markdown/Backup/227Keisanchuu/227Keisanchuu_List.md)  
 - [22/7 Official Blog](Markdown/Backup/Blog/Blog_List.md)
