@@ -2,7 +2,7 @@
 ##### [Back](../../readme.md)
 
 - [BD & DVD Vol.3](BDDVD%20Vol3.html)  
-![BDDVDVol3](../../Img/Music/BDDVDVol3_Miyako.jpg){: width="585px"}  
+![BDDVDVol3](../../Img/Music/BDDVDVol3_MiyakoCover.png){: width="30%"}  
 
 - [22/7 音楽の時間 Ongaku no Jikan](227%20Ongaku%20no%20Jikan.html)  
 ![Ongaku no Jikan](../../Img/Music/Ongaku%20no%20Jikan.JPG){: width="30%"}
@@ -11,7 +11,7 @@
 ![Kaze wa Fuiteruka](../../Img/Music/KazewaFuiteruka.jpg){: width="30%"}  
 
 - [BD & DVD Vol.2](BDDVD%20Vol2.html)  
-![BDDVDVol2](../../Img/Music/BDDVDVol2.jpg){: width="30%"}  
+![BDDVDVol2](../../Img/Music/BDDVDVol2_SakuraCover.jpg){: width="30%"}  
 
 - [ムズイ Muzui](05_Muzui.html)  
 ![Muzui](../../Img/Music/MuzuiTypeA.jpg){: width="30%"}
