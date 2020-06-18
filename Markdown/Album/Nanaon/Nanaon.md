@@ -1,4 +1,4 @@
-### 22/7 音楽の時間
+### 22/7 音楽の時間 Ongaku no Jikan
 ##### [Back](../../../readme.md)
 
 - [卡面圖 Card Illustration]
