@@ -52,6 +52,11 @@
 ![RoughIllustration_13200013](../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13200013.png){: width="vw"}
 [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13200013.png)
 
+#### 〈物語〉シリーズコラボイベント〈前編〉
+##### 君の知らない物語  
+![RoughIllustration_13200019](../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13200019.png){: width="vw"}
+[Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13200019.png)
+
 ---
 
 #### 滝川みう Takigawa Miu  
@@ -70,6 +75,11 @@
 ##### ムズイ  
 ![RoughIllustration_13100019](../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13100019.png){: width="vw"}
 [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13100019.png)
+
+#### 〈物語〉シリーズコラボイベント〈前編〉
+##### staple stable  
+![RoughIllustration_13200020](../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13200020.png){: width="vw"}
+[Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13200020.png)
 
 --
 
@@ -105,6 +115,11 @@
 ![RoughIllustration_13200009](../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13200009.png){: width="vw"}
 [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13200009.png)
 
+#### 〈物語〉シリーズコラボイベント〈前編〉
+##### marshmallow justice  
+![RoughIllustration_13200022](../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13200022.png){: width="vw"}
+[Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13200022.png)
+
 ---
 
 #### 藤間桜 Fujima Sakura  
@@ -119,6 +134,11 @@
 ##### 空のエメラルド  
 ![RoughIllustration_13100020](../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13100020.png){: width="vw"}
 [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13100020.png)
+
+#### 〈物語〉シリーズコラボイベント〈前編〉
+##### 帰り道  
+![RoughIllustration_13200021](../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13200021.png){: width="vw"}
+[Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13200021.png)
 
 ---
 
