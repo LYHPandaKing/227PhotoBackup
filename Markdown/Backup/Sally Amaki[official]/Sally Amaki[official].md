@@ -1,6 +1,10 @@
 ### YouTube - Sally Amaki[official] [![SallyYT_th](../../../Img/SallyYT_th.PNG){: width="50"}](https://www.youtube.com/channel/UCi4UjmN8HSi16sAhh_iEb6w)
 ##### [Back](../../../readme.md)  
 
+#### [[Voice Actor/Idol cooking]恋人できないのはアイドルだから以前な問題の声優アイドルがモテたいから肉じゃが作っとく[料理vlog]](https://www.youtube.com/watch?v=F_Pb8mfs2QM)
+Date: 19Jun,2020
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7uk10c?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>  
+
 #### [日が昇るにつれ気が沈む声優IDOLの[MORNING ROUTINE](sub/字幕）](https://www.youtube.com/watch?v=uVm12EkaJhw&t=19s)
 Date: 12Jun,2020
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7ugnee?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>  
