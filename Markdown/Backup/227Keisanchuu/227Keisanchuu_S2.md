@@ -1,6 +1,19 @@
 ### 22/7計算中 "22/7 Keisanchuu" Season 2
 ##### [Back](227Keisanchuu_List.md)
 
+#### #12 第３回『あなたはどっち派？究極の選択』
+Date: 20Jun,2020
+>![20200620_S2Ep12](../../../Img/227Keisanchuu/20200620_S2Ep12.png){: width="vw"}  
+6月20日(土)の企画は第３回『あなたはどっち派？究極の選択』！  
+付き合うならどっち？「母親と比べてくる男性」「元カノと比べてくる男性」！  
+絶対的なポリシーを持った彼氏のファッションがダサかったら「別れる」「別れない」！  
+メンバーの本音＆価値観が丸裸に！  
+激しい意見の対立でヒートアップした討論の結末は！？  
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7umoxz?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
+
+#12 | [Source](https://www.facebook.com/nanabunnoID/photos/a.596906514009115/1179118059121288/) | [Download **Original**](https://drive.google.com/file/d/1Qhi3iYpgUAWMmnqBL6QxNKUZVZaza-82/view?fbclid=IwAR0apkz_Gz4nccHexazntuCaurYp58B253es2oBv7g7_f7Ut5s64jub05qc)
+
 #### #11 第１回『ナナオンクイーン」決定戦』最終決戦
 Date: 13Jun,2020
 >![20200613_S2Ep11](../../../Img/227Keisanchuu/20200613_S2Ep11.jpg){: width="vw"}  
