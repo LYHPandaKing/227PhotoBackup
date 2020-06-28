@@ -1,6 +1,21 @@
 ### 22/7計算中 "22/7 Keisanchuu" Season 2
 ##### [Back](227Keisanchuu_List.md)
 
+#### #13 「お宅拝見リポート選手権」
+Date: 27Jun,2020
+>![20200627_S2Ep13](../../../Img/227Keisanchuu/20200627_S2Ep13.png){: width="vw"}  
+６月２７日（土）の企画は「お宅拝見リポート選手権」！  
+バラエティ番組には欠かせない芸能人のお宅拝見企画！  
+そこで今回は戸田ジュン＆藤間桜がそれぞれ芸能人の自宅にお邪魔してリポート対決！  
+戸田ジュンはキングオブコント決勝進出経験を持つ芸人の自宅へ！  
+男の１人暮らしでまさかの●●を発見！？  
+さらに藤間桜は、キングオブコント優勝芸人の自宅へ！  
+禁断の悲しい家族関係が明らかに！？  
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7umoxz?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
+
+#13 | [Source]() | [Download **Original**]() | [中文翻譯 bilibili]()
+
 #### #12 第３回『あなたはどっち派？究極の選択』
 Date: 20Jun,2020
 >![20200620_S2Ep12](../../../Img/227Keisanchuu/20200620_S2Ep12.png){: width="vw"}  
@@ -12,7 +27,7 @@ Date: 20Jun,2020
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0417%;"><iframe src="https://www.dailymotion.com/embed/video/x7umoxz?queue-enable=false" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
 
-#12 | [Source](https://www.facebook.com/nanabunnoID/photos/a.596906514009115/1179118059121288/) | [Download **Original**](https://drive.google.com/file/d/1Qhi3iYpgUAWMmnqBL6QxNKUZVZaza-82/view?fbclid=IwAR0apkz_Gz4nccHexazntuCaurYp58B253es2oBv7g7_f7Ut5s64jub05qc)
+#12 | [Source](https://www.facebook.com/nanabunnoID/photos/a.596906514009115/1179118059121288/) | [Download **Original**](https://drive.google.com/file/d/1Qhi3iYpgUAWMmnqBL6QxNKUZVZaza-82/) | [中文翻譯 bilibili](https://www.bilibili.com/video/BV1r5411W73n)
 
 #### #11 第１回『ナナオンクイーン」決定戦』最終決戦
 Date: 13Jun,2020
