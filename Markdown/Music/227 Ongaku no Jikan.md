@@ -237,3 +237,23 @@ Date: 30Jun,2020
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/25.sugar%20sweet%20nightmare.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
+
+**26.白金ディスコ**  
+東条悠希（CV. 高辻麗）  
+![白金ディスコ](../../Img/Music/白金ディスコ.PNG){: width="70%"}  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/26.白金ディスコ.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**27.wicked prince**  
+河野都（CV. 倉岡水巴）  
+藤間桜（CV. 天城サリー）  
+丸山あかね（CV. 白沢かなえ）  
+滝川みう（CV. 西條和）  
+立川絢香（CV. 宮瀬玲奈）  
+![wicked prince](../../Img/Music/wicked%20prince.PNG){: width="70%"}  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/27.wicked%20prince.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
