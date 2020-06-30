@@ -222,5 +222,18 @@ Date: 30Jun,2020
   <p>Your browser does not support the audio element.</p>
 </audio>
 
+**24.恋愛サーキュレーション**  
+立川絢香（CV. 宮瀬玲奈）  
+![恋愛サーキュレーション](../../Img/Music/恋愛サーキュレーション.PNG){: width="70%"}  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/24.恋愛サーキュレーション.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
 
-
+**25.sugar sweet nightmare**  
+丸山あかね（CV. 白沢かなえ）  
+![sugar sweet nightmare](../../Img/Music/sugar%20sweet%20nightmare.PNG){: width="70%"}  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/25.sugar%20sweet%20nightmare.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
