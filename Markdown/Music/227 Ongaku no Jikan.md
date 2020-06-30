@@ -209,3 +209,18 @@ Date: 5Jun,2020
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/22.marshmallow%20justice.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
+
+---
+#### 〈物語〉シリーズコラボイベント〈後編〉
+Date: 30Jun,2020  
+
+**23.ambivalent world**  
+佐藤麗華（CV. 帆風千春）  
+![君の知らない物語](../../Img/Music/ambivalent%20world.PNG){: width="70%"}  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/23.ambivalent%20world.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+
+
