@@ -65,4 +65,9 @@ Project started at May/2020
   <source src="Vid/227 『風は吹いてるか？』.mp4" type="video/mp4">
 </video>
 
+<video width="100%" height="100%" controls>
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/20200630_YT/22.7.5th.2020.2.27.Zepp.Tokyo.mp4" type="video/mp4">
+</video>
+
+
 ![Promo](Img/Ending.PNG)
