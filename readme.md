@@ -7,7 +7,7 @@ Also provide useful information about 22/7. Please feel free to download and use
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 22Jul,2020 21:40 (HKT)**
+**最後更新日期 Last Update: 22Jul,2020 21:46 (HKT)**
 
 ### 相簿 Album
 - [出道前 Pre-Debut](Markdown/Album/PreDebut.md)
@@ -30,7 +30,7 @@ Project started at May/2020
 - [海乃るり Umino Ruri](Markdown/Album/UminoRuri/UminoRuri.md)
 
 ### 備份 Backup  
-- [YouTube - 22/7 OFFICIAL YouTube CHANNEL](Markdwon/Backup/227OfficialYouTube.md)
+- [YouTube - 22/7 OFFICIAL YouTube CHANNEL](Markdwon/Backup/227OfficialYouTube/227OfficialYouTube.md)
 - [YouTube - Sally Amaki[official]](Markdown/Backup/Sally%20Amaki[official]/Sally%20Amaki[official].html)  
 - [22/7 相關影片 Related Videos](Markdown/Backup/227Related/227Related.md)
 - [22/7計算中 "22/7 Keisanchuu"](Markdown/Backup/227Keisanchuu/227Keisanchuu_List.md)
