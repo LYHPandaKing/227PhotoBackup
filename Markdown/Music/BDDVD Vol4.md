@@ -3,7 +3,7 @@
 
 #### BD & DVD Vol.4
 ![BDDVDVol4_Jun](../../Img/Music/BDDVDVol4_JunCover.jpg){: width="70%"}  
-![BDDVDVol4_Akane](../../Img/Music/BDDVDVol4_Akane.jpg){: width="70%"}  
+![BDDVDVol4_Akane](../../Img/Music/BDDVDVol4_AkaneCover.jpg){: width="70%"}  
 Date: 15Jul,2020  
 
 **01.人生はワルツ**  
