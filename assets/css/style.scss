@@ -47,3 +47,28 @@ div.disabled {
     font-weight: normal;
     color: #009DDD;
   }
+
+.btn-group button {
+  background-color: #E8E8E8; /* Green background */
+  border: 1px solid #E8E8E8; /* Green border */
+  color: black; /* White text */
+  padding: 10px 24px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  float: left; /* Float the buttons side by side */
+}
+
+.btn-group button:not(:last-child) {
+  border-right: none; /* Prevent double borders */
+}
+
+/* Clear floats (clearfix hack) */
+.btn-group:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #E8E8E8;
+}
