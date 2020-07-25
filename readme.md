@@ -67,7 +67,7 @@ Twitter
 Other
 - [22/7 Fandom Wiki](https://nanabunnonijyuuni.fandom.com/wiki/22/7_Wiki)
 - [22/7 Ongaku no Jikan Fandom Wiki](https://nanaon.fandom.com/wiki/Nanabunnonijyuuni:_Ongaku_no_Jikan_Wiki)
-- [22/7 CN Wiki](http://227cnwiki.com/wiki/%e9%a6%96%e9%a1%b5)  
+- [22/7 中文 Wiki](http://227cnwiki.com/wiki/%e9%a6%96%e9%a1%b5)  
 
 <video width="100%" height="100%" controls>
   <source src="Vid/227 『風は吹いてるか？』.mp4" type="video/mp4">
