@@ -7,7 +7,7 @@ Also provide useful information about 22/7. Please feel free to download and use
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 25Jul,2020 23:46 (HKT)**
+**最後更新日期 Last Update: 25Jul,2020 23:54 (HKT)**
 
 ### 相簿 Album
 - [出道前 Pre-Debut](Markdown/Album/PreDebut.md)
@@ -51,6 +51,8 @@ Project started at May/2020
 Facebook
 - [22/7 ナナブンのニジュウニ 香港應援支部 (22/7 Hong Kong Fans Group)](https://www.facebook.com/groups/2591995264350406)
 - [ナナブンノニジュウニ交流討論區 22/7FansGroup](https://www.facebook.com/groups/227FG/)
+- [22/7 Idol Group - International Fans](https://www.facebook.com/groups/274226923142369/)
+- [Nanabun no nijuuni 22/7 - Ongaku no Jikan International Players](https://www.facebook.com/groups/703619237062957/)
 - 22/7tw ナナブンのニジュウニ台灣情報頁 [@227FanTW](https://www.facebook.com/227FanTW/)
 - 22/7音楽の時間～中文情報區～ [@nanaonzh](https://www.facebook.com/nanaonzh/)
 - 22/7 ナナブンノニジュウニ Indonesia Fanspage [@nanabunnoID](https://www.facebook.com/pg/nanabunnoID/)
