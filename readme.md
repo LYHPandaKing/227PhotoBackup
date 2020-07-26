@@ -7,7 +7,7 @@ Also provide useful information about 22/7. Please feel free to download and use
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 25Jul,2020 23:59 (HKT)**
+**最後更新日期 Last Update: 27Jul,2020 00:56 (HKT)**
 
 ### 相簿 Album
 - [出道前 Pre-Debut](Markdown/Album/PreDebut.md)
@@ -67,7 +67,11 @@ Twitter
 Other
 - [22/7 Fandom Wiki](https://nanabunnonijyuuni.fandom.com/wiki/22/7_Wiki)
 - [22/7 Ongaku no Jikan Fandom Wiki](https://nanaon.fandom.com/wiki/Nanabunnonijyuuni:_Ongaku_no_Jikan_Wiki)
-- [22/7 中文 Wiki](http://227cnwiki.com/wiki/%e9%a6%96%e9%a1%b5)  
+- [22/7 中文 Wiki](http://227cnwiki.com/wiki/%e9%a6%96%e9%a1%b5)
+- [yande.re](https://yande.re/post)
+- [bilibili - 227中文应援站](https://space.bilibili.com/118938280/)
+- [bilibili - Sov](https://space.bilibili.com/730686/)
+- [bilibili - ナナ二ジ的搬运工](https://space.bilibili.com/571233650/)  
 
 <video width="100%" height="100%" controls>
   <source src="Vid/227 『風は吹いてるか？』.mp4" type="video/mp4">
