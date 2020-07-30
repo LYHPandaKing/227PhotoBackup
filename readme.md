@@ -1,4 +1,4 @@
-![227Main](Img/227Cover_v2.PNG)
+﻿![227Main](Img/227Cover_v2.PNG)
 ### 背景資料 Background Information
 此為非官方 22/7 網頁，主要備份Twitter、Instagram及公式照等，並提供資訊，供粉絲使用及收藏。  
 This is unofficial 22/7 website. Mainly focusing on backup Twitter, Instagram and official photos etc.  
@@ -7,7 +7,7 @@ Also provide useful information about 22/7. Please feel free to download and use
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 27Jul,2020 00:56 (HKT)**
+**最後更新日期 Last Update: 30Jul,2020 20:45 (HKT)**
 
 ### 相簿 Album
 - [出道前 Pre-Debut](Markdown/Album/PreDebut.md)
