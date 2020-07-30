@@ -257,3 +257,45 @@ Date: 30Jun,2020
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/27.wicked%20prince.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
+
+----
+
+#### 22/7×SUMMER×SUMMER×SUMMER! 前編
+Date: 30Jul,2020
+
+**28.Everyday、カチューシャ**  
+佐藤麗華（CV. 帆風千春）  
+滝川みう（CV. 西條和）  
+斎藤ニコル（CV. 河瀬詩）  
+立川絢香（CV. 宮瀬玲奈）  
+柊つぼみ（CV. 武田愛奈）  
+![Everyday、カチューシャ](../../Img/Music/Everyday、カチューシャ.png){: width="70%"}  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/28.Everyday、カチューシャ.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**29.ナギイチ**  
+滝川みう（CV. 西條和）  
+神木みかみ（CV. 涼花萌）  
+立川絢香（CV. 宮瀬玲奈）  
+戸田ジュン（CV. 海乃るり）  
+河野都（CV. 倉岡水巴）  
+![ナギイチ](../../Img/Music/ナギイチ.png){: width="70%"}  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/29.ナギイチ.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**30.パレオはエメラルド**  
+斎藤ニコル（CV. 河瀬詩）  
+神木みかみ（CV. 涼花萌）  
+立川絢香（CV. 宮瀬玲奈）  
+丸山あかね（CV. 白沢かなえ）  
+東条悠希（CV. 高辻麗）  
+藤間桜（CV. 天城サリー）  
+![パレオはエメラルド](../../Img/Music/パレオはエメラルド.png){: width="70%"}  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/30.パレオはエメラルド.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
