@@ -2,7 +2,6 @@
 ##### [Back](227%20Ongaku%20no%20Jikan.html)
 
 #### 22/7 音楽の時間  翻唱歌曲 Cover Songs
-![Ongaku no Jikan](../../Img/Music/Ongaku%20no%20Jikan.JPG){: width="70%"}  
 Date: 27May,2020  
 
 **01.青いスタスィオン**  

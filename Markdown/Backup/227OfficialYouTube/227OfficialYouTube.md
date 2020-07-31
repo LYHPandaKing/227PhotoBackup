@@ -1,5 +1,5 @@
-### 22/7 OFFICIAL YouTube CHANNEL
-##### [Back](../../../readme.md)
+﻿### 22/7 OFFICIAL YouTube CHANNEL
+##### [Back](../YouTube_List.md)
 
 ![20200723_Speech](../../../Img/227OfficialYouTube/20200723_Speech.jpg){: width="500"}  
 [22/7 #せいゆうろうどくかい 「雨あがり」](20200723_Speech.md)

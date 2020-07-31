@@ -7,7 +7,7 @@ Also provide useful information about 22/7. Please feel free to download and use
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 31Jul,2020 00:14 (HKT)**
+**最後更新日期 Last Update: 31Jul,2020 : (HKT)**
 
 ### 相簿 Album
 - [出道前 Pre-Debut](Markdown/Album/PreDebut.md)
@@ -32,8 +32,8 @@ Project started at May/2020
 ### 備份 Backup  
 - [22/7 Official Blog](Markdown/Backup/Blog/Blog_List.md)
 - [22/7計算中 "22/7 Keisanchuu"](Markdown/Backup/227Keisanchuu/227Keisanchuu_List.md)
-- [YouTube - 22/7 OFFICIAL YouTube CHANNEL](Markdown/Backup/227OfficialYouTube/227OfficialYouTube.md)
-- [YouTube - Sally Amaki[official]](Markdown/Backup/Sally%20Amaki[official]/Sally%20Amaki[official].html)  
+- [YouTube](Markdown/Backup/YouTube_List.md)
+- [Showroom](Markdown/Backup/Showroom/Showroom_List.md)
 - [22/7 相關影片 Related Videos](Markdown/Backup/227Related/227Related.md)
 <br><br>
 - [萬聖節限定頭像及壁紙 Halloween Special Icon & Wallpaper 2019](Markdown/Backup/2019HalloweenSpecial.md)
