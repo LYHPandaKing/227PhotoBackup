@@ -10,7 +10,7 @@ Official Site: [English](https://aniplex-online-fest.com/) // [CHS](https://www.
 
 ---
 
-#### [#2 Sword Art Online 10th Anniversary Special Program Composer Yuki Kajiura and Music for SAO<br>#2 「刀劍神域」出版發行10週年紀念特別節目 作曲家 梶浦由記與刀](AniplexFest_Ep2.md)
+#### [#2 Sword Art Online 10th Anniversary Special Program Composer Yuki Kajiura and Music for SAO<br>#2 「刀劍神域」出版發行10週年紀念特別節目 作曲家 梶浦由記與刀劍神域的音樂](AniplexFest_Ep2.md)
 ![#2](../../../Img/Aniplex%20Online%20Fest/sao-10th_aof2020.jpg)
 
 ---
@@ -55,7 +55,7 @@ Official Site: [English](https://aniplex-online-fest.com/) // [CHS](https://www.
 
 ---
 
-#### [#11 The Millionaire Detective -Balance:UNMISSABLE<br>#11 富豪刑警 -Balance:UNMISSABLE](AniplexFest_Ep11.md)
+#### [#11 The Millionaire Detective -Balance:UNMISSABLE<br>#11 富豪刑警 Balance:UNMISSABLE](AniplexFest_Ep11.md)
 ![#11](../../../Img/Aniplex%20Online%20Fest/millionairedetective_aof2020.jpg)
 
 ---
@@ -65,7 +65,7 @@ Official Site: [English](https://aniplex-online-fest.com/) // [CHS](https://www.
 
 ---
 
-#### [#13 SACRA MUSIC FES. 2019 -NEXT GENERATION-<br>#13 SACRA MUSIC FES 2019 -Next Gen](AniplexFest_Ep13.md)
+#### [#13 SACRA MUSIC FES. 2019 -NEXT GENERATION-<br>#13 SACRA MUSIC FES 2019 -Next Generation- Aniplex Online Fest Edit](AniplexFest_Ep13.md)
 ![#13](../../../Img/Aniplex%20Online%20Fest/sacra-fes2019_aof2020.jpg)
 
 ---
