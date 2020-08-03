@@ -2,8 +2,8 @@
 ##### [Back](../../../readme.md)
 
 ![Aniplex](https://aniplex-online-fest.com/assets/images/ogp/ogp.png) {: width="vw"}  
-[Official Site](https://aniplex-online-fest.com/)
-#### _^ 此處備份了bilibili版本的 Aniplex Online Fest 影片 (僅提供簡中字幕)。<br>The following videos came from bilibili and only provided with CHS subtitle._
+Official Site: [English](https://aniplex-online-fest.com/) // [CHS](https://www.bilibili.com/blackboard/activity-aniplex-online-fest.html)
+#### _^ 此處備份了部份 Aniplex Online Fest 影片 (部份源自nicovideo)。<br>Some of the following videos were come from nicovideo (Source links will be credited.)_
 
 #### [#1 Sword Art Online Alicization War of Underworld THE LAST SEASON Online Panel<br>#1 《刀劍神域 愛麗絲篇 異界戰爭》最終章座談會](AniplexFest_Ep1.md)
 ![#1](../../../Img/Aniplex%20Online%20Fest/sao-alicization_aof2020.jpg)
