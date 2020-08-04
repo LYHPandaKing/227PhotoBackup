@@ -1,9 +1,9 @@
 ### #11 SUPER HXEROS -"H"EROES SAVE THE WORLD
 ##### [Back](AniplexFest_List.md)
 
-![#11](../../../Img/Aniplex%20Online%20Fest/hxeros_aof2020.jpg)
+##### _** YouTube 獨有節目 Exclusively on YouTube_
 
-** YouTube 獨有節目 Exclusively on YouTube
+![#11](../../../Img/Aniplex%20Online%20Fest/hxeros_aof2020.jpg)
 
 YouTube Version:
 <video width="100%" height="100%" controls>
