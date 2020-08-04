@@ -124,7 +124,7 @@ Official Site: [English](https://aniplex-online-fest.com/) // [CHS](https://www.
 
 ---
 
-#### [#22 New Worldwide Contents by Sony Music Labels & by YouTube Music Channel<br>#22 Sony Music Labels 與　YouTube 音槳頻道帶來的全球化新體驗](AniplexFest_Ep22.md)
+#### [#22 New Worldwide Contents by Sony Music Labels & by YouTube Music Channel<br>#22 Sony Music Labels 與 YouTube 音槳頻道帶來的全球化新體驗](AniplexFest_Ep22.md)
 ![#22](../../../Img/Aniplex%20Online%20Fest/nwc_aof2020.jpg)
 
 ---
