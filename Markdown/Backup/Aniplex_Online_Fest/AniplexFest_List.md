@@ -5,6 +5,8 @@
 Official Site: [English](https://aniplex-online-fest.com/) // [CHS](https://www.bilibili.com/blackboard/activity-aniplex-online-fest.html)
 #### _^ 此處備份了部份 Aniplex Online Fest 影片 (部份源自nicovideo)。<br>Some of the following videos were come from nicovideo (Source links will be credited.)_
 
+#### Day1
+
 #### [#1 Sword Art Online Alicization War of Underworld THE LAST SEASON Online Panel<br>#1 《刀劍神域 愛麗絲篇 異界戰爭》最終章座談會](AniplexFest_Ep1.md)
 ![#1](../../../Img/Aniplex%20Online%20Fest/sao-alicization_aof2020.jpg)
 
@@ -12,6 +14,12 @@ Official Site: [English](https://aniplex-online-fest.com/) // [CHS](https://www.
 
 #### [#2 Sword Art Online 10th Anniversary Special Program Composer Yuki Kajiura and Music for SAO<br>#2 「刀劍神域」出版發行10週年紀念特別節目 作曲家 梶浦由記與刀劍神域的音樂](AniplexFest_Ep2.md)
 ![#2](../../../Img/Aniplex%20Online%20Fest/sao-10th_aof2020.jpg)
+
+---
+#### DJ Kazu SAO series selection
+** YouTube 獨有節目 Exclusively on YouTube
+^ Not Available Now
+![DJ Kazu SAO series selection](../../../Img/Aniplex%20Online%20Fest/djkazu-sao_aof2020.jpg)
 
 ---
 
@@ -35,6 +43,13 @@ Official Site: [English](https://aniplex-online-fest.com/) // [CHS](https://www.
 
 ---
 
+#### Aniplex of America Industry Panel
+** YouTube 獨有節目 Exclusively on YouTube
+^ Not Available Now
+![Aniplex of America Industry Panel](../../../Img/Aniplex%20Online%20Fest/aoa_aof2020.jpg)
+
+---
+
 #### [#7 Aniplex Shanghai Special Programme<br>#7 Aniplex Shanghai 特別節目](AniplexFest_Ep7.md)
 ** Bilibili 獨有節目 Exclusively on Bilibili
 ![#7](../../../Img/Aniplex%20Online%20Fest/Aniplex_Shanghai_Special_programme.jpg)
@@ -43,6 +58,12 @@ Official Site: [English](https://aniplex-online-fest.com/) // [CHS](https://www.
 
 #### [#8 ANIPLEX.EXE presents ATRI & Adabana Odd Tales Special Panel<br>#8 ANIPLEX.EXE《ATRI》&《徒花異譚》座談會](AniplexFest_Ep8.md)
 ![#8](../../../Img/Aniplex%20Online%20Fest/aniplex-exe_aof2020.jpg)
+
+---
+
+#### SUPER HXEROS -"H"EROES SAVE THE WORLD
+** YouTube 獨有節目 Exclusively on YouTube
+![HXEROS](../../../Img/Aniplex%20Online%20Fest/hxeros_aof2020.jpg)
 
 ---
 
@@ -73,6 +94,29 @@ Official Site: [English](https://aniplex-online-fest.com/) // [CHS](https://www.
 
 #### [#14 DJ Kazu Aniplex All Time Mix Vol.1<br>#14 DJ和 - Aniplex All Time Mix Vol.1](AniplexFest_Ep14.md)
 ![#14](../../../Img/Aniplex%20Online%20Fest/djkazu-aatm01_aof2020.jpg)
+
+---
+
+#### Aniplex of America 15th Anniversary Anime Marathon
+** YouTube 獨有節目 Exclusively on YouTube
+^ Not Available Now
+![Aniplex of America 15th Anniversary Anime Marathon](../../../Img/Aniplex%20Online%20Fest/key_13.jpg)
+
+---
+
+#### Day 2
+
+#### The Irregular at Magic High School: Visitor Arc Special Panel
+** YouTube 獨有節目 Exclusively on YouTube
+^ Not Available Now
+![The Irregular at Magic High School](../../../Img/Aniplex%20Online%20Fest/mahouka_aof2020.jpg)
+
+---
+
+#### DJ Kazu Fate series selection
+** YouTube 獨有節目 Exclusively on YouTube
+^ Not Available Now
+![DJ Kazu Fate series selection](../../../Img/Aniplex%20Online%20Fest/dajkazu-fate_aof2020.jpg)
 
 ---
 
