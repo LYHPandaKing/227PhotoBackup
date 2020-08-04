@@ -9,3 +9,14 @@ Bilibili Version:
 </video>
 
 [參演嘉賓] 花江夏樹 / 下野紘
+
+---
+
+YouTube Version:
+<video width="100%" height="100%" controls>
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/Aniplex_Online_Fest/Aniplex.Online.Fest.2020-33-YT.Demon.Slayer.Kimetsu.no.Yaiba.-.Overseas.Trip.mp4" type="video/mp4">
+</video>
+
+[Source](https://www.nicovideo.jp/watch/sm37148410)
+
+Guests: Natsuki Hanae (花江夏樹), Hiro Shimono (下野紘)
