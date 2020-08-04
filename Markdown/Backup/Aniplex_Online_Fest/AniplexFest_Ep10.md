@@ -19,5 +19,5 @@ YouTube Version:
 
 [Source](https://www.nicovideo.jp/watch/sm37148585)
 
-Guests: Hikaru Akao (赤尾光), Wataru Kato (加藤渉)
+Guests: Hikaru Akao (赤尾光), Wataru Kato (加藤渉)  
 MC: Hiroki Shimada (島田紘希) (Aniplex)
