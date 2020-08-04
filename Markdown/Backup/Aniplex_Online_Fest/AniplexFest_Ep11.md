@@ -1,12 +1,16 @@
-### #11 The Millionaire Detective -Balance:UNMISSABLE<br>#11 富豪刑警 Balance:UNMISSABLE
+### #11 SUPER HXEROS -"H"EROES SAVE THE WORLD
 ##### [Back](AniplexFest_List.md)
 
-![#11](../../../Img/Aniplex%20Online%20Fest/millionairedetective_aof2020.jpg)
+![#11](../../../Img/Aniplex%20Online%20Fest/hxeros_aof2020.jpg)
 
-Bilibili Version:
+** YouTube 獨有節目 Exclusively on YouTube
+
+YouTube Version:
 <video width="100%" height="100%" controls>
-  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/Aniplex_Online_Fest/Aniplex.Online.Fest.2020-11-The.Millionaire.Detective.-Balance.UNMISSABLE.mp4" type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/Aniplex_Online_Fest/Aniplex.Online.Fest.2020-11-SUPER.HXEROS.-.H.EROES.SAVE.THE.WORLD.mp4" type="video/mp4">
 </video>
 
-[參演嘉賓] 大貫勇輔 / 宮野真守 / 松尾拓 (負責人) ／MC 鷲崎健<br>
-[GUEST] SixTONES
+[Source](https://www.nicovideo.jp/watch/sm37141589)
+
+Guests: Yoshitsugu Matsuoka (松岡禎丞), Sayuri Yahagi (矢作紗友里), Yuuki Kuwahara (桑原由気)  
+MC: Takuya Hoshino (星野卓也)
