@@ -7,3 +7,5 @@ Bilibili Version:
 <video width="100%" height="100%" controls>
   <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/Aniplex_Online_Fest/Aniplex.Online.Fest.2020-06-How.to.Make.Figures.mp4" type="video/mp4">
 </video>
+
+[參演嘉賓] 下屋則子／小田ツヨシ（ストロンガー）／笠原昇（アニプレックス）／加藤隆弘（アニプレックス）／酒井耕佑（アニプレックス）／MC 天津向
