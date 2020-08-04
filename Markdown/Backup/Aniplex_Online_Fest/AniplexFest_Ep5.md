@@ -1,11 +1,11 @@
-### #5 Warlords of Sigrdrifa Online Panel<br>#5 《戰翼的希格德莉法》製作組座談會
+﻿### #5 Songs and Messages from Artists Vol.1<br>#5 動畫歌曲及歌手訪談 Vol.1
 ##### [Back](AniplexFest_List.md)
 
-![#5](../../../Img/Aniplex%20Online%20Fest/sigururi_aof2020.jp
+![#5](../../../Img/Aniplex%20Online%20Fest/sam01_aof2020.jpg)
 
 Bilibili Version:
 <video width="100%" height="100%" controls>
-  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/Aniplex_Online_Fest/Aniplex.Online.Fest.2020-05-Warlords.of.Sigrdrifa.Online.Panel.mp4" type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/Aniplex_Online_Fest/Aniplex.Online.Fest.2020-05-Songs.and.Messages.from.Artists.Vol.1.mp4" type="video/mp4">
 </video>
 
-[參演嘉賓] 山村響 / 長月達平 / 鈴木貴昭 / 神宮司学 (Aniplex) / MC 吉田尚記
+[參演嘉賓] 22/7 / Claris / halca / 鈴木雅之 / ReoNa / TrySail

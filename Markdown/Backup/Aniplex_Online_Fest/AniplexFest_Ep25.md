@@ -1,11 +1,11 @@
-### #25 DJ Kazu Aniplex All Time Mix Vol.2<br>#25 DJ和 - Aniplex All Time Mix Vol.2
+﻿### #25 Talking and Drawing with CloverWorks<br>#25 CloverWorks作畫展示與幕後訪談
 ##### [Back](AniplexFest_List.md)
 
-![#25](../../../Img/Aniplex%20Online%20Fest/dajkazu-aatm02_aof2020.jpg)
+![#25](../../../Img/Aniplex%20Online%20Fest/cloverworks_aof2020.jpg)
 
 Bilibili Version:
 <video width="100%" height="100%" controls>
-  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/Aniplex_Online_Fest/Aniplex.Online.Fest.2020-25-DJ.Kazu.Aniplex.All.Time.Mix.Vol.2.mp4" type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/Aniplex_Online_Fest/Aniplex.Online.Fest.2020-25-Talking.and.Drawing.with.CloverWorks.mp4" type="video/mp4">
 </video>
 
-[參演嘉賓] DJ和
+[參演嘉賓] 田村里美 / 清水暁 (CloverWorks) / 木田和哉 (CloverWorks) / MC 本間久美子 (Aniplex)

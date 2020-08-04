@@ -1,11 +1,11 @@
-### #4 Songs and Messages from Artists Vol.1<br>#4 動畫歌曲及歌手訪談 Vol.1
+﻿### #4 Magia Record: Puella Magi Madoka Magica Side Story - Magical Talk<br>#4 魔法紀錄 魔法少女小圓外傳 Magical Talk
 ##### [Back](AniplexFest_List.md)
 
-![#4](../../../Img/Aniplex%20Online%20Fest/sam01_aof2020.jpg)
+![#4](../../../Img/Aniplex%20Online%20Fest/magiarecord_aof2020.jpg)
 
 Bilibili Version:
 <video width="100%" height="100%" controls>
-  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/Aniplex_Online_Fest/Aniplex.Online.Fest.2020-04-Songs.and.Messages.from.Artists.Vol.1.mp4" type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/Aniplex_Online_Fest/Aniplex.Online.Fest.2020-04-Magia.Record.PuellaMagi.Madoka.Magica.Side.Story-Magical.Talk.mp4" type="video/mp4">
 </video>
 
-[參演嘉賓] 22/7 / Claris / halca / 鈴木雅之 / ReoNa / TrySail
+[參演嘉賓] 麻倉もも / 加藤英美里 / 外山祐介 (Aniplex) / MC 石川達也 (Aniplex)

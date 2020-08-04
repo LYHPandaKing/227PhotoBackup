@@ -1,9 +1,11 @@
-### #13 SACRA MUSIC FES. 2019 -NEXT GENERATION-<br>#13 SACRA MUSIC FES 2019 -Next Generation- Aniplex Online Fest Edit
+﻿### #13 A-1 Pictures Special Talk Show<br>#13 A-1 Pictures 座談會
 ##### [Back](AniplexFest_List.md)
 
-![#13](../../../Img/Aniplex%20Online%20Fest/sacra-fes2019_aof2020.jpg)
+![#13](../../../Img/Aniplex%20Online%20Fest/a1p_aof2020.jpg)
 
 Bilibili Version:
 <video width="100%" height="100%" controls>
-  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/Aniplex_Online_Fest/Aniplex.Online.Fest.2020-13-SACRA.MUSIC.FES.2019.-Next.Gen.mp4" type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/Aniplex_Online_Fest/Aniplex.Online.Fest.2020-13-A-1.Pictures.Special.Talk.Show.mp4" type="video/mp4">
 </video>
+
+[出演者] 金子敦史 (A-1 Pictures) / 須田直輝 (A-1 Pictures) / MC 天城サリー

@@ -1,13 +1,11 @@
-### #7 Aniplex Shanghai Special Programme<br>#7 Aniplex Shanghai 特別節目
+﻿### #7 How to Make Figures<br>#7 我在Aniplex做手辦
 ##### [Back](AniplexFest_List.md)
 
-##### _** Bilibili 獨有節目 Exclusively on Bilibili_
-
-![#7](../../../Img/Aniplex%20Online%20Fest/Aniplex_Shanghai_Special_programme.jpg)
+![#7](../../../Img/Aniplex%20Online%20Fest/htmf_aof2020.jpg)
 
 Bilibili Version:
 <video width="100%" height="100%" controls>
-  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/Aniplex_Online_Fest/Aniplex.Online.Fest.2020-07-Aniplex.Shanghai.Special.Programme.mp4" type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/Aniplex_Online_Fest/Aniplex.Online.Fest.2020-07-How.to.Make.Figures.mp4" type="video/mp4">
 </video>
 
-[參演嘉賓] 岩上敦宏 (Aniplex 影像) / 高橋洋 (Sony中國 影像) / MC 朱铮 (Aniplex Shanghai) / MC 小M呜喵王
+[參演嘉賓] 下屋則子／小田ツヨシ（STRONGER）／笠原昇（Aniplex）／加藤隆弘（Aniplex）／酒井耕佑（Aniplex）／MC 天津向
