@@ -7,3 +7,5 @@ Bilibili Version:
 <video width="100%" height="100%" controls>
   <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/Aniplex_Online_Fest/Aniplex.Online.Fest.2020-04-Songs.and.Messages.from.Artists.Vol.1.mp4" type="video/mp4">
 </video>
+
+[參演嘉賓] 22/7 / Claris / halca / 鈴木雅之 / ReoNa / TrySail
