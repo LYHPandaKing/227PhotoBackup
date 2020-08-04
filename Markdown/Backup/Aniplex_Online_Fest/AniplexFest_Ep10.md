@@ -16,6 +16,7 @@ YouTube Version:
 <video width="100%" height="100%" controls>
   <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/Aniplex_Online_Fest/Aniplex.Online.Fest.2020-10-YT.ANIPLEX.EXE.presents.ATRI.Adabana.Odd.Tales.Special.Panel.mp4" type="video/mp4">
 </video>
+[Source](https://www.nicovideo.jp/watch/sm37148585)
 
 Guests: Hikaru Akao (赤尾光), Wataru Kato (加藤渉)
 MC: Hiroki Shimada (島田紘希) (Aniplex)
