@@ -17,7 +17,7 @@ Official Site: [English](https://aniplex-online-fest.com/) // [CHS](https://www.
 
 ---
 #### DJ Kazu SAO series selection
-** YouTube 獨有節目 Exclusively on YouTube
+** YouTube 獨有節目 Exclusively on YouTube  
 ^ Not Available Now
 ![DJ Kazu SAO series selection](../../../Img/Aniplex%20Online%20Fest/djkazu-sao_aof2020.jpg)
 
@@ -44,7 +44,7 @@ Official Site: [English](https://aniplex-online-fest.com/) // [CHS](https://www.
 ---
 
 #### Aniplex of America Industry Panel
-** YouTube 獨有節目 Exclusively on YouTube
+** YouTube 獨有節目 Exclusively on YouTube  
 ^ Not Available Now
 ![Aniplex of America Industry Panel](../../../Img/Aniplex%20Online%20Fest/aoa_aof2020.jpg)
 
@@ -98,7 +98,7 @@ Official Site: [English](https://aniplex-online-fest.com/) // [CHS](https://www.
 ---
 
 #### Aniplex of America 15th Anniversary Anime Marathon
-** YouTube 獨有節目 Exclusively on YouTube
+** YouTube 獨有節目 Exclusively on YouTube  
 ^ Not Available Now
 ![Aniplex of America 15th Anniversary Anime Marathon](../../../Img/Aniplex%20Online%20Fest/key_13.jpg)
 
@@ -107,14 +107,14 @@ Official Site: [English](https://aniplex-online-fest.com/) // [CHS](https://www.
 #### Day 2
 
 #### The Irregular at Magic High School: Visitor Arc Special Panel
-** YouTube 獨有節目 Exclusively on YouTube
+** YouTube 獨有節目 Exclusively on YouTube  
 ^ Not Available Now
 ![The Irregular at Magic High School](../../../Img/Aniplex%20Online%20Fest/mahouka_aof2020.jpg)
 
 ---
 
 #### DJ Kazu Fate series selection
-** YouTube 獨有節目 Exclusively on YouTube
+** YouTube 獨有節目 Exclusively on YouTube  
 ^ Not Available Now
 ![DJ Kazu Fate series selection](../../../Img/Aniplex%20Online%20Fest/dajkazu-fate_aof2020.jpg)
 
