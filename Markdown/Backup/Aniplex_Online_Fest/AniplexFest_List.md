@@ -1,7 +1,7 @@
 ### Aniplex Online Fest
 ##### [Back](../../../readme.md)
 
-![Aniplex](https://aniplex-online-fest.com/assets/images/ogp/ogp.png) {: width="vw"}  
+![Aniplex](../../../Img/Backup/Aniplex%20Online%20Fest/ogp.png){: width="vw"}  
 Official Site: [English](https://aniplex-online-fest.com/) // [CHS](https://www.bilibili.com/blackboard/activity-aniplex-online-fest.html)
 #### _^ 此處備份了部份 Aniplex Online Fest 影片 (部份源自nicovideo)。<br>Some of the following videos were come from nicovideo (Source links will be credited.)_
 
