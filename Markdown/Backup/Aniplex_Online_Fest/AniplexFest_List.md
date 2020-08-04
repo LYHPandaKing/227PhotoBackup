@@ -18,7 +18,7 @@ Official Site: [English](https://aniplex-online-fest.com/) // [CHS](https://www.
 ---
 #### DJ Kazu SAO series selection
 ** YouTube 獨有節目 Exclusively on YouTube  
-^ Not Available Now
+^ Not Available Now  
 ![DJ Kazu SAO series selection](../../../Img/Aniplex%20Online%20Fest/djkazu-sao_aof2020.jpg)
 
 ---
@@ -45,13 +45,13 @@ Official Site: [English](https://aniplex-online-fest.com/) // [CHS](https://www.
 
 #### Aniplex of America Industry Panel
 ** YouTube 獨有節目 Exclusively on YouTube  
-^ Not Available Now
+^ Not Available Now  
 ![Aniplex of America Industry Panel](../../../Img/Aniplex%20Online%20Fest/aoa_aof2020.jpg)
 
 ---
 
 #### [#7 Aniplex Shanghai Special Programme<br>#7 Aniplex Shanghai 特別節目](AniplexFest_Ep7.md)
-** Bilibili 獨有節目 Exclusively on Bilibili
+** Bilibili 獨有節目 Exclusively on Bilibili  
 ![#7](../../../Img/Aniplex%20Online%20Fest/Aniplex_Shanghai_Special_programme.jpg)
 
 ---
@@ -62,7 +62,7 @@ Official Site: [English](https://aniplex-online-fest.com/) // [CHS](https://www.
 ---
 
 #### SUPER HXEROS -"H"EROES SAVE THE WORLD
-** YouTube 獨有節目 Exclusively on YouTube
+** YouTube 獨有節目 Exclusively on YouTube  
 ![HXEROS](../../../Img/Aniplex%20Online%20Fest/hxeros_aof2020.jpg)
 
 ---
@@ -99,7 +99,7 @@ Official Site: [English](https://aniplex-online-fest.com/) // [CHS](https://www.
 
 #### Aniplex of America 15th Anniversary Anime Marathon
 ** YouTube 獨有節目 Exclusively on YouTube  
-^ Not Available Now
+^ Not Available Now  
 ![Aniplex of America 15th Anniversary Anime Marathon](../../../Img/Aniplex%20Online%20Fest/key_13.jpg)
 
 ---
@@ -108,14 +108,14 @@ Official Site: [English](https://aniplex-online-fest.com/) // [CHS](https://www.
 
 #### The Irregular at Magic High School: Visitor Arc Special Panel
 ** YouTube 獨有節目 Exclusively on YouTube  
-^ Not Available Now
+^ Not Available Now  
 ![The Irregular at Magic High School](../../../Img/Aniplex%20Online%20Fest/mahouka_aof2020.jpg)
 
 ---
 
 #### DJ Kazu Fate series selection
 ** YouTube 獨有節目 Exclusively on YouTube  
-^ Not Available Now
+^ Not Available Now  
 ![DJ Kazu Fate series selection](../../../Img/Aniplex%20Online%20Fest/dajkazu-fate_aof2020.jpg)
 
 ---
