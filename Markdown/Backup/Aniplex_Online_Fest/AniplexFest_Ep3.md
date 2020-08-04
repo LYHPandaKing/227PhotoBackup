@@ -7,3 +7,5 @@ Bilibili Version:
 <video width="100%" height="100%" controls>
   <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/Aniplex_Online_Fest/Aniplex.Online.Fest.2020-03-Magia.Record.PuellaMagi.Madoka.Magica.Side.Story-Magical.Talk.mp4" type="video/mp4">
 </video>
+
+[參演嘉賓] 麻倉桃 / 加藤英美里 / 外山祐介 (Aniplex) / MC 石川達也 (Aniplex)
