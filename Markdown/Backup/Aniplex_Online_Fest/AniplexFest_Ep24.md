@@ -9,3 +9,15 @@ Bilibili Version:
 </video>
 
 [參演嘉賓] 諸星すみれ / 内田真礼 / 伊瀬茉莉也 / 鈴木健太 (Aniplex) / MC 天津向
+
+---
+
+YouTube Version:
+<video width="100%" height="100%" controls>
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/Aniplex_Online_Fest/Aniplex.Online.Fest.2020-24-YT.THE.PROMISED.NEVERLAND.Online.Panel.mp4" type="video/mp4">
+</video>
+
+[Source](https://www.nicovideo.jp/watch/sm37148462)
+
+Guests: Sumire Morohoshi (諸星すみれ), Maaya Uchida (内田真礼), Mariya Ise (伊瀬茉莉也), Kenta Suzuki (鈴木健太) (Aniplex)  
+MC: Tenshin Mukai (天津向)
