@@ -1,11 +1,15 @@
-### #19 Talking and Drawing with CloverWorks<br>#19 CloverWorks作畫展示與幕後訪談
+### #19 The Irregular at Magic High School: Visitor Arc Special Panel
 ##### [Back](AniplexFest_List.md)
 
-![#19](../../../Img/Aniplex%20Online%20Fest/cloverworks_aof2020.jpg)
+##### _** YouTube 獨有節目 Exclusively on YouTube_
 
-Bilibili Version:
+![#19](../../../Img/Aniplex%20Online%20Fest/mahouka_aof2020.jpg)
+
+YouTube Version:
 <video width="100%" height="100%" controls>
-  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/Aniplex_Online_Fest/Aniplex.Online.Fest.2020-19-Talking.and.Drawing.with.CloverWorks.mp4" type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/Aniplex_Online_Fest/Aniplex.Online.Fest.2020-19-YT.The.Irregular.at.Magic.High.School.Visitor.Arc.Special.Panel.mp4" type="video/mp4">
 </video>
 
-[參演嘉賓] 田村里美 / 清水暁 (CloverWorks) / 木田和哉 (CloverWorks) / MC 本間久美子 (Aniplex)
+[Source](https://www.nicovideo.jp/watch/sm37148422)
+
+Guests: Yuichi Nakamura (中村悠一), Saori Hayami(早見沙織)
