@@ -8,3 +8,4 @@ Bilibili Version:
   <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/Aniplex_Online_Fest/Aniplex.Online.Fest.2020-02-Sword_Art_Online_10th_Anniversary_Special_Program_Composer_Yuki_Kajiura_and_Music_for_SAO.mp4" type="video/mp4">
 </video>
 
+[參演嘉賓] 梶浦由記 / 松岡禎丞 (旁白) 等 
