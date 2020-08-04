@@ -16,88 +16,88 @@ Official Site: [English](https://aniplex-online-fest.com/) // [CHS](https://www.
 ![#2](../../../Img/Aniplex%20Online%20Fest/sao-10th_aof2020.jpg)
 
 ---
-#### DJ Kazu SAO series selection
+#### #3 DJ Kazu SAO series selection
 ** YouTube 獨有節目 Exclusively on YouTube  
 ^ Not Available Now  
 ![DJ Kazu SAO series selection](../../../Img/Aniplex%20Online%20Fest/djkazu-sao_aof2020.jpg)
 
 ---
 
-#### [#3 Magia Record: Puella Magi Madoka Magica Side Story - Magical Talk<br>#3 魔法紀錄 魔法少女小圓外傳 Magical Talk](AniplexFest_Ep3.md)
-![#3](../../../Img/Aniplex%20Online%20Fest/magiarecord_aof2020.jpg)
+#### [#4 Magia Record: Puella Magi Madoka Magica Side Story - Magical Talk<br>#4 魔法紀錄 魔法少女小圓外傳 Magical Talk](AniplexFest_Ep4.md)
+![#4](../../../Img/Aniplex%20Online%20Fest/magiarecord_aof2020.jpg)
 
 ---
 
-#### [#4 Songs and Messages from Artists Vol.1<br>#4 動畫歌曲及歌手訪談 Vol.1](AniplexFest_Ep4.md)
-![#4](../../../Img/Aniplex%20Online%20Fest/sam01_aof2020.jpg)
+#### [#5 Songs and Messages from Artists Vol.1<br>#5 動畫歌曲及歌手訪談 Vol.1](AniplexFest_Ep5.md)
+![#5](../../../Img/Aniplex%20Online%20Fest/sam01_aof2020.jpg)
 
 ---
 
-#### [#5 Warlords of Sigrdrifa Online Panel<br>#5 《戰翼的希格德莉法》製作組座談會](AniplexFest_Ep5.md)
-![#5](../../../Img/Aniplex%20Online%20Fest/sigururi_aof2020.jpg)
+#### [#6 Warlords of Sigrdrifa Online Panel<br>#6 《戰翼的希格德莉法》製作組座談會](AniplexFest_Ep6.md)
+![#6](../../../Img/Aniplex%20Online%20Fest/sigururi_aof2020.jpg)
 
 ---
 
-#### [#6 How to Make Figures<br>#6 我在Aniplex做手辦](AniplexFest_Ep6.md)
-![#6](../../../Img/Aniplex%20Online%20Fest/htmf_aof2020.jpg)
+#### [#7 How to Make Figures<br>#7 我在Aniplex做手辦](AniplexFest_Ep7.md)
+![#7](../../../Img/Aniplex%20Online%20Fest/htmf_aof2020.jpg)
 
 ---
 
-#### Aniplex of America Industry Panel
+#### #8 Aniplex of America Industry Panel
 ** YouTube 獨有節目 Exclusively on YouTube  
 ^ Not Available Now  
 ![Aniplex of America Industry Panel](../../../Img/Aniplex%20Online%20Fest/aoa_aof2020.jpg)
 
 ---
 
-#### [#7 Aniplex Shanghai Special Programme<br>#7 Aniplex Shanghai 特別節目](AniplexFest_Ep7.md)
+#### [#9 Aniplex Shanghai Special Programme<br>#9 Aniplex Shanghai 特別節目](AniplexFest_Ep9.md)
 ** Bilibili 獨有節目 Exclusively on Bilibili  
-![#7](../../../Img/Aniplex%20Online%20Fest/Aniplex_Shanghai_Special_programme.jpg)
+![#9](../../../Img/Aniplex%20Online%20Fest/Aniplex_Shanghai_Special_programme.jpg)
 
 ---
 
-#### [#8 ANIPLEX.EXE presents ATRI & Adabana Odd Tales Special Panel<br>#8 ANIPLEX.EXE《ATRI》&《徒花異譚》座談會](AniplexFest_Ep8.md)
-![#8](../../../Img/Aniplex%20Online%20Fest/aniplex-exe_aof2020.jpg)
+#### [#10 ANIPLEX.EXE presents ATRI & Adabana Odd Tales Special Panel<br>#10 ANIPLEX.EXE《ATRI》&《徒花異譚》座談會](AniplexFest_Ep10.md)
+![#10](../../../Img/Aniplex%20Online%20Fest/aniplex-exe_aof2020.jpg)
 
 ---
 
-#### SUPER HXEROS -"H"EROES SAVE THE WORLD
+#### [#11 SUPER HXEROS -"H"EROES SAVE THE WORLD](AniplexFest_Ep11.md)
 ** YouTube 獨有節目 Exclusively on YouTube  
 ![HXEROS](../../../Img/Aniplex%20Online%20Fest/hxeros_aof2020.jpg)
 
 ---
 
-#### [#9 Kaguya-sama: Love Is War? Special Panel<br>#9 輝夜大小姐想推廣？ ~世界範圍的戀愛頭腦戰~](AniplexFest_Ep9.md)
-![#9](../../../Img/Aniplex%20Online%20Fest/kaguya-sama_aof2020.jpg)
+#### [#12 Kaguya-sama: Love Is War? Special Panel<br>#12 輝夜大小姐想推廣？ ~世界範圍的戀愛頭腦戰~](AniplexFest_Ep12.md)
+![#12](../../../Img/Aniplex%20Online%20Fest/kaguya-sama_aof2020.jpg)
 
 ---
 
-#### [#10 A-1 Pictures Special Talk Show<br>#10 A-1 Pictures 座談會](AniplexFest_Ep10.md)
-![#10](../../../Img/Aniplex%20Online%20Fest/a1p_aof2020.jpg)
+#### [#13 A-1 Pictures Special Talk Show<br>#13 A-1 Pictures 座談會](AniplexFest_Ep13.md)
+![#13](../../../Img/Aniplex%20Online%20Fest/a1p_aof2020.jpg)
 
 ---
 
-#### [#11 The Millionaire Detective -Balance:UNMISSABLE<br>#11 富豪刑警 Balance:UNMISSABLE](AniplexFest_Ep11.md)
-![#11](../../../Img/Aniplex%20Online%20Fest/millionairedetective_aof2020.jpg)
+#### [#14 The Millionaire Detective -Balance:UNMISSABLE<br>#14 富豪刑警 Balance:UNMISSABLE](AniplexFest_Ep14.md)
+![#14](../../../Img/Aniplex%20Online%20Fest/millionairedetective_aof2020.jpg)
 
 ---
 
-#### [#12 Sphere Special Online Talk Show -live stream-<br>#12 Sphere 線上特別專訪](AniplexFest_Ep12.md)
-![#12](../../../Img/Aniplex%20Online%20Fest/sphere-special_aof2020.jpg)
+#### [#15 Sphere Special Online Talk Show -live stream-<br>#15 Sphere 線上特別專訪](AniplexFest_Ep15.md)
+![#15](../../../Img/Aniplex%20Online%20Fest/sphere-special_aof2020.jpg)
 
 ---
 
-#### [#13 SACRA MUSIC FES. 2019 -NEXT GENERATION-<br>#13 SACRA MUSIC FES 2019 -Next Generation- Aniplex Online Fest Edit](AniplexFest_Ep13.md)
-![#13](../../../Img/Aniplex%20Online%20Fest/sacra-fes2019_aof2020.jpg)
+#### [#16 SACRA MUSIC FES. 2019 -NEXT GENERATION-<br>#16 SACRA MUSIC FES 2019 -Next Generation- Aniplex Online Fest Edit](AniplexFest_Ep16.md)
+![#16](../../../Img/Aniplex%20Online%20Fest/sacra-fes2019_aof2020.jpg)
 
 ---
 
-#### [#14 DJ Kazu Aniplex All Time Mix Vol.1<br>#14 DJ和 - Aniplex All Time Mix Vol.1](AniplexFest_Ep14.md)
-![#14](../../../Img/Aniplex%20Online%20Fest/djkazu-aatm01_aof2020.jpg)
+#### [#17 DJ Kazu Aniplex All Time Mix Vol.1<br>#17 DJ和 - Aniplex All Time Mix Vol.1](AniplexFest_Ep17.md)
+![#17](../../../Img/Aniplex%20Online%20Fest/djkazu-aatm01_aof2020.jpg)
 
 ---
 
-#### Aniplex of America 15th Anniversary Anime Marathon
+#### #18 Aniplex of America 15th Anniversary Anime Marathon
 ** YouTube 獨有節目 Exclusively on YouTube  
 ^ Not Available Now  
 ![Aniplex of America 15th Anniversary Anime Marathon](../../../Img/Aniplex%20Online%20Fest/key_13.jpg)
@@ -106,79 +106,78 @@ Official Site: [English](https://aniplex-online-fest.com/) // [CHS](https://www.
 
 #### Day 2
 
-#### The Irregular at Magic High School: Visitor Arc Special Panel
+#### [#19 The Irregular at Magic High School: Visitor Arc Special Panel](AniplexFest_Ep19.md)
 ** YouTube 獨有節目 Exclusively on YouTube  
-^ Not Available Now  
 ![The Irregular at Magic High School](../../../Img/Aniplex%20Online%20Fest/mahouka_aof2020.jpg)
 
 ---
 
-#### DJ Kazu Fate series selection
+#### #20 DJ Kazu Fate series selection
 ** YouTube 獨有節目 Exclusively on YouTube  
 ^ Not Available Now  
 ![DJ Kazu Fate series selection](../../../Img/Aniplex%20Online%20Fest/dajkazu-fate_aof2020.jpg)
 
 ---
 
-#### [#15 Fate Anime Project Online Gathering<br>#15 Fate動畫系列作品大集結！](AniplexFest_Ep15.md)
-![#15](../../../Img/Aniplex%20Online%20Fest/fate-animeproject_aof2020.jpg)
+#### [#21 Fate Anime Project Online Gathering<br>#21 Fate動畫系列作品大集結！](AniplexFest_Ep21.md)
+![#21](../../../Img/Aniplex%20Online%20Fest/fate-animeproject_aof2020.jpg)
 
 ---
 
-#### [#16 New Worldwide Contents by Sony Music Labels & by YouTube Music Channel<br>#16 Sony Music Labels 與　YouTube 音槳頻道帶來的全球化新體驗](AniplexFest_Ep16.md)
-![#16](../../../Img/Aniplex%20Online%20Fest/nwc_aof2020.jpg)
+#### [#22 New Worldwide Contents by Sony Music Labels & by YouTube Music Channel<br>#22 Sony Music Labels 與　YouTube 音槳頻道帶來的全球化新體驗](AniplexFest_Ep22.md)
+![#22](../../../Img/Aniplex%20Online%20Fest/nwc_aof2020.jpg)
 
 ---
 
-#### [#17 How to Produce Anime<br>#17 金牌製作人大集結！](AniplexFest_Ep17.md)
-![#17](../../../Img/Aniplex%20Online%20Fest/htpa_aof2020.jpg)
+#### [#23 How to Produce Anime<br>#23 金牌製作人大集結！](AniplexFest_Ep23.md)
+![#23](../../../Img/Aniplex%20Online%20Fest/htpa_aof2020.jpg)
 
 ---
 
-#### [#18 THE PROMISED NEVERLAND Online Panel<br>#18 《約定的夢幻島》座談會](AniplexFest_Ep18.md)
-![#18](../../../Img/Aniplex%20Online%20Fest/neverland_aof2020.jpg)
+#### [#24 THE PROMISED NEVERLAND Online Panel<br>#24 《約定的夢幻島》座談會](AniplexFest_Ep24.md)
+![#24](../../../Img/Aniplex%20Online%20Fest/neverland_aof2020.jpg)
 
 ---
 
-#### [#19 Talking and Drawing with CloverWorks<br>#19 CloverWorks作畫展示與幕後訪談](AniplexFest_Ep19.md)
-![#19](../../../Img/Aniplex%20Online%20Fest/cloverworks_aof2020.jpg)
+#### [#25 Talking and Drawing with CloverWorks<br>#25 CloverWorks作畫展示與幕後訪談](AniplexFest_Ep25.md)
+![#25](../../../Img/Aniplex%20Online%20Fest/cloverworks_aof2020.jpg)
 
 ---
 
-#### [#20 Hiroyuki Sawano talk show featuring ANIPLEX's anime music<br>#20 澤野弘之 x Aniplex 作品名曲集](AniplexFest_Ep20.md)
-![#20](../../../Img/Aniplex%20Online%20Fest/hiroyukisawano_aof2020.jpg)
+#### [#26 Hiroyuki Sawano talk show featuring ANIPLEX's anime music<br>#26 澤野弘之 x Aniplex 作品名曲集](AniplexFest_Ep26.md)
+![#26](../../../Img/Aniplex%20Online%20Fest/hiroyukisawano_aof2020.jpg)
 
 ---
 
-#### [#21 The Day I Became a God - Beginning of the Story<br>#21 《成神之日》世界的開始](AniplexFest_Ep21.md)
-![#21](../../../Img/Aniplex%20Online%20Fest/kamisama-day_aof2020.jpg)
+#### [#27 The Day I Became a God - Beginning of the Story<br>#27 《成神之日》世界的開始](AniplexFest_Ep27.md)
+![#27](../../../Img/Aniplex%20Online%20Fest/kamisama-day_aof2020.jpg)
 
 ---
 
-#### [#22 The Misfit of Demon King Academy Opening Ceremony<br>#22 《魔王學院的不適任者》入學典禮](AniplexFest_Ep22.md)
-![#22](../../../Img/Aniplex%20Online%20Fest/demonkingacademy_aof2020.jpg)
+#### [#28 The Misfit of Demon King Academy Opening Ceremony<br>#28 《魔王學院的不適任者》入學典禮](AniplexFest_Ep28.md)
+![#28](../../../Img/Aniplex%20Online%20Fest/demonkingacademy_aof2020.jpg)
 
 ---
 
-#### [#23 Cells at Work!! World Station<br>#23 工作細胞 World Station](AniplexFest_Ep23.md)
-![#23](../../../Img/Aniplex%20Online%20Fest/cellsatwork_aof2020.jpg)
+#### [#29 Cells at Work!! World Station<br>#29 工作細胞 World Station](AniplexFest_Ep29.md)
+![#29](../../../Img/Aniplex%20Online%20Fest/cellsatwork_aof2020.jpg)
 
 ---
 
-#### [#24 Anisong Tea Party with the Songwriters: International Edition<br>#24 和作曲家一起Anisong茶話會 海外版](AniplexFest_Ep24.md)
-![#24](../../../Img/Aniplex%20Online%20Fest/atp_aof2020.jpg)
+#### [#30 Anisong Tea Party with the Songwriters: International Edition<br>#30 和作曲家一起Anisong茶話會 海外版](AniplexFest_Ep30.md)
+![#30](../../../Img/Aniplex%20Online%20Fest/atp_aof2020.jpg)
 
 ---
 
-#### [#25 DJ Kazu Aniplex All Time Mix Vol.2<br>#25 DJ和 - Aniplex All Time Mix Vol.2](AniplexFest_Ep25.md)
-![#25](../../../Img/Aniplex%20Online%20Fest/dajkazu-aatm02_aof2020.jpg)
+#### [#31 DJ Kazu Aniplex All Time Mix Vol.2<br>#31 DJ和 - Aniplex All Time Mix Vol.2](AniplexFest_Ep31.md)
+![#31](../../../Img/Aniplex%20Online%20Fest/dajkazu-aatm02_aof2020.jpg)
 
 ---
 
-#### [#26 Songs and Messages from Artists Vol.2<br>#26 動畫歌曲及歌手訪談 Vol.2](AniplexFest_Ep26.md)
-![#26](../../../Img/Aniplex%20Online%20Fest/sam02_aof2020.jpg)
+#### [#32 Songs and Messages from Artists Vol.2<br>#32 動畫歌曲及歌手訪談 Vol.2](AniplexFest_Ep32.md)
+![#32](../../../Img/Aniplex%20Online%20Fest/sam02_aof2020.jpg)
 
 ---
 
-#### [#27 Demon Slayer: Kimetsu no Yaiba - Overseas Trip<br>#27 《鬼滅之刃》海外版座談會](AniplexFest_Ep27.md)
-![#27](../../../Img/Aniplex%20Online%20Fest/demonslayer_aof2020.jpg)
+#### [#33 Demon Slayer: Kimetsu no Yaiba - Overseas Trip<br>#33 《鬼滅之刃》海外版座談會](AniplexFest_Ep33.md)
+![#33](../../../Img/Aniplex%20Online%20Fest/demonslayer_aof2020.jpg)
