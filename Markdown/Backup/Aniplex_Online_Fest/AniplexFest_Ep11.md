@@ -7,7 +7,7 @@
 
 YouTube Version:
 <video width="100%" height="100%" controls>
-  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/Aniplex_Online_Fest/Aniplex.Online.Fest.2020-11-SUPER.HXEROS.-.H.EROES.SAVE.THE.WORLD.mp4" type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/Aniplex_Online_Fest/Aniplex.Online.Fest.2020-11-YT.SUPER.HXEROS.-.H.EROES.SAVE.THE.WORLD.mp4" type="video/mp4">
 </video>
 
 [Source](https://www.nicovideo.jp/watch/sm37141589)
