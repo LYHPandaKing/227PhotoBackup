@@ -8,4 +8,4 @@ Bilibili Version:
   <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/Aniplex_Online_Fest/Aniplex.Online.Fest.2020-01-Sword_Art_Online_Alicization_War_of_Underworld-THE_LAST_SEASON-Online_Panel.mp4" type="video/mp4">
 </video>
 
-[參演嘉賓] 小野 学
+[參演嘉賓] 小野学 / 茅野愛衣 / MC 天津向
