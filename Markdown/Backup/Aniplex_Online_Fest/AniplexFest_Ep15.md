@@ -5,7 +5,7 @@
 
 Bilibili Version:
 <video width="100%" height="100%" controls>
-  <source src="" type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/Aniplex_Online_Fest/Aniplex.Online.Fest.2020-15-Fate.Anime.Project.Online.Gathering.mp4" type="video/mp4">
 </video>
 
 [參演嘉賓] 川澄綾子 / 下屋則子 / 島崎信長 / 鶴岡聡 / MC 金沢利幸（Aniplex）
