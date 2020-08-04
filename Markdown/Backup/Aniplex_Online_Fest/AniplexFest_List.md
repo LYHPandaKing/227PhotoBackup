@@ -36,6 +36,7 @@ Official Site: [English](https://aniplex-online-fest.com/) // [CHS](https://www.
 ---
 
 #### [#7 Aniplex Shanghai Special Programme<br>#7 Aniplex Shanghai 特別節目](AniplexFest_Ep7.md)
+** Bilibili 獨有節目 Exclusively on Bilibili
 ![#7](../../../Img/Aniplex%20Online%20Fest/Aniplex_Shanghai_Special_programme.jpg)
 
 ---
