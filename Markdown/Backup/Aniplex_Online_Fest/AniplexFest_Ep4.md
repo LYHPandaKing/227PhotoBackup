@@ -19,5 +19,5 @@ YouTube Version:
 
 [Source](https://www.nicovideo.jp/watch/sm37148436)
 
-Guests: Momo Asakura (麻倉もも), Emiri Kato (加藤英美里), Yusuke Toyama (外山祐介) (Aniplex)
+Guests: Momo Asakura (麻倉もも), Emiri Kato (加藤英美里), Yusuke Toyama (外山祐介) (Aniplex)  
 MC: Tatsuya Ishikawa (石川達也) (Aniplex)
