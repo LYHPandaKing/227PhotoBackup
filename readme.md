@@ -50,7 +50,7 @@ Project started at May/2020
 <br><br>
 - [Aniplex Online Fest](Markdown/Backup/Aniplex_Online_Fest/AniplexFest_List.md)
 
-### [鳴謝 Credit](Credit.md)
+### [鳴謝 Credit](Markdown/Credit.md)
 
 <video width="100%" height="100%" controls>
   <source src="Vid/227 『風は吹いてるか？』.mp4" type="video/mp4">
