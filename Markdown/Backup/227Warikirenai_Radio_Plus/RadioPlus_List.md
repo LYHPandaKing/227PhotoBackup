@@ -1,5 +1,5 @@
 ### 22/7 割り切れないラジオ+
-##### [Back](../../../readme.md)
+##### [Back](../Radio_List.md)
 
 ![Title](../../../Img/227Warikirenai_Radio_Plus/title_radio-main_plus.png)
 
