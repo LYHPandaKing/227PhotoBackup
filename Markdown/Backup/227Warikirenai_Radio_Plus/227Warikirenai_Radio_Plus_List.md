@@ -1,4 +1,4 @@
-### 22/7 割り切れないラジオ+
+### 22/7 割り切れないラジオ+ Warikirenai Radio Plus
 ##### [Back](../Radio_List.md)
 
 ![Title](../../../Img/227Warikirenai_Radio_Plus/title_radio-main_plus.png)
