@@ -1,4 +1,4 @@
-﻿### 22/7 計算中 Keisanchuu Season 1
+### 22/7 計算中 Keisanchuu Season 1
 ##### [Back](../227Keisanchuu_S1.md)
 
 #### #4 アイドルの登竜門 絶叫リポート選手権 2  
@@ -13,7 +13,7 @@ FUJIYAMAやドドンパなどの絶叫アトラクションをはじめホラー
 メンバーに関する最新NEWSもお見逃し無く！  
 
 <video width="100%" height="100%" controls>
-  <source src="  " type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227Keisanchuu/227Keisanchuu.04.RAW.720P.227IndoFP.mp4" type="video/mp4">
 </video>
 
 [Source](https://drive.google.com/open?id=1QJViw7x34FIm3YUtnKQmfx_woBWU96RR)
