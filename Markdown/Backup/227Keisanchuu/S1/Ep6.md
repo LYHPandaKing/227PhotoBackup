@@ -14,5 +14,7 @@ Date: 11Aug,2018
 イベント＆最新シングルに関する貴重な情報もお見逃し無く!  
 
 <video width="100%" height="100%" controls>
-  <source src="  " type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227Keisanchuu/227Keisanchuu.06.RAW.720P.227IndoFP.mp4" type="video/mp4">
 </video>
+
+[Source](https://drive.google.com/open?id=1RHi3tyOvAd2CHGKwrxxdzCDljTaqpgZe)
