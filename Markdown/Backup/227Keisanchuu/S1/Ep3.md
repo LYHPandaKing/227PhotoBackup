@@ -1,7 +1,7 @@
 ### 22/7計算中 "22/7 Keisanchuu" Season 1
 ##### [Back](../227Keisanchuu_S1.md)
 
-#### Ep3 アイドルの登竜門 絶叫リポート選手権  
+#### #3 アイドルの登竜門 絶叫リポート選手権  
 Date: 21Jul,2018
 
 ![20180721_S1Ep3](../../../../Img/227Keisanchuu/20180721_S1Ep3.jpg){: width='70%'}
