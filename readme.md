@@ -31,7 +31,7 @@ Project started at May/2020
 
 ### 備份 Backup  
 - [22/7 Official Blog](Markdown/Backup/Blog/Blog_List.md)
-- [22/7計算中 "22/7 Keisanchuu"](Markdown/Backup/227Keisanchuu/227Keisanchuu_List.md)
+- [22/7計算中 Keisanchuu](Markdown/Backup/227Keisanchuu/227Keisanchuu_List.md)
 - [YouTube](Markdown/Backup/YouTube_List.md)
 - [Showroom](Markdown/Backup/Showroom/Showroom_List.md)
 - [22/7 相關影片 Related Videos](Markdown/Backup/227Related/227Related.md)
@@ -45,7 +45,7 @@ Project started at May/2020
 ### 其他資訊 Other Information  
 - [版主作品 Host's Creation](Markdown/HostsCreation.md)
 - [22/7 日曆 Calender](Markdown/Calendar.md)  
-- [22/7計算中 直播源<br>"22/7 Keisanchuu" Live Stream](Markdown/Streaming.md)
+- [22/7 計算中 直播源<br>22/7 Keisanchuu Live Stream](Markdown/Streaming.md)
 - [音樂 Music](Markdown/Music/Music_List.md)
 <br><br>
 - [Aniplex Online Fest](Markdown/Backup/Aniplex_Online_Fest/AniplexFest_List.md)
