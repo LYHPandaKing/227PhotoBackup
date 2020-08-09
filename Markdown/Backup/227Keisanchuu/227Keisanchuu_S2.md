@@ -1,4 +1,4 @@
-### 22/7計算中 "22/7 Keisanchuu" Season 2
+### 22/7 計算中 Keisanchuu Season 2
 ##### [Back](227Keisanchuu_List.md)
 
 #### #13 「お宅拝見リポート選手権」
