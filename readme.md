@@ -7,7 +7,7 @@ Also provide useful information about 22/7. Please feel free to download and use
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 9Aug,2020 01:42 (HKT)**
+**最後更新日期 Last Update: 10Aug,2020 00:50 (HKT)**
 
 ### 相簿 Album
 - [出道前 Pre-Debut](Markdown/Album/PreDebut.md)
@@ -32,8 +32,8 @@ Project started at May/2020
 ### 備份 Backup  
 - [YouTube](Markdown/Backup/YouTube_List.md)
 - [Showroom](Markdown/Backup/Showroom/Showroom_List.md)
-- [22/7 電台節目 Radio](Markdown/Backup/Radio_List.md)
 - [22/7 Official Blog](Markdown/Backup/Blog/Blog_List.md)
+- [22/7 電台節目 Radio](Markdown/Backup/Radio_List.md)
 - [22/7 計算中 Keisanchuu](Markdown/Backup/227Keisanchuu/227Keisanchuu_List.md)
 - [22/7 相關影片 Related Videos](Markdown/Backup/227Related/227Related.md)
 <br><br>
