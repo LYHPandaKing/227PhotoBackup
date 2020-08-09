@@ -1,4 +1,4 @@
-﻿### 22/7 計算中 Keisanchuu Season 1
+### 22/7 計算中 Keisanchuu Season 1
 ##### [Back](../227Keisanchuu_S1.md)
 
 #### #5 22/7 初海外ロケ ANIME EXPO 2018潜入リポート!
@@ -14,5 +14,7 @@ Date: 4Aug,2018
 ライブ情報やシングルリリース情報をお届けする22/7 NEWSもお見逃し無く！  
 
 <video width="100%" height="100%" controls>
-  <source src="  " type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227Keisanchuu/227Keisanchuu.05.RAW.720P.227IndoFP.mp4" type="video/mp4">
 </video>
+
+[Source](https://drive.google.com/open?id=1_SpMGz9gaIgJuTg2lGAz8PpYUSbKMWgI)
