@@ -1,4 +1,4 @@
-### 22/7計算中 "22/7 Keisanchuu" Season 1
+﻿### 22/7 計算中 Keisanchuu Season 1
 ##### [Back](../227Keisanchuu_S1.md)
 
 #### #5 22/7 初海外ロケ ANIME EXPO 2018潜入リポート!
