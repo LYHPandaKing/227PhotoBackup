@@ -1,4 +1,4 @@
-﻿### 22/7 計算中 Keisanchuu Season 1
+### 22/7 計算中 Keisanchuu Season 1
 ##### [Back](../227Keisanchuu_S1.md)
 
 #### #8 3rdシングル「理解者」大ヒット祈願スペシャル
@@ -15,5 +15,7 @@ Date: 25Aug,2018
 さらにイベント＆最新シングルに関する貴重な情報もお見逃し無く!  
 
 <video width="100%" height="100%" controls>
-  <source src="  " type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227Keisanchuu/227Keisanchuu.08.RAW.720P.227IndoFP.mp4" type="video/mp4">
 </video>
+
+[Source](https://drive.google.com/open?id=1wcgcxUzpKEURSuVMN_9VxaKmVvC6gqLH)
