@@ -15,7 +15,10 @@
   <tr>
   <th><a href="">#61-70</a></th>
   <th><a href="">#71-78</a></th>
-  <th><a href="">CHT Sub (.ass)</a></th>
+  <th><a href="">Extra (#1-4)</a></th>
+  </tr>
+  <tr>
+  <td><a href="">CHT Sub (.ass)</a></td>
   </tr>
 </table>
 
@@ -24,28 +27,43 @@
 
 ---
 
+#### [#13 22/7 計算中 Special Event](S1/Ep13.md)
+![20180929_S1Ep13](../../../Img/227Keisanchuu/20180929_S1Ep13.jpg){: width='70%'}
+
+---
+
+#### [#12 いいね!が貰えるアイドルは誰だ!? インスタ映えクイーン決定戦! 2](S1/Ep12.md)
+![20180922_S1Ep12](../../../Img/227Keisanchuu/20180922_S1Ep12.jpg){: width='70%'}
+
+---
+
+#### [#11 いいね!が貰えるアイドルは誰だ!? インスタ映えクイーン決定戦!](S1/Ep11.md)
+![20180915_S1Ep11](../../../Img/227Keisanchuu/20180915_S1Ep11.jpg){: width='70%'}
+
+---
+
 #### [#10 祝!小宮浩信35歳! バースデープレゼント対決!!](S1/Ep10.md)
-![20180908_S1Ep10](../../../../Img/227Keisanchuu/20180707_S1Ep1.jpg){: width='70%'}
+![20180908_S1Ep10](../../../Img/227Keisanchuu/20180908_S1Ep10.jpg){: width='70%'}
 
 ---
 
 #### [#9 アニメカルチャーを学べ! ××の休日に密着SP!!](S1/Ep9.md)
-![20180901_S1Ep9](../../../../Img/227Keisanchuu/20180901_S1Ep9.jpg){: width='70%'}
+![20180901_S1Ep9](../../../Img/227Keisanchuu/20180901_S1Ep9.jpg){: width='70%'}
 
 ---
 
 #### [#8 3rdシングル「理解者」大ヒット祈願スペシャル](S1/Ep8.md)
-![20180825_S1Ep8](../../../../Img/227Keisanchuu/20180825_S1Ep8.jpg){: width='70%'}
+![20180825_S1Ep8](../../../Img/227Keisanchuu/20180825_S1Ep8.jpg){: width='70%'}
 
 ---
 
 #### [#7 夏バテ解消! スタミナ料理対決!](S1/Ep7.md)
-![20180818_S1Ep7](../../../../Img/227Keisanchuu/20180818_S1Ep7.jpg){: width='70%'}
+![20180818_S1Ep7](../../../Img/227Keisanchuu/20180818_S1Ep7.jpg){: width='70%'}
 
 ---
 
 #### [#6 22/7 初海外ロケ ANIME EXPO 2018潜入リポート! 2](S1/Ep6.md)
-![20180811_S1Ep6](../../../../Img/227Keisanchuu/20180811_S1Ep6.jpg){: width='70%'}
+![20180811_S1Ep6](../../../Img/227Keisanchuu/20180811_S1Ep6.jpg){: width='70%'}
 
 ---
 
