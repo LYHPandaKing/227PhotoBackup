@@ -102,7 +102,7 @@
  
 ---
 
-#### 「音楽の時間」學院中最強敵對偶像團體 Strongest rival idol group in school - ChouChou
+#### 「音楽の時間」敵對偶像團體 Rival idol group in Rokubanchou Academy - ChouChou
 #### 丸之内薫子 Marunouchi Kaoruko
 ![Kaoruko_game](../../Album/Character%20Design/音楽の時間/Kaoruko_game.PNG){: width="70%"}
 
