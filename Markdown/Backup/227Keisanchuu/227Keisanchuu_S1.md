@@ -22,6 +22,26 @@
   </tr>
 </table>
 
+#### [Extra #4「22/7 計算中」アレもコレも未公開も全部見せます傑作選！【藤間桜】](S1/ExtraEp4.md)
+![20200418_S1ExtraEp4](../../../Img/227Keisanchuu/20200418_S1ExtraEp4.jpg){: width='70%'}
+
+---
+
+#### [Extra #3「22/7 計算中」アレもコレも未公開も全部見せます傑作選！【柊つぼみ】](S1/ExtraEp3.md)
+![20200417_S1ExtraEp3](../../../Img/227Keisanchuu/20200417_S1ExtraEp3.jpg){: width='70%'}
+
+---
+
+#### [Extra #2「22/7 計算中」アレもコレも未公開も全部見せます傑作選！【佐藤麗華】](S1/ExtraEp2.md)
+![20200416_S1ExtraEp2](../../../Img/227Keisanchuu/20200416_S1ExtraEp2.jpg){: width='70%'}
+
+---
+
+#### [Extra #1「22/7 計算中」アレもコレも未公開も全部見せます傑作選！【戸田ジュン】](S1/ExtraEp1.md)
+![20200415_S1ExtraEp1](../../../Img/227Keisanchuu/20200415_S1ExtraEp1.jpg){: width='70%'}
+
+---
+
 #### [#78 パネル解除争奪! クリスマス告白クイーン決定戦!! 3](S1/Ep78.md)
 ![20191228_S1Ep78](../../../Img/227Keisanchuu/20191228_S1Ep78.jpg){: width='70%'}
 
