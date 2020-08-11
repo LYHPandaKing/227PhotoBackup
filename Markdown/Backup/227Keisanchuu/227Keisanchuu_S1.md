@@ -15,7 +15,7 @@
   <tr>
   <th><a href="https://227photo.nets.hk/Markdown/Backup/227Keisanchuu/227Keisanchuu_S1.html#70-%E7%A7%81%E3%81%AE%E6%80%92%E3%82%8A%E3%82%92%E8%81%9E%E3%81%84%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84-227%E5%85%B1%E6%84%9F%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA-2">#61-70</a></th>
   <th><a href="https://227photo.nets.hk/Markdown/Backup/227Keisanchuu/227Keisanchuu_S1.html#78-%E3%83%91%E3%83%8D%E3%83%AB%E8%A7%A3%E9%99%A4%E4%BA%89%E5%A5%AA-%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E5%91%8A%E7%99%BD%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3%E6%B1%BA%E5%AE%9A%E6%88%A6-3">#71-78</a></th>
-  <th><a href="">Extra (#1-4)</a></th>
+  <th><a href="https://227photo.nets.hk/Markdown/Backup/227Keisanchuu/227Keisanchuu_S1.html#extra-4227-%E8%A8%88%E7%AE%97%E4%B8%AD%E3%82%A2%E3%83%AC%E3%82%82%E3%82%B3%E3%83%AC%E3%82%82%E6%9C%AA%E5%85%AC%E9%96%8B%E3%82%82%E5%85%A8%E9%83%A8%E8%A6%8B%E3%81%9B%E3%81%BE%E3%81%99%E5%82%91%E4%BD%9C%E9%81%B8%E8%97%A4%E9%96%93%E6%A1%9C">Extra (#1-4)</a></th>
   </tr>
   <tr>
   <td><a href="">CHT Sub (.ass)</a></td>
