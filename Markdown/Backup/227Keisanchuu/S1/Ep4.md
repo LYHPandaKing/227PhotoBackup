@@ -13,10 +13,6 @@ FUJIYAMAやドドンパなどの絶叫アトラクションをはじめホラー
 メンバーに関する最新NEWSもお見逃し無く！  
 
 <video width="100%" height="100%" controls>
-  <source src="" type="video/mp4">
-</video>
-
-<video width="100%" height="100%" controls>
   <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227Keisanchuu-mp4/227Keisanchuu.04.RAW.720P.227IndoFP.mp4" type="video/mp4">
 </video>
 
