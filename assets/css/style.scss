@@ -52,19 +52,20 @@ div.disabled {
     color: #009DDD;
   }
 
-#gotopbtn {  
+.gotopbtn {  
     position: fixed;
-    bottom: 10px;
+    width: 50px;
+    height: 50px;
+    bottom: 40px;
     float: right;
-    right: 20.5%;
-    left: 77.25%;
+    right: 50px;
     border: none;
     outline: none;
-    max-width: 90px;
-    width: 100%;
-    font-size: 12px;
     color: #009DDD;
-    background-color: rgba(255, 255, 255, 0.08);
-    //padding: .5px;
-    //border-radius: 4px;
+    background: #FFFFFF;
+  
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    font-size: 22px;
 }
