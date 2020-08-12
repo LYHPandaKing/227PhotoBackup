@@ -1,6 +1,10 @@
 ---
 ---
 
+html {
+  scroll-behavior: smooth;
+}
+
 @import "{{ site.theme }}";
 .page-header {
   color: #009DDD;
@@ -48,27 +52,18 @@ div.disabled {
     color: #009DDD;
   }
 
-.btn-group button {
-  background-color: #E8E8E8; /* Green background */
-  border: 1px solid #E8E8E8; /* Green border */
-  color: black; /* White text */
-  padding: 10px 24px; /* Some padding */
-  cursor: pointer; /* Pointer/hand icon */
-  float: left; /* Float the buttons side by side */
-}
-
-.btn-group button:not(:last-child) {
-  border-right: none; /* Prevent double borders */
-}
-
-/* Clear floats (clearfix hack) */
-.btn-group:after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-/* Add a background color on hover */
-.btn-group button:hover {
-  background-color: #E8E8E8;
+#gotopbtn {  
+    position: fixed;
+    bottom: 10px;
+    float: right;
+    right: 20.5%;
+    left: 77.25%;
+    max-width: 90px;
+    width: 100%;
+    font-size: 12px;
+    color: #009DDD
+    border-color: rgba(5, 82, 248);
+    background-color: rgb(5, 82, 248);
+    padding: .5px;
+    border-radius: 4px;
 }
