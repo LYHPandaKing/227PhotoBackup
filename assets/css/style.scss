@@ -58,11 +58,12 @@ div.disabled {
     float: right;
     right: 20.5%;
     left: 77.25%;
+    border: none;
+    outline: none;
     max-width: 90px;
     width: 100%;
     font-size: 12px;
     color: #009DDD
-    border-color: rgba(5, 82, 248);
     background-color: rgb(5, 82, 248);
     padding: .5px;
     border-radius: 4px;
