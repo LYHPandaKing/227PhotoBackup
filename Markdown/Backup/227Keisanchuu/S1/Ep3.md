@@ -15,4 +15,20 @@ Date: 21Jul,2018
   <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227Keisanchuu/227Keisanchuu.03.RAW.720P.227IndoFP.mp4" type="video/mp4">
 </video>
 
-[Source](https://drive.google.com/open?id=1jRpUmAQ1l2CdeQj493JHdZNrtCBPrES-)
+[Source]()
+
+<video width="100%" height="100%" controls>
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227Keisanchuu-mp4/227Keisanchuu.03.RAW.720P.227IndoFP.mp4" type="video/mp4">
+</video>
+
+<table>
+  <tr>
+  <th>Raw</th>
+    <th><a href="https://drive.google.com/open?id=1jRpUmAQ1l2CdeQj493JHdZNrtCBPrES-">Source</a></th>
+    <th>Download | GitHub <a href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227Keisanchuu-mkv/227Keisanchuu.03.RAW.720P.227IndoFP.mkv">(.mkv) </a>/ <a href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227Keisanchuu-mp4/227Keisanchuu.03.RAW.720P.227IndoFP.mp4">(.mp4)</a></th>
+  </tr>
+  <tr>
+  <th>Sub</th>
+    <th><a href="https://www.bilibili.com/video/BV1ms411c7rs">CHS Sub | bilibili</a></th>
+    <th><a href="">CHT Sub (.ass) </a>^Not Available Now</th>
+  </tr>
