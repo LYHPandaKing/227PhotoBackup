@@ -11,14 +11,8 @@ Date: 7Jul,2018
   <input type="checkbox" class="read-more-state" id="post-2" />
 
   <ul class="read-more-wrap">
-    <p>記念すべき初回の放送はメンバーの半分が動かない前代未聞の事態に！</p>
-    <p>そんな中お届けするのは「メンバーの自己紹介企画」！</p>
-    <p class="read-more-target">各メンバーが様々な事に挑戦してきた自己PR動画を紹介！</p>
-    <p class="read-more-target">河野都はナニワ娘らしいPR動画を披露！</p>
-    <p class="read-more-target">丸山あかねは手づかみで魚を獲る伝統漁法に挑戦！</p>
-    <p class="read-more-target">戸田ジュンはSNS映えする揚げ物店を巡る！</p>
-    <p class="read-more-target">立川絢香は大人気ゲーム荒野行動のゲーム実況に挑戦！</p>
-    <p class="read-more-target">ライブ情報やシングルリリース情報もお見逃し無く！</p>
+    記念すべき初回の放送はメンバーの半分が動かない前代未聞の事態に！<br>そんな中お届けするのは「メンバーの自己紹介企画」！<br>
+    <p align="left" class="read-more-target">各メンバーが様々な事に挑戦してきた自己PR動画を紹介！<br>河野都はナニワ娘らしいPR動画を披露！<br>丸山あかねは手づかみで魚を獲る伝統漁法に挑戦！<br>戸田ジュンはSNS映えする揚げ物店を巡る！<br>立川絢香は大人気ゲーム荒野行動のゲーム実況に挑戦！<br>ライブ情報やシングルリリース情報もお見逃し無く！</class>
   </ul>
   
   <label for="post-2" class="read-more-trigger"></label>
@@ -26,7 +20,7 @@ Date: 7Jul,2018
 
 
 
-<!-->記念すべき初回の放送はメンバーの半分が動かない前代未聞の事態に！  
+<!--記念すべき初回の放送はメンバーの半分が動かない前代未聞の事態に！  
 そんな中お届けするのは「メンバーの自己紹介企画」！  
 各メンバーが様々な事に挑戦してきた自己PR動画を紹介！  
 河野都はナニワ娘らしいPR動画を披露！  
