@@ -1,6 +1,9 @@
 ### 22/7 計算中 Keisanchuu Season 2
 ##### [Back](227Keisanchuu_List.md)
 
+#### [#20 度胸がないメンバーは誰だ!? ビビリクイーン決定戦!!](S2/Ep20.md)
+![20200815_S2Ep20](../../../Img/227Keisanchuu/20200815_S2Ep20.jpg){: width='70%'}
+
 #### #13 「お宅拝見リポート選手権」
 Date: 27Jun,2020
 >![20200627_S2Ep13](../../../Img/227Keisanchuu/20200627_S2Ep13.png){: width="vw"}  
