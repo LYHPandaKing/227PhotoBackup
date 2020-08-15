@@ -34,7 +34,7 @@ Project started at May/2020
 - [YouTube](Markdown/Backup/YouTube_List.md)
 - [Showroom](Markdown/Backup/Showroom/Showroom_List.md)
 - [22/7 Official Blog](Markdown/Backup/Blog/Blog_List.md)
-- [22/7 動畫 Anime](Markdown/Backup/Anime_List.md)
+- [22/7 動畫 Anime](Markdown/Backup/Anime/Anime_List.md)
 - [22/7 電台節目 Radio](Markdown/Backup/Radio_List.md)
 - [22/7 計算中 Keisanchuu](Markdown/Backup/227Keisanchuu/227Keisanchuu_List.md)
 - [22/7 相關影片 Related Videos](Markdown/Backup/227Related/227Related.md)
