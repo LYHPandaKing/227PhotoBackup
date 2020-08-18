@@ -40,3 +40,7 @@
 - [20200812 (Wed)](IGstory/20200812.md)
 - [20200809 (Sun)](IGstory/20200809.md)
 - [20200808 (Sat)](IGstory/20200808.md)
+- [20200807 (Fri)](IGstory/20200807.md)
+- [20200805 (Wed)](IGstory/20200805.md)
+- [20200802 (Sun)](IGstory/20200802.md)
+- [20200801 (Sat)](IGstory/20200801.md)
