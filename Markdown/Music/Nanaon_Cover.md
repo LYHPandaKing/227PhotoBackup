@@ -3,7 +3,12 @@
 
 <table>
 <tr>
-  <th><a href="#〈物語〉シリーズコラボイベント〈前編〉"></a></th>
+  <th><a href="#Monogatari_1">〈物語〉シリーズコラボイベント〈前編〉</a></th>
+  <th><a href="#Monogatari_2">〈物語〉シリーズコラボイベント〈後編〉</a></th>
+</tr>
+<tr>
+  <th><a href="#SUMMERSUMMERSUMMER_1">22/7×SUMMER×SUMMER×SUMMER! 前編</a></th>
+  <th><a href="#SUMMERSUMMERSUMMER_3">22/7×SUMMER×SUMMER×SUMMER! 後編</a></th>
 </tr>
 </table>
 
@@ -180,6 +185,7 @@ Date: 27May,2020
 </audio>
 
 ---
+<a name="Monogatari_1"></a>
 #### 〈物語〉シリーズコラボイベント〈前編〉
 Date: 5Jun,2020  
 
@@ -216,6 +222,7 @@ Date: 5Jun,2020
 </audio>
 
 ---
+<a name="Monogatari_2"></a>
 #### 〈物語〉シリーズコラボイベント〈後編〉
 Date: 30Jun,2020  
 
@@ -264,7 +271,7 @@ Date: 30Jun,2020
 </audio>
 
 ----
-
+<a name="SUMMERSUMMERSUMMER_1"></a>
 #### 22/7×SUMMER×SUMMER×SUMMER! 前編
 Date: 30Jul,2020
 
@@ -306,7 +313,7 @@ Date: 30Jul,2020
 </audio>
 
 ---
-
+<a name="SUMMERSUMMERSUMMER_3"></a>
 #### 22/7×SUMMER×SUMMER×SUMMER! 後編
 Date: 18Aug,2020
 
