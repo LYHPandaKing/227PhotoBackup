@@ -11,24 +11,24 @@
 #### 2020
 <table>
 <tr>
-<th><a href="#Jan2020">January</a>></th>
-<th><a href="#Fev2020">February</a>></th>
-<th><a href="#Mar2020">March</a>></th>
+<th><a href="#Jan2020">January</a></th>
+<th><a href="#Fev2020">February</a></th>
+<th><a href="#Mar2020">March</a></th>
 </tr>
 <tr>
-<th><a href="#Apr2020">April</a>></th>
-<th><a href="#May2020">May</a>></th>
-<th><a href="#Jun2020">June</a>></th>
+<th><a href="#Apr2020">April</a></th>
+<th><a href="#May2020">May</a></th>
+<th><a href="#Jun2020">June</a></th>
 </tr>
 <tr>
-<th><a href="#Jul2020">July</a>></th>
-<th><a href="#Aug2020">August</a>></th>
-<th><a href="#Sep2020">September</a>></th>
+<th><a href="#Jul2020">July</a></th>
+<th><a href="#Aug2020">August</a></th>
+<th><a href="#Sep2020">September</a></th>
 </tr>
 <tr>
-<th><a href="#Oct2020">October</a>></th>
-<th><a href="#Nov2020">November</a>></th>
-<th><a href="#Dec2020">December</a>></th>
+<th><a href="#Oct2020">October</a></th>
+<th><a href="#Nov2020">November</a></th>
+<th><a href="#Dec2020">December</a></th>
 </tr>
 </table>
 
