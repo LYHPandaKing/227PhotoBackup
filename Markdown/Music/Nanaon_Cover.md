@@ -1,5 +1,11 @@
-﻿### 22/7 音楽の時間 Ongaku no Jikan
+### 22/7 音楽の時間 Ongaku no Jikan
 ##### [Back](227%20Ongaku%20no%20Jikan.html)
+
+<table>
+<tr>
+  <th><a href="#〈物語〉シリーズコラボイベント〈前編〉"></a></th>
+</tr>
+</table>
 
 #### 22/7 音楽の時間  翻唱歌曲 Cover Songs
 Date: 27May,2020  
@@ -296,5 +302,40 @@ Date: 30Jul,2020
 ![パレオはエメラルド](../../Img/Music/Nanaon_Cover/パレオはエメラルド.png){: width="70%"}  
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/30.パレオはエメラルド.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+---
+
+#### 22/7×SUMMER×SUMMER×SUMMER! 後編
+Date: 18Aug,2020
+
+**31.motto☆派手にね！**  
+神木みかみ（CV. 涼花萌）  
+![motto☆派手にね！](../../Img/Music/Nanaon_Cover/motto☆派手にね！.png){: width="70%"}  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/31.motto☆派手にね！.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**32.Non stop road**  
+戸田ジュン（CV. 海乃るり）  
+滝川みう（CV. 西條和）  
+斎藤ニコル（CV. 河瀬詩）  
+立川絢香（CV. 宮瀬玲奈）  
+![Non stop road](../../Img/Music/Nanaon_Cover/Non%20stop%20road.png){: width="70%"}  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/32.Non%20stop%20road.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**33.adrenaline!!!**  
+戸田ジュン（CV. 海乃るり）  
+滝川みう（CV. 西條和）  
+斎藤ニコル（CV. 河瀬詩）  
+立川絢香（CV. 宮瀬玲奈）  
+![adrenaline!!!](../../Img/Music/Nanaon_Cover/adrenaline!!!.png){: width="70%"}  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/33.adrenaline!!!.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
