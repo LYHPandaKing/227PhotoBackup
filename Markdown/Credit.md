@@ -5,7 +5,7 @@
 Facebook
 - [22/7 ナナブンのニジュウニ 香港應援支部 (22/7 Hong Kong Fans Group)](https://www.facebook.com/groups/2591995264350406)
 - [ナナブンノニジュウニ交流討論區 22/7FansGroup](https://www.facebook.com/groups/227FG/)
-- [22/7 ナナニジ 自由討論區](https://www.facebook.com/groups/670251690221688)
+- [22/7 ナナニジ 香港粉絲群](https://www.facebook.com/groups/670251690221688)
 - [22/7 Idol Group - International Fans](https://www.facebook.com/groups/274226923142369/)
 - [Nanabun no nijuuni 22/7 - Ongaku no Jikan International Players](https://www.facebook.com/groups/703619237062957/)
 - 22/7tw ナナブンのニジュウニ台灣情報頁 [@227FanTW](https://www.facebook.com/227FanTW/)
@@ -27,3 +27,4 @@ Other
 - [bilibili - 227中文应援站](https://space.bilibili.com/118938280/)
 - [bilibili - Sov](https://space.bilibili.com/730686/)
 - [bilibili - ナナ二ジ的搬运工](https://space.bilibili.com/571233650/)  
+- [22/7 List File Download (By 227IDFP)](https://docs.google.com/spreadsheets/d/1WTivciQQNjgQg_e7i_2bT2AUOb9uE2gL7L9P8UZUs6c/)
