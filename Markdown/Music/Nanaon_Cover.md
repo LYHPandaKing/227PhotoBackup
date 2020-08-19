@@ -337,10 +337,9 @@ Date: 18Aug,2020
 </audio>
 
 **33.adrenaline!!!**  
-戸田ジュン（CV. 海乃るり）  
-滝川みう（CV. 西條和）  
 斎藤ニコル（CV. 河瀬詩）  
-立川絢香（CV. 宮瀬玲奈）  
+神木みかみ（CV. 涼花萌）  
+戸田ジュン（CV. 海乃るり）  
 ![adrenaline!!!](../../Img/Music/Nanaon_Cover/adrenaline!!!.png){: width="70%"}  
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/33.adrenaline!!!.mp3"></source>
