@@ -2,7 +2,7 @@
 ##### [Back](Music_List.md)
 
 #### BD & DVD Vol.2
-![BDDVDVol2](../../Img/Music/BDDVDVol2.jpg){: width="50%"}  
+![BDDVDVol2_SakuraCover](../../Img/Music/BDDVDVol2_SakuraCover.jpg){: width="50%"}  
 Date: 27May,2020  
 
 **01.One Of Them**  
