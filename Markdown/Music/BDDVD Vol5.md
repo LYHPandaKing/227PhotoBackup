@@ -2,7 +2,7 @@
 ##### [Back](Music_List.md)
 
 #### BD & DVD Vol.5
-![BDDVDVol5_Ayaka](../../Img/Music/BDDVDVol5_AyakaCover.jpg){: width="70%"}  
+![BDDVDVol5_Ayaka](../../Img/Music/BDDVDVol5_AyakaCover.jpg){: width="50%"}  
 Date: 19Aug,2020  
 
 **01.Moonlight**  
