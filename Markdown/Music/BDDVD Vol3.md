@@ -2,8 +2,8 @@
 ##### [Back](Music_List.md)
 
 #### BD & DVD Vol.3
-![BDDVDVol3_Miyako](../../Img/Music/BDDVDVol3_MiyakoCover.png){: width="70%"}  
-![BDDVDVol3_Reika](../../Img/Music/BDDVDVol3_ReikaCover.png){: width="70%"}  
+![BDDVDVol3_Miyako](../../Img/Music/BDDVDVol3_MiyakoCover.png){: width="50%"}
+![BDDVDVol3_Reika](../../Img/Music/BDDVDVol3_ReikaCover.png){: width="50%"}  
 Date: 17Jun,2020  
 
 **01.夢の船**  
