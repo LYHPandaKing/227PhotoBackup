@@ -16,7 +16,7 @@ Date: 16Sep,2020
 
 **02.神様に指を差された僕たち**  
 神木みかみ（CV:涼花 萌）&東条悠希（CV:高辻 麗）＆柊つぼみ（CV:武田愛奈）  
-![神様に指を差された僕たち](../../Img/Music/BDDVDVol5_Ayaka.PNG){: width="70%"}  
+![神様に指を差された僕たち](../../Img/Music/BDDVDVol6_Three.PNG){: width="70%"}  
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/Character%20Songs/02.神様に指を差された僕たち.mp3"></source>
   <p>Your browser does not support the audio element.</p>
