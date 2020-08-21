@@ -40,7 +40,7 @@
 #### BD & DVD
 
 - [BD & DVD Vol.6](BDDVD%20Vol6.html)  
-![BDDVDVol6](../../Img/Music/BDDVDVol6_NicoleCover.jpg){: width="30%"}  
+![BDDVDVol6](../../Img/Music/BDDVDVol6_NicoleCover.jpg){: width="30%"}
 ![BDDVDVol6_ThreeCover](../../Img/Music/BDDVDVol6_ThreeCover.jpg){: width="30%"}  
 
 - [BD & DVD Vol.5](BDDVD%20Vol5.html)  
