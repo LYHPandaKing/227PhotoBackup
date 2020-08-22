@@ -30,6 +30,7 @@
 
 <a name="Aug2020"></a>
 ##### August
+- [20200822 (Sat)](IGstory/20200822.md)
 - [20200821 (Fri)](IGstory/20200821.md)
 - [20200820 (Thur)](IGstory/20200820.md)
 - [20200819 (Wed)](IGstory/20200819.md)
