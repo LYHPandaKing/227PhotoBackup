@@ -5,4 +5,5 @@
 This place stored some of my creations upon 22/7. Please don't repost to other website.
 
 - [22/7 出演系列 Voice Act Series](227VoiceAct.md)
-- [即將推出 Coming Soon]
+- 外掛字幕 External subtitles (.ass)
+- 即將推出 Coming Soon
