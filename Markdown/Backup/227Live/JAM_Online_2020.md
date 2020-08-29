@@ -1,7 +1,7 @@
 ### JAM ONLINE FESTIVAL 2020
 ##### [Back](../Live_List.md)
 
-![JAM ONLINE FEST 2020](../../../Img/227Live/JAM_Online_Fest_2020.png)
+![JAM ONLINE FEST 2020](../../../Img/227Live/JAM_Online_Fest_2020.png){: width="70%"}
 
 [Official New](http://www.nanabunnonijyuuni.com/news/archive/?521519)
 
