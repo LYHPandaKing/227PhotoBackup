@@ -14,7 +14,14 @@
 武田愛奈  
 帆風千春<br><br>
 ※イベントの新型コロナウィルスガイドラインに則り、参加メンバーを上記7名とさせていただきます。  
-※出演者は予告なく変更になる場合がございますので、予めご了承ください。  
+※出演者は予告なく変更になる場合がございますので、予めご了承ください。<br><br>
+表演曲目 Setlist<br>
+1 何もしてあげられない<br>
+2 未来があるから<br>
+3 韋駄天娘<br>
+4 風は吹いてるか？<br>
+5 循環バス
+
 
 <video width="100%" height="100%" controls>
   <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/22_7.JAM.ONLINE.FESTIVAL.2020-@jam.227.part.2020_08_29.mp4" type="video/mp4">
