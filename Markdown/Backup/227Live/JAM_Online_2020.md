@@ -1,0 +1,32 @@
+### JAM ONLINE FESTIVAL 2020
+##### [Back](../Live_List.md)
+
+![JAM ONLINE FEST 2020](../../../Img/227Live/JAM_Online_Fest_2020.png)
+
+[Official New](http://www.nanabunnonijyuuni.com/news/archive/?521519)
+
+>『＠JAM ONLINE FESTIVAL 2020』8月29日(土)に出演する22/7の出演メンバーは下記となります。<br><br>
+海乃るり  
+河瀬詩  
+西條和  
+涼花萌  
+高辻麗  
+武田愛奈  
+帆風千春<br><br>
+※イベントの新型コロナウィルスガイドラインに則り、参加メンバーを上記7名とさせていただきます。  
+※出演者は予告なく変更になる場合がございますので、予めご了承ください。  
+
+<video width="100%" height="100%" controls>
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/22_7.JAM.ONLINE.FESTIVAL.2020-@jam.227.part.2020_08_29.mp4" type="video/mp4">
+</video>
+
+<table>
+<tr>
+ <th>Raw</th>
+ <th><a href="https://www.bilibili.com/video/BV1ta4y1E7vo">Source</a></th>
+</tr>
+<tr>
+ <th>Sub</th>
+ <th>Currently Unavailable</th>
+</tr>
+</table>
