@@ -1,7 +1,7 @@
 ### #2 めまいの真ん中<br>  暈眩之中
 ##### [Back](Anime_List.md)
 
-![AnimeEp2](../../../Img/Anime/AnimeEp2.png){: width="70%"}  
+<img src="../../../Img/Anime/AnimeEp2.png" width="70%">  
 
 ##### 故事 Story
 突然”壁”が吐き出したプレートによって『22/7』と名付けられたみうたち。吐き出された2枚目のプレートには『審査会を行う』という“指令”が。戸惑いながらも思い思い準備を始めるメンバーだが、みうはまだアイドルとしての自分をイメージ出来ず、ひとり落ち込む。不安と緊張の中で始まる審査会。向けられる大人たちの厳しい眼差し。  
@@ -15,7 +15,7 @@
 作画監督：波部崇、笠原由博、木村麻亜紗  
 
 <video width="100%" height="100%" controls>
-  <source src="  " type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_BD_Anime/Bastard-Raws.Nanabun.no.Nijyuuni.-.02.BDRip.1920x1080.x264.FLAC.mp4" type="video/mp4">
 </video>
 
 <table>
