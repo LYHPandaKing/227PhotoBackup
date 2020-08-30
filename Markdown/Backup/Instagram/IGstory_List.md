@@ -10,7 +10,6 @@
 <a name="2020"></a>
 #### 2020
 <table>
-
 <tr>
 <th><a href="#Apr2020">April</a></th>
 <th><a href="#May2020">May</a></th>
@@ -30,6 +29,7 @@
 
 <a name="Aug2020"></a>
 ##### August
+- [20200830 (Sun)](IGstory/20200830.md)
 - [20200829 (Sat)](IGstory/20200829.md)
 - [20200828 (Fri)](IGstory/20200828.md)
 - [20200827 (Thur)](IGstory/20200827.md)
