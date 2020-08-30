@@ -1,7 +1,7 @@
 ### #3 こんにちは、新しい世界<br>  你好，新世界
 ##### [Back](Anime_List.md)
 
-![AnimeEp3](../../../Img/Anime/AnimeEp3.png){: width="70%"}  
+<img src="../../../Img/Anime/AnimeEp3.png" width="70%">  
 
 ##### 故事 Story
 “壁”からの指令により、22/7のお披露目ライブが2月27日に決まる。  
@@ -19,7 +19,7 @@
 
 
 <video width="100%" height="100%" controls>
-  <source src="  " type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_BD_Anime/Bastard-Raws.Nanabun.no.Nijyuuni.-.03.BDRip.1920x1080.x264.FLAC.mp4" type="video/mp4">
 </video>
 
 <table>
