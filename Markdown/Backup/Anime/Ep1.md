@@ -1,7 +1,7 @@
 ### #1 さよなら、私のささやかな世界<br>   再見了，我那小小的世界
 ##### [Back](Anime_List.md)
 
-![AnimeEp1](../../../Img/Anime/AnimeEp1.png){: width="70%"}  
+<img src="../../../Img/Anime/AnimeEp1.png" width="70%">  
 
 ##### 故事 Story
 滝川みうの元に届いた、芸能事務所「G.I.P」からの怪しげな手紙。  
@@ -18,7 +18,7 @@
 作画監督：成川多加志、山本真夕子、寺尾憲治  
 
 <video width="100%" height="100%" controls>
-  <source src="  " type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_BD_Anime/Bastard-Raws.Nanabun.no.Nijyuuni.-.01.BDRip.1920x1080.x264.FLAC.mp4" type="video/mp4">
 </video>
 
 <table>
