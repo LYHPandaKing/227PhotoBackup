@@ -1,7 +1,7 @@
 ### #4 約束に咲く花<br>  約定綻放之花
 ##### [Back](Anime_List.md)
 
-![AnimeEp4](../../../Img/Anime/AnimeEp4.png){: width="70%"}  
+<img src="../../../Img/Anime/AnimeEp4.png" width="70%">  
 
 ##### 故事 Story
 無事初ライブを成功させた22/7は、“壁”から新たな指令を受ける。  
@@ -16,7 +16,7 @@
 作画監督：斉藤千恵、小松沙奈、戸髙真希  
 
 <video width="100%" height="100%" controls>
-  <source src="  " type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_BD_Anime/Bastard-Raws.Nanabun.no.Nijyuuni.-.04.BDRip.1920x1080.x264.FLAC.mp4" type="video/mp4">
 </video>
 
 <table>
