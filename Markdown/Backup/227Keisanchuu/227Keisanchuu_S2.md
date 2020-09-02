@@ -49,34 +49,34 @@
 <a name="Ep1-10">
 
 #### [#10 第１回『ナナオンクイーン」決定戦』3](S2/Ep10.md)
-<img src="../../../Img/227Keisanchuu/20200606_S2Ep10.PNG" width='50%'>  
+<img src="../../../Img/227Keisanchuu/20200606_S2Ep10.png" width='50%'>  
 
 #### [#9 第１回『ナナオンクイーン」決定戦』2](S2/Ep9.md)
 <img src="../../../Img/227Keisanchuu/20200530_S2Ep9.jpg" width='50%'>  
 
 #### [#8 第１回『ナナオンクイーン」決定戦』](S2/Ep8.md)
-<img src="../../../Img/227Keisanchuu/20200523_S2Ep8.PNG" width='50%'>  
+<img src="../../../Img/227Keisanchuu/20200523_S2Ep8.png" width='50%'>  
 
 #### [#7 『斎藤ニコルプレゼンツ！発想力料理クイーン決定戦』](S2/Ep7.md)
-<img src="../../../Img/227Keisanchuu/20200516_S2Ep7.JPG" width="50%">
+<img src="../../../Img/227Keisanchuu/20200516_S2Ep7.jpg" width="50%">
 
 #### [#6 アドバンテージクイズ1vs6 2](S2/Ep6.md)
-<img src="../../../Img/227Keisanchuu/20200509_S2Ep6.JPG" width="50%">
+<img src="../../../Img/227Keisanchuu/20200509_S2Ep6.jpg" width="50%">
 
 #### [#5 アドバンテージクイズ1vs6](S2/Ep5.md)
-<img src="../../../Img/227Keisanchuu/20200502_S2Ep5.JPG" width="50%">
+<img src="../../../Img/227Keisanchuu/20200502_S2Ep5.jpg" width="50%">
 
 #### [#4 2020年No.1ラッキーガールは誰だ!? 22/7運勢ランキング! 2](S2/Ep4.md)
-<img src="../../../Img/227Keisanchuu/20200425_S2Ep4.JPG" width="50%">
+<img src="../../../Img/227Keisanchuu/20200425_S2Ep4.jpg" width="50%">
 
 #### [#3 2020年No.1ラッキーガールは誰だ!? 22/7運勢ランキング!](S2/Ep3.md)
-<img src="../../../Img/227Keisanchuu/20200418_S2Ep3.JPG" width="50%">
+<img src="../../../Img/227Keisanchuu/20200418_S2Ep3.jpg" width="50%">
 
 #### [#2 番組でやってみたい企画プレゼンバトル 2](S2/Ep2.md)
-<img src="../../../Img/227Keisanchuu/20200411_S2Ep2.JPG" width="50%">
+<img src="../../../Img/227Keisanchuu/20200411_S2Ep2.jpg" width="50%">
 
 #### [#1 番組でやってみたい企画プレゼンバトル](S2/Ep1.md)
-<img src="../../../Img/227Keisanchuu/20200404_S2Ep1.JPG" width="50%">
+<img src="../../../Img/227Keisanchuu/20200404_S2Ep1.jpg" width="50%">
 
-#### [#SP アニメ最終回&Season2開始 全部まとめて番宣スペシャル!](S2/SP.md)
-<img src="../../../Img/227Keisanchuu/20200327_S2EpSP.JPG" width="50%">
+#### [#SP アニメ最終回&Season2開始 全部まとめて番宣スペシャル!](S2/EpSP.md)
+<img src="../../../Img/227Keisanchuu/20200327_S2EpSP.jpg" width="50%">
