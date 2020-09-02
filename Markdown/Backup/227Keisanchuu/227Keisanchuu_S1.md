@@ -424,9 +424,9 @@
 ---
 
 #### [#2 私たちをもっと知って欲しい 22/7自己PR動画コンテスト 2](S1/Ep2.md)
-<img src="../../../Img/227Keisanchuu/20180714_S1Ep2.jpg){: width='70%'}  
+<img src="../../../Img/227Keisanchuu/20180714_S1Ep2.jpg" width="50%">  
 
 ---
 
 #### [#1 私たちをもっと知って欲しい 22/7自己PR動画コンテスト](S1/Ep1.md)
-<img src="../../../Img/227Keisanchuu/20180707_S1Ep1.jpg" width="70%">
+<img src="../../../Img/227Keisanchuu/20180707_S1Ep1.jpg" width="50%">
