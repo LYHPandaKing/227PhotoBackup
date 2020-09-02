@@ -78,5 +78,5 @@
 #### [#1 番組でやってみたい企画プレゼンバトル](S2/Ep1.md)
 <img src="../../../Img/227Keisanchuu/20200404_S2Ep1.JPG" width="50%">
 
-#### [#SP アニメ最終回&Season2開始 全部まとめて番宣スペシャル!](S2/SP.md)
+#### [#SP アニメ最終回&Season2開始 全部まとめて番宣スペシャル!](S2/EpSP.md)
 <img src="../../../Img/227Keisanchuu/20200327_S2EpSP.JPG" width="50%">
