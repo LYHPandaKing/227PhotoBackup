@@ -32,10 +32,10 @@
 <img src="../../../Img/227Keisanchuu/20200718_S2Ep16.png" width='50%'>  
 
 #### [#15 22/7共感グランプリ 2](S2/Ep15.md)
-<img src="../../../Img/227Keisanchuu/20200711_S2Ep15.png" width='50%'>  
+<img src="../../../Img/227Keisanchuu/20200711_S2Ep15.jpg" width='50%'>  
 
 #### [#14 22/7共感グランプリ](S2/Ep14.md)
-<img src="../../../Img/227Keisanchuu/20200704_S2Ep14.png" width='50%'>  
+<img src="../../../Img/227Keisanchuu/20200704_S2Ep14.jpg" width='50%'>  
 
 #### [#13 「お宅拝見リポート選手権」](S2/Ep13.md)
 <img src="../../../Img/227Keisanchuu/20200627_S2Ep13.png" width='50%'>  
