@@ -27,6 +27,10 @@
 </tr>
 </table>
 
+<a name="Sep2020"></a>
+##### September
+- [20200901 (Tue)](IGstory/Sep2020/20200901.md)
+
 <a name="Aug2020"></a>
 ##### August
 - [20200830 (Sun)](IGstory/20200830.md)
