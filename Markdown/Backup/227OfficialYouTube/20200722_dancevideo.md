@@ -1,4 +1,4 @@
-### 22/7 OFFICIAL YouTube CHANNEL
+### 22/7 『風は吹いてるか？』dance video
 ##### [Back](227OfficialYouTube.md)
 
 #### [22/7 『風は吹いてるか？』dance video](https://www.youtube.com/watch?v=PO78JmxBIbM)
