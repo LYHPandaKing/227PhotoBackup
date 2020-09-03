@@ -29,6 +29,7 @@
 
 <a name="Sep2020"></a>
 ##### September
+- [20200903 (Thur)](IGstory/Sep2020/20200903.md)
 - [20200902 (Wed)](IGstory/Sep2020/20200902.md)
 - [20200901 (Tue)](IGstory/Sep2020/20200901.md)
 
