@@ -25,14 +25,17 @@
 
 <a name="Kono_Miyako"></a>
 #### 河野都 Kono Miyako  
-##### ideal white  
-![RoughIllustration_13200011](../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13200011.png){: width="vw"}
+
+<table>
+  <tr>
+ <th>ideal white<br>
+<img src="../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13200011.png" width="48%">
 [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13200011.png)
 
 ##### 色彩  
 ![RoughIllustration_13200018](../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13200018.png){: width="vw"}
 [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13200018.png)
-
+  </tr>
 ##### 何もしてあげられない  
 ![RoughIllustration_13100014](../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13100014.png){: width="vw"}
 [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13100014.png)
@@ -41,6 +44,7 @@
 ![RoughIllustration_13100005](../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13100005.png){: width="vw"}
 [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13100005.png)
 
+</table>
 ---
 
 <a name="Saito_Nicole"></a>
