@@ -20,7 +20,7 @@ Date: 27May,2020
 
 **01.青いスタスィオン**  
 滝川みう（CV. 西條和）  
-![青いスタスィオン](../../Img/Music/Nanaon_Cover/青いスタスィオン.PNG){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200016.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/01.青いスタスィオン.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -32,7 +32,7 @@ Date: 27May,2020
 滝川みう（CV. 西條和）  
 東条悠希（CV. 高辻麗）  
 丸山あかね（CV. 白沢かなえ）  
-![恋するフォーチュンクッキー](../../Img/Music/Nanaon_Cover/恋するフォーチュンクッキー.PNG){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200003.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/02.恋するフォーチュンクッキー.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -41,7 +41,7 @@ Date: 27May,2020
 **03.コネクト**  
 河野都（CV. 倉岡水巴）  
 戸田ジュン（CV. 海乃るり）  
-![コネクト](../../Img/Music/Nanaon_Cover/コネクト.PNG){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200001.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/03.コネクト.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -50,7 +50,7 @@ Date: 27May,2020
 **04.象さんのすきゃんてぃ**  
 丸山あかね（CV. 白沢かなえ）  
 立川絢香（CV. 宮瀬玲奈）  
-![象さんのすきゃんてぃ](../../Img/Music/Nanaon_Cover/象さんのすきゃんてぃ.PNG){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200015.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/04.象さんのすきゃんてぃ.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -59,7 +59,7 @@ Date: 27May,2020
 **05.Preserved Roses**  
 佐藤麗華（CV. 帆風千春）  
 柊つぼみ（CV. 武田愛奈）   
-![Preserved Roses](../../Img/Music/Nanaon_Cover/Preserved%20Roses.PNG){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200012.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/05.Preserved%20Roses.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -71,7 +71,7 @@ Date: 27May,2020
 河野都（CV. 倉岡水巴）  
 佐藤麗華（CV. 帆風千春）  
 丸山あかね（CV. 白沢かなえ）  
-![ヘビーローテーション](../../Img/Music/Nanaon_Cover/ヘビーローテーション.PNG){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200005.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/06.ヘビーローテーション.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -81,7 +81,7 @@ Date: 27May,2020
 神木みかみ（CV. 涼花萌）  
 東条悠希（CV. 高辻麗）  
 柊つぼみ（CV. 武田愛奈）  
-![時の河を越えて](../../Img/Music/Nanaon_Cover/時の河を越えて.PNG){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200017.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/07.時の河を越えて.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -89,7 +89,7 @@ Date: 27May,2020
 
 **08.桃色タイフーン**  
 東条悠希（CV. 高辻麗）  
-![桃色タイフーン](../../Img/Music/Nanaon_Cover/桃色タイフーン.PNG){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200014.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/08.桃色タイフーン.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -97,7 +97,7 @@ Date: 27May,2020
 
 **09.IGNITE**  
 佐藤麗華（CV. 帆風千春）  
-![IGNITE](../../Img/Music/Nanaon_Cover/IGNITE.PNG){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200010.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/09.IGNITE.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -105,7 +105,7 @@ Date: 27May,2020
 
 **10.色彩**  
 河野都（CV. 倉岡水巴）  
-![色彩](../../Img/Music/Nanaon_Cover/色彩.PNG){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200018.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/10.色彩.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -113,7 +113,7 @@ Date: 27May,2020
 
 **11.センチメンタルクライシス**  
 戸田ジュン（CV. 海乃るり）  
-![センチメンタルクライシス](../../Img/Music/Nanaon_Cover/センチメンタルクライシス.PNG){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200009.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/11.センチメンタルクライシス.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -121,7 +121,7 @@ Date: 27May,2020
 
 **12.名前のない怪物**  
 佐藤麗華（CV. 帆風千春）  
-![名前のない怪物](../../Img/Music/Nanaon_Cover/名前のない怪物.PNG){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200013.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/12.名前のない怪物.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -133,7 +133,7 @@ Date: 27May,2020
 立川絢香（CV. 宮瀬玲奈）  
 河野都（CV. 倉岡水巴）  
 東条悠希（CV. 高辻麗）  
-![桜、みんなで食べた](../../Img/Music/Nanaon_Cover/桜、みんなで食べた.PNG){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200007.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/13.桜、みんなで食べた.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -141,7 +141,7 @@ Date: 27May,2020
 
 **14.oath sign**  
 藤間桜（CV. 天城サリー）  
-![oath sign](../../Img/Music/Nanaon_Cover/oath%20sign.PNG){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200002.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/14.oath%20sign.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -149,7 +149,7 @@ Date: 27May,2020
 
 **15.ideal white**  
 河野都（CV. 倉岡水巴）  
-![ideal white](../../Img/Music/Nanaon_Cover/ideal%20white.PNG){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200011.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/15.ideal%20white.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -161,7 +161,7 @@ Date: 27May,2020
 斎藤ニコル（CV. 河瀬詩）  
 立川絢香（CV. 宮瀬玲奈）  
 神木みかみ（CV. 涼花萌）  
-![オーマイガー!](../../Img/Music/Nanaon_Cover/オーマイガー!.PNG){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200006.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/16.オーマイガー!.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -169,7 +169,7 @@ Date: 27May,2020
 
 **17.SPEED STAR**  
 柊つぼみ（CV. 武田愛奈）  
-![SPEED STAR](../../Img/Music/Nanaon_Cover/SPEED%20STAR.PNG){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200008.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/17.SPEED%20STAR.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -181,7 +181,7 @@ Date: 27May,2020
 丸山あかね（CV. 白沢かなえ）  
 柊つぼみ（CV. 武田愛奈）  
 立川絢香（CV. 宮瀬玲奈）  
-![走れ!ペンギン](../../Img/Music/Nanaon_Cover/走れ!ペンギン.PNG){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200004.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/18.走れ!ペンギン.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -194,7 +194,7 @@ Date: 5Jun,2020
 
 **19.君の知らない物語**  
 佐藤麗華（CV. 帆風千春）  
-![君の知らない物語](../../Img/Music/Nanaon_Cover/君の知らない物語.PNG){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200019.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/19.君の知らない物語.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -202,7 +202,7 @@ Date: 5Jun,2020
 
 **20.staple stable**  
 滝川みう（CV. 西條和）  
-![staple stable](../../Img/Music/Nanaon_Cover/staple%20stable.PNG){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200020.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/20.staple%20stable.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -210,7 +210,7 @@ Date: 5Jun,2020
 
 **21.帰り道**  
 藤間桜（CV. 天城サリー）  
-![帰り道](../../Img/Music/Nanaon_Cover/帰り道.PNG){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200021.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/21.帰り道.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -218,7 +218,7 @@ Date: 5Jun,2020
 
 **22.marshmallow justice**  
 戸田ジュン（CV. 海乃るり）  
-![marshmallow justice](../../Img/Music/Nanaon_Cover/marshmallow%20justice.PNG){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200022.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/22.marshmallow%20justice.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -231,7 +231,7 @@ Date: 30Jun,2020
 
 **23.ambivalent world**  
 河野都（CV. 倉岡水巴）  
-![ambivalent world](../../Img/Music/Nanaon_Cover/ambivalent%20world.png){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200023.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/23.ambivalent%20world.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -239,7 +239,7 @@ Date: 30Jun,2020
 
 **24.恋愛サーキュレーション**  
 立川絢香（CV. 宮瀬玲奈）  
-![恋愛サーキュレーション](../../Img/Music/Nanaon_Cover/恋愛サーキュレーション.png){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200024.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/24.恋愛サーキュレーション.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -247,7 +247,7 @@ Date: 30Jun,2020
 
 **25.sugar sweet nightmare**  
 丸山あかね（CV. 白沢かなえ）  
-![sugar sweet nightmare](../../Img/Music/Nanaon_Cover/sugar%20sweet%20nightmare.png){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200025.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/25.sugar%20sweet%20nightmare.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -255,7 +255,7 @@ Date: 30Jun,2020
 
 **26.白金ディスコ**  
 東条悠希（CV. 高辻麗）  
-![白金ディスコ](../../Img/Music/Nanaon_Cover/白金ディスコ.png){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200026.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/26.白金ディスコ.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -267,7 +267,7 @@ Date: 30Jun,2020
 丸山あかね（CV. 白沢かなえ）  
 滝川みう（CV. 西條和）  
 立川絢香（CV. 宮瀬玲奈）  
-![wicked prince](../../Img/Music/Nanaon_Cover/wicked%20prince.png){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200027.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/27.wicked%20prince.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -284,7 +284,7 @@ Date: 30Jul,2020
 斎藤ニコル（CV. 河瀬詩）  
 立川絢香（CV. 宮瀬玲奈）  
 柊つぼみ（CV. 武田愛奈）  
-![Everyday、カチューシャ](../../Img/Music/Nanaon_Cover/Everyday、カチューシャ.png){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200028.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/28.Everyday、カチューシャ.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -296,7 +296,7 @@ Date: 30Jul,2020
 立川絢香（CV. 宮瀬玲奈）  
 戸田ジュン（CV. 海乃るり）  
 河野都（CV. 倉岡水巴）  
-![ナギイチ](../../Img/Music/Nanaon_Cover/ナギイチ.png){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200029.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/29.ナギイチ.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -309,7 +309,7 @@ Date: 30Jul,2020
 丸山あかね（CV. 白沢かなえ）  
 東条悠希（CV. 高辻麗）  
 藤間桜（CV. 天城サリー）  
-![パレオはエメラルド](../../Img/Music/Nanaon_Cover/パレオはエメラルド.png){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200030.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/30.パレオはエメラルド.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -322,7 +322,7 @@ Date: 18Aug,2020
 
 **31.motto☆派手にね！**  
 神木みかみ（CV. 涼花萌）  
-![motto☆派手にね！](../../Img/Music/Nanaon_Cover/motto☆派手にね！.png){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200031.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/31.motto☆派手にね！.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -333,7 +333,7 @@ Date: 18Aug,2020
 滝川みう（CV. 西條和）  
 斎藤ニコル（CV. 河瀬詩）  
 立川絢香（CV. 宮瀬玲奈）  
-![Non stop road](../../Img/Music/Nanaon_Cover/Non%20stop%20road.png){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200032.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/32.Non%20stop%20road.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -343,7 +343,7 @@ Date: 18Aug,2020
 斎藤ニコル（CV. 河瀬詩）  
 神木みかみ（CV. 涼花萌）  
 戸田ジュン（CV. 海乃るり）  
-![adrenaline!!!](../../Img/Music/Nanaon_Cover/adrenaline!!!.png){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200033.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/33.adrenaline!!!.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -356,7 +356,7 @@ Date: 4Sep,2020
 
 **34.紅蓮華**  
 佐藤麗華（CV. 帆風千春）  
-![紅蓮華](../../Img/Music/Nanaon_Cover/紅蓮華.png){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/34.紅蓮華.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -364,7 +364,7 @@ Date: 4Sep,2020
 
 **35.from the edge**  
 柊つぼみ（CV. 武田愛奈）  
-![from the edge](../../Img/Music/Nanaon_Cover/from%20the%20edge.png){: width="70%"}  
+<img src="../../Img/Music/Nanaon_Cover/" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/35.from%20the%20edge.mp3"></source>
   <p>Your browser does not support the audio element.</p>
