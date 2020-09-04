@@ -179,7 +179,7 @@ Date: 4Sep,2020<br>
  <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13100003.png">Download</a></td>
  </tr>
  <tr>
-<td colspan="2">ムズイ<br>
+<td>ムズイ<br>
  <img src="../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13100019.png" width="vw"><br>
  <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13100019.png">Download</a></td>
  </tr>
@@ -272,7 +272,7 @@ Date: 5Jun,2020<br>
 
 <table>
  <tr>
-<td colspan="2">marshmallow justice<br>
+<td>marshmallow justice<br>
  <img src="../../../Album/Nanaon/Rough%20Illustration/20200625_〈物語〉シリーズコラボイベント〈前編〉/RoughIllustration_13200022.png" width="vw"><br>
  <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/20200625_〈物語〉シリーズコラボイベント〈前編〉/RoughIllustration_13200022.png">Download</a></td>
  </tr>
@@ -304,7 +304,7 @@ Date: 18Aug,2020<br>
  <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13200007.png">Download</a></td>
  </tr>
  <tr>
-<td colspan="2">空のエメラルド<br>
+<td>空のエメラルド<br>
  <img src="../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13100020.png" width="vw"><br>
  <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13100020.png">Download</a></td>
  </tr>
@@ -315,7 +315,7 @@ Date: 5Jun,2020<br>
 
 <table>
  <tr>
-<td colspan="2">帰り道<br>
+<td>帰り道<br>
  <img src="../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13200021.png" width="vw"><br>
  <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13200021.png">Download</a></td>
  </tr>
