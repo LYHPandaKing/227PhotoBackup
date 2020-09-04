@@ -354,18 +354,18 @@ Date: 18Aug,2020
 #### 稲穂に宿る月夜の姫
 Date: 4Sep,2020
 
-**35.紅蓮華**  
+**34.紅蓮華**  
 佐藤麗華（CV. 帆風千春）  
 ![紅蓮華](../../Img/Music/Nanaon_Cover/紅蓮華.png){: width="70%"}  
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/35.紅蓮華.mp3"></source>
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/34.紅蓮華.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-**36.from the edge**  
+**35.from the edge**  
 柊つぼみ（CV. 武田愛奈）  
 ![from the edge](../../Img/Music/Nanaon_Cover/from%20the%20edge.png){: width="70%"}  
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/36.from%20the%20edge.mp3"></source>
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/35.from%20the%20edge.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
