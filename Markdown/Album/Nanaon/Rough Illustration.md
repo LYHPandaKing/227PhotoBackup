@@ -83,7 +83,7 @@ Date: 30Jun,2020<br>
  </tr>
  <tr>
 <td>孤独は嫌いじゃない<br>
- <img src="./../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13100023.png" width="vw"><br>
+ <img src="../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13100023.png" width="vw"><br>
  <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13100023.png">Download</a></td>
  </tr>
 </table>
@@ -389,8 +389,8 @@ Date: 30Jul,2020<br>
  <img src="../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13100015.png" width="vw"><br>
  <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13100015.png">Download</a></td>
 
-22/7×SUMMER×SUMMER×SUMMER! 後編
-Date: 18Aug,2020
+22/7×SUMMER×SUMMER×SUMMER! 後編<br>
+Date: 18Aug,2020<br>
 
 <table>
  <tr>
