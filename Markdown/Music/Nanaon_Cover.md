@@ -10,6 +10,9 @@
   <th><a href="#SUMMERSUMMERSUMMER_1">22/7×SUMMER×SUMMER×SUMMER! 前編</a></th>
   <th><a href="#SUMMERSUMMERSUMMER_3">22/7×SUMMER×SUMMER×SUMMER! 後編</a></th>
 </tr>
+<tr>
+  <th><a href="#Princess_of_the_moon_night">稲穂に宿る月夜の姫</a></th>
+</tr>
 </table>
 
 #### 22/7 音楽の時間  翻唱歌曲 Cover Songs
@@ -343,5 +346,26 @@ Date: 18Aug,2020
 ![adrenaline!!!](../../Img/Music/Nanaon_Cover/adrenaline!!!.png){: width="70%"}  
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/33.adrenaline!!!.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+---
+<a name="Princess_of_the_moon_night"></a>
+#### 稲穂に宿る月夜の姫
+Date: 4Sep,2020
+
+**34.紅蓮華**  
+佐藤麗華（CV. 帆風千春）  
+![紅蓮華](../../Img/Music/Nanaon_Cover/紅蓮華.png){: width="70%"}  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/34.紅蓮華.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**35.from the edge**  
+柊つぼみ（CV. 武田愛奈）  
+![from the edge](../../Img/Music/Nanaon_Cover/from%20the%20edge.png){: width="70%"}  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/35.from%20the%20edge.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
