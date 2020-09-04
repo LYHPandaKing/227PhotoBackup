@@ -82,7 +82,7 @@ Date: 30Jun,2020<br>
  <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13100002.png">Download</a></td>
  </tr>
  <tr>
-<td colspan="2">孤独は嫌いじゃない<br>
+<td>孤独は嫌いじゃない<br>
  <img src="./../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13100023.png" width="vw"><br>
  <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13100023.png">Download</a></td>
  </tr>
@@ -139,9 +139,20 @@ Date: 5Jun,2020<br>
 
 <table>
  <tr>
-<td colspan="2">君の知らない物語<br>
+<td>君の知らない物語<br>
  <img src="../../../Album/Nanaon/Rough%20Illustration/20200625_〈物語〉シリーズコラボイベント〈前編〉/RoughIllustration_13200019.png" width="vw"><br>
  <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/20200625_〈物語〉シリーズコラボイベント〈前編〉/RoughIllustration_13200019.png">Download</a></td>
+ </tr>
+</table>
+
+稲穂に宿る月夜の姫<br>
+Date: 4Sep,2020<br>
+
+<table>
+ <tr>
+<td>from the edge<br>
+ <img src="../../../Album/Nanaon/Rough%20Illustration/20200904_稲穂に宿る月夜の姫/" width="vw"><br>
+ <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/20200904_稲穂に宿る月夜の姫/">Download</a></td>
  </tr>
 </table>
 
@@ -384,43 +395,79 @@ Date: 18Aug,2020
 <table>
  <tr>
 <td>motto☆派手にね！<br>
- <img src="../../../Album/Nanaon/Rough%20Illustration/20200818_227×SUMMER×SUMMER×SUMMER!%20後編/" width="vw"><br>
- <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/20200818_227×SUMMER×SUMMER×SUMMER!%20後編/">Download</a></td>
+ <img src="../../../Album/Nanaon/Rough%20Illustration/20200818_227×SUMMER×SUMMER×SUMMER!%20後編/RoughIllustration_13200031.png" width="vw"><br>
+ <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/20200818_227×SUMMER×SUMMER×SUMMER!%20後編/RoughIllustration_13200031.png">Download</a></td>
  </tr>
 </table>
 
 ---
 
 <a name="Tojo_Yuki"></a>
-#### 東条悠希 Tojo Yuki
-##### 君はMoon  
-![RoughIllustration_13100017](../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13100017.png){: width="vw"}
-[Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13100017.png)
+#### 東条悠希 Tojo Yuki  
 
-##### 叫ぶしかない青春  
-![RoughIllustration_13100006](../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13100006.png){: width="vw"}
-[Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13100006.png)
+<table>
+ <tr>
+<td>君はMoon<br>
+ <img src="../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13100017.png" width="vw"><br>
+ <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13100017.png">Download</a></td>
+<td>叫ぶしかない青春<br>
+ <img src="../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13100006.png" width="vw"><br>
+ <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13100006.png>Download</a></td>
+ </tr>
+ <tr>
+<td>桃色タイフーン<br>
+ <img src="../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13200014.png" width="vw"><br>
+ <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13200014.png">Download</a></td>
+ </tr>
+</table>
 
-##### 桃色タイフーン  
-![RoughIllustration_13200014](../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13200014.png){: width="vw"}
-[Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13200014.png)
+〈物語〉シリーズコラボイベント〈後編〉<br>
+Date: 30Jun,2020<br>
+
+<table>
+ <tr>
+<td>白金ディスコ<br>
+<img src="../../../Album/Nanaon/Rough%20Illustration/20200630_〈物語〉シリーズコラボイベント〈後編〉/RoughIllustration_13200026.png" width="vw"><br>
+ <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/20200630_〈物語〉シリーズコラボイベント〈後編〉/Rough%20Illustration/RoughIllustration_13200026.png">Download</a></td>
+ </tr>
+</table>
 
 ---
 
 <a name="Hiiragi_Tsubomi"></a>
 #### 柊つぼみ Hiiragi Tsubomi
-##### SPEED STAR  
-![RoughIllustration_13200008](../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13200008.png){: width="vw"}
-[Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13200008.png)
 
-##### とんぼの気持ち  
-![RoughIllustration_13100016](../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13100016.png){: width="vw"}
-[Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13100016.png)
+<table>
+ <tr>
+<td>SPEED STAR<br>
+ <img src="../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13200008.png" width="vw"><br>
+ <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13200008.png">Download</a></td>
+<td>とんぼの気持ち<br>
+ <img src="../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13100016.png" width="vw"><br>
+ <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13100016.png">Download</a></td>
+ </tr>
+ <tr>
+<td>Preserved Roses<br>
+ <img src="../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13200012.png" width="vw"><br>
+ <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13200012.png">Download</a></td>
+<td>Preserved Roses [Pro]<br>
+ <img src="../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13200012%20%23708166.png" width="vw"><br>
+ <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13200012%20%23708166.png">Download</a></td>
+ </tr>
+ <tr>
+<td>ロマンスの積み木<br>
+ <img src="../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13100018.png" width="vw"><br>
+ <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13100018.png">Download</a></td>
+ </tr>
+</table>
 
-##### Preserved Roses  
-![RoughIllustration_13200012](../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13200012.png){: width="vw"}
-[Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13200012.png)
+稲穂に宿る月夜の姫<br>
+Date: 4Sep,2020<br>
 
-##### ロマンスの積み木  
-![RoughIllustration_13100018](../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13100018.png){: width="vw"}
-[Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13100018.png)
+<table>
+ <tr>
+<td>from the edge<br>
+ <img src="../../../Album/Nanaon/Rough%20Illustration/20200904_稲穂に宿る月夜の姫/" width="vw"><br>
+ <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/20200904_稲穂に宿る月夜の姫/">Download</a></td>
+ </tr>
+</table>
