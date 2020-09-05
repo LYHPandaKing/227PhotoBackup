@@ -22,12 +22,12 @@ Date: 7Jul,2018
 <table>
   <tr>
   <th>Raw</th>
-    <th><a href="https://drive.google.com/open?id=1FxtZdr8OqPQOS2i2GaJJv4MTVtqb4hNH">Source</a></th>
+    <th><a rel="noopener noreferrer" target="_blank" href="https://drive.google.com/open?id=1FxtZdr8OqPQOS2i2GaJJv4MTVtqb4hNH">Source</a></th>
     <th>Download | GitHub <a href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227Keisanchuu-mkv/227Keisanchuu.01.RAW.720P.227IndoFP.mkv">(.mkv) </a>/ <a href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227Keisanchuu-mp4/227Keisanchuu.01.RAW.720P.227IndoFP.mp4">(.mp4)</a></th>
   </tr>
   <tr>
   <th>Sub</th>
-    <th><a href="https://www.bilibili.com/video/BV16s411n7Xo">CHS Sub | bilibili</a></th>
+    <th><a rel="noopener noreferrer" target="_blank" href="https://www.bilibili.com/video/BV16s411n7Xo">CHS Sub | bilibili</a></th>
     <th><a href="">CHT Sub (.ass) </a>^Not Available Now</th>
   </tr>
 </table>
