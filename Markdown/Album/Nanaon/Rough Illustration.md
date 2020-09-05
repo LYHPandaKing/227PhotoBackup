@@ -316,8 +316,8 @@ Date: 5Jun,2020<br>
 <table>
  <tr>
 <td>帰り道<br>
- <img src="../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13200021.png" width="vw"><br>
- <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13200021.png">Download</a></td>
+ <img src="../../../Album/Nanaon/Rough%20Illustration/20200625_〈物語〉シリーズコラボイベント〈前編〉/RoughIllustration_13200021.png" width="vw"><br>
+ <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/20200625_〈物語〉シリーズコラボイベント〈前編〉/RoughIllustration_13200021.png">Download</a></td>
  </tr>
 </table>
 
