@@ -9,6 +9,7 @@ Facebook
 - [22/7 Idol Group - International Fans](https://www.facebook.com/groups/274226923142369/)
 - [Nanabun no nijuuni 22/7 - Ongaku no Jikan International Players](https://www.facebook.com/groups/703619237062957/)
 - 22/7tw ナナブンのニジュウニ台灣情報頁 [@227FanTW](https://www.facebook.com/227FanTW/)
+- 音楽の時間攻略中 by 227fantw [@nanaon227fantw](https://www.facebook.com/nanaon227fantw/)
 - 22/7音楽の時間～中文情報區～ [@nanaonzh](https://www.facebook.com/nanaonzh/)
 - 22/7 ナナブンノニジュウニ Indonesia Fanspage [@nanabunnoID](https://www.facebook.com/pg/nanabunnoID/)
 - 22/7 ナナニジ Seiyuu Posting [@227posting](https://www.facebook.com/227posting/)  
