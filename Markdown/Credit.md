@@ -29,3 +29,4 @@ Other
 - [bilibili - Sov](https://space.bilibili.com/730686/)
 - [bilibili - ナナ二ジ的搬运工](https://space.bilibili.com/571233650/)  
 - [22/7 List File Download (By 227IDFP)](https://docs.google.com/spreadsheets/d/1WTivciQQNjgQg_e7i_2bT2AUOb9uE2gL7L9P8UZUs6c/)
+- [22/7 Songs Compilation (By Aldair Stiph)](https://drive.google.com/drive/folders/121gXCDH8lwlcEAQ0HDC338_QV1D5yqnH)
