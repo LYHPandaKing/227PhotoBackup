@@ -1,7 +1,7 @@
 ### [【帆風千春】１時間空きました～無料おまけ～【＃７】](https://www.nicovideo.jp/watch/1595794503)
 ##### [Back](227Related.md)
 
-<img src="https://github.com/LYHPandaKing/227PhotoBackup/blob/master/Img/227Related/【帆風千春】１時間空きました～無料おまけ～【＃７】.jpg" width="70%">
+<img src="../../../Img/227Related/【帆風千春】１時間空きました～無料おまけ～【＃７】.jpg" width="70%">
 Date: 31Jul,2020  
 
 >天津向とゲスト声優のスケジュールが、<br>

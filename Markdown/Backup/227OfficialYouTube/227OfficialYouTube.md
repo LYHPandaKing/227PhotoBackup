@@ -7,8 +7,8 @@
 [22/7 生放送の時間 Vol.3 ～残暑見舞い申し上げます～](20200901_227Vol.3_Live.md)  
 <img src="../../../Img/227OfficialYouTube/20200901_227Vol.3_Live.jpg" width="50%">
 
-[22/7 #せいゆうろうどくかい 「雨あがり」](20200723_Speech.md)  
-<img src="../../../Img/227OfficialYouTube/20200723_Speech.jpg" width="50%">
+[22/7 #せいゆうろうどくかい 「雨あがり」](20200723_Seiyu_Rohoku_Aftertherain.md)  
+<img src="../../../Img/227OfficialYouTube/20200723_Seiyu_Rohoku_Aftertherain.jpg" width="50%">
 
 [22/7 『風は吹いてるか？』dance video](20200722_dancevideo.md)  
 <img src="../../../Img/227OfficialYouTube/20200722_dancevideo.jpg" width="50%">
