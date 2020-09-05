@@ -29,6 +29,8 @@
 
 <a name="Sep2020"></a>
 ##### September
+- [20200905 (Sat)](IGstory/Sep2020/20200905.md)
+- [20200904 (Fri)](IGstory/Sep2020/20200904.md) [白沢かなえ | 高辻麗]
 - [20200903 (Thur)](IGstory/Sep2020/20200903.md)
 - [20200902 (Wed)](IGstory/Sep2020/20200902.md)
 - [20200901 (Tue)](IGstory/Sep2020/20200901.md)
