@@ -2,7 +2,8 @@
 ##### [Back](HostsCreation.md)
 
 #### 貼圖包 Sticker Packs<br>
-- 22/7 Sticker #1<br>
+<i>^ 只包含正體中文翻譯版貼圖。Only provide **CHT version**s' stickers.</i>
+- 22/7 Sticker #1 [Update Time: 8Sep,2020 2331 (HKT)]<br> 
 <a target="_blank" rel="noopener noreferrer" href=""><img src="../../Img/Download_Telegram.png" height="100"></a><br>
 <a target="_blank" rel="noopener noreferrer" href=""><img src="../../Img/Download_Whatsticker.png" height="100"></a>
 
@@ -13,11 +14,11 @@
 <table>
  <tr>
 <td>よっしゃ 行くで!<br>よっしゃ 走吧!<br>
- <img src="../../Img/Nanaon/Stamp/Original/10000001.png" width="50%"></a><br>
+ <img src="../../Img/Nanaon/Stamp/Original/10000001.png" width="45%"><img src="../../Img/Nanaon/Stamp/CHT/10000001.png" width="45%"><br>
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Img/Nanaon/Stamp/Original/10000001.png">Original</a><br>
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Img/Nanaon/Stamp/CHT/10000001.png">CHT</a><br></td>
 <td>おつかれさま<br>辛苦了<br>
- <img src="../../Img/Nanaon/Stamp/Original/10000002.png" width="50%"></a><br>
+ <img src="../../Img/Nanaon/Stamp/Original/10000002.png" width="45%"><img src="../../Img/Nanaon/Stamp/CHT/10000002.png" width="45%"><br>
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Img/Nanaon/Stamp/Original/10000002.png">Original</a><br>
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Img/Nanaon/Stamp/CHT/10000002.png">CHT</a><br></td>
  </tr>
