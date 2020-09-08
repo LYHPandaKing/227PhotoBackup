@@ -3,7 +3,7 @@
 
 #### 貼圖包 Sticker Packs<br>
 <i>^ 只包含正體中文翻譯版貼圖。Only provide **CHT version**s' stickers.</i>
-- 22/7 Sticker #1 [Update Time: 8Sep,2020 2331 (HKT)]<br> 
+- 22/7 Sticker #1 [Update Time: 8Sep,2020 23:31 (HKT)]<br> 
 <a target="_blank" rel="noopener noreferrer" href=""><img src="../../Img/Download_Telegram.png" height="100"></a><br>
 <a target="_blank" rel="noopener noreferrer" href=""><img src="../../Img/Download_Whatsticker.png" height="100"></a>
 
