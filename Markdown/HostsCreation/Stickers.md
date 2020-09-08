@@ -13,11 +13,11 @@
 <table>
  <tr>
 <td>よっしゃ 行くで!<br>よっしゃ 走吧!<br>
- <img src="../../../Img/Nanaon/Stamp/Original/10000001.png" width="50%"></a><br>
+ <img src="../../Img/Nanaon/Stamp/Original/10000001.png" width="50%"></a><br>
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Img/Nanaon/Stamp/Original/10000001.png">Original</a><br>
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Img/Nanaon/Stamp/CHT/10000001.png">CHT</a><br></td>
 <td>おつかれさま<br>辛苦了<br>
- <img src="../../../Img/Nanaon/Stamp/Original/10000002.png" width="50%"></a><br>
+ <img src="../../Img/Nanaon/Stamp/Original/10000002.png" width="50%"></a><br>
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Img/Nanaon/Stamp/Original/10000002.png">Original</a><br>
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Img/Nanaon/Stamp/CHT/10000002.png">CHT</a><br></td>
  </tr>
