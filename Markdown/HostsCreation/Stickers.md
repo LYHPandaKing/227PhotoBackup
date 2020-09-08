@@ -3,7 +3,7 @@
 
 #### 貼圖包 Sticker Packs<br>
 - 22/7 Sticker #1<br>
-<a target="_blank" rel="noopener noreferrer" href=""><img src="../../Img/Download_Telegram.png" height="100"></a>
+<a target="_blank" rel="noopener noreferrer" href=""><img src="../../Img/Download_Telegram.png" height="100"></a><br>
 <a target="_blank" rel="noopener noreferrer" href=""><img src="../../Img/Download_Whatsticker.png" height="100"></a>
 
 ---
