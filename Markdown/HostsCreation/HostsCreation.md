@@ -7,3 +7,4 @@ This place shows some of my creations upon 22/7. Please don't repost without per
 - [22/7 出演系列 Voice Act Series](227VoiceAct.md)
 - 外掛字幕 External subtitles (.ass)
 - [貼圖 Stickers](Stickers.md)
+- [教學 Tutorial](Tutorial_List.md)
