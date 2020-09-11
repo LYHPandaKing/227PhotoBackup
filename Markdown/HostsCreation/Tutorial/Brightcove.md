@@ -45,4 +45,15 @@ Wait for the convert to complete. <i>^ If VLC shutdown during the converting pro
 
 查看檔案是否能正常播放。<br>
 Check whether the video can play or not.<br>
-<img src="../../../Img/Tutorial/Brightcove/step7.png" width="vw"><br><br>
+<img src="../../../Img/Tutorial/Brightcove/step8.png" width="vw"><br><br>
+
+><b>4a. 利用VLC player轉換至mp4</b><br>
+如相關影片像圖中所示一樣只有約十秒時間，則需要使用另一方法下載。先複製M3U8連結。<br>
+If the converted video just like the one in the above image, which only got a few secord long. You need to use another way to download it again.<br>
+Firstly, please copy the M3U8 link.<br>
+
+煞後按「媒體 > 開啟網絡串流」。然後貼上剛才複製的M3U8網址。按「播放」。<br>
+Click "Media > Open Network Stream" and paste to link. Click "Play".<br>
+
+
+<img src="../../../Img/Tutorial/Brightcove/step9.png" width="vw"><br><br>
