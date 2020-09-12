@@ -29,7 +29,7 @@
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Img/Nanaon/Stamp/CHT/10000003.png">CHT</a><br></td>
 <td>Good Luck<br>
  <img src="../../Img/Nanaon/Stamp/Original/10000004.png" width="45%"><br>
- <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Img/Nanaon/Stamp/Original/10000004.png">Original</a><br>
+ <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Img/Nanaon/Stamp/Original/10000004.png">Original</a><br></td>
  </tr>
  <tr>
 <td>計算通リです<br>和計劃的一樣<br>
