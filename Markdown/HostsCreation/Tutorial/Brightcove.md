@@ -27,7 +27,7 @@ Find the Brightcove player link and copy it.<br><br>
 Open "<a target="_blank" rel="noopener noreferrer" href="https://www.tubeoffline.com/download-BrightCove-videos.php">TubeOffline</a>" website and paste the Brightcove player link. After that, press <i>GET video</i>.<br>
 <img src="../../../Img/Tutorial/Brightcove/step3.png" width="70%"><br><br>
 
-等候片刻，然後在「COPY this link」上右擊，按「複製縺結網址」。<br>
+等候片刻，然後在「COPY this link」上右擊，按「複製鏈結網址」。<br>
 Wait for a while. Then right click and copy the link on <i>COPY this link</i>.<br>
 <img src="../../../Img/Tutorial/Brightcove/step4.png" width="70%"><br><br>
 
@@ -52,7 +52,7 @@ Check whether the video can play or not.<br>
 如相關影片像上圖所示一樣只有約十秒時間，則需要使用另一方法下載。先複製M3U8連結。<br>
 If the converted video just like the one in the above image, which only got a few secord long. You need to use another way to download it again.<br>
 Firstly, please copy the M3U8 link.<br><br>
-煞後按「媒體 > 開啟網絡串流」。然後貼上剛才複製的M3U8網址。按「播放」。<br>等候影片開始播放。它應該有合理的片長，如30分鐘。<br>
+然後按「媒體 > 開啟網絡串流」。然後貼上剛才複製的M3U8網址。按「播放」。<br>等候影片開始播放。它應該有合理的片長，如30分鐘。<br>
 Click "Media > Open Network Stream" and paste to link. Click "Play".<br>Wait for the video to play. It should have a reasonable video length (eg. 30mins).<br>
 <img src="../../../Img/Tutorial/Brightcove/step9.png" width="70%"><br><br>
 按上方工具欄「檢視 > 播放清單」。<br>
@@ -68,3 +68,7 @@ Wait for the convert to complete. And check whether the video can play or not.<b
 
 <b>5. 完成 | Finish</b><br>
 <img src="../../../Img/Tutorial/Brightcove/step12.png" width="70%"><br><br>
+
+---
+
+<b>6. 如無法直接找到 Brightcove player 網址 | If cannot find the Brightcove player link directly</b><br>
