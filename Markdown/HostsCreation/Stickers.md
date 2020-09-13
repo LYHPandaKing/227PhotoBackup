@@ -41,4 +41,14 @@
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Img/Nanaon/Stamp/Original/10000006.png">Original</a><br>
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Img/Nanaon/Stamp/CHT/10000006.png">CHT</a><br></td>
  </tr>
+ <tr>
+<td>ヘえ、やるじゃん<br>嘿 還不錯嘛<br>
+ <img src="../../Img/Nanaon/Stamp/Original/10000007.png" width="45%"><img src="../../Img/Nanaon/Stamp/CHT/10000007.png" width="45%"><br>
+ <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Img/Nanaon/Stamp/Original/10000007.png">Original</a><br>
+ <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Img/Nanaon/Stamp/CHT/10000007.png">CHT</a><br></td>
+<td>おかしパワー!<br>糖果Power!<br>
+ <img src="../../Img/Nanaon/Stamp/Original/10000008.png" width="45%"><img src="../../Img/Nanaon/Stamp/CHT/10000008.png" width="45%"><br>
+ <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Img/Nanaon/Stamp/Original/10000008.png">Original</a><br>
+ <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Img/Nanaon/Stamp/CHT/10000008.png">CHT</a><br></td>
+ </tr>
 </table>
