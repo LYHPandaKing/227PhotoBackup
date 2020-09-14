@@ -61,4 +61,9 @@
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Img/Nanaon/Stamp/Original/10000010.png">Original</a><br>
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Img/Nanaon/Stamp/CHT/10000010.png">CHT</a><br></td>
  </tr>
+ <tr>
+<td>おっつ〜♪<br>
+ <img src="../../Img/Nanaon/Stamp/Original/10000011.png" width="45%"><br>
+ <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Img/Nanaon/Stamp/Original/10000011.png">Original</a><br>
+ </tr>
 </table>
