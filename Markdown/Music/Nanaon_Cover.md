@@ -1,4 +1,4 @@
-### 22/7 音楽の時間 Ongaku no Jikan
+### 22/7 音楽の時間 Ongaku no Jikan - 翻唱歌曲 Cover Songs
 ##### [Back](227%20Ongaku%20no%20Jikan.html)
 
 <table>
