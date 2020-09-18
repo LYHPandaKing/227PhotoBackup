@@ -12,3 +12,9 @@ Date: 19Aug,2020
   <source type="audio/mp3" src="../../Music/Character%20Songs/01.Moonlight.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
+
+**02.Moonlight -off vocal ver.-**  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/Character%20Songs/02.Moonlight%20-off%20vocal%20ver.-%20.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
