@@ -14,10 +14,22 @@ Date: 16Sep,2020
   <p>Your browser does not support the audio element.</p>
 </audio>
 
+**03.孤独は嫌いじゃない -off vocal ver.-**  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/Character%20Songs/03.孤独は嫌いじゃない%20-off%20vocal%20ver.-%20.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
 **02.神様に指を差された僕たち**  
 神木みかみ（CV:涼花 萌）&東条悠希（CV:高辻 麗）＆柊つぼみ（CV:武田愛奈）  
 ![神様に指を差された僕たち](../../Img/Music/BDDVDVol6_Three.PNG){: width="70%"}  
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/Character%20Songs/02.神様に指を差された僕たち.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**04.神様に指を差された僕たち -off vocal ver.-**  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/Character%20Songs/04.神様に指を差された僕たち%20-off%20vocal%20ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
