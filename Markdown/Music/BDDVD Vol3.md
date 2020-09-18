@@ -14,10 +14,22 @@ Date: 17Jun,2020
   <p>Your browser does not support the audio element.</p>
 </audio>
 
+**03.夢の船 -off vocal ver.-**  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/Character%20Songs/03.夢の船%20-off%20vocal%20ver.-%20.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
 **02.優等生じゃつまらない**  
 佐藤麗華（CV：帆風千春）  
 ![優等生じゃつまらない](../../Img/Music/BDDVDVol3_Reika.PNG){: width="70%"}  
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/Character%20Songs/02.優等生じゃつまらない.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**04.優等生じゃつまらない -off vocal ver.-**  
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/Character%20Songs/04.優等生じゃつまらない%20-off%20vocal%20ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
