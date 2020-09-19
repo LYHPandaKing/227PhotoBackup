@@ -29,18 +29,18 @@ Date: 20Sept,2017
 
 **04.僕は存在していなかった -off vocal ver.**  
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/01_BokuwaSonzaiShiteinakatta/04.%20僕は存在していなかった%20-off%20vocal%20ver.-.mp3"></source>
+  <source type="audio/mp3" src="../../Music/01_BokuwaSonzaiShiteinakatta/04.%20僕は存在していなかった%20-off%20vocal%20ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
 **05.地下鉄抵抗主義 -off vocal ver.**  
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/01_BokuwaSonzaiShiteinakatta/05.%20地下鉄抵抗主義%20-off%20vocal%20ver.-.mp3"></source>
+  <source type="audio/mp3" src="../../Music/01_BokuwaSonzaiShiteinakatta/05.%20地下鉄抵抗主義%20-off%20vocal%20ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
 **06.11人が集まった理由 -off vocal ver.**  
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/01_BokuwaSonzaiShiteinakatta/06.%2011人が集まった理由%20-off%20vocal%20ver.-.mp3"></source>
+  <source type="audio/mp3" src="../../Music/01_BokuwaSonzaiShiteinakatta/06.%2011人が集まった理由%20-off%20vocal%20ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
