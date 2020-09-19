@@ -25,7 +25,7 @@ Date: 26Feb,2020
 
 **04.ムズイ -off vocal ver.**  
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/05_Muzui/04.%20ムズイ-off%20vocal%20ver.-.mp3"></source>
+  <source type="audio/mp3" src="../../Music/05_Muzui/04.%20ムズイ%20-off%20vocal%20ver.-.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
@@ -67,13 +67,13 @@ Date: 26Feb,2020
 
 **04.ムズイ -off vocal ver.**  
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/05_Muzui/04.%20ムズイ-off%20vocal%20ver.-%20.mp3"></source>
+  <source type="audio/mp3" src="../../Music/05_Muzui/04.%20ムズイ%20-off%20vocal%20ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
 **05.空のエメラルド -off vocal ver.**  
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/05_Muzui/05.%20空のエメラルド-off%20vocal%20ver.-%20.mp3"></source>
+  <source type="audio/mp3" src="../../Music/05_Muzui/05.%20空のエメラルド%20-off%20vocal%20ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
@@ -109,13 +109,13 @@ Date: 26Feb,2020
 
 **04.ムズイ -off vocal ver.**  
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/05_Muzui/04.%20ムズイ-off%20vocal%20ver.-%20.mp3"></source>
+  <source type="audio/mp3" src="../../Music/05_Muzui/04.%20ムズイ%20-off%20vocal%20ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
 **05.空のエメラルド -off vocal ver.**  
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/05_Muzui/05.%20空のエメラルド-off%20vocal%20ver.-%20.mp3"></source>
+  <source type="audio/mp3" src="../../Music/05_Muzui/05.%20空のエメラルド%20-off%20vocal%20ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
