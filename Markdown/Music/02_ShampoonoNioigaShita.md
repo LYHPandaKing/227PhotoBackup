@@ -25,19 +25,19 @@ Date: 11Apr,2018
 
 **04.シャンプーの匂いがした -off vocal ver.-**  
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/02_Shampoo%20no%20Nioi%20ga%20Shita/Off%20Vocal%20(Type%20A)/04.%20シャンプーの匂いがした%20-Off%20Vocal%20Ver.-.mp3"></source>
+  <source type="audio/mp3" src="../../Music/02_Shampoo%20no%20Nioi%20ga%20Shita/04.%20シャンプーの匂いがした%20-Off%20Vocal%20Ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
 **05.人格崩壊 -off vocal ver.-**  
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/02_Shampoo%20no%20Nioi%20ga%20Shita/Off%20Vocal%20(Type%20A)/05.%20人格崩壊%20-Off%20Vocal%20Ver.-.mp3"></source>
+  <source type="audio/mp3" src="../../Music/02_Shampoo%20no%20Nioi%20ga%20Shita/05.%20人格崩壊%20-Off%20Vocal%20Ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-**06.やさしい記憶 -off vocal ver.-** ^Currently Unavaliable  
+**06.やさしい記憶 -off vocal ver.-**  
 <audio controls="controls">
-  <source type="audio/mp3" src="  "></source>
+  <source type="audio/mp3" src="../../Music/02_Shampoo%20no%20Nioi%20ga%20Shita/Off%20Vocal%20(Type%20A)/06.%20やさしい記憶%20-Off%20Vocal%20Ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
@@ -67,19 +67,19 @@ Date: 11Apr,2018
 
 **04.シャンプーの匂いがした -off vocal ver.-**  
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/02_Shampoo%20no%20Nioi%20ga%20Shita/Off%20Vocal%20(Type%20A)/04.%20シャンプーの匂いがした%20-Off%20Vocal%20Ver.-.mp3"></source>
+  <source type="audio/mp3" src="../../Music/02_Shampoo%20no%20Nioi%20ga%20Shita/04.%20シャンプーの匂いがした%20-Off%20Vocal%20Ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
 **05.人格崩壊 -off vocal ver.-**  
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/02_Shampoo%20no%20Nioi%20ga%20Shita/Off%20Vocal%20(Type%20A)/05.%20人格崩壊%20-Off%20Vocal%20Ver.-.mp3"></source>
+  <source type="audio/mp3" src="../../Music/02_Shampoo%20no%20Nioi%20ga%20Shita/05.%20人格崩壊%20-Off%20Vocal%20Ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
 **06.叫ぶしかない青春 -off vocal ver.-**  
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/02_Shampoo%20no%20Nioi%20ga%20Shita/Off%20Vocal%20(Type%20A)/06.%20叫ぶしかない青春%20-Off%20Vocal%20Ver.-.mp3"></source>
+  <source type="audio/mp3" src="../../Music/02_Shampoo%20no%20Nioi%20ga%20Shita/Off%20Vocal%20(Type%20B)/06.%20叫ぶしかない青春%20-Off%20Vocal%20Ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
@@ -109,18 +109,18 @@ Date: 11Apr,2018
 
 **04.シャンプーの匂いがした -off vocal ver.-**  
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/02_Shampoo%20no%20Nioi%20ga%20Shita/Off%20Vocal%20(Type%20A)/04.%20シャンプーの匂いがした%20-Off%20Vocal%20Ver.-.mp3"></source>
+  <source type="audio/mp3" src="../../Music/02_Shampoo%20no%20Nioi%20ga%20Shita/04.%20シャンプーの匂いがした%20-Off%20Vocal%20Ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
 **05.人格崩壊 -off vocal ver.-**  
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/02_Shampoo%20no%20Nioi%20ga%20Shita/Off%20Vocal%20(Type%20A)/05.%20人格崩壊%20-Off%20Vocal%20Ver.-.mp3"></source>
+  <source type="audio/mp3" src="../../Music/02_Shampoo%20no%20Nioi%20ga%20Shita/05.%20人格崩壊%20-Off%20Vocal%20Ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-**06.循環バス -off vocal ver.-** ^Currently Unavaliable  
+**06.循環バス -off vocal ver.-**  
 <audio controls="controls">
-  <source type="audio/mp3" src="  "></source>
+  <source type="audio/mp3" src="../../Music/02_Shampoo%20no%20Nioi%20ga%20Shita/Off%20Vocal%20(Regular)/06.%20循環バス%20-Off%20Vocal%20Ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
