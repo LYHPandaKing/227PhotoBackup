@@ -23,19 +23,19 @@ Date: 2Aug,2018
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-**04.理解者 -off vocal ver.-** ^Currently Unavailable  
+**04.理解者 -off vocal ver.-**  
 <audio controls="controls">
-  <source type="audio/mp3" src="  "></source>
+  <source type="audio/mp3" src="../../Music/03_Rikaisha/04.%20理解者%20-off%20vocal%20ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-**05.絶望の花 -off vocal ver.-** ^Currently Unavailable  
+**05.絶望の花 -off vocal ver.-**  
 <audio controls="controls">
-  <source type="audio/mp3" src="  "></source>
+  <source type="audio/mp3" src="../../Music/03_Rikaisha/05.%20絶望の花%20-off%20vocal%20ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-**06.韋駄天娘 -off vocal ver.-**    
+**06.韋駄天娘 -off vocal ver.-**  
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/03_Rikaisha/Off%20Vocal%20(Type%20A)/06.%20韋駄天娘%20-off%20vocal%20ver.-.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -65,21 +65,21 @@ Date: 2Aug,2018
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-**04.理解者 -off vocal ver.-** ^Currently Unavailable  
+**04.理解者 -off vocal ver.-**  
 <audio controls="controls">
-  <source type="audio/mp3" src="  "></source>
+  <source type="audio/mp3" src="../../Music/03_Rikaisha/04.%20理解者%20-off%20vocal%20ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-**05.絶望の花 -off vocal ver.-** ^Currently Unavailable  
+**05.絶望の花 -off vocal ver.-**  
 <audio controls="controls">
-  <source type="audio/mp3" src="  "></source>
+  <source type="audio/mp3" src="../../Music/03_Rikaisha/05.%20絶望の花%20-off%20vocal%20ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
 **06.不確かな青春 -off vocal ver.-**    
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/03_Rikaisha/Off%20Vocal%20(Type%20B)/06.不確かな青春%20-off%20vocal%20ver.-.mp3"></source>
+  <source type="audio/mp3" src="../../Music/03_Rikaisha/Off%20Vocal%20(Type%20B)/06.不確かな青春%20-off%20vocal%20ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
@@ -107,20 +107,20 @@ Date: 2Aug,2018
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-**04.理解者 -off vocal ver.-** ^Currently Unavailable  
+**04.理解者 -off vocal ver.-**  
 <audio controls="controls">
-  <source type="audio/mp3" src="  "></source>
+  <source type="audio/mp3" src="../../Music/03_Rikaisha/04.%20理解者%20-off%20vocal%20ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-**05.絶望の花 -off vocal ver.-** ^Currently Unavailable  
+**05.絶望の花 -off vocal ver.-**  
 <audio controls="controls">
-  <source type="audio/mp3" src="  "></source>
+  <source type="audio/mp3" src="../../Music/03_Rikaisha/05.%20絶望の花%20-off%20vocal%20ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
 **06.未来があるから -off vocal ver.-**    
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/03_Rikaisha/Off%20Vocal%20(Type%20B)/06.未来があるから%20-off%20vocal%20ver.-.mp3"></source>
+  <source type="audio/mp3" src="../../Music/03_Rikaisha/Off%20Vocal%20(Regular)/06.未来があるから%20-off%20vocal%20ver.-%20.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
