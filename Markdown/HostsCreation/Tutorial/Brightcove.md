@@ -72,3 +72,4 @@ Wait for the convert to complete. And check whether the video can play or not.<b
 ---
 
 <b>6. 如無法直接找到 Brightcove player 網址 | If cannot find the Brightcove player link directly</b><br>
+如無法直接找到 Brightcove player 網址，則可以根據以下格式 ``Test``
