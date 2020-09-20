@@ -32,10 +32,10 @@ Date: 29Aug,2020
 <table>
 <tr>
  <th>Raw</th>
- <th><a href="https://www.bilibili.com/video/BV1ta4y1E7vo">Source</a></th>
+ <th><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1ta4y1E7vo">Source</a></th>
 </tr>
 <tr>
  <th>Sub</th>
- <th>Currently Unavailable</th>
+ <th><a target="_blank" rel="noopener noreferrer" href="https://b23.tv/BV1oy4y1C7sX">CHS Sub - bilibili</a></th>
 </tr>
 </table>
