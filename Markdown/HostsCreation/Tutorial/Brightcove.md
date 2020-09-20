@@ -72,4 +72,19 @@ Wait for the convert to complete. And check whether the video can play or not.<b
 ---
 
 <b>6. 如無法直接找到 Brightcove player 網址 | If cannot find the Brightcove player link directly</b><br>
-如無法直接找到 Brightcove player 網址，則可以根據以下格式 ``Test``
+如無法直接找到 Brightcove player 網址，則可以根據以下格式寫出。<br>
+If cannot find the Brightcove player link directly, then your can form it yourself by following the below format.<br><br>
+<i>* 需事先取得該影片<b>Account ID</b>、<b>Player ID</b>及<b>Video ID</b>。可以在「F12」的主控台或在影片上右擊查看有關資訊。</i><br>
+<i>* You need to obtain the <b>Account ID</b>, <b>Player ID</b> and <b>Video ID</b> beforehand. You can view these info by viewing the console through press <i>F12</i> or right click on the video.</i><br>
+
+<img src="../../../Img/Tutorial/Brightcove/step13.png" width="70%"><br><br>
+<img src="../../../Img/Tutorial/Brightcove/step14.png" width="70%"><br><br>
+
+http://players.brightcove.net/<i><b>Account ID</b></i>/<i><b>Player ID</i></b>_default/index.html?videoId=<i><b>Video ID</i></b><br><br>
+Eg. http://players.brightcove.net/<i><b>6160987587001</b></i>/<i><b>JUGBWWU4U</i></b>_default/index.html?videoId=<i><b>6186246913001</i></b><br>
+<i>* 註：例子中的鏈結乃虛構。 Remark: The sample link is fictional.</i><br>
+
+然後跟上方步驟一樣貼上Brightcove player 網址至「Tube Offline」，繼續進行轉換過程。<br>
+Then just like the above steps, copy the Brightcove player link to "Tube Offline" and continue the convert process.<br>
+
+<b>Fin.</b>
