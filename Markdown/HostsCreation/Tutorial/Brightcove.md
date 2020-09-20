@@ -80,8 +80,8 @@ If cannot find the Brightcove player link directly, then your can form it yourse
 <img src="../../../Img/Tutorial/Brightcove/step13.png" width="70%"><br><br>
 <img src="../../../Img/Tutorial/Brightcove/step14.png" width="70%"><br><br>
 
-http://players.brightcove.net/<i><b>Account ID</b></i>/<i><b>Player ID</i></b>_default/index.html?videoId=<i><b>Video ID</i></b><br><br>
-Eg. http://players.brightcove.net/<i><b>6160987587001</b></i>/<i><b>JUGBWWU4U</i></b>_default/index.html?videoId=<i><b>6186246913001</i></b><br>
+http://players.brightcove.net/<i><b>Account ID</b></i>/<i><b>Player ID</b></i>_default/index.html?videoId=<i><b>Video ID</b></i><br><br>
+Eg. http://players.brightcove.net/<i><b>6160987587001</b></i>/<i><b>JUGBWWU4U</b></i>_default/index.html?videoId=<b><i>6186246913001</i></b><br>
 <i>* 註：例子中的鏈結乃虛構。 Remark: The sample link is fictional.</i><br>
 
 然後跟上方步驟一樣貼上Brightcove player 網址至「Tube Offline」，繼續進行轉換過程。<br>
