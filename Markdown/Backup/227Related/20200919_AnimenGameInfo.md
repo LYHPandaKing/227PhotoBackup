@@ -7,7 +7,7 @@ Date: 19Sep,2020
 >塚地武雅（ドランクドラゴン）、マヂカルラブリー、天城サリー（22／7）<br>が贈る新感覚バラエティー！
 
 <video width="100%" height="100%" controls>
-  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Related_Videos/https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Related_Videos/20200919_Anime-game.specialized.information.Anibaco.mp4" type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Related_Videos/20200919_Anime-game.specialized.information.Anibaco.mp4" type="video/mp4">
 </video>
 
 <table>
