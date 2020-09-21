@@ -1,7 +1,7 @@
 ### 22/7 Anniversary Live 2020
 ##### [Back](../Live_List.md)
 
-<Img src="" width="70%">  
+<Img src="../../../Img/227Live/img_live_2020anniversary.jpg" width="70%">  
 Date: 20Sep,2020  
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.nanabunnonijyuuni.com/sp/news/archive/?522128">Official New</a>
@@ -53,7 +53,7 @@ MC<br>
 <table>
 <tr>
  <th>Raw</th>
- <th><a href="">Source</a></th>
+ <th><a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni-mobile.com/s/live040/page/Day-Player?ima=1928">Source</a></th>
 </tr>
 <tr>
  <th>Sub</th>
@@ -93,7 +93,7 @@ MC<br>
 <table>
 <tr>
  <th>Raw</th>
- <th><a href="">Source</a></th>
+ <th><a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni-mobile.com/s/live040/page/Night-Player?ima=1928">Source</a></th>
 </tr>
 <tr>
  <th>Sub</th>
