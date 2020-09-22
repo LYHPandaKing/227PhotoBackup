@@ -54,6 +54,7 @@ MC<br>
 <tr>
  <th>Raw</th>
  <th><a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni-mobile.com/s/live040/page/Day-Player?ima=1928">Source</a></th>
+ <th><a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20200920_22_7.Anniversary.Live.2020-DayLive.mp4">Download</a></th>
 </tr>
 <tr>
  <th>Sub</th>
@@ -94,6 +95,7 @@ MC<br>
 <tr>
  <th>Raw</th>
  <th><a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni-mobile.com/s/live040/page/Night-Player?ima=1928">Source</a></th>
+ <th><a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20200920_22_7.Anniversary.Live.2020-NightLive.mp4">Download</a></th>
 </tr>
 <tr>
  <th>Sub</th>
