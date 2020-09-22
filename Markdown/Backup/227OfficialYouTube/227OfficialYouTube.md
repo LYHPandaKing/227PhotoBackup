@@ -1,6 +1,9 @@
 ### 22/7 OFFICIAL YouTube CHANNEL
 ##### [Back](../YouTube_List.md)
 
+[22/7 晴れた日のベンチ「半チャーハン」・蛍光灯再生計画「タトゥー・ラブ」・気の抜けたサイダー「ソフトクリーム落としちゃった」 ～22/7 新ユニット 全曲視聴 ～](20200920_6thSingle_UnitSongs_Trial)  
+<img src="../../../Img/227OfficialYouTube/20200920_6thSingle_UnitSongs_Trial.jpg" width="50%">
+
 [22/7 #せいゆうろうどくかい 「手袋を買いに」](20200910_Seiyu_Rohoku_BuyGloves.md)  
 <img src="../../../Img/227OfficialYouTube/20200910_Seiyu_Rohoku_BuyGloves.jpg" width="50%">
 
