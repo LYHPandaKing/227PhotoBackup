@@ -1,4 +1,4 @@
-﻿### 音樂 Music
+### 音樂 Music
 ##### [Back](../../readme.md)
 
 <table>
@@ -16,7 +16,7 @@
 #### 單曲 Single
 
 - [風は吹いてるか?<br>Kaze wa Fuiteruka](06_KazewaFuiteruka.html)  
-<b>^ This single music will release after 6 months, which is 30Apr,2021.</b><br>
+<b>^ This single's music will release after 6 months, which is 30Apr,2021.</b><br>
 <img src="../../Img/Music/KazeTypeA.jpg" width="30%">
 
 - [ムズイ<br>Muzui](05_Muzui.html)  
