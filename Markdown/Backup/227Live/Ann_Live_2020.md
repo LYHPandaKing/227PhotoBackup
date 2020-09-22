@@ -6,7 +6,7 @@ Date: 20Sep,2020
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.nanabunnonijyuuni.com/sp/news/archive/?522128">Official New</a>
 
-<b>^ The footages will release after 6 months, which is on 30Apr,2021.</b><br>
+<b>^ The footages will release after 6 months, which is on 20Apr,2021.</b><br>
 
 ><公演情報><br><br>
 22/7 『Anniversary Live 2020』<br><br><br>
