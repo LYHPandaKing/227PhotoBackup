@@ -1,7 +1,7 @@
 ### 22/7 #せいゆうろうどくかい 「手袋を買いに」
 ##### [Back](227OfficialYouTube.md)
 
-<h4><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=qprHrJW5J-w">22/7 #せいゆうろうどくかい 「手袋を買いに」</a></h4><br>
+<h4><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=qprHrJW5J-w">22/7 #せいゆうろうどくかい 「手袋を買いに」</a></h4>
 Date: 10Sep,2020<br>
 <img src="../../../Img/227OfficialYouTube/20200910_Seiyu_Rohoku_BuyGloves.jpg" width="50%"><br>
 
