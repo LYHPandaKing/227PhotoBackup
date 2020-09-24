@@ -13,6 +13,9 @@
 <tr>
   <th><a href="#Princess_of_the_moon_night">稲穂に宿る月夜の姫</a></th>
 </tr>
+<tr>
+  <th><a href="#Mahoka_Koko_no_Rettosei">魔法科高校の劣等生コラボイベント</a></th>
+</tr>
 </table>
 
 #### 22/7 音楽の時間  翻唱歌曲 Cover Songs
@@ -367,5 +370,42 @@ Date: 4Sep,2020
 <img src="../../Img/Music/Nanaon_Cover/" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/35.from%20the%20edge.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+---
+<a name="Mahoka_Koko_no_Rettosei"></a>
+#### 魔法科高校の劣等生コラボイベント
+Date: 24Sep,2020
+
+**36. Rising Hope**  
+佐藤麗華（CV. 帆風千春）  
+<img src="../../Img/Music/Nanaon_Cover/" width="50%"><br>
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/36.%20Rising Hope.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**37. grilletto**  
+東条悠希（CV. 高辻麗）  
+<img src="../../Img/Music/Nanaon_Cover/" width="50%"><br>
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/37.%20grilletto.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**38. ミレナリオ**  
+滝川みう（CV. 西條和）  
+<img src="../../Img/Music/Nanaon_Cover/" width="50%"><br>
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/38.%20ミレナリオ.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**39. Mirror**  
+藤間桜（CV. 天城サリー）  
+<img src="../../Img/Music/Nanaon_Cover/" width="50%"><br>
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/39.%20Mirror.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
