@@ -48,19 +48,47 @@ Encore<br>
 MC<br>
 16.韋駄天娘
 
+Live
 <video width="100%" height="100%" controls>
-  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/" type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20200920_22_7.Anniversary.Live.2020-DayLive" type="video/mp4">
+</video>
+
+Live w/ FC Talk
+<video width="100%" height="100%" controls>
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20200920_22_7.Anniversary.Live.2020-DayLive_FCVer" type="video/mp4">
+</video>
+
+FC Talk
+<video width="100%" height="100%" controls>
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20200920_22_7.Anniversary.Live.2020.DayFCTalk" type="video/mp4">
 </video>
 
 <table>
 <tr>
- <th>Raw</th>
+ <th rowspan="3">Raw</th>
+ <th>Live</th>
  <th><a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni-mobile.com/s/live040/page/Day-Player?ima=1928">Source</a></th>
- <th><a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20200920_22_7.Anniversary.Live.2020-DayLive.mp4">Download</a></th>
 </tr>
 <tr>
- <th>Sub</th>
- <th>Currently Unavailable</th>
+ <th>Live w/ FC Talk</th>
+ <th><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1N5411j7dc">Source</a></th>
+</tr>
+<tr>
+ <th>FC Talk</th>
+ <th><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1s54y1m7uP">Source</a></th>
+</tr>
+<tr>
+ <th rowspan="3">Sub</th>
+ <th>Live</th>
+ <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
+</tr>
+<tr>
+ <th>Live w/ FC Talk</th>
+ <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
+</tr>
+<tr>
+ <th>FC Talk</th>
+ <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
 </tr>
 </table>
 
@@ -89,18 +117,46 @@ Encore<br>
 MC<br>
 16.11人が集まった理由
 
+Live
 <video width="100%" height="100%" controls>
-  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/" type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20200920_22_7.Anniversary.Live.2020-NightLive" type="video/mp4">
+</video>
+
+Live w/ FC Talk
+<video width="100%" height="100%" controls>
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20200920_22_7.Anniversary.Live.2020-NightLive_FCVer" type="video/mp4">
+</video>
+
+FC Talk
+<video width="100%" height="100%" controls>
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20200920_22_7.Anniversary.Live.2020.NightFCTalk" type="video/mp4">
 </video>
 
 <table>
 <tr>
- <th>Raw</th>
+ <th rowspan="3">Raw</th>
+ <th>Live</th>
  <th><a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni-mobile.com/s/live040/page/Night-Player?ima=1928">Source</a></th>
- <th><a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20200920_22_7.Anniversary.Live.2020-NightLive.mp4">Download</a></th>
 </tr>
 <tr>
- <th>Sub</th>
- <th>Currently Unavailable</th>
+ <th>Live w/ FC Talk</th>
+ <th><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1qZ4y1N78P">Source</a></th>
+</tr>
+<tr>
+ <th>FC Talk</th>
+ <th><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1Jz4y1Z7UY">Source</a></th>
+</tr>
+<tr>
+ <th rowspan="3">Sub</th>
+ <th>Live</th>
+ <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
+</tr>
+<tr>
+ <th>Live w/ FC Talk</th>
+ <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
+</tr>
+<tr>
+ <th>FC Talk</th>
+ <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
 </tr>
 </table>
