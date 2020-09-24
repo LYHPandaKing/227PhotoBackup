@@ -16,6 +16,9 @@
 [22/7 #せいゆうろうどくかい 「文福茶がま」](20200820_Seiyu_Rohoku_BunfukuChagama.md)  
 <img src="../../../Img/227OfficialYouTube/20200820_Seiyu_Rohoku_BunfukuChagama.jpg" width="50%">
 
+[22/7 #せいゆうろうどくかい 「おおかみと七ひきのこどもやぎ」](20200806_Seiyu_Rohoku_Wolfn7Goats.md)  
+<img src="../../../Img/227OfficialYouTube/20200806_Seiyu_Rohoku_Wolfn7Goats.jpg" width="50%">
+
 [22/7 #せいゆうろうどくかい 「雨あがり」](20200723_Seiyu_Rohoku_Aftertherain.md)  
 <img src="../../../Img/227OfficialYouTube/20200723_Seiyu_Rohoku_Aftertherain.jpg" width="50%">
 
