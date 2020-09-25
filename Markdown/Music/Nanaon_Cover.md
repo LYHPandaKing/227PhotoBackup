@@ -360,7 +360,7 @@ Date: 4Sep,2020
 
 **34. 紅蓮華**  
 佐藤麗華（CV. 帆風千春）  
-<img src="../../Img/Music/Nanaon_Cover/" width="50%"><br>
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200034.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/34.%20紅蓮華.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -368,7 +368,7 @@ Date: 4Sep,2020
 
 **35. from the edge**  
 柊つぼみ（CV. 武田愛奈）  
-<img src="../../Img/Music/Nanaon_Cover/" width="50%"><br>
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200035.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/35.%20from%20the%20edge.mp3"></source>
   <p>Your browser does not support the audio element.</p>
