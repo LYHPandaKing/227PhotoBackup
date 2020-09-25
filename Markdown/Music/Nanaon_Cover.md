@@ -1,5 +1,6 @@
 ### 22/7 音楽の時間 Ongaku no Jikan - 翻唱歌曲 Cover Songs
-##### [Back](227%20Ongaku%20no%20Jikan.html)
+<div style="float:right;"><a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1KYeW8Dp-eTkY_IUxPVAruQISvI_J-Lkl?usp=sharing"><img src="../../Img/Download_GoogleDrive.png" height="70"></a></div>
+<h5><a href="227%20Ongaku%20no%20Jikan.html">Back</a></h5>
 
 <table>
 <tr>
