@@ -381,7 +381,7 @@ Date: 24Sep,2020
 
 **36. Rising Hope**  
 佐藤麗華（CV. 帆風千春）  
-<img src="../../Img/Music/Nanaon_Cover/" width="50%"><br>
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200036.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/36.%20Rising Hope.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -389,7 +389,7 @@ Date: 24Sep,2020
 
 **37. grilletto**  
 東条悠希（CV. 高辻麗）  
-<img src="../../Img/Music/Nanaon_Cover/" width="50%"><br>
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200037.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/37.%20grilletto.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -397,7 +397,7 @@ Date: 24Sep,2020
 
 **38. ミレナリオ**  
 滝川みう（CV. 西條和）  
-<img src="../../Img/Music/Nanaon_Cover/" width="50%"><br>
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200038.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/38.%20ミレナリオ.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -405,7 +405,7 @@ Date: 24Sep,2020
 
 **39. Mirror**  
 藤間桜（CV. 天城サリー）  
-<img src="../../Img/Music/Nanaon_Cover/" width="50%"><br>
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200039.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/39.%20Mirror.mp3"></source>
   <p>Your browser does not support the audio element.</p>
