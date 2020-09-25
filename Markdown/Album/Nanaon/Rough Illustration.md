@@ -151,8 +151,11 @@ Date: 4Sep,2020<br>
 <table>
  <tr>
 <td>紅蓮華<br>
- <img src="../../../Album/Nanaon/Rough%20Illustration/20200904_稲穂に宿る月夜の姫/" width="vw"><br>
- <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/20200904_稲穂に宿る月夜の姫/">Download</a></td>
+ <img src="../../../Album/Nanaon/Rough%20Illustration/20200904_稲穂に宿る月夜の姫/RoughIllustration_13200034%20%2398783.png" width="vw"><br>
+ <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/20200904_稲穂に宿る月夜の姫/RoughIllustration_13200034%20%2398783.png  ">Download</a></td>
+<td>紅蓮華 [Pro]<br>
+ <img src="../../../Album/Nanaon/Rough%20Illustration/20200904_稲穂に宿る月夜の姫/RoughIllustration_13200034.png" width="vw"><br>
+ <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/20200904_稲穂に宿る月夜の姫/RoughIllustration_13200034.png">Download</a></td>
  </tr>
 </table>
 
@@ -329,6 +332,9 @@ Date: 18Aug,2020<br>
 <td>空のエメラルド<br>
  <img src="../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13100020.png" width="vw"><br>
  <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13100020.png">Download</a></td>
+<td>生きることに楽になりたい<br>
+ <img src="../../../Album/Nanaon/Rough%20Illustration/RoughIllustration_13100026.png" width="vw"><br>
+ <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/RoughIllustration_13100026.png">Download</a></td>
  </tr>
 </table>
 
@@ -513,7 +519,7 @@ Date: 4Sep,2020<br>
 <table>
  <tr>
 <td>from the edge<br>
- <img src="../../../Album/Nanaon/Rough%20Illustration/20200904_稲穂に宿る月夜の姫/" width="vw"><br>
- <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/20200904_稲穂に宿る月夜の姫/">Download</a></td>
+ <img src="../../../Album/Nanaon/Rough%20Illustration/20200904_稲穂に宿る月夜の姫/RoughIllustration_13200035.png" width="vw"><br>
+ <a href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Nanaon/Rough%20Illustration/20200904_稲穂に宿る月夜の姫/RoughIllustration_13200035.png">Download</a></td>
  </tr>
 </table>
