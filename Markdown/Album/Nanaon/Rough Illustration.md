@@ -2,7 +2,7 @@
 ##### [Back](Nanaon.md)
 
 - [河野都 Kono Miyako](RoughIllustration/KonoMiyako.md)<br>
-    <th><a href="#Saito_Nicole">斎藤ニコル Saito Nicole</a></th>
+- [斎藤ニコル Saito Nicole](RoughIllustration/SaitoNicole.md)<br>
     <th><a href="#Sato_Reika">佐藤麗華 Sato Reika</a></th>
    </tr>
   <tr>
