@@ -1,6 +1,9 @@
 <h3><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UChaMqqXSn8BpWdShqFSPhpQ">22/7 OFFICIAL YouTube CHANNEL</a></h3>
 <h5><a rel="noopener noreferrer" href="../YouTube_List.md">Back</a></h5>
 
+[ナナオン初心者向け動画「22/7 学習の時間」 #2 ～お気に入りメンバーを育成しよう！～ 【22/7 音楽の時間】](20200925_Nanaon_Tutorial2.md)  
+<img src="../../../Img/227OfficialYouTube/20200925_Nanaon_Tutorial2.jpg" width="50%">
+
 [22/7 #せいゆうろうどくかい 「ねずみの嫁入り」](20200924_Seiyu_Rohoku_MarriageOfAMouse.md)  
 <img src="../../../Img/227OfficialYouTube/20200924_Seiyu_Rohoku_MarriageOfAMouse.jpg" width="50%">
 
