@@ -10,4 +10,4 @@ This place shows some of my creations upon 22/7. Please don't repost without per
 - [教學 Tutorial](Tutorial_List.md)
 
 #### 其他範疇 Other Fields
-- [BookWalker 點數計算器](https://docs.google.com/spreadsheets/d/1W9_gRPUMlY4wpHd8-nKyTy67EQsEN4JlMU7ToVTkJEc/)
+- [BookWalker 點數計算表](https://docs.google.com/spreadsheets/d/1W9_gRPUMlY4wpHd8-nKyTy67EQsEN4JlMU7ToVTkJEc/)
