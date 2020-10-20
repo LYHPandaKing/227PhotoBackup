@@ -17,6 +17,9 @@
 <tr>
   <th><a href="#Mahoka_Koko_no_Rettosei">魔法科高校の劣等生コラボイベント</a></th>
 </tr>
+<tr>
+  <th><a href="#Helloween_GhostLoveSweet">とりっく・おあ・とりーと！～お菓子が好きなオバケの噂～</a></th>
+</tr>
 </table>
 
 #### 22/7 音楽の時間  翻唱歌曲 Cover Songs
@@ -383,7 +386,7 @@ Date: 24Sep,2020
 佐藤麗華（CV. 帆風千春）  
 <img src="../../Img/Music/Nanaon_Cover/jacket_13200036.png" width="50%"><br>
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/36.%20Rising Hope.mp3"></source>
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/36.%20Rising%20Hope.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
@@ -408,5 +411,28 @@ Date: 24Sep,2020
 <img src="../../Img/Music/Nanaon_Cover/jacket_13200039.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/39.%20Mirror.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+---
+<a name="Helloween_GhostLoveSweet"></a>
+#### とりっく・おあ・とりーと！～お菓子が好きなオバケの噂～
+Date: 20Oct,2020
+
+**40. Magia**  
+滝川みう（CV. 西條和）<br>
+藤間桜（CV. 天城サリー）<br>
+佐藤麗華（CV. 帆風千春）<br>
+<img src="../../Img/Music/Nanaon_Cover/" width="50%"><br>
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/40.%20Magia.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**41. ゆずれない願い**  
+河野都（CV. 倉岡水巴）<br>
+<img src="../../Img/Music/Nanaon_Cover/" width="50%"><br>
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/41.%20ゆずれない願い.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
