@@ -17,4 +17,4 @@
 ##### ChouChou
 - [丸之内薫子 Marunouchi Kaoruko](RoughIllustration/MarunouchiKaoruko.md)<br>
 - [文野ミコ Kimijima Nana](RoughIllustration/KimijimaNana.md)<br>
-- [君島奈々 Fumino Miko](RoughIllustration/FuminoMiko.nd)<br>
+- [君島奈々 Fumino Miko](RoughIllustration/FuminoMiko.md)<br>
