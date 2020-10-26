@@ -14,9 +14,9 @@ Date: 1Nov,2020
 
 **01. 永遠はいらない**<br>
 ChouChou<br>
-丸之内薫子（CV. ）<br>
-文野ミコ（CV. ）<br>
-君島奈々（CV. ）<br>
+丸之内薫子（CV. 吉岡茉祐）<br>
+文野ミコ（CV. 若井友希）<br>
+君島奈々（CV. 厚木那奈美）<br>
 <img src="../../Img/Music/Nanaon_ChouChou/jacket_13200016.png" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/ChouChou%20Songs/01.%20永遠はいらない.mp3"></source>
