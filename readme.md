@@ -7,7 +7,7 @@ Also provide useful information about 22/7. Please feel free to download and use
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 20Oct,2020 17:49 (HKT)**
+**最後更新日期 Last Update: 26Oct,2020 22:26 (HKT)**
 
 ### 相簿 Album
 - [出道前 Pre-Debut](Markdown/Album/PreDebut.md)
@@ -55,8 +55,6 @@ Project started at May/2020
 
 ### [鳴謝 Credit](Markdown/Credit.md)
 
-<video width="100%" height="100%" controls>
-  <source src="Vid/227 『風は吹いてるか？』.mp4" type="video/mp4">
-</video>
+<img src="Img/11色の風.jpg" alt="11色の風" width="vw">
 
 ![Promo](Img/Ending.PNG)
