@@ -1,7 +1,7 @@
 ### 22/7 『11』
 ##### [Back](../Live_List.md)
 
-<Img src="../../../Img/227Live/img_live_2020anniversary.jpg" width="70%">  
+<Img src="../../../Img/227Live/img_live_11.jpg" width="70%">  
 Date: 13Nov,2020  
 
 <a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni.com/s/n129/news/detail/10121?ima=1432">Official New</a>
