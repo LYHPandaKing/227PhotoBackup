@@ -46,8 +46,8 @@ Project started at May/2020
 - [22/7 anime 30,000 followers 紀念頭像 Icon](Markdown/Backup/TW30000fol.md)  
 
 ### 其他資訊 Other Information  
-- [22/7 官方商店 Official Online Store](Markdown/OfficialStore.md)
 - [版主作品 Host's Creation](Markdown/HostsCreation/HostsCreation.md)
+- [22/7 官方商店 Official Online Store](Markdown/OfficialStore.md)
 - [22/7 日曆 Calender](Markdown/Calendar.md)  
 - [22/7 計算中 直播源<br>22/7 Keisanchuu Live Stream](Markdown/Streaming.md)
 - [音樂 Music](Markdown/Music/Music_List.md)
