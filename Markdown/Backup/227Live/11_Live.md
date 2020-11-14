@@ -23,6 +23,7 @@ stagecrowd：https://stagecrowd.live/s/live000/?ima=5439<br><br>
 https://nanabunnonijyuuni-mobile.com/s/live040/?ima=2659<br><br>
 
 >表演曲目 Setlist<br>
+半チャーハン MV<br>
 Opening<br>
 1.風は吹いてるか？<br>
 2.ポニーテールは振り向かせない<br>
