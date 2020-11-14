@@ -1,8 +1,8 @@
 ### 22/7 官方商店 Official Online Store
 ##### [Back](../readme.md)
 
-- [Sony Music Shop](https://www.sonymusicshop.jp/m/arti/artiItm.php?site=S&ima=5159&cd=70008757)
+- <a rel="noopener noreferrer" target="_blank" href="https://www.sonymusicshop.jp/m/arti/artiItm.php?site=S&ima=5159&cd=70008757">Sony Music Shop</a><br>
 <img src="../Img/img_sonymusicshop.png" alt="Song Music Shop" width="50%">
 
-- [Aniplex+](https://www.aniplexplus.com/ZBwHusHo)
+- <a rel="noopener noreferrer" target="_blank" href="https://www.aniplexplus.com/ZBwHusHo">Aniplex+</a><br>
 <img src="../Img/img_aniplexplus.png" alt="Song Music Shop" width="50%">
