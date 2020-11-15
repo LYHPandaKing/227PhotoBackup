@@ -7,5 +7,5 @@
 - <a rel="noopener noreferrer" target="_blank" href="https://www.aniplexplus.com/ZBwHusHo">Aniplex+</a><br>
 <img src="../Img/img_aniplexplus.png" alt="Aniplex+" width="50%">
 
-- <a rel="noopener noreferrer" target="_blank" href="https://aniplex.world.tmall.com/">Aniplex旗艦店【天貓】</a><br>
+- <a rel="noopener noreferrer" target="_blank" href="https://aniplex.world.tmall.com/search.htm?search=y&keyword=22%2F7&lowPrice=&highPrice=">Aniplex旗艦店【天貓】</a><br>
 <img src="../Img/img_aniplextmall.png" alt="Aniplex Tmall" width="50%">
