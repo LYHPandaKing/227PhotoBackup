@@ -8,6 +8,7 @@ Facebook
 - <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/groups/670251690221688">22/7 ナナニジ 香港粉絲群</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/groups/274226923142369/">22/7 Idol Group - International Fans</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/groups/703619237062957/">Nanabun no nijuuni 22/7 - Ongaku no Jikan International Players</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/227-Español-109757294180898/">22/7 Español</a>
 - 22/7tw ナナブンのニジュウニ台灣情報頁 <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/227FanTW/">@227FanTW</a>
 - 音楽の時間攻略中 by 227fantw <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/nanaon227fantw/">@nanaon227fantw</a>
 - 22/7音楽の時間～中文情報區～ <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/nanaonzh/">@nanaonzh</a>
