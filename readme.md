@@ -43,7 +43,8 @@ Project started at May/2020
 - [萬聖節限定頭像及壁紙 Halloween Special Icon & Wallpaper 2019](Markdown/Backup/2019HalloweenSpecial.md)
 - [22/7 計算中 放送紀念頭像及壁紙<br>Commemoration Icons & Wallpapers for 22/7 Keisanchuu](Markdown/Backup/KeisanchuuBroadcast.md)
 - [22/7 anime 20,000 followers 紀念頭像 Icon](Markdown/Backup/TW20000fol.md)
-- [22/7 anime 30,000 followers 紀念頭像 Icon](Markdown/Backup/TW30000fol.md)  
+- [22/7 anime 30,000 followers 紀念頭像 Icon](Markdown/Backup/TW30000fol.md)
+- [22/7 計算中 Blu-ray 發售紀念頭像<br>Commemoration Icons for release of 22/7 Keisanchuu Blu-ray](Markdown/Backup/KeisanchuuBluray.md)  
 
 ### 其他資訊 Other Information  
 - [版主作品 Host's Creation](Markdown/HostsCreation/HostsCreation.md)
