@@ -468,6 +468,7 @@ Date: 9Nov,2020
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/43.%20言い訳Maybe.mp3"></source>
   <p>Your browser does not support the audio element.</p>
+</audio>
 
 **44. ギンガムチェック**<br>
 丸山あかね（CV. 白沢かなえ）<br>
@@ -479,3 +480,4 @@ Date: 9Nov,2020
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/44.%20ギンガムチェック.mp3"></source>
   <p>Your browser does not support the audio element.</p>
+</audio>
