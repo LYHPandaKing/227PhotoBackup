@@ -23,6 +23,9 @@
 <tr>
   <th><a href="#IndivisibleBunkasai_MaidCafe">割り切れない文化祭　演劇メイド喫茶にようこそ！</a></th>
 </tr>
+<tr>
+  <th><a href="#XmasNightTroubleGifts">聖なる夜のトラブルギフト</a></th>
+</tr>
 </table>
 
 #### 22/7 音楽の時間  翻唱歌曲 Cover Songs
@@ -479,5 +482,18 @@ Date: 9Nov,2020
 <img src="../../Img/Music/Nanaon_Cover/" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/44.%20ギンガムチェック.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+---
+<a name="XmasNightTroubleGifts"></a>
+#### 聖なる夜のトラブルギフト
+Date: 17Dec,2020
+
+**45. チカっとチカ千花っ♡**<br>
+藤間桜（CV. 天城サリー）<br>
+<img src="../../Img/Music/Nanaon_Cover/" width="50%"><br>
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/45.%20チカっとチカ千花っ♡.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
