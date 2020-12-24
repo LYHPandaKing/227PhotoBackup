@@ -7,7 +7,7 @@ Also provide useful information about 22/7. Please feel free to download and use
 
 Project started at May/2020  
 
-**最後更新日期 Last Update: 17Dec,2020 17:06 (HKT)**
+**最後更新日期 Last Update: 24Dec,2020 10:31 (HKT)**
 
 ### 相簿 Album
 - [出道前 Pre-Debut](Markdown/Album/PreDebut.md)
@@ -30,6 +30,7 @@ Project started at May/2020
 - [海乃るり Umino Ruri](Markdown/Album/UminoRuri/UminoRuri.md)
 
 ### 備份 Backup  
+- [Twitter](Markdown/Backup/Twitter/Twitter_List.md)
 - [Instagram](Markdown/Backup/Instagram/IG_List.md)
 - [Showroom](Markdown/Backup/Showroom/Showroom_List.md)
 - [YouTube](Markdown/Backup/YouTube_List.md)
