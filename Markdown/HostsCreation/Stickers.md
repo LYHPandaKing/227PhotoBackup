@@ -64,6 +64,10 @@
  <tr>
 <td>おっつ〜♪<br>
  <img src="../../Img/Nanaon/Stamp/Original/10000011.png" width="45%"><br>
- <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Img/Nanaon/Stamp/Original/10000011.png">Original</a><br>
+ <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Img/Nanaon/Stamp/Original/10000011.png">Original</a><br></td>
+<td>これはアカン!<br>這個不行!<br>
+ <img src="../../Img/Nanaon/Stamp/Original/10000012.png" width="45%"><img src="../../Img/Nanaon/Stamp/CHT/10000012.png" width="45%"><br>
+ <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Img/Nanaon/Stamp/Original/10000012.png">Original</a><br>
+ <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Img/Nanaon/Stamp/CHT/10000012.png">CHT</a><br></td>
  </tr>
 </table>
