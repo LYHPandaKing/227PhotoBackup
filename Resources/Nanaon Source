@@ -1,0 +1,63 @@
+UPD @ 20200904 2141
+Event
+3033001 芽吹き奏でるはじまりのメロディー
+3033002 〈物語〉シリーズコラボイベント〈前編〉
+3033003 「迷える花嫁に導きのファンファーレ」
+3033004 〈物語〉シリーズコラボイベント〈後編〉
+
+
+cardicon
+card
+panel
+
+icon_chara
+costumeicon
+titleicon
+comic
+item
+
+
+RoughIllustration
+stamp
+jacket
+storyselectscene
+
+loginbonus
+
+tutorial
+
+bg_profile
+bg_live
+bg_chara_story
+bg_common
+bg_costume_select
+bg
+event_notice_bg
+background
+banner
+pickupbanner
+adv_Still
+adv_bg
+gacha
+
+
+101 Miyako
+102 Nicole
+103 Reika
+104 Sakura
+105 Akane
+106 Miu
+107 Ayaka
+108 Jun
+109 Mikami
+110 Yuki
+111 Tsubomi
+
+Character Story
+eventscript/card/101_miyako
+
+Event Story
+eventscript/event/10000100/30010001
+
+titleicon
+3099 22/7 members
