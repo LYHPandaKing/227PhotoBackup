@@ -10,17 +10,24 @@ cardicon
 card
 panel
 
-icon_chara
 costumeicon
+threedcostumeicon
+headacc
+cos
+cos_sd
+icon_chara
+character_image
 titleicon
 comic
+comicstory
 item
-
 
 RoughIllustration
 stamp
 jacket
 storyselectscene
+adv_Still
+adv_bg
 
 loginbonus
 
@@ -33,13 +40,19 @@ bg_common
 bg_costume_select
 bg
 event_notice_bg
+event_banner
+event_bg
 background
 banner
 pickupbanner
-adv_Still
-adv_bg
+event_counting_banner
+beginner_movie
 gacha
+mv_img
+event_logo
+areaitemtexture
 
+text_name_character_rankup
 
 101 Miyako
 102 Nicole
@@ -52,6 +65,8 @@ gacha
 109 Mikami
 110 Yuki
 111 Tsubomi
+
+200 Nana
 
 Character Story
 eventscript/card/101_miyako
