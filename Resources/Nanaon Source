@@ -1,4 +1,3 @@
-UPD @ 20200904 2141
 Event
 3033001 芽吹き奏でるはじまりのメロディー
 3033002 〈物語〉シリーズコラボイベント〈前編〉
@@ -49,6 +48,7 @@ event_counting_banner
 beginner_movie
 gacha
 mv_img
+movie_img
 event_logo
 areaitemtexture
 
