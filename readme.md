@@ -51,7 +51,7 @@ Project started at May/2020
 - [版主作品 Host's Creation](Markdown/HostsCreation/HostsCreation.md)
 - [22/7 官方商店 Official Online Store](Markdown/OfficialStore.md)
 - [22/7 日曆 Calender](Markdown/Calendar.md)  
-- [22/7 計算中 直播源<br>22/7 Keisanchuu Live Stream](Markdown/Streaming.md)
+- [Tokyo MX 直播源 Live Stream](Markdown/Streaming.md)
 - [音樂 Music](Markdown/Music/Music_List.md)
 <br><br>
 - [Aniplex Online Fest](Markdown/Backup/Aniplex_Online_Fest/AniplexFest_List.md)
