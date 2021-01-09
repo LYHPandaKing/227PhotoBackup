@@ -10,4 +10,4 @@
 <img src="../Img/aqstream.png" alt="aqstream" width="50%">
 
 - <a target="_blank" rel="noopener noreferrer" href="http://mov3.co/tokyomx/">mov3 日本電視台</a><br>
-<img src="../Img/mov3.png" alt="mov3.co" width="50%">
+<img src="../Img/mov3.jpeg" alt="mov3.co" width="50%">
