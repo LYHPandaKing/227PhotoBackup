@@ -1,4 +1,4 @@
-### 22/7計算中 "22/7 Keisanchuu" Live Stream
+### Tokyo MX 直播源 Live Stream
 ##### [Back](../readme.md)
 
 #### Tokyo MX
