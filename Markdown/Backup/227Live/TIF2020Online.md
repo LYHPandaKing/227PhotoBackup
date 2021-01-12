@@ -15,7 +15,7 @@ TOKYO IDOL FESTIVAL オンライン 2020<br><br>
 【公式HP】<br>
 http://www.idolfes.com/2020/<br>
 
-> * 廣播體操 Radio Exercises<br>
+> ^ 廣播體操 Radio Exercises<br>
 表演曲目 Setlist:<br>
 1.何もしてあげられない<br>
 MC<br>
