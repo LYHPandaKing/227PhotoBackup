@@ -55,7 +55,6 @@ Encore<br>
 15.不確かな青春<br>
 16.やさしい記憶<br>
 
-Live<br>
 ^ The online streaming service unavailable as file exceeds 2GB.<br>
 
 <table>
@@ -91,7 +90,6 @@ Encore<br>
 15.願いの眼差し<br>
 16.未来があるから<br>
 
-Live<br>
 ^ The online streaming service unavailable as file exceeds 2GB.<br>
 
 <table>
