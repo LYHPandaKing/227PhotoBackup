@@ -92,7 +92,7 @@ FC Talk<br>
 </tr>
 <tr>
  <th>Live w/ FC Talk</th>
- <td><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1yK411G7Yp"></a>CHS - Bilibili</td>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1yK411G7Yp">CHS - Bilibili</a></td>
  <td>CHT (.ass)<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
 </tr>
 <tr>
