@@ -14,7 +14,7 @@ Date: 9Jan,2021
 帆風千春はあるチャレンジで謎の大号泣！一体何が！？<br>
 
 <video width="100%" height="100%" controls>
-  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227Kenzanchu/227Kenzanchu.01.RAW.1080P.mp4" type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227Kenzanchu/227Kenzanchu_01_RAW_1080P.mp4" type="video/mp4">
 </video>
 
 <table>
