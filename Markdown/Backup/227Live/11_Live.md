@@ -56,19 +56,15 @@ MC<br>
 MC<br>
 26.11人が集まった理由<br>
 
-Live
-<video width="100%" height="100%" controls>
-  <source src="  " type="video/mp4">
-</video>
+Live<br>
+^ The online streaming service unavailable as file exceeds 2GB.
 
-Live w/ FC Talk
-<video width="100%" height="100%" controls>
-  <source src="  " type="video/mp4">
-</video>
+Live w/ FC Talk<br>
+^ The online streaming service unavailable as file exceeds 2GB.
 
-FC Talk
+FC Talk<br>
 <video width="100%" height="100%" controls>
-  <source src="  " type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20201113_227_11Live_FCTalk.mp4" type="video/mp4">
 </video>
 
 <table>
@@ -76,26 +72,32 @@ FC Talk
  <th rowspan="3">Raw</th>
  <th>Live</th>
  <th><a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni-mobile.com/s/live040/order_privilege/3135887660?ima=0928">Source</a></th>
+ <th>Download <a target="_blank" rel="noopener noreferrer" href="">Part1 |</a><a target="_blank" rel="noopener noreferrer" href=""> Part2</a></th>
 </tr>
 <tr>
  <th>Live w/ FC Talk</th>
- <th><a target="_blank" rel="noopener noreferrer" href="  ">Source</a></th>
+ <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
+ <th>Download <a target="_blank" rel="noopener noreferrer" href="">Part1 |</a><a target="_blank" rel="noopener noreferrer" href=""> Part2</a></th>
 </tr>
 <tr>
  <th>FC Talk</th>
- <th><a target="_blank" rel="noopener noreferrer" href="  ">Source</a></th>
+ <th><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1yK411G7Yp">Source</a></th>
+ <th><a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20201113_227_11Live_FCTalk.mp4">Download</a></th>
 </tr>
 <tr>
  <th rowspan="3">Sub</th>
  <th>Live</th>
  <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
+ <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
 </tr>
 <tr>
  <th>Live w/ FC Talk</th>
  <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
+ <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
 </tr>
 <tr>
  <th>FC Talk</th>
+ <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
  <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
 </tr>
 </table>
