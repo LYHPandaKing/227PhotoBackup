@@ -1,5 +1,5 @@
 ### 22/7 検算中 Kenzanchu
-##### [Back](../227Kenzanchu_List.md)
+##### [Back](227Kenzanchu_List.md)
 
 #### #1 声優メンバーのプロフィールを改めて確認しまＳＨＯＷ！<br>#1 声優メンバーのプロフィールを改めて確認しまＳＨＯＷ！<br>
 Date: 9Jan,2021
