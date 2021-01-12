@@ -67,28 +67,34 @@ FC Talk
 <tr>
  <th rowspan="3">Raw</th>
  <th>Live</th>
- <th><a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni-mobile.com/s/live040/page/Day-Player?ima=1928">Source</a></th>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni-mobile.com/s/live040/page/Day-Player?ima=1928">Source</a></td>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20200920_227.Anniversary.Live.2020-DayLive.mp4">Download</a></td>
 </tr>
 <tr>
  <th>Live w/ FC Talk</th>
- <th><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1N5411j7dc">Source</a></th>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1N5411j7dc">Source</a></td>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20200920_227.Anniversary.Live.2020-DayLive_FCVer.mp4">Download</a></td>
 </tr>
 <tr>
  <th>FC Talk</th>
- <th><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1s54y1m7uP">Source</a></th>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1s54y1m7uP">Source</a></td>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20200920_227.Anniversary.Live.2020.DayFCTalk.mp4">Download</a></td>
 </tr>
 <tr>
  <th rowspan="3">Sub</th>
  <th>Live</th>
- <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
+ <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
+ <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
 </tr>
 <tr>
  <th>Live w/ FC Talk</th>
- <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://cloud.tsinghua.edu.cn/f/3aad5435818b47f39955/">22/7中文應緩站</a></td>
+ <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
 </tr>
 <tr>
  <th>FC Talk</th>
- <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
+ <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
+ <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
 </tr>
 </table>
 
@@ -136,27 +142,33 @@ FC Talk
 <tr>
  <th rowspan="3">Raw</th>
  <th>Live</th>
- <th><a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni-mobile.com/s/live040/page/Night-Player?ima=1928">Source</a></th>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni-mobile.com/s/live040/page/Night-Player?ima=1928">Source</a></td>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/tag/227_Live20200920_227.Anniversary.Live.2020-NightLive.mp4">Download</a></td>
 </tr>
 <tr>
  <th>Live w/ FC Talk</th>
- <th><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1qZ4y1N78P">Source</a></th>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1qZ4y1N78P">Source</a></td>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/220200920_227.Anniversary.Live.2020-NightLive_FCVer.mp4">Download</a></td>
 </tr>
 <tr>
  <th>FC Talk</th>
- <th><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1Jz4y1Z7UY">Source</a></th>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1Jz4y1Z7UY">Source</a></td>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20200920_227.Anniversary.Live.2020.NightFCTalk.mp4">Download</a></td>
 </tr>
 <tr>
  <th rowspan="3">Sub</th>
  <th>Live</th>
- <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
+ <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
+ <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
 </tr>
 <tr>
  <th>Live w/ FC Talk</th>
- <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://cloud.tsinghua.edu.cn/f/3aad5435818b47f39955/">22/7中文應緩站</a></td>
+ <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
 </tr>
 <tr>
  <th>FC Talk</th>
- <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
+ <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
+ <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
 </tr>
 </table>
