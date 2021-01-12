@@ -32,7 +32,7 @@ Date: 29Aug,2020
 <tr>
  <th>Raw</th>
  <td><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1ta4y1E7vo">Source</a></td>
- <td>Download<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20200829_227_JAM_ONLINE_FESTIVAL_2020.mp4">Download</a></td>
 </tr>
 <tr>
  <th>Sub</th>
