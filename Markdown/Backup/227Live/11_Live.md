@@ -88,16 +88,16 @@ FC Talk<br>
  <th rowspan="3">Sub</th>
  <th>Live</th>
  <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
- <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
+ <td>CHT (.ass)<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
 </tr>
 <tr>
  <th>Live w/ FC Talk</th>
- <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
- <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1yK411G7Yp"></a>CHS - Bilibili</td>
+ <td>CHT (.ass)<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
 </tr>
 <tr>
  <th>FC Talk</th>
  <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
- <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
+ <td>CHT (.ass)<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
 </tr>
 </table>
