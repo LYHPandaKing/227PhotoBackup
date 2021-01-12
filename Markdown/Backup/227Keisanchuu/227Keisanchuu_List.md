@@ -1,4 +1,4 @@
-### 22/7 計算中 Keisanchuu
+### 22/7 計算中 Keisanchu
 ![227Keisanchuu](../../../Img/227Keisanchuu/Main.JPG)
 
 アイドルバラエティー番組をアニメ化！<br>
