@@ -77,12 +77,12 @@ FC Talk<br>
 <tr>
  <th>Live w/ FC Talk</th>
  <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
- <td>Download <a target="_blank" rel="noopener noreferrer" href="">Part1 |</a><a target="_blank" rel="noopener noreferrer" href=""> Part2</a></td>
+ <td>Download Part1 <a target="_blank" rel="noopener noreferrer" href=""></a>| Part2<a target="_blank" rel="noopener noreferrer" href=""></a></td>
 </tr>
 <tr>
  <th>FC Talk</th>
  <td><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1yK411G7Yp">Source</a></td>
- <td><a target="_blank" rel="noopener noreferrer" href="  ">Download</a></td>
+ <td>Download<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
 </tr>
 <tr>
  <th rowspan="3">Sub</th>
