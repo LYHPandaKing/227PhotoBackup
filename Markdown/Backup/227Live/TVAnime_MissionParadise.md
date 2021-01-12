@@ -6,8 +6,6 @@ Date: 11Jan,2021
 
 <a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni.com/s/n129/news/detail/10166?ima=2413">Official New</a>
 
-<b>^ The footages will release after 6 months, which is on 11July,2021.</b><br>
-
 >ライブ配信詳細<br>
  日時：<br>
 【昼公演】2021年1月11日(祝・月) 14時30分配信開始 (予定)<br>
@@ -57,18 +55,19 @@ Encore<br>
 15.不確かな青春<br>
 16.やさしい記憶<br>
 
+Live<br>
 ^ The online streaming service unavailable as file exceeds 2GB.<br>
 
 <table>
 <tr>
  <th>Raw</th>
  <th><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV12U4y1x7fr?p=1">Source</a></th>
-  <th>Download <a target="_blank" rel="noopener noreferrer" href="">Part1 |</a><a target="_blank" rel="noopener noreferrer" href=""> Part2</a></th>
+  <th>Download <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20210111_Anime227_SpecialEvent_MissionParadise_DayLive.part1.rar">Part1 </a>| <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20210111_Anime227_SpecialEvent_MissionParadise_DayLive.part2.rar">Part2</a></th>
 </tr>
 <tr>
  <th>Sub</th>
- <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
- <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
+ <th>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
+ <th>CHT (.ass)<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
 </tr>
 </table>
 
@@ -92,17 +91,18 @@ Encore<br>
 15.願いの眼差し<br>
 16.未来があるから<br>
 
+Live<br>
 ^ The online streaming service unavailable as file exceeds 2GB.<br>
 
 <table>
 <tr>
  <th>Raw</th>
  <th><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV12U4y1x7fr?p=2">Source</a></th>
-  <th>Download <a target="_blank" rel="noopener noreferrer" href="">Part1 |</a><a target="_blank" rel="noopener noreferrer" href=""> Part2</a></th>
+  <th>Download <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20210111_Anime227_SpecialEvent_MissionParadise_NightLive.part1.rar">Part1 </a>| <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20210111_Anime227_SpecialEvent_MissionParadise_NightLive.part2.rar">Part2</a></th>
 </tr>
 <tr>
  <th>Sub</th>
- <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
- <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
+ <th>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
+ <th>CHT (.ass)<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
 </tr>
 </table>
