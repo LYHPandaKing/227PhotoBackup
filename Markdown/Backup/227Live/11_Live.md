@@ -82,7 +82,7 @@ FC Talk<br>
 <tr>
  <th>FC Talk</th>
  <td><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1yK411G7Yp">Source</a></td>
- <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20201113_227_11Live_FCTalk.mp4">Download</a></td>
+ <td><a target="_blank" rel="noopener noreferrer" href="  ">Download</a></td>
 </tr>
 <tr>
  <th rowspan="3">Sub</th>
