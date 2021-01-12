@@ -65,11 +65,11 @@ Date: 3Jan,2021
 <tr>
  <th>Raw</th>
  <th><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1ph41127ze">Source</a></th>
-  <th>Download <a target="_blank" rel="noopener noreferrer" href="">Part1 |</a><a target="_blank" rel="noopener noreferrer" href=""> Part2</a></th>
+  <th>Download <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20210103_SonyMusic_AnimeSongs_OnlineBudokan.part1.rar">Part1 </a>| <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20210103_SonyMusic_AnimeSongs_OnlineBudokan.part2.rar">Part2</a></th>
 </tr>
 <tr>
  <th>Sub</th>
- <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
- <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
+ <th>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
+ <th>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
 </tr>
 </table>
