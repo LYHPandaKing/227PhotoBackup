@@ -6,8 +6,6 @@ Date: 13Nov,2020
 
 <a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni.com/s/n129/news/detail/10121?ima=1432">Official New</a>
 
-<b>^ The footages will release after 6 months, which is on 13May,2021.</b><br>
-
 ><公演情報><br><br>
 22/7『11』<br><br>
 【日程・時間】<br>
@@ -72,17 +70,17 @@ FC Talk<br>
  <th rowspan="3">Raw</th>
  <th>Live</th>
  <td><a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni-mobile.com/s/live040/order_privilege/3135887660?ima=0928">Source</a></td>
- <td>Download Part1 <a target="_blank" rel="noopener noreferrer" href=""></a>| Part2<a target="_blank" rel="noopener noreferrer" href=""></a></td>
+ <td>Download <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20201113_227_11Live.part1.rar">Part1 </a>| <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20201113_227_11Live.part2.rar">Part2</a></td>
 </tr>
 <tr>
  <th>Live w/ FC Talk</th>
  <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
- <td>Download Part1 <a target="_blank" rel="noopener noreferrer" href=""></a>| Part2<a target="_blank" rel="noopener noreferrer" href=""></a></td>
+ <td>Download <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20201113_227_11Live_FCVer.part1.rar">Part1 </a>| <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20201113_227_11Live_FCVer.part2.rar">Part2</a></td>
 </tr>
 <tr>
  <th>FC Talk</th>
  <td><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1yK411G7Yp">Source</a></td>
- <td>Download<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20201113_227_11Live_FCTalk.mp4">Download</a></td>
 </tr>
 <tr>
  <th rowspan="3">Sub</th>
