@@ -72,7 +72,7 @@ FC Talk<br>
  <th rowspan="3">Raw</th>
  <th>Live</th>
  <td><a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni-mobile.com/s/live040/order_privilege/3135887660?ima=0928">Source</a></td>
- <td>Download <a target="_blank" rel="noopener noreferrer" href="">Part1 |</a><a target="_blank" rel="noopener noreferrer" href=""> Part2</a></td>
+ <td>Download Part1 <a target="_blank" rel="noopener noreferrer" href="">| Part2</a><a target="_blank" rel="noopener noreferrer" href=""></a></td>
 </tr>
 <tr>
  <th>Live w/ FC Talk</th>
