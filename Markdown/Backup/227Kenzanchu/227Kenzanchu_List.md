@@ -18,5 +18,5 @@ TOKYO MX・BS11にて毎週土曜23時～<br>
 
 <a name="Ep1-10"></a>
 #### [#1 声優メンバーのプロフィールを改めて確認しまＳＨＯＷ！<br>#1 声優メンバーのプロフィールを改めて確認しまＳＨＯＷ！](Ep1.md)
-<img src="../../../Img/227Kenzanchu/20200109_Ep1.jpg" width="50%">
+<img src="../../../Img/227Kenzanchu/20210109_Ep1.jpg" width="50%">
 ---
