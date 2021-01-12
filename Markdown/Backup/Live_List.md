@@ -3,7 +3,7 @@
 
 - [TVアニメ「22/7」スペシャルイベント Mission Paradise](227Live/TVAnime_MissionParadise.md)  
 <b>^ This live's footages will release after 6 months, which is on 11July,2021.</b><br>
-<img src="../../Img/227Live/img_TVAnime_MissionParadise.jpg" width="50%">
+<img src="../../Img/227Live/img_TVAnime_MissionParadise.png" width="50%">
 
 - [Sony Music AnimeSongs ONLINE 日本武道館](227Live/SonyMusic_Budokan.md)  
 <b>^ This live's footages will release after 6 months, which is on 3July,2021.</b><br>
