@@ -1,4 +1,4 @@
-### 22/7 計算中 Keisanchuu Season 1
+### 22/7 計算中 Keisanchu Season 1
 ##### [Back](227Keisanchuu_List.md)
 
 <table style="width:100%">
