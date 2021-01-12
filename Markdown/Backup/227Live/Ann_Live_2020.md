@@ -84,17 +84,17 @@ FC Talk
  <th rowspan="3">Sub</th>
  <th>Live</th>
  <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
- <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
+ <td>CHT (.ass)<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
 </tr>
 <tr>
  <th>Live w/ FC Talk</th>
- <td><a target="_blank" rel="noopener noreferrer" href="https://cloud.tsinghua.edu.cn/f/3aad5435818b47f39955/">22/7中文應緩站</a></td>
- <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://cloud.tsinghua.edu.cn/f/3aad5435818b47f39955/">CHS - 22/7中文應緩站</a></td>
+ <td>CHT (.ass)<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
 </tr>
 <tr>
  <th>FC Talk</th>
  <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
- <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
+ <td>CHT (.ass)<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
 </tr>
 </table>
 
@@ -159,16 +159,16 @@ FC Talk
  <th rowspan="3">Sub</th>
  <th>Live</th>
  <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
- <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
+ <td>CHT (.ass)<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
 </tr>
 <tr>
  <th>Live w/ FC Talk</th>
- <td><a target="_blank" rel="noopener noreferrer" href="https://cloud.tsinghua.edu.cn/f/3aad5435818b47f39955/">22/7中文應緩站</a></td>
- <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://cloud.tsinghua.edu.cn/f/3aad5435818b47f39955/">CHS - 22/7中文應緩站</a></td>
+ <td>CHT (.ass)<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
 </tr>
 <tr>
  <th>FC Talk</th>
  <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
- <td>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
+ <td>CHT (.ass)<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
 </tr>
 </table>
