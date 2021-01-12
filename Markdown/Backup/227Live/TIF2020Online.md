@@ -6,8 +6,6 @@ Date: 2Oct,2020<br>
 
 <a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni.com/s/n129/news/detail/10015?ima=5408">Official New</a>
 
-<b>^ The footages will release after 6 months, which is on 2Apr,2021.</b><br>
-
 >世界最大級のアイドルフェス「TOKYO IDOL FESTIVAL オンライン 2020」への出演が決定しました！<br>
 是非チェックしてください！<br><br>
 TOKYO IDOL FESTIVAL オンライン 2020<br><br>
@@ -29,35 +27,35 @@ Ending<br>
 
 Live<br>
 <video width="100%" height="100%" controls>
-  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/.mp4" type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20201002_TIF2020Online_Live.mp4" type="video/mp4">
 </video>
 
 Live w/ Radio Exercises<br>
 <video width="100%" height="100%" controls>
-  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/.mp4" type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20201002_TIF2020Online_LivewExercises.mp4" type="video/mp4">
 </video>
 
 <table>
 <tr>
  <th rowspan="2">Raw</th>
  <th>Live</th>
- <th><a target="_blank" rel="noopener noreferrer" href="">Source</a></th>
- <th><a target="_blank" rel="noopener noreferrer" href="">Download</a></th>
+ <th><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/av842364731/">Source</a></th>
+ <th><a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20201002_TIF2020Online_Live.mp4">Download</a></th>
 </tr>
 <tr>
  <th>Live w/ Radio Exercises</th>
- <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
- <th><a target="_blank" rel="noopener noreferrer" href="">Download</a></th>
+ <th><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1NT4y1w7Cf/">Source</a></th>
+ <th><a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20201002_TIF2020Online_LivewExercises.mp4">Download</a></th>
 </tr>
 <tr>
  <th rowspan="2">Sub</th>
  <th>Live</th>
- <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
- <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
+ <th>Unavailable<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
+ <th>CHT (.ass)<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
 </tr>
 <tr>
  <th>Live w/ Radio Exercises</th>
  <th><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1PV41127Jc">Bilibili</a></th>
- <th>Currently Unavailable<a target="_blank" rel="noopener noreferrer" href=""></a></th>
+ <th>CHT (.ass)<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
 </tr>
 </table>
