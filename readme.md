@@ -30,7 +30,6 @@ Project started at May/2020
 - [海乃るり Umino Ruri](Markdown/Album/UminoRuri/UminoRuri.md)
 
 ### 備份 Backup  
-- [Twitter](Markdown/Backup/Twitter/Twitter_List.md)
 - [Instagram](Markdown/Backup/Instagram/IG_List.md)
 - [Showroom](Markdown/Backup/Showroom/Showroom_List.md)
 - [YouTube](Markdown/Backup/YouTube_List.md)
@@ -38,7 +37,8 @@ Project started at May/2020
 - [22/7 Live](Markdown/Backup/Live_List.md)
 - [22/7 動畫 Anime](Markdown/Backup/Anime/Anime_List.md)
 - [22/7 電台節目 Radio](Markdown/Backup/Radio_List.md)
-- [22/7 計算中 Keisanchuu](Markdown/Backup/227Keisanchuu/227Keisanchuu_List.md)
+- [22/7 計算中 Keisanchu](Markdown/Backup/227Keisanchuu/227Keisanchuu_List.md)
+- [22/7 検算中 Kenzanchu](Markdown/Backup/227Kenzanchu/227Kenzanchu_List.md)
 - [22/7 相關影片 Related Videos](Markdown/Backup/227Related/227Related.md)
 <br><br>
 - [萬聖節限定頭像及壁紙 Halloween Special Icon & Wallpaper 2019](Markdown/Backup/2019HalloweenSpecial.md)
