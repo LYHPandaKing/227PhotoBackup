@@ -61,6 +61,7 @@ MC<br>
 13.僕が持ってるものなら<br>
 14.空のエメラルド(11人ver.)<br>
 Encore<br>
+Short Anime<br>
 15.不確かな青春<br>
 16.やさしい記憶<br>
 
@@ -105,6 +106,7 @@ MC<br>
 13.僕が持ってるものなら<br>
 14.空のエメラルド(11人ver.)<br>
 Encore<br>
+Short Anime<br>
 15.願いの眼差し<br>
 16.未来があるから<br>
 
