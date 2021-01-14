@@ -37,7 +37,11 @@ https://eplus.jp/sf/guide/streamingplus-userguide<br><br>
 
 >日場：<br>
 表演曲目 Setlist<br>
-1.ムズイ<br>
+Opening<br>
+1.ムズイ(11人ver.)<br>
+Anime Recap<br>
+MC<br>
+Variety Show<br>
 2.Rain of lies<br>
 3.生きることに楽になりたい<br>
 4.感情無用論<br>
@@ -72,7 +76,8 @@ Encore<br>
 
 >夜場：<br>
 表演曲目 Setlist<br>
-1.ムズイ<br>
+Opening<br>
+1.ムズイ(11人ver.)<br>
 2.風は吹いているか?<br>
 3.生きることに楽になりたい<br>
 4.感情無用論<br>
