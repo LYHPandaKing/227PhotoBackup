@@ -49,12 +49,15 @@ Short Anime<br>
 4.感情無用論<br>
 5.Moonlight<br>
 6.優等生じゃつまらない<br>
+MC<br>
 7.僕は存在していなかった(11人ver.)<br>
+Memorial<br>
 8.夢の船<br>
 9.人生はワルツ<br>
 10.神様に指を差された僕たち<br>
 11.孤独は嫌いじゃない<br>
 12.One of them<br>
+MC<br>
 13.僕が持ってるものなら<br>
 14.空のエメラルド<br>
 Encore<br>
@@ -67,7 +70,7 @@ Encore<br>
 <tr>
  <th>Raw</th>
  <th><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV12U4y1x7fr?p=1">Source</a></th>
-  <th>Download <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20210111_Anime227_SpecialEvent_MissionParadise_DayLive.part1.rar">Part1 </a>| <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20210111_Anime227_SpecialEvent_MissionParadise_DayLive.part2.rar">Part2</a></th>
+ <th>Download <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20210111_Anime227_SpecialEvent_MissionParadise_DayLive.part1.rar">Part1 </a>| <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20210111_Anime227_SpecialEvent_MissionParadise_DayLive.part2.rar">Part2</a></th>
 </tr>
 <tr>
  <th>Sub</th>
