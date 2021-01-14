@@ -59,7 +59,7 @@ Memorial<br>
 12.One of them<br>
 MC<br>
 13.僕が持ってるものなら<br>
-14.空のエメラルド<br>
+14.空のエメラルド(11人ver.)<br>
 Encore<br>
 15.不確かな青春<br>
 16.やさしい記憶<br>
@@ -83,19 +83,27 @@ Encore<br>
 表演曲目 Setlist<br>
 Opening<br>
 1.ムズイ(11人ver.)<br>
+Short Anime<br>
+Variety Show<br>
+Short Anime<br>
+Variety Show<br>
+Short Anime<br>
 2.風は吹いているか?<br>
 3.生きることに楽になりたい<br>
 4.感情無用論<br>
 5.Moonlight<br>
 6.優等生じゃつまらない<br>
+MC<br>
 7.僕は存在していなかった(11人ver.)<br>
+Memorial<br>
 8.夢の船<br>
 9.人生はワルツ<br>
 10.神様に指を差された僕たち<br>
 11.孤独は嫌いじゃない<br>
 12.One of them<br>
+MC<br>
 13.僕が持ってるものなら<br>
-14.空のエメラルド<br>
+14.空のエメラルド(11人ver.)<br>
 Encore<br>
 15.願いの眼差し<br>
 16.未来があるから<br>
