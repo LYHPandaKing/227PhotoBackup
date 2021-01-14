@@ -40,7 +40,8 @@ https://eplus.jp/sf/guide/streamingplus-userguide<br><br>
 Opening<br>
 1.ムズイ(11人ver.)<br>
 Anime Recap<br>
-MC<br>
+Variety Show<br>
+Short Anime<br>
 Variety Show<br>
 2.Rain of lies<br>
 3.生きることに楽になりたい<br>
