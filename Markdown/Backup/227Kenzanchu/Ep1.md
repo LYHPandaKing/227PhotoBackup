@@ -21,7 +21,7 @@ Date: 9Jan,2021
   <tr>
   <th>Raw</th>
     <th><a rel="noopener noreferrer" target="_blank" href="https://www.youtube.com/watch?v=D_nmBFn4DKY">Source</a></th>
-    <th><a href="">Download</a></th>
+    <th><a rel="noopener noreferrer" target="_blank" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227Kenzanchu/227Kenzanchu_01_RAW_1080P.mp4">Download</a></th>
   </tr>
   <tr>
   <th>Sub</th>
