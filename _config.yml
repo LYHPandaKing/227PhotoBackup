@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
+title: 22/7 Fans Page
+description: [Hong Kong]
 plugins:
   - jekyll-relative-links
 relative_links:
