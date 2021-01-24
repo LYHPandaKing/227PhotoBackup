@@ -24,7 +24,7 @@ Date: 16Jan,2021
   </tr>
   <tr>
   <th>Sub</th>
-    <th>CHS - bilibili<a rel="noopener noreferrer" target="_blank" href="  "></a></th>
+    <th><a rel="noopener noreferrer" target="_blank" href="https://www.bilibili.com/video/BV1mo4y1o7FU">CHS - bilibili</a></th>
     <th><a rel="noopener noreferrer" target="_blank" href="https://www.youtube.com/watch?v=E2b4EYYF9Lc">CHT - YouTube</a></th>
     <th>CHT (.ass) <a href=""></a></th>
   </tr>
