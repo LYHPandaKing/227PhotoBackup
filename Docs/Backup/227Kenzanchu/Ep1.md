@@ -1,7 +1,7 @@
 ### 22/7 検算中 Kenzanchu
 ##### [Back](227Kenzanchu_List.md)
 
-#### #1 声優メンバーのプロフィールを改めて確認しまＳＨＯＷ！<br>#1 声優メンバーのプロフィールを改めて確認しまＳＨＯＷ！<br>
+#### #1 声優メンバーのプロフィールを改めて確認しまＳＨＯＷ！<br>#1 讓我們再次確認成員們的個人信息ＳＨＯＷ！<br>
 Date: 9Jan,2021
 
 <img src="../../../Img/227Kenzanchu/20210109_Ep1.jpg" width="70%">
@@ -20,12 +20,13 @@ Date: 9Jan,2021
 <table>
   <tr>
   <th>Raw</th>
-    <th><a rel="noopener noreferrer" target="_blank" href="https://www.youtube.com/watch?v=D_nmBFn4DKY">Source</a></th>
+    <th colspan="2"><a rel="noopener noreferrer" target="_blank" href="https://www.youtube.com/watch?v=D_nmBFn4DKY">Source</a></th>
     <th><a rel="noopener noreferrer" target="_blank" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227Kenzanchu/227Kenzanchu_01_RAW_1080P.mp4">Download</a></th>
   </tr>
   <tr>
   <th>Sub</th>
-    <th>CHS - bilibili<a rel="noopener noreferrer" target="_blank" href="  "></a></th>
+    <th><a rel="noopener noreferrer" target="_blank" href="https://www.bilibili.com/video/BV1yA411H7q2">CHS - bilibili</a></th>
+    <th><a rel="noopener noreferrer" target="_blank" href="https://www.youtube.com/watch?v=yAf9gkngKos">CHT - YouTube</a></th>
     <th>CHT (.ass) <a href=""></a></th>
   </tr>
 </table>
