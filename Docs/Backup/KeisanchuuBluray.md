@@ -1,4 +1,4 @@
-### 22/7 計算中 Blu-ray 發售紀念頭像<br>Commemoration Icons for release of 22/7 Keisanchuu Blu-ray
+﻿### 22/7 計算中 Blu-ray 發售紀念頭像<br>Commemoration Icons for release of 22/7 Keisanchuu Blu-ray
 ##### [Back](../../readme.md)
 
 <img src="  " alt="滝川みう" width="50%">
