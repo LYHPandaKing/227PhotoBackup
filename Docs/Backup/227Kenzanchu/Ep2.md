@@ -1,4 +1,4 @@
-### 22/7 検算中 Kenzanchu
+﻿### 22/7 検算中 Kenzanchu
 ##### [Back](227Kenzanchu_List.md)
 
 #### #2 声優メンバーのプロフィールを改めて確認しまＳＨＯＷ！ 2<br>#2 讓我們再次確認成員們的個人信息ＳＨＯＷ！ 2<br>
@@ -11,7 +11,20 @@ Date: 16Jan,2021
 キャラクターだけでなく本人もやっぱりぶっ飛んでいた涼花萌の素顔とは！？<br>
 そして料理が得意な白沢かなえが千切り対決に挑む！<br>
 さらに西條和の試着チャレンジとは！？<br>
+<blockquote>
+1月16日(六)將繼續之前比較和驗證角色與成員們的個人信息的「讓我們再次確認成員們的個人信息ＳＨＯＷ！」企劃<br>
+天城サリー披露微妙的故事＆驚人的特技！<br>
+不只是角色，還有本人都經常脫離常識的涼花萌，她真實的一面是！？<br>
+然後擅長料理的白沢かなえ挑戰切絲對決！<br>
+進一步，西條和的試衣挑戰又怎樣！？<br>
+</blockquote>
 
+PV<br>
+<video width="100%" height="100%" controls>
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227Kenzanchu_PV/227Kenzanchu_PV_02_RAW_1080P.mp4" type="video/mp4">
+</video>
+
+Bangumi<br>
 <video width="100%" height="100%" controls>
   <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227Kenzanchu/227Kenzanchu_02_RAW_1080P.mp4" type="video/mp4">
 </video>

@@ -1,4 +1,4 @@
-### 22/7 検算中 Kenzanchu
+﻿### 22/7 検算中 Kenzanchu
 ##### [Back](227Kenzanchu_List.md)
 
 #### #1 声優メンバーのプロフィールを改めて確認しまＳＨＯＷ！<br>#1 讓我們再次確認成員們的個人信息ＳＨＯＷ！<br>
@@ -12,6 +12,14 @@ Date: 9Jan,2021
 宮瀬玲奈の本格的なマジックに三四郎も驚き！<br>
 海乃るりの利き焼肉では衝撃の結末に一同騒然！<br>
 帆風千春はあるチャレンジで謎の大号泣！一体何が！？<br>
+<blockquote>
+22/與三四郎次元互換的新節目終於開始了！<br>
+１月９日(六)第一個企劃是「讓我們再次確認成員們的個人信息ＳＨＯＷ！」介紹和比較一直以來的角色及聲優本人的個人信息！<br>
+然後，在展現環節中，決定披露特技、挑戰企劃等！<br>
+對宮瀬玲奈的正式魔術，三四郎也感到驚訝！<br>
+在燒肉方面有優勢的海乃るり，眾人都在衝撃的結束時一片混亂！<br>
+帆風千春在某個挑戰中不明所以地大哭！到底怎麼回事！？<br>
+</blockquote>
 
 <video width="100%" height="100%" controls>
   <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227Kenzanchu/227Kenzanchu_01_RAW_1080P.mp4" type="video/mp4">
