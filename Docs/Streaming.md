@@ -42,6 +42,9 @@ jpth10 (960x540) : https://cdn.jpth10.jpnettv.live/jptv/kanto_tokyo_mx1_540/play
     }
     </script>
 
+<br>
+<a target="_blank" rel="noopener noreferrer" href="https://s.mxtv.jp/bangumi/">番組表</a>
+
 <!--
 <hr>
 ##### 付費 Paid<br>
