@@ -1,13 +1,13 @@
-﻿![227Main](Img/227Cover_v2.PNG)
+<img src="Img/227Cover_v2.PNG" alt="Cover" width="vw"><br>
 ### 背景資料 Background Information
 此為非官方 22/7 網頁，主要備份Twitter、Instagram及公式照等，並提供資訊，供粉絲使用及收藏。<br>
-This is an unofficial 22/7 website. Mainly focusing on backup Twitter, Instagram and official photos etc.<br>
- Also, provide useful information about 22/7. Please feel free to download and use.<br>
+This is an unofficial 22/7 fan page. Mainly focusing on backup Twitter, Instagram and official photos etc.<br>
+Also, provide useful information about 22/7. Please feel free to download and use.<br>
 ###### _^ 部分相片或會在不同相簿中重複出現<br>Some photos may appear in more than one of the Albums._
 
 Project started at May/2020<br>
 
-**最後更新日期 Last Update: 31Jan,2021 21:31 (HKT)**
+**最後更新日期 Last Update: 31Jan,2021 22:11 (HKT)**
 
 ### 相簿 Album
 - [出道前 Pre-Debut](Docs/Album/PreDebut.md)
@@ -29,7 +29,7 @@ Project started at May/2020<br>
 - [武田愛奈 Takeda Aina](Docs/Album/TakedaAina/TakedaAina.md)
 - [海乃るり Umino Ruri](Docs/Album/UminoRuri/UminoRuri.md)
 
-### 備份 Backup  
+### 備份 Backup
 - [Instagram](Docs/Backup/Instagram/IG_List.md)
 - [Showroom](Docs/Backup/Showroom/Showroom_List.md)
 - [YouTube](Docs/Backup/YouTube_List.md)
@@ -45,14 +45,14 @@ Project started at May/2020<br>
 - [22/7 計算中 放送紀念頭像及壁紙<br>Commemoration Icons & Wallpapers for 22/7 Keisanchuu](Docs/Backup/KeisanchuuBroadcast.md)
 - [22/7 anime 20,000 followers 紀念頭像 Icon](Docs/Backup/TW20000fol.md)
 - [22/7 anime 30,000 followers 紀念頭像 Icon](Docs/Backup/TW30000fol.md)
-- [22/7 計算中 Blu-ray 發售紀念頭像<br>Commemoration Icons for release of 22/7 Keisanchuu Blu-ray](Docs/Backup/KeisanchuuBluray.md)  
+- [22/7 計算中 Blu-ray 發售紀念頭像<br>Commemoration Icons for release of 22/7 Keisanchuu Blu-ray](Docs/Backup/KeisanchuuBluray.md)
 
-### 其他資訊 Other Information  
-- [版主作品 Host's Creation](Docs/HostsCreation/HostsCreation.md)
-- [22/7 官方商店 Official Online Store](Docs/OfficialStore.md)
-- [22/7 日曆 Calender](Docs/Calendar.md)  
-- [Tokyo MX 直播源 Live Stream](Docs/Streaming.md)
+### 其他資訊 Other Information
 - [音樂 Music](Docs/Music/Music_List.md)
+- [版主作品 Host's Creation](Docs/HostsCreation/HostsCreation.md)
+- [Tokyo MX 直播源 Live Stream](Docs/Streaming.md)
+- [22/7 日曆 Calender](Docs/Calendar.md)
+- [22/7 官方商店 Official Online Store](Docs/OfficialStore.md)
 <br><br>
 - [Aniplex Online Fest](Docs/Backup/Aniplex_Online_Fest/AniplexFest_List.md)
 
@@ -60,4 +60,4 @@ Project started at May/2020<br>
 
 <img src="Img/11色の風.jpg" alt="11色の風" width="vw">
 
-![Promo](Img/Ending.PNG)
+<img src="Img/Ending.PNG" alt="Promo" width="vw">
