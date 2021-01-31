@@ -18,29 +18,7 @@ us195 (960x540) : https://cdn.us195.jpnettv.live/jptv/kanto_tokyo_mx1_540/playli
 jpth10 (960x540) : https://cdn.jpth10.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8<br>
 </blockquote><br>
 
-<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-    <video id="video" controls></video>
-    <script>
-    if(Hls.isSupported())
-    {
-        var video = document.getElementById('video');
-        var hls = new Hls();
-        hls.loadSource('playlist.m3u8');
-        hls.attachMedia(video);
-        hls.on(Hls.Events.MANIFEST_PARSED,function()
-        {
-            video.play();
-        });
-    }
-    else if (video.canPlayType('application/vnd.apple.mpegurl'))
-    {
-        video.src = 'https://cdn.us195.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8';
-        video.addEventListener('canplay',function()
-        {
-            video.play();
-        });
-    }
-    </script>
+
 
 <br>
 <a target="_blank" rel="noopener noreferrer" href="https://s.mxtv.jp/bangumi/">番組表</a>
