@@ -7,7 +7,7 @@ This is an unofficial 22/7 website. Mainly focusing on backup Twitter, Instagram
 
 Project started at May/2020<br>
 
-**最後更新日期 Last Update: 29Jan,2021 14:26 (HKT)**
+**最後更新日期 Last Update: 31Jan,2021 21:31 (HKT)**
 
 ### 相簿 Album
 - [出道前 Pre-Debut](Docs/Album/PreDebut.md)
