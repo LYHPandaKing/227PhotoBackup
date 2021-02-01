@@ -26,6 +26,9 @@
 <tr>
   <th><a href="#XmasNightTroubleGifts">聖なる夜のトラブルギフト</a></th>
 </tr>
+<tr>
+  <th><a href="#LoveLikeValentine">Love Like Valentine</a></th>
+</tr>  
 </table>
 
 #### 22/7 音楽の時間  翻唱歌曲 Cover Songs
@@ -495,5 +498,30 @@ Date: 17Dec,2020
 <img src="../../Img/Music/Nanaon_Cover/" width="50%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/45.%20チカっとチカ千花っ♡.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+---
+<a name="LoveLikeValentine"></a>
+#### Love Like Valentine
+Date: 1Feb,2021
+
+**46. バレンタイン・キッス**<br>
+斎藤ニコル（CV. 河瀬詩）<br>
+<img src="../../Img/Music/Nanaon_Cover/" width="50%"><br>
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/46.%20バレンタイン・キッス.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**47. EQUALロマンス**<br>
+神木みかみ（CV. 涼花萌）<br>
+河野都（CV. 倉岡水巴）<br>
+滝川みう（CV. 西條和）<br>
+戸田ジュン（CV. 海乃るり）<br>
+丸山あかね（CV. 白沢かなえ）<br>
+<img src="../../Img/Music/Nanaon_Cover/" width="50%"><br>
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/47.%20EQUALロマンス.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
