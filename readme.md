@@ -7,7 +7,7 @@ Also, provide useful information about 22/7. Please feel free to download and us
 
 Project started in May/2020<br>
 
-**最後更新日期 Last Update: 10Feb,2021 08:24 (HKT)**
+**最後更新日期 Last Update: 10Feb,2021 18:53 (HKT)**
 ### 相簿 Album
 - [出道前 Pre-Debut](Docs/Album/PreDebut.md)
 - [出道單曲 Debut Single](Docs/Album/1st%20Single.html)
@@ -49,8 +49,8 @@ Project started in May/2020<br>
 ### 其他資訊 Other Information
 - [音樂 Music](Docs/Music/Music_List.md)
 - [雜誌 Magazines](Docs/Magazines/Magazines_List.md)
-- [版主作品 Host's Creation](Docs/HostsCreation/HostsCreation.md)
 - [直播源 Live Stream](Docs/Streaming.md)
+- [版主作品 Host's Creation](Docs/HostsCreation/HostsCreation.md)
 - [22/7 日曆 Calender](Docs/Calendar.md)
 - [22/7 官方商店 Official Online Store](Docs/OfficialStore.md)
 <br><br>
