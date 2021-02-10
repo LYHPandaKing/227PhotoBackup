@@ -5,10 +5,9 @@ This is an unofficial 22/7 fan page. Mainly focusing on backup Twitter, Instagra
 Also, provide useful information about 22/7. Please feel free to download and use.<br>
 ###### _^ 部分相片或會在不同相簿中重複出現<br>Some photos may appear in more than one of the Albums._
 
-Project started at May/2020<br>
+Project started in May/2020<br>
 
-**最後更新日期 Last Update: 31Jan,2021 23:33 (HKT)**
-
+**最後更新日期 Last Update: 10Feb,2021 08:24 (HKT)**
 ### 相簿 Album
 - [出道前 Pre-Debut](Docs/Album/PreDebut.md)
 - [出道單曲 Debut Single](Docs/Album/1st%20Single.html)
