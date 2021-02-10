@@ -1,4 +1,4 @@
-### Tokyo MX 直播源 Live Stream
+### 直播源 Live Stream
 ##### [Back](../readme.md)
 
 #### Tokyo MX
