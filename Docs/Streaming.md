@@ -30,6 +30,7 @@ player.play();
 </script>
 
 <a target="_blank" rel="noopener noreferrer" href="https://s.mxtv.jp/bangumi/">番組表</a>
+<br>
 
 <!--
 <hr>
