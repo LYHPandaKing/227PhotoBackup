@@ -1,5 +1,5 @@
 ### 雜誌 Magazines
-[Back](../../reademe.md)
+[Back](../../readme.md)
 
 #### 2021
 ##### February
