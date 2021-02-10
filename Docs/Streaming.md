@@ -29,7 +29,6 @@ var player = videojs('my_video_1');
 player.play();
 </script>
 
-<br>
 <a target="_blank" rel="noopener noreferrer" href="https://s.mxtv.jp/bangumi/">番組表</a>
 
 <!--
@@ -39,3 +38,13 @@ player.play();
 - <a target="_blank" rel="noopener noreferrer" href="https://sky-stream.info/">Sky Stream</a><br>
 - <a target="_blank" rel="noopener noreferrer" href="https://joytv.com.tw/">Joytv TW</a><br>
 -->
+
+<h4><a target="_blank" rel="noopener noreferrer" href="http://www.agqr.jp">超！A＆G+</a><br></h4>
+  <video width="70%" height="70%" id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"  data-setup='{}'>
+    <source src="http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8" type="application/x-mpegURL">
+  </video>
+  
+<script>
+var player = videojs('my_video_1');
+player.play();
+</script>
