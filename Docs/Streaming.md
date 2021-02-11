@@ -22,6 +22,7 @@ jpth10 (960x540) : https://cdn.jpth10.jpnettv.live/jptv/kanto_tokyo_mx1_540/play
 
   <video width="70%" height="70%" id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"  data-setup='{}'>
     <source src="https://cdn.us195.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8" type="application/x-mpegURL">
+  <p>Your browser does not support the audio element.</p>
   </video>
   
 <script>
@@ -44,6 +45,7 @@ player.play();
 
   <video width="70%" height="70%" id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"  data-setup='{}'>
     <source src="https://fms2.uniqueradio.jp/agqr10/aandg1.m3u8" type="application/x-mpegURL">
+  <p>Your browser does not support the audio element.</p>
   </video>
   
 <script>
