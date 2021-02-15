@@ -7,7 +7,7 @@ Also, provide useful information about 22/7. Please feel free to download and us
 
 Project started in May/2020<br>
 
-**最後更新日期 Last Update: 14Feb,2021 01:04 (HKT)**
+**最後更新日期 Last Update: 15Feb,2021 17:24 (HKT)**
 ### 相簿 Album
 - [出道前 Pre-Debut](Docs/Album/PreDebut.md)
 - [出道單曲 Debut Single](Docs/Album/1st%20Single.html)
@@ -57,8 +57,6 @@ Project started in May/2020<br>
 - [Aniplex Online Fest](Docs/Backup/Aniplex_Online_Fest/AniplexFest_List.md)
 
 ### [鳴謝 Credit](Docs/Credit.md)
-
-- [Feedback](Docs/Feedback.md)
 
 <img src="Img/11色の風.jpg" alt="11色の風" width="vw">
 
