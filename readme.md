@@ -58,6 +58,8 @@ Project started in May/2020<br>
 
 ### [鳴謝 Credit](Docs/Credit.md)
 
+- [Feedback](Docs/Feedback.md)
+
 <img src="Img/11色の風.jpg" alt="11色の風" width="vw">
 
 <img src="Img/Ending.PNG" alt="Promo" width="vw">
