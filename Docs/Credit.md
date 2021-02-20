@@ -1,4 +1,4 @@
-### 鳴謝 Credit
+﻿### 鳴謝 Credit
 ##### [Back](../readme.md)
 
 ###### _^ 排名不分先後 in arbitrary order_
@@ -28,6 +28,7 @@ Other
 - <a target="_blank" rel="noopener noreferrer" href="http://227cnwiki.com/wiki/%e9%a6%96%e9%a1%b5">22/7 中文 Wiki</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://yande.re/post">yande.re</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://appmedia.jp/nanaon">ナナオン攻略wiki｜22/7音楽の時間</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCKazYo0sU_5ca1Ugkqnd4PA">YouTube - シアトル</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://space.bilibili.com/118938280/">bilibili - 227中文应援站</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://space.bilibili.com/730686/">bilibili - Sov</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://space.bilibili.com/571233650/">bilibili - ナナ二ジ的搬运工</a>
