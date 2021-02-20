@@ -38,7 +38,7 @@ Bangumi<br>
   <tr>
   <th>Sub</th>
     <th>CHS - bilibili<a rel="noopener noreferrer" target="_blank" href=""></a></th>
-    <th>CHT - YouTube<a rel="noopener noreferrer" target="_blank" href=""></a></th>
+    <th><a rel="noopener noreferrer" target="_blank" href="https://www.youtube.com/watch?v=854eLCiItvE">CHT - YouTube</a></th>
     <th>CHT (.ass) <a href=""></a></th>
   </tr>
 </table>
