@@ -7,7 +7,7 @@ Also, provide useful information about 22/7. Please feel free to download and us
 
 Project started in May/2020<br>
 
-**最後更新日期 Last Update: 15Feb,2021 17:24 (HKT)**
+**最後更新日期 Last Update: 21Feb,2021 00:14 (HKT)**
 ### 相簿 Album
 - [出道前 Pre-Debut](Docs/Album/PreDebut.md)
 - [出道單曲 Debut Single](Docs/Album/1st%20Single.html)
