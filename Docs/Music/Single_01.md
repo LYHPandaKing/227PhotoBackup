@@ -4,26 +4,26 @@
 #### 僕は存在していなかった【完全生産限定盤 Type-A】
 <img src="../../Img/Music/BokuTypeA.jpg" width="70%"><br>
 Date: 20Sept,2017<br>
-<blockquote>
-1.僕は存在していなかった<br>
-2.地下鉄抵抗主義<br>
-3.11人が集まった理由<br>
-4.僕は存在していなかった -off vocal ver.-<br>
-5.地下鉄抵抗主義 -off vocal ver.-<br>
-6.11人が集まった理由 -off vocal ver.-<br>
-</blockquote><br>
+<p><blockquote>
+1. 僕は存在していなかった<br>
+2. 地下鉄抵抗主義<br>
+3. 11人が集まった理由<br>
+4. 僕は存在していなかった -off vocal ver.-<br>
+5. 地下鉄抵抗主義 -off vocal ver.-<br>
+6. 11人が集まった理由 -off vocal ver.-<br>
+</blockquote></p><br>
 
 #### 僕は存在していなかった【完全生産限定盤 Type-B】
 <img src="../../Img/Music/BokuTypeB.jpg" width="70%"><br>
 Date: 20Sept,2017<br>
-<blockquote>
-1.僕は存在していなかった<br>
-2.地下鉄抵抗主義<br>
-3.11人が集まった理由<br>
-4.僕は存在していなかった -off vocal ver.-<br>
-5.地下鉄抵抗主義 -off vocal ver.-<br>
-6.11人が集まった理由 -off vocal ver.-<br>
-</blockquote><br>
+<p><blockquote>
+1. 僕は存在していなかった<br>
+2. 地下鉄抵抗主義<br>
+3. 11人が集まった理由<br>
+4. 僕は存在していなかった -off vocal ver.-<br>
+5. 地下鉄抵抗主義 -off vocal ver.-<br>
+6. 11人が集まった理由 -off vocal ver.-<br>
+</blockquote></p><br>
 
 試聽 Preview<br>
 

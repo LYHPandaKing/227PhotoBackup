@@ -4,38 +4,38 @@
 #### ムズイ【初回仕様限定盤Type-A】
 <img src="../../Img/Music/MuzuiTypeA.jpg" width="70%"><br>
 Date: 26Feb,2020<br>
-<blockquote>
-1.ムズイ<br>
-2.空のエメラルド<br>
-3.僕らの環境<br>
-4.ムズイ -off vocal ver.-<br>
-5.空のエメラルド -off vocal ver.-<br>
-6.僕らの環境 -off vocal ver.-<br>
-</blockquote><br>
+<p><blockquote>
+1. ムズイ<br>
+2. 空のエメラルド<br>
+3. 僕らの環境<br>
+4. ムズイ -off vocal ver.-<br>
+5. 空のエメラルド -off vocal ver.-<br>
+6. 僕らの環境 -off vocal ver.-<br>
+</blockquote></p><br>
 
 #### ムズイ【初回仕様限定盤Type-B】
 <img src="../../Img/Music/MuzuiTypeB.jpg" width="70%"><br>
 Date: 26Feb,2020<br>
-<blockquote>
-1.ムズイ<br>
-2.空のエメラルド<br>
-3.足を洗え!<br>
-4.ムズイ -off vocal ver.-<br>
-5.空のエメラルド -off vocal ver.-<br>
-6.足を洗え! -off vocal ver.-<br>
-</blockquote><br>
+<p><blockquote>
+1. ムズイ<br>
+2. 空のエメラルド<br>
+3. 足を洗え!<br>
+4. ムズイ -off vocal ver.-<br>
+5. 空のエメラルド -off vocal ver.-<br>
+6. 足を洗え! -off vocal ver.-<br>
+</blockquote></p><br>
 
 #### ムズイ【通常盤】
 <img src="../../Img/Music/Muzui.jpg" width="70%"><br>
 Date: 26Feb,2020<br>
-<blockquote>
-1.ムズイ<br>
-2.空のエメラルド<br>
-3.願いの眼差し<br>
-4.ムズイ -off vocal ver.-<br>
-5.空のエメラルド -off vocal ver.-<br>
-6.願いの眼差し -off vocal ver.-<br>
-</blockquote><br>
+<p><blockquote>
+1. ムズイ<br>
+2. 空のエメラルド<br>
+3. 願いの眼差し<br>
+4. ムズイ -off vocal ver.-<br>
+5. 空のエメラルド -off vocal ver.-<br>
+6. 願いの眼差し -off vocal ver.-<br>
+</blockquote></p><br>
 
 試聽 Preview<br>
 

@@ -4,38 +4,38 @@
 #### 何もしてあげられない【初回仕様限定盤Type-A】
 <img src="../../Img/Music/NaniMoTypeA.jpg" width="70%"><br>
 Date: 21Aug,2019<br>
-<blockquote>
-1.何もしてあげられない<br>
-2.君はMoon<br>
-3.とんぼの気持ち<br>
-4.何もしてあげられない -off vocal ver.-<br>
-5.君はMoon -off vocal ver.-<br>
-6.とんぼの気持ち -off vocal ver.-<br>
-</blockquote><br>
+<p><blockquote>
+1. 何もしてあげられない<br>
+2. 君はMoon<br>
+3. とんぼの気持ち<br>
+4. 何もしてあげられない -off vocal ver.-<br>
+5. 君はMoon -off vocal ver.-<br>
+6. とんぼの気持ち -off vocal ver.-<br>
+</blockquote></p><br>
 
 #### 何もしてあげられない【初回仕様限定盤Type-B】
 <img src="../../Img/Music/NaniMoTypeB.jpg" width="70%"><br>
 Date: 21Aug,2019<br>
-<blockquote>
-1.何もしてあげられない<br>
-2.君はMoon<br>
-3.ロマンスの積み木<br>
-4.何もしてあげられない -off vocal ver.-<br>
-5.君はMoon -off vocal ver.-<br>
-6.ロマンスの積み木 -off vocal ver.-<br>
-</blockquote><br>
+<p><blockquote>
+1. 何もしてあげられない<br>
+2. 君はMoon<br>
+3. ロマンスの積み木<br>
+4. 何もしてあげられない -off vocal ver.-<br>
+5. 君はMoon -off vocal ver.-<br>
+6. ロマンスの積み木 -off vocal ver.-<br>
+</blockquote></p><br>
 
 #### 何もしてあげられない【通常盤】
 <img src="../../Img/Music/NaniMo.jpg" width="70%"><br>
 Date: 21Aug,2019<br>
-<blockquote>
-1.何もしてあげられない<br>
-2.君はMoon<br>
-3.Rain of lies<br>
-4.何もしてあげられない -off vocal ver.-<br>
-5.君はMoon -off vocal ver.-<br>
-6.Rain of lies -off vocal ver.-<br>
-</blockquote><br>
+<p><blockquote>
+1. 何もしてあげられない<br>
+2. 君はMoon<br>
+3. Rain of lies<br>
+4. 何もしてあげられない -off vocal ver.-<br>
+5. 君はMoon -off vocal ver.-<br>
+6. Rain of lies -off vocal ver.-<br>
+</blockquote></p><br>
 
 試聽 Preview<br>
 

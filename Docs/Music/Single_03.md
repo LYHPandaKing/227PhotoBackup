@@ -4,38 +4,38 @@
 #### 理解者【初回仕様限定盤Type-A】
 <img src="../../Img/Music/RikaishaTypeA.jpg" width="70%"><br>
 Date: 2Aug,2018<br>
-<blockquote>
-1.理解者<br>
-2.絶望の花<br>
-3.韋駄天娘<br>
-4.理解者 -off vocal ver.-<br>
-5.絶望の花 -off vocal ver.-<br>
-6.韋駄天娘 -off vocal ver.-<br>
-</blockquote><br>
+<p><blockquote>
+1. 理解者<br>
+2. 絶望の花<br>
+3. 韋駄天娘<br>
+4. 理解者 -off vocal ver.-<br>
+5. 絶望の花 -off vocal ver.-<br>
+6. 韋駄天娘 -off vocal ver.-<br>
+</blockquote></p><br>
 
 #### 理解者【初回仕様限定盤Type-B】
 <img src="../../Img/Music/RikaishaTypeB.jpg" width="70%"><br>
 Date: 2Aug,2018<br>
-<blockquote>
-1.理解者<br>
-2.絶望の花<br>
-3.不確かな青春<br>
-4.理解者 -off vocal ver.-<br>
-5.絶望の花 -off vocal ver.-<br>
-6.不確かな青春 -off vocal ver.-<br>
-</blockquote><br>
+<p><blockquote>
+1. 理解者<br>
+2. 絶望の花<br>
+3. 不確かな青春<br>
+4. 理解者 -off vocal ver.-<br>
+5. 絶望の花 -off vocal ver.-<br>
+6. 不確かな青春 -off vocal ver.-<br>
+</blockquote></p><br>
 
 #### 理解者【通常盤】
 <img src="../../Img/Music/Rikaisha.jpg" width="70%"><br>
 Date: 2Aug,2018<br>
-<blockquote>
-1.理解者<br>
-2.絶望の花<br>
-3.未来があるから<br>
-4.理解者 -off vocal ver.-<br>
-5.絶望の花 -off vocal ver.-<br>
-6.未来があるから -off vocal ver.-<br>
-</blockquote><br>
+<p><blockquote>
+1. 理解者<br>
+2. 絶望の花<br>
+3. 未来があるから<br>
+4. 理解者 -off vocal ver.-<br>
+5. 絶望の花 -off vocal ver.-<br>
+6. 未来があるから -off vocal ver.-<br>
+</blockquote></p><br>
 
 試聽 Preview<br>
 

@@ -4,38 +4,38 @@
 #### 風は吹いてるか？【完全生産限定盤】
 <img src="../../Img/Music/KazeComplete.jpg" width="70%"><br>
 Date: 30Sep,2020<br>
-<blockquote>
-1.風は吹いてるか？<br>
-2.ポニーテールは振り向かせない<br>
-3.半チャーハン<br>
-4.風は吹いてるか？ -off vocal ver.-<br>
-5.ポニーテールは振り向かせない -off vocal ver.-<br>
-6.半チャーハン -off vocal ver.-<br>
-</blockquote><br>
+<p><blockquote>
+1. 風は吹いてるか？<br>
+2. ポニーテールは振り向かせない<br>
+3. 半チャーハン<br>
+4. 風は吹いてるか？ -off vocal ver.-<br>
+5. ポニーテールは振り向かせない -off vocal ver.-<br>
+6. 半チャーハン -off vocal ver.-<br>
+</blockquote></p><br>
 
 #### 風は吹いてるか？【初回仕様限定盤】
 <img src="../../Img/Music/KazeLimited.jpg" width="70%"><br>
 Date: 30Sep,2020<br>
-<blockquote>
-1.風は吹いてるか？<br>
-2.ポニーテールは振り向かせない<br>
-3.タトゥー・ラブ<br>
-4.風は吹いてるか？ -off vocal ver.-<br>
-5.ポニーテールは振り向かせない -off vocal ver.-<br>
-6.タトゥー・ラブ -off vocal ver.-<br>
-</blockquote><br>
+<p><blockquote>
+1. 風は吹いてるか？<br>
+2. ポニーテールは振り向かせない<br>
+3. タトゥー・ラブ<br>
+4. 風は吹いてるか？ -off vocal ver.-<br>
+5. ポニーテールは振り向かせない -off vocal ver.-<br>
+6. タトゥー・ラブ -off vocal ver.-<br>
+</blockquote></p><br>
 
 #### 風は吹いてるか？【通常盤】
 <img src="../../Img/Music/Kaze.jpg" width="70%"><br>
 Date: 30Sep,2020<br>
-<blockquote>
-1.風は吹いてるか？<br>
-2.ポニーテールは振り向かせない<br>
-3.ソフトクリーム落としちゃった<br>
-4.風は吹いてるか？ -off vocal ver.-<br>
-5.ポニーテールは振り向かせない -off vocal ver.-<br>
-6.ソフトクリーム落としちゃった -off vocal ver.-<br>
-</blockquote><br>
+<p><blockquote>
+1. 風は吹いてるか？<br>
+2. ポニーテールは振り向かせない<br>
+3. ソフトクリーム落としちゃった<br>
+4. 風は吹いてるか？ -off vocal ver.-<br>
+5. ポニーテールは振り向かせない -off vocal ver.-<br>
+6. ソフトクリーム落としちゃった -off vocal ver.-<br>
+</blockquote></p><br>
 
 試聽 Preview<br>
 

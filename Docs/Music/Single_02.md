@@ -4,39 +4,39 @@
 #### シャンプーの匂いがした【初回仕様限定盤Type-A】
 <img src="../../Img/Music/ShampooTypeA.jpg" width="70%"><br>
 Date: 11Apr,2018<br>
-<blockquote>
-1.シャンプーの匂いがした<br>
-2.人格崩壊<br>
-3.やさしい記憶<br>
-4.シャンプーの匂いがした -off vocal ver.-<br>
-5.人格崩壊 -off vocal ver.-<br>
-6.やさしい記憶 -off vocal ver.-<br>
-</blockquote><br>
+<p><blockquote>
+1. シャンプーの匂いがした<br>
+2. 人格崩壊<br>
+3. やさしい記憶<br>
+4. シャンプーの匂いがした -off vocal ver.-<br>
+5. 人格崩壊 -off vocal ver.-<br>
+6. やさしい記憶 -off vocal ver.-<br>
+</blockquote></p><br>
 
 #### シャンプーの匂いがした【初回仕様限定盤Type-B】
 <img src="../../Img/Music/ShampooTypeB.jpg" width="70%"><br>
 Date: 11Apr,2018<br>
-<blockquote>
-1.シャンプーの匂いがした<br>
-2.人格崩壊<br>
-3.叫ぶしかない青春<br>
-4.シャンプーの匂いがした -off vocal ver.-<br>
-5.人格崩壊 -off vocal ver.-<br>
-6.叫ぶしかない青春 -off vocal ver.-<br>
-</blockquote><br>
+<p><blockquote>
+1. シャンプーの匂いがした<br>
+2. 人格崩壊<br>
+3. 叫ぶしかない青春<br>
+4. シャンプーの匂いがした -off vocal ver.-<br>
+5. 人格崩壊 -off vocal ver.-<br>
+6. 叫ぶしかない青春 -off vocal ver.-<br>
+</blockquote></p><br>
 
 
 #### シャンプーの匂いがした【通常盤】
 <img src="../../Img/Music/Shampoo.jpg" width="70%"><br>
 Date: 11Apr,2018<br>
-<blockquote>
-1.シャンプーの匂いがした<br>
-2.人格崩壊<br>
-3.循環バス<br>
-4.シャンプーの匂いがした -off vocal ver.-<br>
-5.人格崩壊 -off vocal ver.-<br>
-6.循環バス -off vocal ver.-<br>
-</blockquote><br>
+<p><blockquote>
+1. シャンプーの匂いがした<br>
+2. 人格崩壊<br>
+3. 循環バス<br>
+4. シャンプーの匂いがした -off vocal ver.-<br>
+5. 人格崩壊 -off vocal ver.-<br>
+6. 循環バス -off vocal ver.-<br>
+</blockquote></p><br>
 
 試聽 Preview<br>
 
