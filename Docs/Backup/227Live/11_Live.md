@@ -20,39 +20,40 @@ stagecrowd：https://stagecrowd.live/s/live000/?ima=5439<br><br>
 【チケットのご購入はこちら】<br>
 https://nanabunnonijyuuni-mobile.com/s/live040/?ima=2659<br><br>
 
->表演曲目 Setlist<br>
+<p><blockquote>流程 Rundown<br>
 半チャーハン MV<br>
 Opening<br>
-1.風は吹いてるか？<br>
-2.ポニーテールは振り向かせない<br>
-3.不確かな青春<br>
-4.願いの眼差し<br>
+1. 風は吹いてるか？<br>
+2. ポニーテールは振り向かせない<br>
+3. 不確かな青春<br>
+4. 願いの眼差し<br>
 MC<br>
-5.半チャーハン<br>
-6.タトゥー・ラブ<br>
-7.ソフトクリーム落としちゃった<br>
-8.夢の船<br>
-9.人生はワルツ<br>
-10.優等生じゃつまらない<br>
-11.感情無用論<br>
-12.孤独は嫌いじゃない<br>
-13.One of them<br>
-14.生きることに楽になりたい<br>
-15.Moonlight<br>
-16.神様に指を差された僕たち<br>
+5. 半チャーハン<br>
+6. タトゥー・ラブ<br>
+7. ソフトクリーム落としちゃった<br>
+8. 夢の船<br>
+9. 人生はワルツ<br>
+10. 優等生じゃつまらない<br>
+11. 感情無用論<br>
+12. 孤独は嫌いじゃない<br>
+13. One of them<br>
+14. 生きることに楽になりたい<br>
+15. Moonlight<br>
+16. 神様に指を差された僕たち<br>
 MC<br>
-17.韋駄天娘<br>
-18.ロマンスの積み木<br>
-19.Rain of lies<br>
-20.未来があるから<br>
-21.何もしてあげられない<br>
+17. 韋駄天娘<br>
+18. ロマンスの積み木<br>
+19. Rain of lies<br>
+20. 未来があるから<br>
+21. 何もしてあげられない<br>
 映像<br>
-22.ムズイ(11人ver.)<br>
-23.僕らの環境<br>
-24.足を洗え<br>
-25.空のエメラルド(11ver.)<br>
+22. ムズイ(11人ver.)<br>
+23. 僕らの環境<br>
+24. 足を洗え<br>
+25. 空のエメラルド(11ver.)<br>
 MC<br>
-26.11人が集まった理由<br>
+26. 11人が集まった理由<br>
+</blockquote></p>
 
 Live<br>
 ^ The online streaming service unavailable as file exceeds 2GB.

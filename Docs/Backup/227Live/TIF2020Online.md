@@ -13,17 +13,18 @@ TOKYO IDOL FESTIVAL オンライン 2020<br><br>
 【公式HP】<br>
 http://www.idolfes.com/2020/<br>
 
-> ^ 廣播體操 Radio Exercises<br>
-表演曲目 Setlist:<br>
-1.何もしてあげられない<br>
+<p><blockquote>流程 Rundown<br>
+^ 廣播體操 Radio Exercises<br>
+1. 何もしてあげられない<br>
 MC<br>
-2.ポニーテールは振り向かせない<br>
-3.ロマンスの積み木<br>
+2. ポニーテールは振り向かせない<br>
+3. ロマンスの積み木<br>
 MC<br>
-4.風は吹いてるか？<br>
+4. 風は吹いてるか？<br>
 MC<br>
-5.韋駄天娘<br>
+5. 韋駄天娘<br>
 Ending<br>
+</blockquote></p>
 
 Live<br>
 <video width="100%" height="100%" controls>

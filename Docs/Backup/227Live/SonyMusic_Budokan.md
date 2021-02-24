@@ -13,49 +13,50 @@ Date: 3Jan,2021
 藍井エイル／麻倉もも／ASCA／雨宮天／楠木ともり／Cö shu Nie／斉藤朱夏／佐藤ミキ／the peggies／CIVILIAN／鈴木雅之／スピラ・スピカ／TrySail／中川翔子／夏川椎菜／22/7／ナナヲアカリ／西川くんとキリショー／西川貴教／BURNOUT SYNDROMES／halca／Who-ya Extended／FLOW／Rude-α<br>
 ※50音順<br>
 
->表演曲目 Setlist<br>
-1.IGNITE / 藍井エイル<br>
-2.I will... / 藍井エイル<br>
-3.君のせい / the peggies<br>
-4.センチメートル / the peggies<br>
-5.ハミダシモノ / 楠木ともり<br>
-6.正解不正解 / CIVILIAN<br>
-7.千夜想歌 / CIVILIAN<br>
-8.イヤヨイヤヨモスキノウチ / スピラ・スピカ<br>
-9.リライズ / スピラ・スピカ<br>
-10.フワリ、コロリ、カラン、コロン / 夏川椎菜<br>
-11.FLY HIGH!! / BURNOUT SYNDROMES<br>
-12.ヒカリアレ / BURNOUT SYNDROMES<br>
-13.1・2・3 / 西川くんとキリショー<br>
-<b>14.ムズイ / 22/7</b><br>
-<b>15.風は吹いてるか？ / 22/7</b><br>
-16.Q-vism / Who-ya Extended<br>
-17.Synthetic Sympathy / Who-ya Extended<br>
-18.asphyxia / Cö shu Nie<br>
-19.bullet / Cö shu Nie<br>
-20.空色デイズ / 中川翔子<br>
-21.タイプ：ワイルド / 中川翔子<br>
-22.Howling / ASCA<br>
-23.名もない花 / 佐藤ミキ<br>
-24.ユメシンデレラ / 麻倉もも<br>
-25.告白バンジージャンプ / halca<br>
-26.センチメンタルクライシス / halca<br>
-27.ラブ・ドラマティック feat. 伊原六花 / 鈴木雅之<br>
-28.DADDY ! DADDY ! DO ! feat. 鈴木愛理 / 鈴木雅之<br>
-29.LIFE / Rude-α<br>
-30.Paradise / Rude-α<br>
-31.PARADOX / 雨宮天<br>
-32.チューリングラブ feat.Sou / ナナヲアカリ<br>
-33.Higher's High / ナナヲアカリ<br>
-34.パパパ / 斉藤朱夏<br>
-35.しゅしゅしゅ / 斉藤朱夏<br>
-36.ごまかし / TrySail<br>
-37.adrenaline!!! / TrySail<br>
-38.COLORS / FLOW<br>
-39.新世界 / FLOW<br>
-40.GO!!! / FLOW<br>
-41.天秤-Libra- / 西川貴教＋ASCA<br>
-42.Bright Burning Shout / 西川貴教<br>
+<p><blockquote>表演曲目 Setlist<br>
+1. IGNITE / 藍井エイル<br>
+2. I will... / 藍井エイル<br>
+3. 君のせい / the peggies<br>
+4. センチメートル / the peggies<br>
+5. ハミダシモノ / 楠木ともり<br>
+6. 正解不正解 / CIVILIAN<br>
+7. 千夜想歌 / CIVILIAN<br>
+8. イヤヨイヤヨモスキノウチ / スピラ・スピカ<br>
+9. リライズ / スピラ・スピカ<br>
+10. フワリ、コロリ、カラン、コロン / 夏川椎菜<br>
+11. FLY HIGH!! / BURNOUT SYNDROMES<br>
+12. ヒカリアレ / BURNOUT SYNDROMES<br>
+13. 1・2・3 / 西川くんとキリショー<br>
+<b>14. ムズイ / 22/7</b><br>
+<b>15. 風は吹いてるか？ / 22/7</b><br>
+16. Q-vism / Who-ya Extended<br>
+17. Synthetic Sympathy / Who-ya Extended<br>
+18. asphyxia / Cö shu Nie<br>
+19. bullet / Cö shu Nie<br>
+20. 空色デイズ / 中川翔子<br>
+21. タイプ：ワイルド / 中川翔子<br>
+22. Howling / ASCA<br>
+23. 名もない花 / 佐藤ミキ<br>
+24. ユメシンデレラ / 麻倉もも<br>
+25. 告白バンジージャンプ / halca<br>
+26. センチメンタルクライシス / halca<br>
+27. ラブ・ドラマティック feat. 伊原六花 / 鈴木雅之<br>
+28. DADDY ! DADDY ! DO ! feat. 鈴木愛理 / 鈴木雅之<br>
+29. LIFE / Rude-α<br>
+30. Paradise / Rude-α<br>
+31. PARADOX / 雨宮天<br>
+32. チューリングラブ feat.Sou / ナナヲアカリ<br>
+33. Higher's High / ナナヲアカリ<br>
+34. パパパ / 斉藤朱夏<br>
+35. しゅしゅしゅ / 斉藤朱夏<br>
+36. ごまかし / TrySail<br>
+37. adrenaline!!! / TrySail<br>
+38. COLORS / FLOW<br>
+39. 新世界 / FLOW<br>
+40. GO!!! / FLOW<br>
+41. 天秤-Libra- / 西川貴教＋ASCA<br>
+42. Bright Burning Shout / 西川貴教<br>
+</blockquote></p>
 
 ^ The online streaming service unavailable as file exceeds 2GB.<br>
 
