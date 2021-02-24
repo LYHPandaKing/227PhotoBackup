@@ -15,7 +15,7 @@
 <a name="single"></a>
 #### 單曲 Single
 
-- [僕が持ってるものなら Boku ga Motteru Mono Nara](Single_07.html)<br>
+- [僕が持ってるものなら<br>Boku ga Motteru Mono Nara](Single_07.html)<br>
 <img src="../../Img/Music/MotteruComplete.jpg" width="30%">
 
 - [風は吹いてるか?<br>Kaze wa Fuiteruka](Single_06.html)<br>
