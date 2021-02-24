@@ -93,7 +93,7 @@ Date: 30Sep,2020<br>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-**06. 願いの眼差し -off vocal ver.-**<br>
+**06. ソフトクリーム落としちゃった -off vocal ver.-**<br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/06_Kaze%20wa%20Fuiteru%20ka/Off%20Vocal%20(Regular)/06.%20ソフトクリーム落としちゃった%20-off%20vocal%20ver.-.mp3"></source>
   <p>Your browser does not support the audio element.</p>
