@@ -51,7 +51,7 @@ Date: 24Feb,2021<br>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-**03. 好きと言ったのは嘘だ**<br>
+**03. 好きと言ったのは嘘だ** ^Currently Unavailable<br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/07_Boku%20ga%20Motteru%20Mono%20Nara/03.%20好きと言ったのは嘘だ.mp3"></source>
   <p>Your browser does not support the audio element.</p>
@@ -63,7 +63,7 @@ Date: 24Feb,2021<br>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-**03. 雷鳴のDelay**<br>
+**03. 雷鳴のDelay** ^Currently Unavailable<br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/07_Boku%20ga%20Motteru%20Mono%20Nara/03.%20雷鳴のDelay.mp3"></source>
   <p>Your browser does not support the audio element.</p>
