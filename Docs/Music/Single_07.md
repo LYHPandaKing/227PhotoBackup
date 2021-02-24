@@ -5,36 +5,36 @@
 <img src="../../Img/Music/MotteruComplete.jpg" width="70%"><br>
 Date: 24Feb,2021<br>
 <p><blockquote>
-1.僕が持ってるものなら<br>
-2.タチツテトパワー<br>
-3.好きと言ったのは嘘だ<br>
-4.僕が持ってるものなら -off vocal ver.-<br>
-5.タチツテトパワー -off vocal ver.-<br>
-6.好きと言ったのは嘘だ -off vocal ver.-<br>
+1. 僕が持ってるものなら<br>
+2. タチツテトパワー<br>
+3. 好きと言ったのは嘘だ<br>
+4. 僕が持ってるものなら -off vocal ver.-<br>
+5. タチツテトパワー -off vocal ver.-<br>
+6. 好きと言ったのは嘘だ -off vocal ver.-<br>
 </blockquote></p><br>
 
 #### 風は吹いてるか？【初回生産限定盤】
 <img src="../../Img/Music/MotteruLimited.jpg" width="70%"><br>
 Date: 24Feb,2021<br>
 <p><blockquote>
-1.僕が持ってるものなら<br>
-2.タチツテトパワー<br>
-3.キウイの主張<br>
-4.僕が持ってるものなら -off vocal ver.-<br>
-5.タチツテトパワー -off vocal ver.-<br>
-6.キウイの主張 -off vocal ver.-<br>
+1. 僕が持ってるものなら<br>
+2. タチツテトパワー<br>
+3. キウイの主張<br>
+4. 僕が持ってるものなら -off vocal ver.-<br>
+5. タチツテトパワー -off vocal ver.-<br>
+6. キウイの主張 -off vocal ver.-<br>
 </blockquote></p><br>
 
 #### 風は吹いてるか？【通常盤】
 <img src="../../Img/Music/Motteru.jpg" width="70%"><br>
 Date: 24Feb,2021<br>
 <p><blockquote>
-1.僕が持ってるものなら<br>
-2.タチツテトパワー<br>
-3.雷鳴のDelay<br>
-4.僕が持ってるものなら -off vocal ver.-<br>
-5.タチツテトパワー -off vocal ver.-<br>
-6.雷鳴のDelay -off vocal ver.-<br>
+1. 僕が持ってるものなら<br>
+2. タチツテトパワー<br>
+3. 雷鳴のDelay<br>
+4. 僕が持ってるものなら -off vocal ver.-<br>
+5. タチツテトパワー -off vocal ver.-<br>
+6. 雷鳴のDelay -off vocal ver.-<br>
 </blockquote></p><br>
 
 試聽 Preview<br>
