@@ -1,7 +1,7 @@
 ### 「僕が持ってるものなら」発売記念LIVE
 ##### [Back](Live_List.md)
 
-<Img src="../../../Img/227Live/img_7thSingle_ReleaseLive.jpg" width="70%">  
+<Img src="../../../Img/227Live/img_7thSingle_ReleaseLive.png" width="70%">  
 Date: 28Feb,2021  
 
 <a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni.com/s/n129/diary/detail/354947?ima=2934&cd=event">Official New</a>
@@ -46,10 +46,9 @@ Encore<br>
 16. 僕は存在していなかった
 </blockquote></p>
 
-Live w/ FC Talk
-<video width="100%" height="100%" controls>
-  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20200920_227_Anniversary_Live_2020-DayLive_FCVer.mp4" type="video/mp4">
-</video>
+Live w/ FC Talk<br>
+
+^ The online streaming service unavailable as file exceeds 2GB.<br>
 
 <table>
 <tr>
@@ -91,11 +90,9 @@ Messages to Chiharu<br>
 16. 空のエメラルド<br>
 </blockquote></p>
 
-Live w/ FC Talk
-<video width="100%" height="100%" controls>
-  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20200920_227_Anniversary_Live_2020.NightFCTalk.mp4" type="video/mp4">
-</video>
+Live w/ FC Talk<br>
 
+^ The online streaming service unavailable as file exceeds 2GB.<br>
 <table>
 <tr>
  <th>Raw</th>
