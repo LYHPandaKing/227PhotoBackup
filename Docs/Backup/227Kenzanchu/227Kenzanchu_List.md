@@ -17,6 +17,10 @@
 </table>
 
 <a name="Ep1-10"></a>
+#### [#9 ２２/７運動能力クイーン決定戦<br>#9 ２２/７運動能力女王決定戰](Ep8.md)
+<img src="../../../Img/227Kenzanchu/20210306_Ep9.jpg" width="50%"><br>
+<hr>
+
 #### [#8 ナナニジアワードベスト１＆ワースト１<br>#8 ナナニジ Award Best 1 & Worst 1](Ep8.md)
 <img src="../../../Img/227Kenzanchu/20210227_Ep8.jpg" width="50%"><br>
 <hr>
