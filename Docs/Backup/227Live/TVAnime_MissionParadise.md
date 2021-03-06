@@ -1,5 +1,5 @@
 ### TVアニメ「22/7」スペシャルイベント Mission Paradise
-##### [Back](../Live_List.md)
+##### [Back](Live_List.md)
 
 <Img src="../../../Img/227Live/img_TVAnime_MissionParadise.png" width="70%">  
 Date: 11Jan,2021  

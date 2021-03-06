@@ -1,5 +1,5 @@
 ### 22/7 『11』
-##### [Back](../Live_List.md)
+##### [Back](Live_List.md)
 
 <Img src="../../../Img/227Live/img_live_11.jpg" width="70%">  
 Date: 13Nov,2020  

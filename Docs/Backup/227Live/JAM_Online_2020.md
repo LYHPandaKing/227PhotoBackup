@@ -1,5 +1,5 @@
 ### JAM ONLINE FESTIVAL 2020
-##### [Back](../Live_List.md)
+##### [Back](Live_List.md)
 
 <img src="../../../Img/227Live/JAM_Online_Fest_2020.png" width="70%"><br>
 Date: 29Aug,2020

@@ -1,5 +1,5 @@
 ### Sony Music AnimeSongs ONLINE 日本武道館
-##### [Back](../Live_List.md)
+##### [Back](Live_List.md)
 
 <Img src="../../../Img/227Live/img_SonyMusic_Budokan.jpg" width="70%">  
 Date: 3Jan,2021  

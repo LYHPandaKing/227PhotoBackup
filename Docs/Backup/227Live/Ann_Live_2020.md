@@ -1,12 +1,10 @@
 ### 22/7 Anniversary Live 2020
-##### [Back](../Live_List.md)
+##### [Back](Live_List.md)
 
 <Img src="../../../Img/227Live/img_live_2020anniversary.jpg" width="70%">  
 Date: 20Sep,2020  
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.nanabunnonijyuuni.com/sp/news/archive/?522128">Official New</a>
-
-<b>^ The footages will release after 6 months, which is on 20Mar,2021.</b><br>
 
 ><公演情報><br><br>
 22/7 『Anniversary Live 2020』<br><br><br>

@@ -1,5 +1,5 @@
 ### 『TOKYO IDOL FESTIVAL オンライン 2020』
-##### [Back](../Live_List.md)
+##### [Back](Live_List.md)
 
 <Img src="../../../Img/227Live/img_TIF2020Online.png" width="70%">  
 Date: 2Oct,2020<br>
