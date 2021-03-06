@@ -1,0 +1,46 @@
+﻿### 22/7 検算中 Kenzanchu
+##### [Back](227Kenzanchu_List.md)
+
+#### #8 ナナニジアワードベスト１＆ワースト１<br>#8 ナナニジ Award Best 1 & Worst 1<br>
+Date: 27Feb,2021
+
+<img src="../../../Img/227Kenzanchu/20210227_Ep8.jpg" width="70%">
+
+2月27日(土)の企画は「ナナニジアワードベスト１＆ワースト１」を開催！<br>
+メンバーのさらなる個性を深掘りするために様々なお題のベスト１＆ワースト１をメンバー内で選出するはずが…容赦のない暴露合戦に！<br>
+海乃るりはドジっ娘！？<br>
+天城サリーは変人！？<br>
+白沢かなえが超ご立腹！？<br>
+メンバーの知られざる素顔が明らかに！<br>
+<blockquote>
+2月27日(六)舉行「ナナニジ Award Best 1 & Worst 1」企劃！<br>
+為了深入了解各個成員的個性，在眾多主題中分別選出Best 1 & Worst 1成員…進行着一場無情的曝光戰！<br>
+海乃るり是個冒失娘！？<br>
+天城サリー是個怪人！？<br>
+白沢かなえ超級生氣！？<br>
+揭露成員們未知的一面！<br>
+</blockquote>
+
+PV<br>
+<video width="100%" height="100%" controls>
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227Kenzanchu_PV/227Kenzanchu_PV_08_RAW_1080P.mp4" type="video/mp4">
+</video>
+
+Bangumi<br>
+<video width="100%" height="100%" controls>
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227Kenzanchu/227Kenzanchu_08_RAW_1080P.mp4" type="video/mp4">
+</video>
+
+<table>
+  <tr>
+  <th>Raw</th>
+    <th colspan="2"><a rel="noopener noreferrer" target="_blank" href="https://www.bilibili.com/video/BV1oU4y1H7Fm">Source</a></th>
+    <th><a rel="noopener noreferrer" target="_blank" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227Kenzanchu/227Kenzanchu_08_RAW_1080P.mp4">Download</a></th>
+  </tr>
+  <tr>
+  <th>Sub</th>
+    <th><a rel="noopener noreferrer" target="_blank" href="https://www.bilibili.com/video/BV18r4y1A7WV">CHS - bilibili</a></th>
+    <th>CHT - YouTube<a rel="noopener noreferrer" target="_blank" href=""></a></th>
+    <th>CHT (.ass) <a href=""></a></th>
+  </tr>
+</table>

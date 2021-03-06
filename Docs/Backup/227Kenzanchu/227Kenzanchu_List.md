@@ -17,6 +17,10 @@
 </table>
 
 <a name="Ep1-10"></a>
+#### [#8 ナナニジアワードベスト１＆ワースト１<br>#8 ナナニジ Award Best 1 & Worst 1](Ep8.md)
+<img src="../../../Img/227Kenzanchu/20210227_Ep8.jpg" width="50%"><br>
+<hr>
+
 #### [#7 7thシングル「僕が持ってるものなら」ヒット祈願 完結編<br>#7 七單「僕が持ってるものなら」熱賣祈願 完結編](Ep7.md)
 <img src="../../../Img/227Kenzanchu/20210220_Ep7.jpg" width="50%"><br>
 <hr>
