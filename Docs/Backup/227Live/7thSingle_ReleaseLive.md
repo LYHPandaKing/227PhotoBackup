@@ -62,6 +62,7 @@ Live w/ FC Talk<br>
  <th>Live w/ FC Talk</th>
  <td>CHS - Bilibili<a target="_blank" rel="noopener noreferrer" href=""></a></td>
  <td>CHT (.ass)<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
+</tr>
 </table>
 
 <p><blockquote>夜場：<br>
@@ -93,6 +94,7 @@ Messages to Chiharu<br>
 Live w/ FC Talk<br>
 
 ^ The online streaming service unavailable as file exceeds 2GB.<br>
+
 <table>
 <tr>
  <th>Raw</th>
@@ -105,4 +107,5 @@ Live w/ FC Talk<br>
  <th>Live w/ FC Talk</th>
  <td>CHS - Bilibili<a target="_blank" rel="noopener noreferrer" href=""></a></td>
  <td>CHT (.ass)<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
+</tr>
 </table>
