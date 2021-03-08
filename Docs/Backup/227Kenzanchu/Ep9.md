@@ -23,22 +23,3 @@ PV<br>
 <video width="100%" height="100%" controls>
   <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227Kenzanchu_PV/227Kenzanchu_PV_09_RAW_1080P.mp4" type="video/mp4">
 </video>
-
-Bangumi<br>
-<video width="100%" height="100%" controls>
-  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227Kenzanchu/227Kenzanchu_09_RAW_1080P.mp4" type="video/mp4">
-</video>
-
-<table>
-  <tr>
-  <th>Raw</th>
-    <th colspan="2"><a rel="noopener noreferrer" target="_blank" href="https://www.bilibili.com/video/BV1oU4y1H7Fm">Source</a></th>
-    <th><a rel="noopener noreferrer" target="_blank" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227Kenzanchu/227Kenzanchu_09_RAW_1080P.mp4">Download</a></th>
-  </tr>
-  <tr>
-  <th>Sub</th>
-    <th><a rel="noopener noreferrer" target="_blank" href="https://www.bilibili.com/video/BV1pA411T7so?from=search&seid=12553063680396744981">CHS - bilibili</a></th>
-    <th>CHT - YouTube<a rel="noopener noreferrer" target="_blank" href=""></a></th>
-    <th>CHT (.ass) <a href=""></a></th>
-  </tr>
-</table>
