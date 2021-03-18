@@ -17,11 +17,11 @@
 エムキャス MX CASTING (1280x720): http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8<br>
 us195 (960x540) : https://cdn.us195.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8<br>
 jpth10 (960x540) : https://cdn.jpth10.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8<br>
-<br>
+2103 (640x360) : http://redlabmcdn.s.llnwi.net/jp01/ryowa8/index.m3u8<br>
 -->
-<!--
+
   <video width="70%" height="70%" id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"  data-setup='{}'>
-    <source src="https://cdn.us195.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8" type="application/x-mpegURL">
+    <source src="http://redlabmcdn.s.llnwi.net/jp01/ryowa8/index.m3u8" type="application/x-mpegURL">
   <p>Your browser does not support this HLS element.</p>
   </video>
 
@@ -29,12 +29,13 @@ jpth10 (960x540) : https://cdn.jpth10.jpnettv.live/jptv/kanto_tokyo_mx1_540/play
 var player = videojs('my_video_1');
 player.play();
 </script>
-  -->
-  
+
+<!--
 <iframe src="https://sfbox.github.io/i.html?i=aHR0cHM6Ly9vay5ydS92aWRlb2VtYmVkLzI3MzM3MzEwMjg3Mjc%2FYXV0b3BsYXk9MSZub2NoYXQ9MQ%3D%3D" scrolling="no" frameborder="0" width="100%" height="430" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 <a target="_blank" rel="noopener noreferrer" href="https://s.mxtv.jp/bangumi/">番組表</a>
 <br>
+  -->
 
 <!--
 <hr>
