@@ -33,5 +33,7 @@ Other
 - <a target="_blank" rel="noopener noreferrer" href="https://space.bilibili.com/730686/">bilibili - Sov</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://space.bilibili.com/571233650/">bilibili - ナナ二ジ的搬运工</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://space.bilibili.com/310812531/">bilibili - 网上商务模式</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://space.bilibili.com/942021">bilibili - VOCALOIDの生放送</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://space.bilibili.com/5471097/">bilibili - Amoyplane</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/spreadsheets/d/1WTivciQQNjgQg_e7i_2bT2AUOb9uE2gL7L9P8UZUs6c/">22/7 List File Download (By 227IDFP)</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/121gXCDH8lwlcEAQ0HDC338_QV1D5yqnH">22/7 Songs Compilation (By Aldair Stiph)</a>
