@@ -7,8 +7,8 @@ MCに人気お笑い芸人の三四郎を迎え、22/7のキャラクターた�
 
 ##### [Back](../../../readme.md)
 
-- [Season 1](227Keisanchuu_S1.md) (Jul2018-Dec2019)
+- [Season 1](227Keisanchuu_S1.md) (Jul2018 - Dec2019)
 
-- [Season 2](227Keisanchuu_S2.md) (Mar2002-Jaan2021)
+- [Season 2](227Keisanchuu_S2.md) (Mar2002 - Jan2021)
 
-- [Season 3](227Keisanchuu_S3.md) (Apr2021-)
+- [Season 3](227Keisanchuu_S3.md) (Apr2021 - )
