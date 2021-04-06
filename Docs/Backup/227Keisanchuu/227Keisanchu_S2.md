@@ -1,82 +1,90 @@
 ### 22/7 計算中 Keisanchu Season 2
-##### [Back](227Keisanchuu_List.md)
+##### [Back](227Keisanchu_List.md)
 
 <table>
   <tr>
+    <th><a href="#EpSP">EpSP</a></th>
     <th><a href="#Ep1-10">Ep1-10</a></th>
     <th><a href="#Ep11-20">Ep11-20</a></th>
+  </tr>
+  <tr>
+	<th><a href="#Ep21-30">Ep21-30</a></th>
+    <th><a href="#Ep31-39">Ep31-39</a></th>
+	<th><a href="#EpSP02">EpSP02</a></th>
+  </tr>
+  <tr>
+    <td>CHT (.ass)<a href=" "></a></td>
   </tr>
 </table>
 
 #### [#22 度胸がないメンバーは誰だ!? ビビリクイーン決定戦!! 3](S2/Ep22.md)
-<img src="../../../Img/227Keisanchuu/20200829_S2Ep22.jpg" width='50%'>  
+<img src="../../../Img/227Keisanchu/20200829_S2Ep22.jpg" width="50%"><br>
 
 #### [#21 度胸がないメンバーは誰だ!? ビビリクイーン決定戦!! 2](S2/Ep21.md)
-<img src="../../../Img/227Keisanchuu/20200822_S2Ep21.jpg" width='50%'>  
+<img src="../../../Img/227Keisanchu/20200822_S2Ep21.jpg" width="50%"><br>
 
-<a name="Ep11-20">
-
+<a name="Ep11-12"></a>
 #### [#20 度胸がないメンバーは誰だ!? ビビリクイーン決定戦!!](S2/Ep20.md)
-<img src="../../../Img/227Keisanchuu/20200815_S2Ep20.jpg" width="50%">  
+<img src="../../../Img/227Keisanchu/20200815_S2Ep20.jpg" width="50%"><br>
 
 #### [#19 22/7ユニット対抗戦! 団結して答えろ!3クイズバトル](S2/Ep19.md)
-<img src="../../../Img/227Keisanchuu/20200808_S2Ep19.png" width='50%'>  
+<img src="../../../Img/227Keisanchu/20200808_S2Ep19.png" width="50%"><br>
 
 #### [#18 小宮軍VS相田軍! 仁義なきゲーム対決 3](S2/Ep18.md)
-<img src="../../../Img/227Keisanchuu/20200801_S2Ep18.png" width='50%'>  
+<img src="../../../Img/227Keisanchu/20200801_S2Ep18.png" width="50%"><br>
 
 #### [#17 小宮軍VS相田軍! 仁義なきゲーム対決 2](S2/Ep17.md)
-<img src="../../../Img/227Keisanchuu/20200725_S2Ep17.png" width='50%'>  
+<img src="../../../Img/227Keisanchu/20200725_S2Ep17.png" width="50%"><br>
 
 #### [#16 小宮軍VS相田軍! 仁義なきゲーム対決](S2/Ep16.md)
-<img src="../../../Img/227Keisanchuu/20200718_S2Ep16.png" width='50%'>  
+<img src="../../../Img/227Keisanchu/20200718_S2Ep16.png" width="50%"><br>
 
 #### [#15 22/7共感グランプリ 2](S2/Ep15.md)
-<img src="../../../Img/227Keisanchuu/20200711_S2Ep15.jpg" width='50%'>  
+<img src="../../../Img/227Keisanchu/20200711_S2Ep15.jpg" width="50%"><br>
 
 #### [#14 22/7共感グランプリ](S2/Ep14.md)
-<img src="../../../Img/227Keisanchuu/20200704_S2Ep14.jpg" width='50%'>  
+<img src="../../../Img/227Keisanchu/20200704_S2Ep14.jpg" width="50%"><br>
 
 #### [#13 「お宅拝見リポート選手権」](S2/Ep13.md)
-<img src="../../../Img/227Keisanchuu/20200627_S2Ep13.png" width='50%'>  
+<img src="../../../Img/227Keisanchu/20200627_S2Ep13.png" width="50%"><br>
 
 #### [#12 第３回『あなたはどっち派？究極の選択』](S2/Ep12.md)
-<img src="../../../Img/227Keisanchuu/20200620_S2Ep12.png" width='50%'>  
+<img src="../../../Img/227Keisanchu/20200620_S2Ep12.png" width="50%"><br>
 
 #### [#11 第１回『ナナオンクイーン」決定戦』最終決戦](S2/Ep11.md)
-<img src="../../../Img/227Keisanchuu/20200613_S2Ep11.jpg" width='50%'>  
+<img src="../../../Img/227Keisanchu/20200613_S2Ep11.jpg" width="50%"><br>
 
 <a name="Ep1-10">
 
 #### [#10 第１回『ナナオンクイーン」決定戦』3](S2/Ep10.md)
-<img src="../../../Img/227Keisanchuu/20200606_S2Ep10.png" width='50%'>  
+<img src="../../../Img/227Keisanchu/20200606_S2Ep10.png" width="50%"><br>
 
 #### [#9 第１回『ナナオンクイーン」決定戦』2](S2/Ep09.md)
-<img src="../../../Img/227Keisanchuu/20200530_S2Ep9.jpg" width='50%'>  
+<img src="../../../Img/227Keisanchu/20200530_S2Ep9.jpg" width="50%"><br>
 
 #### [#8 第１回『ナナオンクイーン」決定戦』](S2/Ep08.md)
-<img src="../../../Img/227Keisanchuu/20200523_S2Ep8.png" width='50%'>  
+<img src="../../../Img/227Keisanchu/20200523_S2Ep8.png" width="50%"><br>
 
 #### [#7 『斎藤ニコルプレゼンツ！発想力料理クイーン決定戦』](S2/Ep07.md)
-<img src="../../../Img/227Keisanchuu/20200516_S2Ep7.jpg" width="50%">
+<img src="../../../Img/227Keisanchu/20200516_S2Ep7.jpg" width="50%"><br>
 
 #### [#6 アドバンテージクイズ1vs6 2](S2/Ep06.md)
-<img src="../../../Img/227Keisanchuu/20200509_S2Ep6.jpg" width="50%">
+<img src="../../../Img/227Keisanchu/20200509_S2Ep6.jpg" width="50%"><br>
 
 #### [#5 アドバンテージクイズ1vs6](S2/Ep05.md)
-<img src="../../../Img/227Keisanchuu/20200502_S2Ep5.jpg" width="50%">
+<img src="../../../Img/227Keisanchu/20200502_S2Ep5.jpg" width="50%"><br>
 
 #### [#4 2020年No.1ラッキーガールは誰だ!? 22/7運勢ランキング! 2](S2/Ep04.md)
-<img src="../../../Img/227Keisanchuu/20200425_S2Ep4.jpg" width="50%">
+<img src="../../../Img/227Keisanchu/20200425_S2Ep4.jpg" width="50%"><br>
 
 #### [#3 2020年No.1ラッキーガールは誰だ!? 22/7運勢ランキング!](S2/Ep03.md)
-<img src="../../../Img/227Keisanchuu/20200418_S2Ep3.jpg" width="50%">
+<img src="../../../Img/227Keisanchu/20200418_S2Ep3.jpg" width="50%"><br>
 
 #### [#2 番組でやってみたい企画プレゼンバトル 2](S2/Ep02.md)
-<img src="../../../Img/227Keisanchuu/20200411_S2Ep2.jpg" width="50%">
+<img src="../../../Img/227Keisanchu/20200411_S2Ep2.jpg" width="50%"><br>
 
 #### [#1 番組でやってみたい企画プレゼンバトル](S2/Ep01.md)
-<img src="../../../Img/227Keisanchuu/20200404_S2Ep1.jpg" width="50%">
+<img src="../../../Img/227Keisanchu/20200404_S2Ep1.jpg" width="50%"><br>
 
 #### [#SP アニメ最終回&Season2開始 全部まとめて番宣スペシャル!](S2/EpSP.md)
-<img src="../../../Img/227Keisanchuu/20200327_S2EpSP.jpg" width="50%">
+<img src="../../../Img/227Keisanchu/20200327_S2EpSP.jpg" width="50%"><br>
