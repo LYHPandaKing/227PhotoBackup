@@ -30,28 +30,28 @@
 <img src="../../../Img/227Kenzanchu/20210313_Ep10.jpg" width="50%"><br>
 
 #### [#9 ２２/７運動能力クイーン決定戦<br>#9 ２２/７運動能力女王決定戰](Ep09.md)
-<img src="../../../Img/227Kenzanchu/20210306_Ep9.jpg" width="50%"><br>
+<img src="../../../Img/227Kenzanchu/20210306_Ep09.jpg" width="50%"><br>
 
 #### [#8 ナナニジアワードベスト１＆ワースト１<br>#8 ナナニジ Award Best 1 & Worst 1](Ep08.md)
-<img src="../../../Img/227Kenzanchu/20210227_Ep8.jpg" width="50%"><br>
+<img src="../../../Img/227Kenzanchu/20210227_Ep08.jpg" width="50%"><br>
 
 #### [#7 7thシングル「僕が持ってるものなら」ヒット祈願 完結編<br>#7 七單「僕が持ってるものなら」熱賣祈願 完結編](Ep07.md)
-<img src="../../../Img/227Kenzanchu/20210220_Ep7.jpg" width="50%"><br>
+<img src="../../../Img/227Kenzanchu/20210220_Ep07.jpg" width="50%"><br>
 
 #### [#6 7thシングル「僕が持ってるものなら」ヒット祈願企画！<br>#6 七單「僕が持ってるものなら」熱賣祈願企劃！](Ep06.md)
-<img src="../../../Img/227Kenzanchu/20210213_Ep6.jpg" width="50%"><br>
+<img src="../../../Img/227Kenzanchu/20210213_Ep06.jpg" width="50%"><br>
 
 #### [#5 催眠術でめざせ！パーフェクトアイドル<br>#5 以催眠術為目標！完美的偶像](Ep05.md)
-<img src="../../../Img/227Kenzanchu/20210206_Ep5.jpg" width="50%"><br>
+<img src="../../../Img/227Kenzanchu/20210206_Ep05.jpg" width="50%"><br>
 
 #### [#4 抜き打ち楽屋チェック!  アイドル私物クイーン決定戦!!<br>#4 突擊檢查更衣室! 偶像的私人物品女王決定戰!!](Ep04.md)
-<img src="../../../Img/227Kenzanchu/20210130_Ep4.jpg" width="50%"><br>
+<img src="../../../Img/227Kenzanchu/20210130_Ep04.jpg" width="50%"><br>
 
 #### [#3 声優メンバーのプロフィールを改めて確認しまＳＨＯＷ！ 3<br>#3 聲優成員們的個人資料 再次確認 ＳＨＯＷ！ 3](Ep03.md)
-<img src="../../../Img/227Kenzanchu/20210123_Ep3.jpg" width="50%"><br>
+<img src="../../../Img/227Kenzanchu/20210123_Ep03.jpg" width="50%"><br>
 
 #### [#2 声優メンバーのプロフィールを改めて確認しまＳＨＯＷ！ 2<br>#2 聲優成員們的個人資料 再次確認 ＳＨＯＷ！ 2](Ep02.md)
-<img src="../../../Img/227Kenzanchu/20210116_Ep2.jpg" width="50%"><br>
+<img src="../../../Img/227Kenzanchu/20210116_Ep02.jpg" width="50%"><br>
 
 #### [#1 声優メンバーのプロフィールを改めて確認しまＳＨＯＷ！<br>#1 聲優成員們的個人資料 再次確認 ＳＨＯＷ！](Ep01.md)
-<img src="../../../Img/227Kenzanchu/20210109_Ep1.jpg" width="50%"><br>
+<img src="../../../Img/227Kenzanchu/20210109_Ep01.jpg" width="50%"><br>
