@@ -4,16 +4,27 @@
 #### No.1
 <img src="../../../Img/Nanaon/2nin3kyaku/1/1_thumb.png"><br>
 <img src="../../../Img/Nanaon/2nin3kyaku/1/1_main.png"><br>
-<img src="../../../Img/Nanaon/2nin3kyaku/1/1_desc.jpg"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/1/1_thanks.png"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/1/1_desc.png"><br>
 <br>
-年齢 Age: 16歳<br>
-身高 Height: 155cm<br>
-スリーサイズ 三圍 Three-size: B83/W55/H82<br>
+年齡: 16歳<br>
+身高: 155cm<br>
+三圍: B83/W55/H82<br>
 <br>
-趣味 Hobbies: カップ麺 杯麵 Cup Noodle
+嗜好: 杯麵<br>
 <br>
-Q1.趣味・特技を教えてください<br>Q1.請告訴我你的喜好/特殊技能<br>Q1.Please tell me your hobbies or what you good at<br>
+Q1.請告訴我你的嗜好/特殊技能<br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../../Resources/2nin3kyaku/No1_voice_1.mp3"></source>
   <p>Your browser does not support the audio element.</p>
-</audio>
+</audio><br>
+Q2. ??? <br>
+<audio controls="controls">
+  <source type="audio/mp3" src="../../../Resources/2nin3kyaku/No1_voice_2.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio><br>
+Q3. ??? <br>
+<audio controls="controls">
+  <source type="audio/mp3" src="../../../Resources/2nin3kyaku/No1_voice_3.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio><br>
