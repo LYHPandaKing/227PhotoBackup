@@ -35,19 +35,19 @@
 
 #### 行程 Schedule
 <!--●キャラクターボイス第2弾、ランキング上位10名中間発表<br>-->●角色聲音第2彈、排首10名角色中期報告<br>
-<div style="float:right;">4月18日（日）<div><br>
+4月18日（日）<br>
 
 <!--●キャラクターボイス第3弾、ランキング上位10名中間発表<br>-->●角色聲音第3彈、排首10名角色中期報告<br>
-<div style="float:right;">4月25日（日）<div><br>
+4月25日（日）<br>
 
 <!--●ランキング上位10名中間発表<br>-->●排首10名角色中期報告<br>
-<div style="float:right;">5月2日（日）<div><br>
+5月2日（日）<br>
 
 <!--●投票終了<br>-->●投票結束<br>
-<div style="float:right;">5月8日（土）<div><br>
+5月8日（土）<br>
 
 <!--●結果発表（1周年直前配信番組）<br>-->●公佈結果<br>
-<div style="float:right;">5月23日予定<div><br><br>
+5月23日予定<br><br>
 
 <!--※コミュニティサイト「ナナコミ」（<a target="_blank" ref="noopener noreferrer" href="https://nana-comi.com/">https://nana-comi.com/</a>）での投票後にSNSへと投票完了シェアをおこなうと、<br>
 そのキャラに対して投票数が2倍で（2票分として）カウントされます。<br>
@@ -67,7 +67,7 @@
  </tr>
  <tr>
   <td><a href="No2.html"><img src="../../../Img/Nanaon/2nin3kyaku/2/2_thumb.png"></a></td>
-  <td>年齡: 16歳<br>身高: 156cm<br>三圍: 94/56/88<br>嗜好: 料理…或者是把食物混合在一起</tsd>
+  <td>年齡: 16歳<br>身高: 156cm<br>三圍: 94/56/88<br>嗜好: 料理…或者是把食物混合在一起</td>
  </tr>
  <tr>
   <td><a href="No3.html"><img src="../../../Img/Nanaon/2nin3kyaku/3/3_thumb.png"></a></td>
