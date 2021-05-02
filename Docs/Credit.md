@@ -24,7 +24,7 @@ Twitter
 Other
 - <a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni.fandom.com/wiki/22/7_Wiki">22/7 Fandom Wiki</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://nanaon.fandom.com/wiki/Nanabunnonijyuuni:_Ongaku_no_Jikan_Wiki">22/7 Ongaku no Jikan Fandom Wiki</a>
-- <a target="_blank" rel="noopener norrferrer" href="https;//227.ouen.tw">22/7 粉絲同好會</a>
+- <a target="_blank" rel="noopener norrferrer" href="https://227.ouen.tw">22/7 粉絲同好會</a>
 - <a target="_blank" rel="noopener noreferrer" href="http://227cnwiki.com/wiki/%e9%a6%96%e9%a1%b5">22/7 中文 Wiki</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://yande.re/post">yande.re</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://appmedia.jp/nanaon">ナナオン攻略wiki｜22/7音楽の時間</a>
