@@ -44,6 +44,7 @@
 
 <!--●ランキング上位10名中間発表<br>-->●排首10名角色中期報告<br>
 5月2日（日）<br>
+<img src="../../../Img/Nanaon/2nin3kyaku/interim-results_3.png"><br>
 
 <!--●投票終了<br>-->●投票結束<br>
 5月8日（六）<br>
