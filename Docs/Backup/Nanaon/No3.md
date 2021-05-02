@@ -6,6 +6,7 @@
 <img src="../../../Img/Nanaon/2nin3kyaku/3/3_main.png"><br>
 <img src="../../../Img/Nanaon/2nin3kyaku/3/3_thanks.png"><br>
 <img src="../../../Img/Nanaon/2nin3kyaku/3/3_desc.png"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/3/3_wallpaper.jpg"><br>
 <br>
 年齡: 17歳<br>
 身高: 162cm<br>
