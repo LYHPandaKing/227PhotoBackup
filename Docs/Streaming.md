@@ -2,9 +2,10 @@
 ##### [Back](../readme.md)
 
 #### Tokyo MX
+<!--
 - <a target="_blank" rel="noopener noreferrer" href="http://dsgstng.herokuapp.com/tv">Dテレ</a><br>
 <img src="../Img/dsgstng.JPG" alt="dsgstng" width="70%">
-
+-->
 - <a target="_blank" rel="noopener noreferrer" href="https://aqstream.com/jp/tmx/Tokyo-MX">Aqstream</a><br>
 <img src="../Img/aqstream.png" alt="aqstream" width="70%">
 
