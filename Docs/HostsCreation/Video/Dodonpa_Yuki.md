@@ -9,5 +9,5 @@ https://www.nicovideo.jp/watch/sm36631177<br>
 <br>
 
 <video width="100%" height="100%" controls>
-  <source src="  " type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/HostsVideos/Dodonpa_Yuki.mp4" type="video/mp4">
 </video>
