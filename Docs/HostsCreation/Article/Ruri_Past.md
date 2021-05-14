@@ -25,6 +25,7 @@
 <blockqoute>
 出演者：<br><br>
 麻生夏子、伊波杏樹、井澤美香子、ダイアナガーネット、劇団ハーベスト、清澄なつは、たけだまりこ、高橋マリン<br>
+<img src="../../../Img/Hosts/Article/Ruri_Past/Name.jpg" width="vw"><br>
 </blockqoute><br><br>
 1-7Jul,2016 - 七夕節2016 in Sunshine City (天象館虛擬約會體驗)<br>
 <img src="../../../Img/Hosts/Article/Ruri_Past/Star2016.jpg" width="vw"><br><br>
@@ -36,6 +37,7 @@
 <img src="../../../Img/Hosts/Article/Ruri_Past/Star_3.jpg" width="vw"><br><br>
 
 2016 - レムリア～Strada Of Chain～【角色：リーファ】<br>
+<img src="../../../Img/Hosts/Article/Ruri_Past/Game.jpg" width="vw"><br>
 配音角色：リーファ<br>
 
 <hr>
