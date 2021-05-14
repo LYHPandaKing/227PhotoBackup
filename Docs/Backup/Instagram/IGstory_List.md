@@ -11,31 +11,13 @@
 
 <a name="2021"></a>
 #### 2021
-<table>
-<tr>
-<th><a href="#Jan2021">January</a></th>
-<th><a href="#Feb2021">February</a></th>
-<th><a href="#Mar2021">March</a></th>
-</tr>
-<tr>
-<th><a href="#Apr2021">April</a></th>
-<th><a href="#May2021">May</a></th>
-<th><a href="#Jun2021">June</a></th>
-</tr>
-<tr>
-<th><a href="#Jul2021">July</a></th>
-<th><a href="#Aug2021">August</a></th>
-<th><a href="#Sep2021">September</a></th>
-</tr>
-<tr>
-<th><a href="#Oct2021">October</a></th>
-<th><a href="#Nov2021">November</a></th>
-<th><a href="#Dec2021">December</a></th>
-</tr>
-</table>
 
-<a name="Mar2021"></a>
+##### April
+- [20210401 (Thur)](IGstory/Apr2021/20210401.md) [天城サリー / 河瀬詩]
+
 ##### March
+- [20210330 (Tue)](IGstory/Mar2021/20210330.md) [高辻麗 / 河瀬詩]
+- [20210328 (Sun)](IGstory/Mar2021/20210328.md) [高辻麗 / 河瀬詩 / 宮瀬玲奈]
 - [20210327 (Sat)](IGstory/Mar2021/20210327.md) [白沢かなえ / 宮瀬玲奈]
 - [20210326 (Fri)](IGstory/Mar2021/20210326.md) [天城サリー]
 - [20210325 (Thur)](IGstory/Mar2021/20210325.md) [河瀬詩]
@@ -57,32 +39,13 @@
 
 <a name="2020"></a>
 #### 2020
-<table>
-<tr>
-<th><a href="#Apr2020">April</a></th>
-<th><a href="#May2020">May</a></th>
-<th><a href="#Jun2020">June</a></th>
-</tr>
-<tr>
-<th><a href="#Jul2020">July</a></th>
-<th><a href="#Aug2020">August</a></th>
-<th><a href="#Sep2020">September</a></th>
-</tr>
-<tr>
-<th><a href="#Oct2020">October</a></th>
-<th><a href="#Nov2020">November</a></th>
-<th><a href="#Dec2020">December</a></th>
-</tr>
-</table>
 
-<a name="Oct2020"></a>
 ##### October
 - [20201004 (Sun)](IGstory/Oct2020/20201004.md) [帆風千春 / 白沢かなえ / 天城サリー]
 - [20201003 (Sat)](IGstory/Oct2020/20201003.md) [白沢かなえ / 天城サリー]
 - [20201002 (Fri)](IGstory/Oct2020/20201002.md) [高辻麗 / 白沢かなえ / 宮瀬玲奈 / 天城サリー]
 - [20201001 (Thur)](IGstory/Oct2020/20201001.md) [白沢かなえ]
 
-<a name="Sep2020"></a>
 ##### September
 - [20200930 (Wed)](IGstory/Sep2020/20200930.md) [白沢かなえ]
 - [20200929 (Tue)](IGstory/Sep2020/20200929.md) [天城サリー]
@@ -113,7 +76,6 @@
 - [20200902 (Wed)](IGstory/Sep2020/20200902.md) [高辻麗 / 天城サリー]
 - [20200901 (Tue)](IGstory/Sep2020/20200901.md) [白沢かなえ / 高辻麗 / 宮瀬玲奈 / 帆風千春]
 
-<a name="Aug2020"></a>
 ##### August
 - [20200830 (Sun)](IGstory/Aug2020/20200830.md) [涼花萌]
 - [20200829 (Sat)](IGstory/Aug2020/20200829.md) [白沢かなえ / 帆風千春]
