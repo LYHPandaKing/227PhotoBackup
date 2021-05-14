@@ -91,4 +91,4 @@
 
 #### 2016
 ##### April
-- [雷姆利亞 Strada Of Chain【遊戲】](10_Lemuria_StradaOfChain_Ruri.md) [清澄なつは aka海乃るり]<br>
+- [雷姆利亞 Strada Of Chain【遊戲】](10_Lemuria_StradaOfChain_Ruri.md) [海乃るり ※清澄なつは]<br>
