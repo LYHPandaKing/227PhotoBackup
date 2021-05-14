@@ -9,6 +9,7 @@ This place shows some of my creations of 22/7. Please don’t repost without per
 - 外掛字幕 External subtitles (.ass)
 - [貼圖 Stickers](Stickers.md)
 - [文章 Article](Article/Article_List.md)
+- [綜藝稱號整合 Variety Show Summary](VarietySummary.md)
 
 #### 其他範疇 Other Fields
 - [BookWalker 折扣x點數表](https://docs.google.com/spreadsheets/d/1W9_gRPUMlY4wpHd8-nKyTy67EQsEN4JlMU7ToVTkJEc/)
