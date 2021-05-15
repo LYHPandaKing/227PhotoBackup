@@ -41,7 +41,11 @@ player.play();
 
 #### BS11
 - <a target="_blank" rel="noopener noreferrer" href="https://live.bilibili.com/10112">Bilibili Live</a><br>
+<!--
 <iframe style="position: absolute; width: vw; left: 0; top: 0;" src="https://live.bilibili.com/10112" frameborder="no" scrolling="no"></iframe>
+-->
+
+<iframe src="https://live.bilibili.com/10112" scrolling="no" frameborder="0" width="vw" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.bs11.jp/program/">BS11 番組表</a>
 
