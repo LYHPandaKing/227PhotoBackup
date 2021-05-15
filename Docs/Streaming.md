@@ -45,7 +45,7 @@ player.play();
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.bs11.jp/program/">BS11 番組表</a>
 
-<h4><a target="_blank" rel="noopener noreferrer" href="http://www.agqr.jp">超！A＆G+</a></h4>
+<h4><a target="_blank" rel="noopener noreferrer" href="https://www.uniqueradio.jp/agplayer5/player.php">超！A＆G+</a></h4>
 
   <video width="70%" height="70%" id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"  data-setup='{}'>
     <source src="https://fms2.uniqueradio.jp/agqr10/aandg1.m3u8" type="application/x-mpegURL">
