@@ -4,10 +4,10 @@
 #### 矢代陽夏莉 (No.4)
 CV. 浅見春那 <a rel="noreferrer noopener" target="_blank" href="http://earlywing.co.jp/pretalent_w/asamiharuna.html">EARLYWING Official Site</a> <a rel="noreferrer noopener" target="_blank" href="https://twitter.com/asami_haru_">Twitter</a><br><br>
 <img src="../../../Img/Nanaon/2nin3kyaku/4/4_thumb.png"><br>
-<img src="../../../Img/Nanaon/2nin3kyaku/4/4_main.png"><br>
-<img src="../../../Img/Nanaon/2nin3kyaku/4/4_thanks.png"><br>
-<img src="../../../Img/Nanaon/2nin3kyaku/4/4_desc.png"><br>
-<img src="../../../Img/Nanaon/2nin3kyaku/4/4_wallpaper.jpg"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/4/4_main.png" width="70%"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/4/4_thanks.png" width="70%"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/4/4_desc.png" width="70%"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/4/4_wallpaper.jpg" width="70%"><br>
 <br>
 生日: 8月5日<br>
 年齡: 16歳<br>

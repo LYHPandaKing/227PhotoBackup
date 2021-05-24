@@ -4,10 +4,10 @@
 #### 七崎紫苑 (No.2)
 CV. 天音みほ <a rel="noreferrer noopener" target="_blank" href="https://dearstage.co.jp/artist/amane-miho">DEARSTAGE Official Site</a> <a rel="noreferrer noopener" target="_blank" href="https://twitter.com/miiii_am">Twitter</a><br><br>
 <img src="../../../Img/Nanaon/2nin3kyaku/2/2_thumb.png"><br>
-<img src="../../../Img/Nanaon/2nin3kyaku/2/2_main.png"><br>
-<img src="../../../Img/Nanaon/2nin3kyaku/2/2_thanks.png"><br>
-<img src="../../../Img/Nanaon/2nin3kyaku/2/2_desc.png"><br>
-<img src="../../../Img/Nanaon/2nin3kyaku/2/2_wallpaper.jpg"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/2/2_main.png" width="70%"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/2/2_thanks.png" width="70%"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/2/2_desc.png" width="70%"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/2/2_wallpaper.jpg" width="70%"><br>
 <br>
 生日: 1月21日<br>
 年齡: 16歳<br>

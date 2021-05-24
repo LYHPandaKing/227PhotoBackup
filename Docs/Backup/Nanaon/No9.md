@@ -4,10 +4,10 @@
 #### 蓮沼巴 (No.9)
 CV. 久遠エリサ <a rel="noreferrer noopener" target="_blank" href="https://www.81produce.co.jp/actor_search/index.php/item?id=190">81 Produce Official Site</a> <a rel="noreferrer noopener" target="_blank" href="https://twitter.com/eri1717171">Twitter</a><br><br>
 <img src="../../../Img/Nanaon/2nin3kyaku/9/9_thumb.png"><br>
-<img src="../../../Img/Nanaon/2nin3kyaku/9/9_main.png"><br>
-<img src="../../../Img/Nanaon/2nin3kyaku/9/9_thanks.png"><br>
-<img src="../../../Img/Nanaon/2nin3kyaku/9/9_desc.png"><br>
-<img src="../../../Img/Nanaon/2nin3kyaku/9/9_wallpaper.jpg"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/9/9_main.png" width="70%"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/9/9_thanks.png" width="70%"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/9/9_desc.png" width="70%"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/9/9_wallpaper.jpg" width="70%"><br>
 <br>
 生日: 9月22日<br>
 年齡: 17歳<br>

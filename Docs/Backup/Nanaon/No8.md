@@ -3,10 +3,10 @@
 
 #### No.8
 <img src="../../../Img/Nanaon/2nin3kyaku/8/8_thumb.png"><br>
-<img src="../../../Img/Nanaon/2nin3kyaku/8/8_main.png"><br>
-<img src="../../../Img/Nanaon/2nin3kyaku/8/8_thanks.png"><br>
-<img src="../../../Img/Nanaon/2nin3kyaku/8/8_desc.png"><br>
-<img src="../../../Img/Nanaon/2nin3kyaku/8/8_wallpaper.jpg"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/8/8_main.png" width="70%"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/8/8_thanks.png" width="70%"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/8/8_desc.png" width="70%"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/8/8_wallpaper.jpg" width="70%"><br>
 <br>
 年齡: 16歳<br>
 身高: 153cm<br>

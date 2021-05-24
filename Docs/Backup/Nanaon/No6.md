@@ -4,10 +4,10 @@
 #### 椎名紅葉 (No.6)
 CV. 澤田姫 <a rel="noreferrer noopener" target="_blank" href="http://earlywing.co.jp/pretalent_w/sawadahime.html">EARLYWING Official Site</a> <a rel="noreferrer noopener" target="_blank" href="https://twitter.com/hime_sawada">Twitter</a><br><br>
 <img src="../../../Img/Nanaon/2nin3kyaku/6/6_thumb.png"><br>
-<img src="../../../Img/Nanaon/2nin3kyaku/6/6_main.png"><br>
-<img src="../../../Img/Nanaon/2nin3kyaku/6/6_thanks.png"><br>
-<img src="../../../Img/Nanaon/2nin3kyaku/6/6_desc.png"><br>
-<img src="../../../Img/Nanaon/2nin3kyaku/6/6_wallpaper.jpg"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/6/6_main.png" width="70%"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/6/6_thanks.png" width="70%"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/6/6_desc.png" width="70%"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/6/6_wallpaper.jpg" width="70%"><br>
 <br>
 生日: 6月2日<br>
 年齡: 16歳<br>

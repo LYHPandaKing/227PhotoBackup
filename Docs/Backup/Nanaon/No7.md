@@ -4,10 +4,10 @@
 #### 若泉月渚 (No.7)
 CV. 天野凜 <a rel="noreferrer noopener" target="_blank" href="http://earlywing.co.jp/pretalent_w/amanorin.html">EARLYWING Official Site</a> <a rel="noreferrer noopener" target="_blank" href="https://twitter.com/paruiro_sekai">Twitter</a><br><br>
 <img src="../../../Img/Nanaon/2nin3kyaku/7/7_thumb.png"><br>
-<img src="../../../Img/Nanaon/2nin3kyaku/7/7_main.png"><br>
-<img src="../../../Img/Nanaon/2nin3kyaku/7/7_thanks.png"><br>
-<img src="../../../Img/Nanaon/2nin3kyaku/7/7_desc.png"><br>
-<img src="../../../Img/Nanaon/2nin3kyaku/7/7_wallpaper.jpg"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/7/7_main.png" width="70%"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/7/7_thanks.png" width="70%"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/7/7_desc.png" width="70%"><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/7/7_wallpaper.jpg" width="70%"><br>
 <br>
 生日: 12月1日<br>
 年齡: 16歳<br>
