@@ -51,6 +51,7 @@
 
 <!--●結果発表（1周年直前配信番組）<br>-->●公佈結果<br>
 5月23日予定<br><br>
+<img src="../../../Img/Nanaon/2nin3kyaku/Final-result.png"><br>
 
 <!--※コミュニティサイト「ナナコミ」（<a target="_blank" ref="noopener noreferrer" href="https://nana-comi.com/">https://nana-comi.com/</a>）での投票後にSNSへと投票完了シェアをおこなうと、<br>
 そのキャラに対して投票数が2倍で（2票分として）カウントされます。<br>
@@ -69,40 +70,40 @@
   <td>年齡: 16歳<br>身高: 155cm<br>三圍: 83/55/82<br>嗜好: 杯麵</td>
  </tr>
  <tr>
-  <td><a href="No2.html"><img src="../../../Img/Nanaon/2nin3kyaku/2/2_thumb.png"></a></td>
-  <td>年齡: 16歳<br>身高: 156cm<br>三圍: 94/56/88<br>嗜好: 料理…或者是把食物混合在一起</td>
+  <td><a href="No2.html"><img src="../../../Img/Nanaon/2nin3kyaku/2/2_thumb.png"></a><br>七崎紫苑<br>CV. 天音みほ</td>
+  <td>生日: 1月21日 年齡: 16歳<br>身高: 156cm 三圍: 94/56/88<br>血型: A型 出身: 神奈川県<br>嗜好: 料理…或者是把食物混合在一起</td>
  </tr>
  <tr>
   <td><a href="No3.html"><img src="../../../Img/Nanaon/2nin3kyaku/3/3_thumb.png"></a></td>
   <td>年齡: 17歳<br>身高: 162cm<br>三圍: 87/56/85<br>嗜好: 弓道</td>
  </tr>
  <tr>
-  <td><a href="No4.html"><img src="../../../Img/Nanaon/2nin3kyaku/4/4_thumb.png"></a></td>
-  <td>年齡: 16歳<br>身高: 154cm<br>三圍: 78/53/77<br>嗜好: 製作苔玉</td>
+  <td><a href="No4.html"><img src="../../../Img/Nanaon/2nin3kyaku/4/4_thumb.png"></a><br>矢代陽夏莉<br>CV. 浅見春那</td>
+  <td>生日: 8月5日 年齡: 16歳<br>身高: 154cm 三圍: 78/53/77<br>血型: O型 出身: 東京都<br>嗜好: 製作苔玉</td>
  </tr>
  <tr>
   <td><a href="No5.html"><img src="../../../Img/Nanaon/2nin3kyaku/5/5_thumb.png"></a></td>
   <td>年齡: 17歳<br>身高: 160cm<br>三圍: 90/56/87<br>嗜好: 謎題</td>
  </tr>
  <tr>
-  <td><a href="No6.html"><img src="../../../Img/Nanaon/2nin3kyaku/6/6_thumb.png"></a></td>
-  <td>年齡: 16歳<br>身高: 155cm<br>三圍: 91/56/87<br>嗜好: 閱讀(詩集)</td>
+  <td><a href="No6.html"><img src="../../../Img/Nanaon/2nin3kyaku/6/6_thumb.png"></a><br>椎名紅葉<br>CV. 澤田姫</td>
+  <td>生日: 6月2日 年齡: 16歳<br>身高: 155cm 三圍: 91/56/87<br>血型: A型 出身: 東京都<br>嗜好: 閱讀(詩集)</td>
  </tr>
  <tr>
-  <td><a href="No7.html"><img src="../../../Img/Nanaon/2nin3kyaku/7/7_thumb.png"></a></td>
-  <td>年齡: 16歳<br>身高: 148cm<br>三圍: 71/50/69<br>嗜好: 書道</td>
+  <td><a href="No7.html"><img src="../../../Img/Nanaon/2nin3kyaku/7/7_thumb.png"></a><br>若泉月渚<br>CV. 天野凜</td>
+  <td>生日: 12月1日 年齡: 16歳<br>身高: 148cm 三圍: 71/50/69<br>血型: AB型 出身: 北海道<br>嗜好: 書道</td>
  </tr>
  <tr>
   <td><a href="No8.html"><img src="../../../Img/Nanaon/2nin3kyaku/8/8_thumb.png"></a></td>
   <td>年齡: 16歳<br>身高: 153cm<br>三圍: 90/57/88<br>嗜好: 煩擾他人</td>
  </tr>
  <tr>
-  <td><a href="No9.html"><img src="../../../Img/Nanaon/2nin3kyaku/9/9_thumb.png"></a></td>
-  <td>年齡: 17歳<br>身高: 158cm<br>三圍: 86/54/82<br>嗜好: 節約</td>
+  <td><a href="No9.html"><img src="../../../Img/Nanaon/2nin3kyaku/9/9_thumb.png"></a><br>蓮沼巴<br>CV. 久遠エリサ</td>
+  <td>生日: 9月22日 年齡: 17歳<br>身高: 158cm 三圍: 86/54/82<br>血型: A型 出身: 秋田県<br>嗜好: 節約</td>
  </tr>
  <tr>
-  <td><a href="No10.html"><img src="../../../Img/Nanaon/2nin3kyaku/10/10_thumb.png"></a></td>
-  <td>年齡: 17歳<br>身高: 161cm<br>三圍: 92/56/88<br>嗜好: ？</td>
+  <td><a href="No10.html"><img src="../../../Img/Nanaon/2nin3kyaku/10/10_thumb.png"></a><br>黒瀬京子<br>CV. 一寺美穂</td>
+  <td>生日: 2月12日 年齡: 17歳<br>身高: 161cm 三圍: 92/56/88<br>血型: B型 出身: 群馬県<br>嗜好: ？</td>
  </tr>
  <tr>
   <td><a href="No11.html"><img src="../../../Img/Nanaon/2nin3kyaku/11/11_thumb.png"></a></td>
@@ -129,8 +130,8 @@
   <td>年齡: 17歳<br>身高: 157cm<br>三圍: 91/58/89<br>嗜好: 釣魚</td>
  </tr>
  <tr>
-  <td><a href="No17.html"><img src="../../../Img/Nanaon/2nin3kyaku/17/17_thumb.png"></a></td>
-  <td>年齡: 16歳<br>身高: 156cm<br>三圍: 80/53/78<br>嗜好: 精油</td>
+  <td><a href="No17.html"><img src="../../../Img/Nanaon/2nin3kyaku/17/17_thumb.png"></a><br>五十嵐真紀<br>CV. 本郷里実</td>
+  <td>生日: 10月30日 年齡: 16歳<br>身高: 156cm 三圍: 80/53/78<br>血型: O型 出身: 静岡県<br>嗜好: 精油</td>
  </tr>
  <tr>
   <td><a href="No18.html"><img src="../../../Img/Nanaon/2nin3kyaku/18/18_thumb.png"></a></td>
@@ -149,16 +150,16 @@
   <td>年齡: 16歳<br>身高: 158cm<br>三圍: 85/56/84<br>嗜好: 遊戲</td>
  </tr>
  <tr>
-  <td><a href="No22.html"><img src="../../../Img/Nanaon/2nin3kyaku/22/22_thumb.png"></a></td>
-  <td>年齡: 16歳<br>身高: 152cm<br>三圍: 81/55/78<br>嗜好: 魔術</td>
+  <td><a href="No22.html"><img src="../../../Img/Nanaon/2nin3kyaku/22/22_thumb.png"></a><br>森鈴音<br>CV. 宮木南美</td>
+  <td>生日: 4月6日 年齡: 16歳<br>身高: 152cm 三圍: 81/55/78<br>血型: B型 出身: 香川県<br>嗜好: 魔術</td>
  </tr>
  <tr>
   <td><a href="No23.html"><img src="../../../Img/Nanaon/2nin3kyaku/23/23_thumb.png"></a></td>
   <td>年齡: 16歳<br>身高: 155cm<br>三圍: 88/56/85<br>嗜好: 研究偶像</td>
  </tr>
  <tr>
-  <td><a href="No24.html"><img src="../../../Img/Nanaon/2nin3kyaku/24/24_thumb.png"></a></td>
-  <td>年齡: 16歳<br>身高: 148cm<br>三圍: 77/53/73<br>嗜好: 拍照、化妝</td>
+  <td><a href="No24.html"><img src="../../../Img/Nanaon/2nin3kyaku/24/24_thumb.png"></a><br>岬心彩<br>CV. 小茅楓</td>
+  <td>生日: 6月24日 年齡: 16歳<br>身高: 148cm 三圍: 77/53/73<br>血型: B型 出身: 広島県<br>嗜好: 拍照、化妝</td>
  </tr>
  <tr>
   <td><a href="No25.html"><img src="../../../Img/Nanaon/2nin3kyaku/25/25_thumb.png"></a></td>
@@ -169,16 +170,16 @@
   <td>年齡: 16歳<br>身高: 149cm<br>三圍: 71/50/70<br>嗜好: 觀察昆蟲</td>
  </tr>
  <tr>
-  <td><a href="No27.html"><img src="../../../Img/Nanaon/2nin3kyaku/27/27_thumb.png"></a></td>
-  <td>年齡: 16歳<br>身高: 157cm<br>三圍: 82/54/80<br>嗜好: 陶藝</td>
+  <td><a href="No27.html"><img src="../../../Img/Nanaon/2nin3kyaku/27/27_thumb.png"></a><br>村中晴菜<br>CV. 後藤彩佐</td>
+  <td>生日: 7月19日 年齡: 16歳<br>身高: 157cm 三圍: 82/54/80<br>血型: O型 出身: 佐賀県<br>嗜好: 陶藝</td>
  </tr>
  <tr>
   <td><a href="No28.html"><img src="../../../Img/Nanaon/2nin3kyaku/28/28_thumb.png"></a></td>
   <td>年齡: 17歳<br>身高: 163cm<br>三圍: 80/54/78<br>嗜好: 愛情小說、午間劇</td>
  </tr>
  <tr>
-  <td><a href="No29.html"><img src="../../../Img/Nanaon/2nin3kyaku/29/29_thumb.png"></a></td>
-  <td>年齡: 16歳<br>身高: 155cm<br>三圍: 81/54/78<br>嗜好: 和朋友在一起</td>
+  <td><a href="No29.html"><img src="../../../Img/Nanaon/2nin3kyaku/29/29_thumb.png"></a><br>阿久津かすか<br>CV. 山田麻莉奈</td>
+  <td>生日: 8月25日 年齡: 16歳<br>身高: 155cm 三圍: 81/54/78<br>血型: AB型 出身: 千葉県<br>嗜好: 和朋友在一起</td>
  </tr>
  <tr>
   <td><a href="No30.html"><img src="../../../Img/Nanaon/2nin3kyaku/30/30_thumb.png"></a></td>
