@@ -1,16 +1,20 @@
 #### 二人三脚プロジェクト 2nin3kyaku Project
 ##### [Back](2nin3kyaku_List.md)
 
-#### No.4
+#### 矢代陽夏莉 (No.4)
+CV. 浅見春那 <a rel="noreferrer noopener" target="_blank" href="http://earlywing.co.jp/pretalent_w/asamiharuna.html">EARLYWING Official Site</a> <a rel="noreferrer noopener" target="_blank" href="https://twitter.com/asami_haru_">Twitter</a><br><br>
 <img src="../../../Img/Nanaon/2nin3kyaku/4/4_thumb.png"><br>
 <img src="../../../Img/Nanaon/2nin3kyaku/4/4_main.png"><br>
 <img src="../../../Img/Nanaon/2nin3kyaku/4/4_thanks.png"><br>
 <img src="../../../Img/Nanaon/2nin3kyaku/4/4_desc.png"><br>
 <img src="../../../Img/Nanaon/2nin3kyaku/4/4_wallpaper.jpg"><br>
 <br>
+生日: 8月5日<br>
 年齡: 16歳<br>
 身高: 154cm<br>
 三圍: B78/W53/H77<br>
+血型: O型<br>
+出身: 東京都<br>
 <br>
 嗜好: 製作苔玉<br>
 <br>

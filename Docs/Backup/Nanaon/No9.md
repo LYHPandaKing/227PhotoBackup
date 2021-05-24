@@ -1,16 +1,20 @@
 #### 二人三脚プロジェクト 2nin3kyaku Project
 ##### [Back](2nin3kyaku_List.md)
 
-#### No.9
+#### 蓮沼巴 (No.9)
+CV. 久遠エリサ <a rel="noreferrer noopener" target="_blank" href="https://www.81produce.co.jp/actor_search/index.php/item?id=190">81 Produce Official Site</a> <a rel="noreferrer noopener" target="_blank" href="https://twitter.com/eri1717171">Twitter</a><br><br>
 <img src="../../../Img/Nanaon/2nin3kyaku/9/9_thumb.png"><br>
 <img src="../../../Img/Nanaon/2nin3kyaku/9/9_main.png"><br>
 <img src="../../../Img/Nanaon/2nin3kyaku/9/9_thanks.png"><br>
 <img src="../../../Img/Nanaon/2nin3kyaku/9/9_desc.png"><br>
 <img src="../../../Img/Nanaon/2nin3kyaku/9/9_wallpaper.jpg"><br>
 <br>
+生日: 9月22日<br>
 年齡: 17歳<br>
 身高: 158cm<br>
 三圍: B86/W54/H82<br>
+血型: A型<br>
+出身: 秋田県<br>
 <br>
 嗜好: 節約<br>
 <br>

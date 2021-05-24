@@ -1,16 +1,20 @@
 #### 二人三脚プロジェクト 2nin3kyaku Project
 ##### [Back](2nin3kyaku_List.md)
 
-#### No.2
+#### 七崎紫苑 (No.2)
+CV. 天音みほ <a rel="noreferrer noopener" target="_blank" href="https://dearstage.co.jp/artist/amane-miho">DEARSTAGE Official Site</a> <a rel="noreferrer noopener" target="_blank" href="https://twitter.com/miiii_am">Twitter</a><br><br>
 <img src="../../../Img/Nanaon/2nin3kyaku/2/2_thumb.png"><br>
 <img src="../../../Img/Nanaon/2nin3kyaku/2/2_main.png"><br>
 <img src="../../../Img/Nanaon/2nin3kyaku/2/2_thanks.png"><br>
 <img src="../../../Img/Nanaon/2nin3kyaku/2/2_desc.png"><br>
 <img src="../../../Img/Nanaon/2nin3kyaku/2/2_wallpaper.jpg"><br>
 <br>
+生日: 1月21日<br>
 年齡: 16歳<br>
 身高: 156cm<br>
 三圍: B94/W56/H88<br>
+血型: A型<br>
+出身: 神奈川県<br>
 <br>
 嗜好: 料理…或者是把食物混合在一起<br>
 <br>
