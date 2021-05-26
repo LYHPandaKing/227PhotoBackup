@@ -2,7 +2,7 @@
 ##### [Back](Music_List.md)
 
 #### 僕が持ってるものなら【完全生産限定盤】
-<img src="../../Img/Music/MotteruComplete.jpg" width="70%"><br>
+<img src="../../Img/Music/MotteruCompleteA.jpg" width="45%"><img src="../../Img/Music/MotteruCompleteB.jpg" width="45%"><br>
 Date: 24Feb,2021<br>
 <p><blockquote>
 1. 僕が持ってるものなら<br>
@@ -13,7 +13,7 @@ Date: 24Feb,2021<br>
 6. 好きと言ったのは嘘だ -off vocal ver.-<br>
 </blockquote></p><br>
 
-#### 風は吹いてるか？【初回生産限定盤】
+#### 僕が持ってるものなら【初回生産限定盤】
 <img src="../../Img/Music/MotteruLimited.jpg" width="70%"><br>
 Date: 24Feb,2021<br>
 <p><blockquote>
@@ -25,7 +25,7 @@ Date: 24Feb,2021<br>
 6. キウイの主張 -off vocal ver.-<br>
 </blockquote></p><br>
 
-#### 風は吹いてるか？【通常盤】
+#### 僕が持ってるものなら【通常盤】
 <img src="../../Img/Music/Motteru.jpg" width="70%"><br>
 Date: 24Feb,2021<br>
 <p><blockquote>

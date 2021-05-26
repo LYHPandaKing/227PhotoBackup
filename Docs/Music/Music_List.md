@@ -19,25 +19,25 @@
 #### 單曲 Single
 
 - [僕が持ってるものなら<br>Boku ga Motteru Mono Nara](Single_07.html)<br>
-<img src="../../Img/Music/MotteruComplete.jpg" width="30%">
+<img src="../../Img/Music/MotteruLimited.jpg" width="30%"><img src="../../Img/Music/Motteru.jpg" width="30%">
 
 - [風は吹いてるか?<br>Kaze wa Fuiteruka](Single_06.html)<br>
-<img src="../../Img/Music/KazeComplete.jpg" width="30%">
+<img src="../../Img/Music/KazeLimited.jpg" width="30%"><img src="../../Img/Music/Kaze.jpg" width="30%"><img src="../../Img/Music/KazeComplete.jpg" width="30%">
 
 - [ムズイ<br>Muzui](Single_05.html)<br>
-<img src="../../Img/Music/MuzuiTypeA.jpg" width="30%">
+<img src="../../Img/Music/MuzuiTypeA.jpg" width="30%"><img src="../../Img/Music/MuzuiTypeB.jpg" width="30%"><img src="../../Img/Music/Muzui.jpg" width="30%">
 
 - [何もしてあげられない<br>Nani Mo Shiteagerarenai](Single_04.html)<br>
-<img src="../../Img/Music/NaniMoTypeA.jpg" width="30%">
+<img src="../../Img/Music/NaniMoTypeA.jpg" width="30%"><img src="../../Img/Music/NaniMoTypeB.jpg" width="30%"><img src="../../Img/Music/NaniMo.jpg" width="30%">
 
 - [理解者<br>Rikaisha](Single_03.html)<br>
-<img src="../../Img/Music/RikaishaTypeA.jpg" width="30%">
+<img src="../../Img/Music/RikaishaTypeA.jpg" width="30%"><img src="../../Img/Music/RikaishaTypeB.jpg" width="30%"><img src="../../Img/Music/Rikaisha.jpg" width="30%">
 
 - [シャンプーの匂いがした<br>Shampoo no Nioi ga Shita](Single_02.html)<br>
-<img src="../../Img/Music/ShampooTypeA.jpg" width="30%">
+<img src="../../Img/Music/ShampooTypeA.jpg" width="30%"><img src="../../Img/Music/ShampooTypeB.jpg" width="30%"><img src="../../Img/Music/Shampoo.jpg" width="30%">
 
 - [僕は存在していなかった<br>Boku wa Sonzai Shiteinakatta](Single_01.html)<br>
-<img src="../../Img/Music/BokuTypeA.jpg" width="30%">
+<img src="../../Img/Music/BokuTypeA.jpg" width="30%"><img src="../../Img/Music/BokuTypeB.jpg" width="30%">
 
 
 <a name="digitial_single"></a>
