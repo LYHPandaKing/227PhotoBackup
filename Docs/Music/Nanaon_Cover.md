@@ -674,7 +674,7 @@ Date: 14May,2021
 <hr>
 <a name="NextStage_227noKiseki"></a>
 #### Next stage ～ナナブンノニジュウニの軌跡～
-Date: 26MMay,2021
+Date: 26May,2021
 
 **51. 怪物**<br>
 東条悠希（CV. 高辻麗）<br>
