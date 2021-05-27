@@ -29,6 +29,7 @@
 </tr>
 <tr>
   <th><a href="#NanaNijiTheater_Stage1">ナナニジシアター Stage.01 なにわの探偵①</a></th>
+  <th><a href="#NextStage_227noKiseki">Next stage ～ナナブンノニジュウニの軌跡～</a></th>
 </tr>
 </table>
 
@@ -602,10 +603,7 @@ Date: 1Feb,2021
 <br>
 原唱: 国生さゆり<br>
 <img src="../../Img/Music/Nanaon_Cover/jacket_13200046.png" width="35%"><br>
-<audio controls="controls">
-  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/46.%20バレンタイン-キッス.mp3"></source>
-  <p>Your browser does not support the audio element.</p>
-</audio>
+
 
 **47. EQUALロマンス**<br>
 神木みかみ（CV. 涼花萌）<br>
@@ -667,5 +665,20 @@ Date: 14May,2021
 <img src="../../Img/Music/Nanaon_Cover/jacket_13200050.png" width="35%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/50.%20SOMEONE%20ELSE.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+<hr>
+<a name="NextStage_227noKiseki"></a>
+#### Next stage ～ナナブンノニジュウニの軌跡～
+Date: 26MMay,2021
+
+**51. 怪物**<br>
+東条悠希（CV. 高辻麗）<br>
+<br>
+原唱: YOASOBI / 《BEASTARS》ED2<br>
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200051.png" width="35%"><br>
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/51.%20怪物.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
