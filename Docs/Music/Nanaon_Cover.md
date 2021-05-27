@@ -679,7 +679,7 @@ Date: 26May,2021
 **51. 怪物**<br>
 東条悠希（CV. 高辻麗）<br>
 <br>
-原唱: YOASOBI / 《BEASTARS》ED2<br>
+原唱: YOASOBI / 《BEASTARS》OP2<br>
 <img src="../../Img/Music/Nanaon_Cover/jacket_13200052.png" width="35%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/51.%20怪物.mp3"></source>
