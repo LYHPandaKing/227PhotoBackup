@@ -603,7 +603,10 @@ Date: 1Feb,2021
 <br>
 原唱: 国生さゆり<br>
 <img src="../../Img/Music/Nanaon_Cover/jacket_13200046.png" width="35%"><br>
-
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/46.%20バレンタイン・キッス.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
 
 **47. EQUALロマンス**<br>
 神木みかみ（CV. 涼花萌）<br>
