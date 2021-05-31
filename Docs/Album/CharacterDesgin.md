@@ -124,55 +124,66 @@
 #### 「音楽の時間」- 二人三脚プロジェクト
 #### 阿久津かすか Akutsu Kasuka
 <img src="../../Album/Character%20Design/音楽の時間/Kasuka_game.png" width="32%">
+<img src="../../Album/Character%20Design/音楽の時間/Kasuka_game_2.png" width="32%">
 
- Game | [Source](https://227-game.com/assets/img/character/characters/kasuka/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Kasuka_game.png)
+ Game | [Source](https://227-game.com/assets/img/character/characters/kasuka/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Kasuka_game.png) | [Download Ver2](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Kasuka_game_2.png)
  
 #### 五十嵐真紀 Igarashi Maki
 <img src="../../Album/Character%20Design/音楽の時間/Maki_game.png" width="32%">
+<img src="../../Album/Character%20Design/音楽の時間/Maki_game_2.png" width="32%">
 
- Game | [Source](https://227-game.com/assets/img/character/characters/maki/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Maki_game.png)
+ Game | [Source](https://227-game.com/assets/img/character/characters/maki/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Maki_game.png) | [Download Ver2](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Maki_game_2.png)
 
 #### 黒瀬京子 Kurose Kyoko
 <img src="../../Album/Character%20Design/音楽の時間/Kyoko_game.png" width="32%">
+<img src="../../Album/Character%20Design/音楽の時間/Kyoko_game_2.png" width="32%">
 
- Game | [Source](https://227-game.com/assets/img/character/characters/kyoko/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Kyoko_game.png)
+ Game | [Source](https://227-game.com/assets/img/character/characters/kyoko/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Kyoko_game.png) | [Download Ver2](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Kyoko_game_2.png)
 
 #### 椎名紅葉 Shiina Momiji
 <img src="../../Album/Character%20Design/音楽の時間/Momiji_game.png" width="32%">
+<img src="../../Album/Character%20Design/音楽の時間/Momiji_game_2.png" width="32%">
 
- Game | [Source](https://227-game.com/assets/img/character/characters/momiji/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Momiji_game.png)
+ Game | [Source](https://227-game.com/assets/img/character/characters/momiji/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Momiji_game.png) | [Download Ver2](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Momiji_game_2.png)
 
 #### 七崎紫苑 Nanasaki Shion
 <img src="../../Album/Character%20Design/音楽の時間/Shion_game.png" width="32%">
+<img src="../../Album/Character%20Design/音楽の時間/Shion_game_2.png" width="32%">
 
- Game | [Source](https://227-game.com/assets/img/character/characters/shion/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Shion_game.png)
+ Game | [Source](https://227-game.com/assets/img/character/characters/shion/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Shion_game.png) | [Download Ver2](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Shion_game_2.png)
 
 #### 蓮沼巴 Hasunuma Tomoe
 <img src="../../Album/Character%20Design/音楽の時間/Tomoe_game.png" width="32%">
+<img src="../../Album/Character%20Design/音楽の時間/Tomoe_game_2.png" width="32%">
 
- Game | [Source](https://227-game.com/assets/img/character/characters/tomoe/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Tomoe_game.png)
+ Game | [Source](https://227-game.com/assets/img/character/characters/tomoe/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Tomoe_game.png) | [Download Ver2](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Tomoe_game_2.png)
 
 #### 岬心彩 Misaki Kokoa
 <img src="../../Album/Character%20Design/音楽の時間/Kokoa_game.png" width="32%">
+<img src="../../Album/Character%20Design/音楽の時間/Kokoa_game_2.png" width="32%">
 
- Game | [Source](https://227-game.com/assets/img/character/characters/kokoa/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Kokoa_game.png)
+ Game | [Source](https://227-game.com/assets/img/character/characters/kokoa/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Kokoa_game.png) | [Download Ver2](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Kokoa_game_2.png)
 
 #### 村中晴菜 Muranaka Haruna
 <img src="../../Album/Character%20Design/音楽の時間/Haruna_game.png" width="32%">
+<img src="../../Album/Character%20Design/音楽の時間/Haruna_game_2.png" width="32%">
 
- Game | [Source](https://227-game.com/assets/img/character/characters/haruna/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Haruna_game.png)
+ Game | [Source](https://227-game.com/assets/img/character/characters/haruna/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Haruna_game.png) | [Download Ver2](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Haruna_game_2.png)
 
 #### 森鈴音 Mori Suzune
 <img src="../../Album/Character%20Design/音楽の時間/Suzune_game.png" width="32%">
+<img src="../../Album/Character%20Design/音楽の時間/Suzune_game_2.png" width="32%">
 
- Game | [Source](https://227-game.com/assets/img/character/characters/suzune/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Suzune_game.png)
+ Game | [Source](https://227-game.com/assets/img/character/characters/suzune/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Suzune_game.png) | [Download Ver2](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Suzune_game_2.png)
 
 #### 矢代陽夏莉 Yashiro Hikari
 <img src="../../Album/Character%20Design/音楽の時間/Hikari_game.png" width="32%">
+<img src="../../Album/Character%20Design/音楽の時間/Hikari_game_2.png" width="32%">
 
- Game | [Source](https://227-game.com/assets/img/character/characters/hikari/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Hikari_game.png)
+ Game | [Source](https://227-game.com/assets/img/character/characters/hikari/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Hikari_game.png) | [Download Ver2](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Hikari_game_2.png)
 
 #### 若泉月渚 Wakaizumi Runa
 <img src="../../Album/Character%20Design/音楽の時間/Runa_game.png" width="32%">
+<img src="../../Album/Character%20Design/音楽の時間/Runa_game_2.png" width="32%">
 
- Game | [Source](https://227-game.com/assets/img/character/characters/runa/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Runa_game.png)
+ Game | [Source](https://227-game.com/assets/img/character/characters/runa/ph.png) | [Download](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Runa_game.png) | [Download Ver2](https://github.com/LYHPandaKing/227PhotoBackup/raw/master/Album/Character%20Design/音楽の時間/Runa_game_2.png)
