@@ -685,3 +685,26 @@ Date: 26May,2021
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/51.%20怪物.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
+
+Date: 2Jun,2021
+
+**52. 夜に駆ける**<br>
+藤間桜（CV. 天城サリー）<br>
+<br>
+原唱: YOASOBI / YOASOBI第一首單曲<br>
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200051.png" width="35%"><br>
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/52.%20夜に駆ける.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**53. 群青**<br>
+滝川みう（CV. 西條和）<br>
+Chorus: 22/7<br>
+<br>
+原唱: YOASOBI / YOASOBI第五首單曲<br>
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200053.png" width="35%"><br>
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/53.%20群青.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
