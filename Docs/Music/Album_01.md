@@ -1,29 +1,29 @@
-### 11という名の永遠の素数 11 To Iu Na No Eien No Sosu
+### 11という名の永遠の素数 An eternal prime number named 11
 ##### [Back](Music_List.md)
 
 #### 11という名の永遠の素数【完全生産限定盤A】
-<img src="../../Img/Music/11ToIuNaNoEienNoSosu_CompleteA.jpg" width="70%"><br>
+<img src="../../Img/Music/AnEternalPrimeNumberNamed11_CompleteA.jpg" width="70%"><br>
 Date: 30Jun,2021<br>
 <p><blockquote>
 1. ???<br>
 </blockquote></p><br>
 
 #### 11という名の永遠の素数【完全生産限定盤B】
-<img src="../../Img/Music/11ToIuNaNoEienNoSosu_CompleteB.jpg" width="70%"><br>
+<img src="../../Img/Music/AnEternalPrimeNumberNamed11_CompleteB.jpg" width="70%"><br>
 Date: 30Jun,2021<br>
 <p><blockquote>
 1. ???<br>
 </blockquote></p><br>
 
 #### 11という名の永遠の素数【完全生産限定盤C】
-<img src="../../Img/Music/11ToIuNaNoEienNoSosu_CompleteC.jpg" width="70%"><br>
+<img src="../../Img/Music/AnEternalPrimeNumberNamed11_CompleteC.jpg" width="70%"><br>
 Date: 30Jun,2021<br>
 <p><blockquote>
 1. ???<br>
 </blockquote></p><br>
 
 #### 11という名の永遠の素数【通常盤】
-<img src="../../Img/Music/11ToIuNaNoEienNoSosu.jpg" width="70%"><br>
+<img src="../../Img/Music/AnEternalPrimeNumberNamed11.jpg" width="70%"><br>
 Date: 30Jun,2021<br>
 <p><blockquote>
 1. ???<br>

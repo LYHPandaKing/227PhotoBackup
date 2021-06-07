@@ -50,8 +50,8 @@
 <a name="album"></a>
 #### 專輯 Album
 
-- [11という名の永遠の素数<br>11 To Iu Na No Eien No Sosu](Album_01.html)<br>
-<img src="../../Img/Music/11ToIuNaNoEienNoSosu.jpg" width="30%">
+- [11という名の永遠の素数<br>An eternal prime number named 11](Album_01.html)<br>
+<img src="../../Img/Music/AnEternalPrimeNumberNamed11_CompleteA.jpg" width="30%"><img src="../../Img/Music/AnEternalPrimeNumberNamed11_CompleteB.jpg" width="30%"><img src="../../Img/Music/AnEternalPrimeNumberNamed11_CompleteC.jpg" width="30%">
 
 
 <a name="bddvd"></a>
