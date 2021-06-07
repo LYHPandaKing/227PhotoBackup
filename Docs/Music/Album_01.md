@@ -42,12 +42,12 @@ Date: 26May,2021<br>
 
 **01. ヒヤシンス**<br>
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/Album_01_11%20To%20Iu%20Na%20No%20Eien%20No%20Sosu/01.%20ヒヤシンス.flac"></source>
+  <source type="audio/mp3" src="../../Music/Album_01_An%20Eternal%20Prime%20Number%20Named%2011/01.%20ヒヤシンス.flac"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
 **02. ヒヤシンス (Instrumental)**<br>
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/Album_01_11%20To%20Iu%20Na%20No%20Eien%20No%20Sosu/02.%20ヒヤシンス%20(Instrumental).flac"></source>
+  <source type="audio/mp3" src="../../Music/Album_01_An%20Eternal%20Prime%20Number%20Named%2011/02.%20ヒヤシンス%20(Instrumental).flac"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
