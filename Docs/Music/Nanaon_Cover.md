@@ -31,6 +31,9 @@
   <th><a href="#NanaNijiTheater_Stage1">ナナニジシアター Stage.01 なにわの探偵①</a></th>
   <th><a href="#NextStage_227noKiseki">Next stage ～ナナブンノニジュウニの軌跡～</a></th>
 </tr>
+<tr>
+  <th><a href="#NanaNijiTheater_Stage1_2">ナナニジシアター Stage.01 なにわの探偵②</a></th>
+</tr>
 </table>
 
 #### 22/7 音楽の時間  翻唱歌曲 Cover Songs
@@ -706,5 +709,20 @@ Chorus: 22/7<br>
 <img src="../../Img/Music/Nanaon_Cover/jacket_13200053.png" width="35%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/53.%20群青.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+<hr>
+<a name="NanaNijiTheater_Stage1_2"></a>
+#### ナナニジシアター Stage.01 なにわの探偵②
+Date: 9Jun,2021
+
+**54. 不可思議のカルテ**<br>
+丸山あかね（CV. 白沢かなえ）<br>
+<br>
+原唱: 桜島麻衣（瀬戸麻沙美）、古賀朋絵（東山奈央）、双葉理央（種﨑敦美）、豊浜のどか（内田真礼）、梓川かえで（久保ユリカ）、牧之原翔子（水瀬いのり） / 《青春豬頭少年不會夢到兔女郎學姊》ED<br>
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200054.png" width="35%"><br>
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/54.%20不可思議のカルテ.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
