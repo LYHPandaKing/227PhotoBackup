@@ -2,7 +2,7 @@
 ##### [Back](Magazines_List.md)
 
 Cover<br>
-<img src="../../Magazine/SeiyuGrandPrix_2107.jpg" width="70%">
+<img src="../../Img/Magazine/SeiyuGrandPrix_2107.jpg" width="70%">
 
 <table>
  <tr>
