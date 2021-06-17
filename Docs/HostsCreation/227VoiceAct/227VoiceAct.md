@@ -14,7 +14,7 @@
 
 ##### April
 - Snoopy 英語【手機程式】 [天城サリー]<br>
-- 擾亂 THE PRINCESS OF SNOW AND BLOOD [倉岡水巴]<br>
+- [擾亂 THE PRINCESS OF SNOW AND BLOOD](11_Jouran_Mizuha_Sally.md) [倉岡水巴/天城サリー]<br>
 - ヒロイン【舞台】 [宮瀬玲奈]<br>
 
 ##### March
