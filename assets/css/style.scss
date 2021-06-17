@@ -121,11 +121,11 @@ table{
   overflow: hidden;
   max-height: 0;
   transition: 0.5s;
-  box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 1px 0px 0px rgba(229, 229, 229, 0.6);
 }
 
 .accordion label {
-  color: #5bbad5;
+  color: #009DDD;
   cursor: pointer;
   font-weight: normal;
   padding: 10px;
@@ -135,7 +135,25 @@ table{
  
 .accordion label:hover,
 .accordion label:focus {
-  background: #fff;
+  background: #E5E5E5;
+}
+
+.accordion .handle label:before {
+  background: url(/Img/gotop.png);
+  display: inline-block;
+  margin-right: 10px;
+  font-size: 1em;
+  line-height: 1.556em;
+  vertical-align: middle;
+  transform: rotate(180deg);
+  transition: 0.4s;
+  
+}
+
+.accordion > input[name="collapse"]:checked ~ .handle label:before {
+    transform: rotate(180deg);
+    transform-origin: center;
+    transition: 0.4s;
 }
 
 .accordion > input[name="collapse"]:checked ~ .content {
