@@ -110,3 +110,36 @@ div.disabled {
 table{
     width: 100%;
 }
+
+.accordion > input[name="collapse"] {
+  position: absolute;
+  left: -100vw; /* Behind the scene */
+}
+
+.accordion .content {
+  background: #fff;
+  overflow: hidden;
+  max-height: 0;
+  transition: 0.5s;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.accordion label {
+  color: #5bbad5;
+  cursor: pointer;
+  font-weight: normal;
+  padding: 10px;
+  background: #fff;
+  
+}
+ 
+.accordion label:hover,
+.accordion label:focus {
+  background: #fff;
+}
+
+.accordion > input[name="collapse"]:checked ~ .content {
+  max-height: 1000px;
+  height: auto;
+  transition: max-height 0.35s ease-out;
+}
