@@ -33,6 +33,7 @@
 </tr>
 <tr>
   <th><a href="#NanaNijiTheater_Stage1_2">ナナニジシアター Stage.01 なにわの探偵②</a></th>
+  <th><a href="#Update_20210618">日常更新</a></th>
 </tr>
 </table>
 
@@ -724,5 +725,20 @@ Date: 9Jun,2021
 <img src="../../Img/Music/Nanaon_Cover/jacket_13200054.png" width="35%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/54.%20不可思議のカルテ.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+<hr>
+<a name="Update_20210618"></a>
+#### 日常更新
+Date: 18Jun,2021
+
+**55. 君のせい**<br>
+神木みかみ（CV. 涼花萌）<br>
+<br>
+原唱: the peggies / 《青春豬頭少年不會夢到兔女郎學姊》OP<br>
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200055.png" width="35%"><br>
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/55.%20君のせい.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
