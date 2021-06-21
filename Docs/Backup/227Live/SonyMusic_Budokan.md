@@ -6,14 +6,39 @@ Date: 3Jan,2021
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.smanimesongs.jp/">Official New</a>
 
->Sony Musicに所属する豪華アーティスト総勢24組が集結し、無観客の日本武道館を舞台にノンストップでアニメ主題歌を中心としたライブを披露するフェス形式のオンラインライブコンテンツ「Sony Music AnimeSongs ONLINE 日本武道館」。<br>
+<section class="accordion">
+  <input type="checkbox" name="collapse" id="handle1">
+  <h4 class="handle">
+    <label for="handle1">
+    資訊 Information
+    </label>
+  </h4>
+  
+  <div class="content">
+    <p>
+<blockquote>
+Sony Musicに所属する豪華アーティスト総勢24組が集結し、無観客の日本武道館を舞台にノンストップでアニメ主題歌を中心としたライブを披露するフェス形式のオンラインライブコンテンツ「Sony Music AnimeSongs ONLINE 日本武道館」。<br>
 24組の出演アーティストは、それぞれ新旧様々なTVアニメ作品の主題歌を担当しています。<br>
 藍井エイルによるアニメ「ソードアート・オンライン」シリーズの主題歌、TrySailによるアニメ「マギアレコード 魔法少女まどか☆マギカ外伝」主題歌など人気アニメ主題歌はもちろん、FLOWによるアニメ「NARUTO -ナルト-」主題歌、BURNOUT SYNDROMESによるアニメ「ハイキュー!!」シリーズの主題歌など各アーティストのファンの間でもお馴染みとなっているアーティストの代表曲、そして鈴木雅之が歌うアニメ「かぐや様は告らせたい～天才たちの恋愛頭脳戦～」主題歌や西川くんとキリショーそして中川翔子が歌うアニメ「ポケットモンスター」シリーズ主題歌など新旧織り交ぜバラエティーに富んだ楽曲をオムニバスで約3時間半にわたりノンストップでお届けします。<br><br>
 出演アーティスト▼<br>
 藍井エイル／麻倉もも／ASCA／雨宮天／楠木ともり／Cö shu Nie／斉藤朱夏／佐藤ミキ／the peggies／CIVILIAN／鈴木雅之／スピラ・スピカ／TrySail／中川翔子／夏川椎菜／22/7／ナナヲアカリ／西川くんとキリショー／西川貴教／BURNOUT SYNDROMES／halca／Who-ya Extended／FLOW／Rude-α<br>
 ※50音順<br>
+</blockquote>
+</p>  
+  </div>
+</section>
 
-<p><blockquote>表演曲目 Setlist<br>
+<section class="accordion">
+  <input type="checkbox" name="collapse" id="handle1">
+  <h4 class="handle">
+    <label for="handle1">
+    表演曲目 Setlist
+    </label>
+  </h4>
+  
+  <div class="content">
+    <p>
+<blockquote>
 1. IGNITE / 藍井エイル<br>
 2. I will... / 藍井エイル<br>
 3. 君のせい / the peggies<br>
@@ -56,7 +81,10 @@ Date: 3Jan,2021
 40. GO!!! / FLOW<br>
 41. 天秤-Libra- / 西川貴教＋ASCA<br>
 42. Bright Burning Shout / 西川貴教<br>
-</blockquote></p>
+</blockquote>
+</p>  
+  </div>
+</section>
 
 ^ The online streaming service unavailable as file exceeds 2GB.<br>
 

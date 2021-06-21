@@ -6,7 +6,18 @@ Date: 20Sep,2020
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.nanabunnonijyuuni.com/sp/news/archive/?522128">Official New</a>
 
-><公演情報><br><br>
+<section class="accordion">
+  <input type="checkbox" name="collapse" id="handle1">
+  <h4 class="handle">
+    <label for="handle1">
+    資訊 Information
+    </label>
+  </h4>
+  
+  <div class="content">
+    <p>
+<blockquote>
+<公演情報><br><br>
 22/7 『Anniversary Live 2020』<br><br><br>
 【日程・時間】<br><br>
 昼公演<br><br>
@@ -19,10 +30,24 @@ Date: 20Sep,2020
 一般視聴チケット:3,000円(税込)<br>
 ファンクラブ限定チケット：4,000円(税込) ※ファンクラブ限定チケットご購入の方は、アフタートークもご覧いただけます。<br><br><br>
 【配信メディア】 Stagecrowd：https://stagecrowd.live/s/live000/?ima=2920<br>
-【チケットご購入はこちら】販売日：9月1日(火) 21:00～ https://nanabunnonijyuuni-mobile.com/6558996132/
+【チケットご購入はこちら】販売日：9月1日(火) 21:00～ https://nanabunnonijyuuni-mobile.com/6558996132/<br>
+</blockquote>
+</p>  
+  </div>
+</section>
 
-<p><blockquote>日場：<br>
-流程 Rundown<br>
+日場：<br>
+<section class="accordion">
+  <input type="checkbox" name="collapse" id="handle1">
+  <h4 class="handle">
+    <label for="handle1">
+    流程 Rundown
+    </label>
+  </h4>
+  
+  <div class="content">
+    <p>
+<blockquote>
 Opening<br>
 1. 君はMoon<br>
 2. 叫ぶしかない青春<br>
@@ -45,7 +70,10 @@ Encore<br>
 15. 何もしてあげられない<br>
 MC<br>
 16. 韋駄天娘<br>
-</blockquote></p>
+</blockquote>
+</p>
+  </div>
+</section>
 
 Live
 <video width="100%" height="100%" controls>
@@ -97,8 +125,18 @@ FC Talk
 </tr>
 </table>
 
-<p><blockquote>夜場：<br>
-流程 Rundown<br>
+夜場：<br>
+<section class="accordion">
+  <input type="checkbox" name="collapse" id="handle1">
+  <h4 class="handle">
+    <label for="handle1">
+    流程 Rundown
+    </label>
+  </h4>
+  
+  <div class="content">
+    <p>
+<blockquote>
 Opening<br>
 1. Rain of lies<br>
 2. 不確かな青春<br>
@@ -121,7 +159,10 @@ Encore<br>
 15. 何もしてあげられない<br>
 MC<br>
 16. 11人が集まった理由<br>
-</blockquote></p>
+</blockquote>
+</p>
+  </div>
+</section>
 
 Live
 <video width="100%" height="100%" controls>

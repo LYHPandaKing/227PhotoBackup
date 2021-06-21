@@ -6,7 +6,18 @@ Date: 28Feb,2021
 
 <a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni.com/s/n129/diary/detail/354947?ima=2934&cd=event">Official New</a>
 
-><公演情報><br><br>
+<section class="accordion">
+  <input type="checkbox" name="collapse" id="handle1">
+  <h4 class="handle">
+    <label for="handle1">
+    資訊 Information
+    </label>
+  </h4>
+  
+  <div class="content">
+    <p>
+<blockquote>
+<公演情報><br><br>
 ■イベント概要<br>
 22/7「僕が持ってるものなら」発売記念LIVEの開催が決定いたしました！<br>
 卒業を発表させていただきましたメンバー、帆風千春は22/7として最後の出演となります。<br><br>
@@ -19,9 +30,23 @@ Date: 28Feb,2021
 ■日時：2021年2月28日(日)<br>
 昼公演　開場 12：30 / 開演 13：30<br>
 夜公演　開場 16：30 / 開演 17：30<br>
+</blockquote>
+</p>  
+  </div>
+</section>
 
-<p><blockquote>日場：<br>
-流程 Rundown<br>
+日場：<br>
+<section class="accordion">
+  <input type="checkbox" name="collapse" id="handle1">
+  <h4 class="handle">
+    <label for="handle1">
+    流程 Rundown
+    </label>
+  </h4>
+  
+  <div class="content">
+    <p>
+<blockquote>
 Opening<br>
 1. 理解者<br>
 2. 韋駄天娘<br>
@@ -44,7 +69,10 @@ Products Promotion<br>
 Encore<br>
 15. 地下鉄抵抗主義<br>
 16. 僕は存在していなかった
-</blockquote></p>
+</blockquote>
+</p>  
+  </div>
+</section>
 
 Live w/ FC Talk<br>
 
@@ -65,8 +93,18 @@ Live w/ FC Talk<br>
 </tr>
 </table>
 
-<p><blockquote>夜場：<br>
-流程 Rundown<br>
+夜場：<br>
+<section class="accordion">
+  <input type="checkbox" name="collapse" id="handle1">
+  <h4 class="handle">
+    <label for="handle1">
+    流程 Rundown
+    </label>
+  </h4>
+  
+  <div class="content">
+    <p>
+<blockquote>
 Opening<br>
 1. シャンプーの匂いがした<br>
 2. 未来があるから<br>
@@ -89,7 +127,10 @@ Encore<br>
 15. 優等生じゃつまらない<br>
 Messages to Chiharu<br>
 16. 空のエメラルド<br>
-</blockquote></p>
+</blockquote>
+</p>  
+  </div>
+</section>
 
 Live w/ FC Talk<br>
 

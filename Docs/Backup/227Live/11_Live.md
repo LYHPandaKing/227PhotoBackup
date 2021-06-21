@@ -6,7 +6,18 @@ Date: 13Nov,2020
 
 <a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni.com/s/n129/news/detail/10121?ima=1432">Official New</a>
 
-><公演情報><br><br>
+<section class="accordion">
+  <input type="checkbox" name="collapse" id="handle1">
+  <h4 class="handle">
+    <label for="handle1">
+    資訊 Information
+    </label>
+  </h4>
+  
+  <div class="content">
+    <p>
+<blockquote>
+<公演情報><br><br>
 22/7『11』<br><br>
 【日程・時間】<br>
 2020年11月13日(金)<br>
@@ -18,9 +29,23 @@ Date: 13Nov,2020
 【配信メディア】<br>
 stagecrowd：https://stagecrowd.live/s/live000/?ima=5439<br><br>
 【チケットのご購入はこちら】<br>
-https://nanabunnonijyuuni-mobile.com/s/live040/?ima=2659<br><br>
+https://nanabunnonijyuuni-mobile.com/s/live040/?ima=2659<br>
+</blockquote>
+</p>  
+  </div>
+</section>
 
-<p><blockquote>流程 Rundown<br>
+<section class="accordion">
+  <input type="checkbox" name="collapse" id="handle1">
+  <h4 class="handle">
+    <label for="handle1">
+    流程 Rundown
+    </label>
+  </h4>
+  
+  <div class="content">
+    <p>
+<blockquote>
 半チャーハン MV<br>
 Opening<br>
 1. 風は吹いてるか？<br>
@@ -53,7 +78,10 @@ MC<br>
 25. 空のエメラルド(11ver.)<br>
 MC<br>
 26. 11人が集まった理由<br>
-</blockquote></p>
+</blockquote>
+</p>
+  </div>
+</section>
 
 Live<br>
 ^ The online streaming service unavailable as file exceeds 2GB.

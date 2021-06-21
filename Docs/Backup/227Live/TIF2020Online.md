@@ -6,14 +6,39 @@ Date: 2Oct,2020<br>
 
 <a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni.com/s/n129/news/detail/10015?ima=5408">Official New</a>
 
->世界最大級のアイドルフェス「TOKYO IDOL FESTIVAL オンライン 2020」への出演が決定しました！<br>
+<section class="accordion">
+  <input type="checkbox" name="collapse" id="handle1">
+  <h4 class="handle">
+    <label for="handle1">
+    資訊 Information
+    </label>
+  </h4>
+  
+  <div class="content">
+    <p>
+<blockquote>
+世界最大級のアイドルフェス「TOKYO IDOL FESTIVAL オンライン 2020」への出演が決定しました！<br>
 是非チェックしてください！<br><br>
 TOKYO IDOL FESTIVAL オンライン 2020<br><br>
 【日程】   2020年10月2日（金）<br><br>
 【公式HP】<br>
 http://www.idolfes.com/2020/<br>
+</blockquote>
+</p>  
+  </div>
+</section>
 
-<p><blockquote>流程 Rundown<br>
+<section class="accordion">
+  <input type="checkbox" name="collapse" id="handle1">
+  <h4 class="handle">
+    <label for="handle1">
+    流程 Rundown
+    </label>
+  </h4>
+  
+  <div class="content">
+    <p>
+<blockquote>
 ^ 廣播體操 Radio Exercises<br>
 1. 何もしてあげられない<br>
 MC<br>
@@ -24,7 +49,10 @@ MC<br>
 MC<br>
 5. 韋駄天娘<br>
 Ending<br>
-</blockquote></p>
+</blockquote>
+</p>  
+  </div>
+</section>
 
 Live<br>
 <video width="100%" height="100%" controls>

@@ -6,7 +6,18 @@ Date: 29Aug,2020
 
 [Official New](http://www.nanabunnonijyuuni.com/news/archive/?521519)
 
->『＠JAM ONLINE FESTIVAL 2020』8月29日(土)に出演する22/7の出演メンバーは下記となります。<br><br>
+<section class="accordion">
+  <input type="checkbox" name="collapse" id="handle1">
+  <h4 class="handle">
+    <label for="handle1">
+    資訊 Information
+    </label>
+  </h4>
+  
+  <div class="content">
+    <p>
+<blockquote>
+『＠JAM ONLINE FESTIVAL 2020』8月29日(土)に出演する22/7の出演メンバーは下記となります。<br><br>
 海乃るり<br>
 河瀬詩<br>
 西條和<br>
@@ -16,14 +27,31 @@ Date: 29Aug,2020
 帆風千春<br><br>
 ※イベントの新型コロナウィルスガイドラインに則り、参加メンバーを上記7名とさせていただきます。<br>
 ※出演者は予告なく変更になる場合がございますので、予めご了承ください。<br>
+</blockquote>
+</p>  
+  </div>
+</section>
 
-<p><blockquote>表演曲目 Setlist<br>
+<section class="accordion">
+  <input type="checkbox" name="collapse" id="handle1">
+  <h4 class="handle">
+    <label for="handle1">
+    表演曲目 Setlist
+    </label>
+  </h4>
+  
+  <div class="content">
+    <p>
+<blockquote>
 1. 何もしてあげられない<br>
 2. 未来があるから<br>
 3. 韋駄天娘<br>
 4. 風は吹いてるか？<br>
 5. 循環バス<br>
-</blockquote></p>
+</blockquote>
+</p>
+  </div>
+</section>
 
 <video width="100%" height="100%" controls>
   <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20200829_22_7.JAM.ONLINE.FESTIVAL.2020.mp4" type="video/mp4">

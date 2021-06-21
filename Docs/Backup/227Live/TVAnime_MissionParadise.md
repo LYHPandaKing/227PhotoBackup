@@ -6,7 +6,18 @@ Date: 11Jan,2021
 
 <a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni.com/s/n129/news/detail/10166?ima=2413">Official New</a>
 
->ライブ配信詳細<br>
+<section class="accordion">
+  <input type="checkbox" name="collapse" id="handle1">
+  <h4 class="handle">
+    <label for="handle1">
+    資訊 Information
+    </label>
+  </h4>
+  
+  <div class="content">
+    <p>
+<blockquote>
+ライブ配信詳細<br>
  日時：<br>
 【昼公演】2021年1月11日(祝・月) 14時30分配信開始 (予定)<br>
 アーカイブ視聴期間終了: 2021年1月14日(木) 23時59分<br>
@@ -33,10 +44,24 @@ Date: 11Jan,2021
 その他詳細は「Streaming+ご利用ガイド」にてご確認ください<br>
 https://eplus.jp/sf/guide/streamingplus-userguide<br><br>
 【チケットに関するお問い合わせ】イープラス　http://eplus.jp/qa/<br>
-【公演に関するお問い合わせ】ショウゲート　http://sginfo.jp/<br><br>
+【公演に関するお問い合わせ】ショウゲート　http://sginfo.jp/<br>
+</blockquote>
+</p>  
+  </div>
+</section>
 
-<p><blockquote>日場：<br>
-流程 Rundown<br>
+日場：<br>
+<section class="accordion">
+  <input type="checkbox" name="collapse" id="handle1">
+  <h4 class="handle">
+    <label for="handle1">
+    流程 Rundown
+    </label>
+  </h4>
+  
+  <div class="content">
+    <p>
+<blockquote>
 Opening<br>
 1. ムズイ(11人ver.)<br>
 Short Anime<br>
@@ -64,7 +89,10 @@ Encore<br>
 Short Anime<br>
 15. 不確かな青春<br>
 16. やさしい記憶<br>
-</blockquote></p>
+</blockquote>
+</p>
+  </div>
+</section>
 
 ^ The online streaming service unavailable as file exceeds 2GB.<br>
 
@@ -81,8 +109,18 @@ Short Anime<br>
 </tr>
 </table>
 
-<p><blockquote>夜場：<br>
-流程 Rundown<br>
+夜場：<br>
+<section class="accordion">
+  <input type="checkbox" name="collapse" id="handle1">
+  <h4 class="handle">
+    <label for="handle1">
+    流程 Rundown
+    </label>
+  </h4>
+  
+  <div class="content">
+    <p>
+<blockquote>
 Opening<br>
 1. ムズイ(11人ver.)<br>
 Short Anime<br>
@@ -110,7 +148,10 @@ Encore<br>
 Short Anime<br>
 15. 願いの眼差し<br>
 16. 未来があるから<br>
-</blockquote></p>
+</blockquote>
+</p>  
+  </div>
+</section>
 
 ^ The online streaming service unavailable as file exceeds 2GB.<br>
 
