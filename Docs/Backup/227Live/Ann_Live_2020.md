@@ -17,7 +17,7 @@ Date: 20Sep,2020
   <div class="content">
     <p>
 <blockquote>
-<公演情報><br><br>
+公演情報<br><br>
 22/7 『Anniversary Live 2020』<br><br><br>
 【日程・時間】<br><br>
 昼公演<br><br>

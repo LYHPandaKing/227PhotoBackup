@@ -54,7 +54,7 @@ Date: 29Aug,2020
 </section>
 
 <video width="100%" height="100%" controls>
-  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20200829_22_7.JAM.ONLINE.FESTIVAL.2020.mp4" type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20200829_227_JAM_ONLINE_FESTIVAL_2020.mp4" type="video/mp4">
 </video>
 
 <table>

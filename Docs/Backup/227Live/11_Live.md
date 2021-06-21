@@ -17,7 +17,7 @@ Date: 13Nov,2020
   <div class="content">
     <p>
 <blockquote>
-<公演情報><br><br>
+公演情報<br><br>
 22/7『11』<br><br>
 【日程・時間】<br>
 2020年11月13日(金)<br>
@@ -119,7 +119,7 @@ FC Talk<br>
 </tr>
 <tr>
  <th>Live w/ FC Talk</th>
- <td><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1yK411G7Yp">CHS - Bilibili</a></td>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1yK411G7Yp">CHS - bilibili</a></td>
  <td>CHT (.ass)<a target="_blank" rel="noopener noreferrer" href="  "></a></td>
 </tr>
 <tr>

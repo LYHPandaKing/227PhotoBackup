@@ -84,7 +84,7 @@ Live w/ Radio Exercises<br>
 </tr>
 <tr>
  <th>Live w/ Radio Exercises</th>
- <th><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1PV41127Jc">Bilibili</a></th>
+ <th><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1PV41127Jc">CHS - bilibili</a></th>
  <th>CHT (.ass)<a target="_blank" rel="noopener noreferrer" href="  "></a></th>
 </tr>
 </table>
