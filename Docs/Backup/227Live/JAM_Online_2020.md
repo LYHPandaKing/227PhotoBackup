@@ -33,9 +33,9 @@ Date: 29Aug,2020
 </section>
 
 <section class="accordion">
-  <input type="checkbox" name="collapse" id="handle1">
+  <input type="checkbox" name="collapse" id="handle2">
   <h4 class="handle">
-    <label for="handle1">
+    <label for="handle2">
     表演曲目 Setlist
     </label>
   </h4>

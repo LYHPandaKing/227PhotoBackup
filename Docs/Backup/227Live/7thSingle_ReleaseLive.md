@@ -37,9 +37,9 @@ Date: 28Feb,2021
 
 日場：<br>
 <section class="accordion">
-  <input type="checkbox" name="collapse" id="handle1">
+  <input type="checkbox" name="collapse" id="handle2">
   <h4 class="handle">
-    <label for="handle1">
+    <label for="handle2">
     流程 Rundown
     </label>
   </h4>
@@ -95,9 +95,9 @@ Live w/ FC Talk<br>
 
 夜場：<br>
 <section class="accordion">
-  <input type="checkbox" name="collapse" id="handle1">
+  <input type="checkbox" name="collapse" id="handle3">
   <h4 class="handle">
-    <label for="handle1">
+    <label for="handle3">
     流程 Rundown
     </label>
   </h4>

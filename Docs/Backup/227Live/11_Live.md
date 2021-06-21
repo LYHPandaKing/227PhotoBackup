@@ -36,9 +36,9 @@ https://nanabunnonijyuuni-mobile.com/s/live040/?ima=2659<br>
 </section>
 
 <section class="accordion">
-  <input type="checkbox" name="collapse" id="handle1">
+  <input type="checkbox" name="collapse" id="handle2">
   <h4 class="handle">
-    <label for="handle1">
+    <label for="handle2">
     流程 Rundown
     </label>
   </h4>
