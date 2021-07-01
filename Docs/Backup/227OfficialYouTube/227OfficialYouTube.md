@@ -1,6 +1,10 @@
 ### 22/7 OFFICIAL YouTube CHANNEL
 ##### [Back](../YouTube_List.md)
 
+- [1stアルバム「11という名の永遠の素数」リリース記念イベント「復活定期公演“ナナニジライブ 2021”」](20210630_NananijiLive.md)<br>
+Date: 30Jun,2021<br>
+<img src="../../../Img/227OfficialYouTube/20210630_NananijiLive.jpg" width="50%">
+
 - [22/7『ヒヤシンス』music video](20210628_Hyacinth_MV.md)<br>
 Date: 28Jun,2021<br>
 <img src="../../../Img/227OfficialYouTube/20210628_Hyacinth_MV.jpg" width="50%">
@@ -33,22 +37,22 @@ Date: 1Sep,2020<br>
 Date: 20Aug,2020<br>
 <img src="../../../Img/227OfficialYouTube/20200820_Seiyu_Rohoku_BunfukuChagama.jpg" width="50%">
 
-[22/7 #せいゆうろうどくかい 「おおかみと七ひきのこどもやぎ」](20200806_Seiyu_Rohoku_Wolfn7Goats.md)<br>
+- [22/7 #せいゆうろうどくかい 「おおかみと七ひきのこどもやぎ」](20200806_Seiyu_Rohoku_Wolfn7Goats.md)<br>
 Date: 6Aug,2020<br>
 <img src="../../../Img/227OfficialYouTube/20200806_Seiyu_Rohoku_Wolfn7Goats.jpg" width="50%">
 
-[22/7 #せいゆうろうどくかい 「雨あがり」](20200723_Seiyu_Rohoku_Aftertherain.md)<br>
+- [22/7 #せいゆうろうどくかい 「雨あがり」](20200723_Seiyu_Rohoku_Aftertherain.md)<br>
 Date: 23Jul,2020<br>
 <img src="../../../Img/227OfficialYouTube/20200723_Seiyu_Rohoku_Aftertherain.jpg" width="50%">
 
-[22/7 『風は吹いてるか？』dance video](20200722_dancevideo.md)<br>
+- [22/7 『風は吹いてるか？』dance video](20200722_dancevideo.md)<br>
 Date: 22Jul,2020<br>
 <img src="../../../Img/227OfficialYouTube/20200722_dancevideo.jpg" width="50%">
 
-[ナナニジ オンラインフェス2020](20200722_live.md)<br>
+- [ナナニジ オンラインフェス2020](20200722_live.md)<br>
 Date: 22Jul,2020<br>
 <img src="../../../Img/227OfficialYouTube/20200722_YT_Live.jpg" width="50%">
 
-[22/7 5thシングル「ムズイ」発売記念スペシャル無観客ライブ（2020.2.27 Zepp Tokyo）ダイジェスト映像](20200630_Summary.md)<br>
+- [22/7 5thシングル「ムズイ」発売記念スペシャル無観客ライブ（2020.2.27 Zepp Tokyo）ダイジェスト映像](20200630_Summary.md)<br>
 Date: 30Jun,2020<br>
 <img src="../../../Img/227OfficialYouTube/20200630_Summary.jpg" width="50%">
