@@ -5,7 +5,7 @@
 Date: 30Jun,2021<br>
 <img src="../../../Img/227Related/20210630_PLATLIST.jpg" width="50%">
 
-- [テレビ東京『プレミアMelodiX!』](プレミアMelodiX!.md)<br>
+- [テレビ東京『プレミアMelodiX!』](20210629_PremierMelodiX.md)<br>
 Date: 29Jun,2021<br>
 <img src="../../../Img/227Related/20210629_PremierMelodiX.jpg" width="50%">
 

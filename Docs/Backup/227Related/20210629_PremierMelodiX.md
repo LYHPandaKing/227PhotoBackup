@@ -2,7 +2,7 @@
 ##### [Back](227Related.md)
 
 Date: 29Jun,2021<br>
-<img src="../../../Img/227OfficialYouTube/20210629_PremierMelodiX.jpg" width="70%">
+<img src="../../../Img/227Related/20210629_PremierMelodiX.jpg" width="70%">
 
 <video width="100%" height="100%" controls>
   <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Related_Videos/20210629_PremierMelodiX.mp4" type="video/mp4">
