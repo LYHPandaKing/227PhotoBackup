@@ -1,11 +1,22 @@
 ### 22/7 相關影片 Related Videos
 ##### [Back](../../../readme.md)
 
-- [アニメ・ゲーム特化型情報バラエティー「アニバコ」](20200919_AnimenGameInfo.md)  
-<img src="../../../Img/227Related/アニメ・ゲーム特化型情報バラエティー「アニバコ」.jpg" width="50%">
+- [TBSテレビ『PLAYLIST』](20210630_PLATLIST.md)<br>
+Date: 30Jun,2021<br>
+<img src="../../../Img/227Related/20210630_PLATLIST.jpg" width="50%">
 
-- [【アニメ女子】22/7の天城サリーがハイキュー!!の名言を語りつくす!?｜〇〇女子](20200829_Sally.md)  
-<img src="../../../Img/227Related/【アニメ女子】227の天城サリーがハイキュー!!の名言を語りつくす!｜〇〇女子.jpg" width="50%">
+- [テレビ東京『プレミアMelodiX!』](プレミアMelodiX!.md)<br>
+Date: 29Jun,2021<br>
+<img src="../../../Img/227Related/20210629_PremierMelodiX.jpg" width="50%">
 
-- [【帆風千春】１時間空きました～無料おまけ～【＃７】](20200731_Nicovideo_Chiharu.md)  
-<img src="../../../Img/227Related/【帆風千春】１時間空きました～無料おまけ～【＃７】.jpg" width="50%">
+- [アニメ・ゲーム特化型情報バラエティー「アニバコ」](20200919_AnimenGameInfo.md)<br>
+Date: 19Sep,2020<br>
+<img src="../../../Img/227Related/20200919_AnimenGameInfo.jpg" width="50%">
+
+- [【アニメ女子】22/7の天城サリーがハイキュー!!の名言を語りつくす!?｜〇〇女子](20200829_227.AmakiSally.The_best_quotes.md)<br>
+Date: 29Sep,2020<br>
+<img src="../../../Img/227Related/20200829_227.AmakiSally.The_best_quotes.jpg" width="50%">
+
+- [【帆風千春】１時間空きました～無料おまけ～【＃７】](20200731_Nicovideo_Chiharu.md)<br>
+Date: 31Jul,2020<br>
+<img src="../../../Img/227Related/20200731_Nicovideo_Chiharu.jpg" width="50%">
