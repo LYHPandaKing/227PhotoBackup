@@ -7,7 +7,7 @@ Also, provide useful information about 22/7. Please feel free to download and us
 
 Project started in May/2020<br>
 
-**最後更新日期 Last Update: 1Jul,2021 13:54 (HKT)**
+**最後更新日期 Last Update: 6Jul,2021 21:52 (HKT)**
 
 ### 相簿 Album
 - [出道前 Pre-Debut](Docs/Album/PreDebut.md)
@@ -56,7 +56,7 @@ Project started in May/2020<br>
 - [22/7 日曆 Calender](Docs/Calendar.md)
 - [22/7 官方商店 Official Online Store](Docs/OfficialStore.md)
 <br><br>
-- [Aniplex Online Fest](Docs/Backup/Aniplex_Online_Fest/AniplexFest_List.md)
+- [Aniplex Online Fest](Docs/Backup/Aniplex_Online_Fest/AOF_List.md)
 
 ### [鳴謝 Credit](Docs/Credit.md)
 
