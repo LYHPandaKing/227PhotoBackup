@@ -1,7 +1,7 @@
 ### Aniplex Online Fest 2021
 ##### [Back](../AOF_List.md)
 
-<img src="../../../../Img/Aniplex%20Online%20Fest/mv_logo.png" width="vw"><br>
+<img src="../../../../Img/Aniplex%20Online%20Fest/AOF2021/mv_logo.png" width="vw"><br>
 [Official Site](https://aniplex-online-fest.com/)
 
 #### [オープニング<br>Opening Movie](AOF2021_OpeningMovie.md)
