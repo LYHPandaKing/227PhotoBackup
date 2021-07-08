@@ -35,6 +35,9 @@
   <th><a href="#NanaNijiTheater_Stage1_2">ナナニジシアター Stage.01 なにわの探偵②</a></th>
   <th><a href="#Update_20210618">日常更新</a></th>
 </tr>
+<tr>
+  <th><a href="#WishToTheStars_BridgeToHeaven ">星に願いを 天に架け橋を</a></th>
+</tr>
 </table>
 
 #### 22/7 音楽の時間  翻唱歌曲 Cover Songs
@@ -740,5 +743,20 @@ Date: 18Jun,2021
 <img src="../../Img/Music/Nanaon_Cover/jacket_13200055.png" width="35%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/55.%20君のせい.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+<hr>
+<a name="Update_20210618"></a>
+#### 星に願いを 天に架け橋を
+Date: 28Jun,2021
+
+**56. めてお☆いんぱくと**<br>
+戸田ジュン（CV. 海乃るり）<br>
+<br>
+原唱: メルル（田村ゆかり） / 《我的妹妹哪有這麼可愛！》第二季 插入曲<br>
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200056.png" width="35%"><br>
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/56.%20めてお☆いんぱくと.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
