@@ -1,6 +1,10 @@
 ### 22/7 OFFICIAL YouTube CHANNEL
 ##### [Back](../YouTube_List.md)
 
+- [22/7 復活定期公演「ナナニジライブ 2021」～あの日の彼女たち～ (2021.06.30)](20210707_NananijiLive_TheGirlsOfThatDay.md)<br>
+Date: 7Jul,2021<br>
+<img src="../../../Img/227OfficialYouTube/20210707_NananijiLive_TheGirlsOfThatDay.jpg" width="50%">
+
 - [1stアルバム「11という名の永遠の素数」リリース記念イベント「復活定期公演“ナナニジライブ 2021”」](20210630_NananijiLive.md)<br>
 Date: 30Jun,2021<br>
 <img src="../../../Img/227OfficialYouTube/20210630_NananijiLive.jpg" width="50%">
