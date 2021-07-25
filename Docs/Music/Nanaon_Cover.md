@@ -37,7 +37,13 @@
 </tr>
 <tr>
   <th><a href="#WishToTheStars_BridgeToHeaven">星に願いを 天に架け橋を</a></th>
+  <th><a href="#NanaNijiTheater_Stage1_3">ナナニジシアター Stage.01 なにわの探偵③</a></th>
 </tr>
+<!--
+<tr>
+  <th><a href="#Leisure_Treasure_PoolsideHunting">レジャー！トレジャー！！プールサイドハンティング！！！</a></th>
+</tr>
+-->
 </table>
 
 #### 22/7 音楽の時間  翻唱歌曲 Cover Songs
@@ -760,3 +766,57 @@ Date: 28Jun,2021
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/56.%20めてお☆いんぱくと.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
+
+<hr>
+<a name="NanaNijiTheater_Stage1_3"></a>
+#### ナナニジシアター Stage.01 なにわの探偵③
+Date: 14Jul,2021
+
+**57. TRUTH〜A Great Detective of Love〜**<br>
+河野都（CV. 倉岡水巴）<br>
+<br>
+原唱: TWO-MIX / 《名偵探柯南》OP5<br>
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200057.png" width="35%"><br>
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/57.%20TRUTH〜A%20Great%20Detective%20of%20Love〜.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+<!--
+<hr>
+<a name="Leisure_Treasure_PoolsideHunting"></a>
+#### レジャー！トレジャー！！プールサイドハンティング！！！
+Date: 26Jul,2021
+
+**58. glory days**<br>
+斎藤ニコル（CV. 河瀬詩）<br>
+<br>
+原唱: 春奈るな / 《不起眼女主角培育法Fine》主題曲<br>
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200058.png" width="35%"><br>
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/58.%20glory%20days.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**59. オレンジ**<br>
+立川絢香（CV. 宮瀬玲奈）<br>
+<br>
+原唱: 7!! / 《四月是你的謊言》ED2<br>
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200059.png" width="35%"><br>
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/59.%20オレンジ.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+Date: 2Aug,2021
+
+**60. 1/2**<br>
+柊つぼみ（CV. 武田愛奈）<br>
+<br>
+原唱: 川本真琴 / 川本真琴第3張單曲<br>
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200060.png" width="35%"><br>
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/60.%201_2.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+-->
