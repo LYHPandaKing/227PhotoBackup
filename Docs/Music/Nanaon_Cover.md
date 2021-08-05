@@ -39,11 +39,9 @@
   <th><a href="#WishToTheStars_BridgeToHeaven">星に願いを 天に架け橋を</a></th>
   <th><a href="#NanaNijiTheater_Stage1_3">ナナニジシアター Stage.01 なにわの探偵③</a></th>
 </tr>
-<!--
 <tr>
   <th><a href="#Leisure_Treasure_PoolsideHunting">レジャー！トレジャー！！プールサイドハンティング！！！</a></th>
 </tr>
--->
 </table>
 
 #### 22/7 音楽の時間  翻唱歌曲 Cover Songs
@@ -782,7 +780,6 @@ Date: 14Jul,2021
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-<!--
 <hr>
 <a name="Leisure_Treasure_PoolsideHunting"></a>
 #### レジャー！トレジャー！！プールサイドハンティング！！！
@@ -819,4 +816,3 @@ Date: 2Aug,2021
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/60.%201_2.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
--->
