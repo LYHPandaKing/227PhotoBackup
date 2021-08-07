@@ -19,10 +19,11 @@
 us195 (960x540) : https://cdn.us195.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8<br>
 jpth10 (960x540) : https://cdn.jpth10.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8<br>
 2103 (640x360) : http://redlabmcdn.s.llnwi.net/jp01/ryowa8/index.m3u8<br>
+2108 (960x540) : http://1.179.247.11:1935/jptv/kanto_tokyo_mx1_540/playlist.m3u8
 -->
 
   <video width="70%" height="70%" id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"  data-setup='{}'>
-    <source src="http://redlabmcdn.s.llnwi.net/jp01/ryowa8/index.m3u8" type="application/x-mpegURL">
+    <source src="http://1.179.247.11:1935/jptv/kanto_tokyo_mx1_540/playlist.m3u8" type="application/x-mpegURL">
   <p>Your browser does not support this HLS element.</p>
   </video>
 
