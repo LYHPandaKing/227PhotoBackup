@@ -186,7 +186,7 @@ Date: 26May,2021<br>
 【完全生産限定盤A】<br>
 **01. One of them**<br>
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/Album_01_An%20Eternal%20Prime%20Number%20Named%2011/CompleteA/01.%20One%20Oof%20Othem.mp3"></source>
+  <source type="audio/mp3" src="../../Music/Album_01_An%20Eternal%20Prime%20Number%20Named%2011/CompleteA/01.%20One%20of%20them.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
@@ -228,13 +228,13 @@ Date: 26May,2021<br>
 
 **08. 孤独は嫌いじゃない**<br>
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/Album_01_An%20Eternal%20Prime%20Number%20Named%2011/CompleteA/08.%20孤独は嫌いじゃない.mp3"></source>
+  <source type="audio/mp3" src="../../Music/Album_01_An%20Eternal%20Prime%20Number%20Named%2011/CompleteA/09.%20孤独は嫌いじゃない.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
 **09. 神様に指を差された僕たち**<br>
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/Album_01_An%20Eternal%20Prime%20Number%20Named%2011/CompleteA/09.%20神様に指を差された僕たち.mp3"></source>
+  <source type="audio/mp3" src="../../Music/Album_01_An%20Eternal%20Prime%20Number%20Named%2011/CompleteA/08.%20神様に指を差された僕たち.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
@@ -247,7 +247,7 @@ Date: 26May,2021<br>
 
 **02. To goでよろしく！**<br>
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/Album_01_An%20Eternal%20Prime%20Number%20Named%2011/CompleteB/02.%20To%20goでよろしく！.mp3"></source>
+  <source type="audio/mp3" src="../../Music/Album_01_An%20Eternal%20Prime%20Number%20Named%2011/CompleteB/06.%20To%20goでよろしく！.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
@@ -271,19 +271,19 @@ Date: 26May,2021<br>
 
 **06. 好きになるのは自由だし…**<br>
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/Album_01_An%20Eternal%20Prime%20Number%20Named%2011/CompleteB/06.%20好きになるのは自由だし….mp3"></source>
+  <source type="audio/mp3" src="../../Music/Album_01_An%20Eternal%20Prime%20Number%20Named%2011/CompleteB/02.%20好きになるのは自由だし….mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
 **07. キウイの主張 (白組)**<br>
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/Album_01_An%20Eternal%20Prime%20Number%20Named%2011/CompleteB/07.%20キウイの主張%20(白組).mp3"></source>
+  <source type="audio/mp3" src="../../Music/Album_01_An%20Eternal%20Prime%20Number%20Named%2011/CompleteB/08.%20キウイの主張%20(白組).mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
 **08. 雷鳴のDelay (紅組)**<br>
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/Album_01_An%20Eternal%20Prime%20Number%20Named%2011/CompleteB/08.%20雷鳴のDelay%20(紅組).mp3"></source>
+  <source type="audio/mp3" src="../../Music/Album_01_An%20Eternal%20Prime%20Number%20Named%2011/CompleteB/07.%20雷鳴のDelay%20(紅組).mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
