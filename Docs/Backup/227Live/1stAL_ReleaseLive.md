@@ -23,56 +23,45 @@ Date: 22Jul,2021
 2Jul: 天城サリー<br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../../Resources/1stAL_Tour2021/a1.mp3"></source>
-  <p>Your browser does not support the audio element.</p>
 </audio><br>
 3Jul: 西條和<br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../../Resources/1stAL_Tour2021/a4.mp3"></source>
-  <p>Your browser does not support the audio element.</p>
 </audio><br>
 5Jul: 倉岡水巴<br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../../Resources/1stAL_Tour2021/a3.mp3"></source>
-  <p>Your browser does not support the audio element.</p>
 </audio><br>
 7Jul: 宮瀬玲奈<br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../../Resources/1stAL_Tour2021/a11.mp3"></source>
-  <p>Your browser does not support the audio element.</p>
 </audio><br>
 11Jul: 高辻麗<br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../../Resources/1stAL_Tour2021/a7.mp3"></source>
-  <p>Your browser does not support the audio element.</p>
 </audio><br>
 13Jul: 河瀬詩<br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../../Resources/1stAL_Tour2021/a12.mp3"></source>
-  <p>Your browser does not support the audio element.</p>
 </audio><br>
 14Jul: 武田愛奈<br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../../Resources/1stAL_Tour2021/a8.mp3"></source>
-  <p>Your browser does not support the audio element.</p>
 </audio><br>
 15Jul: 白沢かなえ<br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../../Resources/1stAL_Tour2021/a5.mp3"></source>
-  <p>Your browser does not support the audio element.</p>
 </audio><br>
 17Jul: 海乃るり<br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../../Resources/1stAL_Tour2021/a2.mp3"></source>
-  <p>Your browser does not support the audio element.</p>
 </audio><br>
 19Jul: 西條和<br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../../Resources/1stAL_Tour2021/a6.mp3"></source>
-  <p>Your browser does not support the audio element.</p>
 22Jul: 22/7<br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../../Resources/1stAL_Tour2021/a227.mp3"></source>
-  <p>Your browser does not support the audio element.</p>
 </audio><br>
 </p>
   </div>
