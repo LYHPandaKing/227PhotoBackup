@@ -1,6 +1,10 @@
 ﻿### 22/7 Live
 ##### [Back](../../../readme.md)
 
+- [1st アルバム『11という名の永遠の素数』リリースTour 2021](1stAL_ReleaseLive.md)<br>
+Date: 22Jul,2021<br>
+<img src="../../../Img/227Live/img_1stAL_ReleaseLive.png" width="50%">
+
 - [「僕が持ってるものなら」発売記念LIVE](7thSingle_ReleaseLive.md)<br>
 Date: 28Feb,2021<br>
 <img src="../../../Img/227Live/img_7thSingle_ReleaseLive.png" width="50%">
