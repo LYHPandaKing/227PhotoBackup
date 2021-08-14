@@ -59,6 +59,7 @@ Date: 22Jul,2021
 19Jul: 西條和<br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../../Resources/1stAL_Tour2021/a6.mp3"></source>
+</audio><br>
 22Jul: 22/7<br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../../Resources/1stAL_Tour2021/a227.mp3"></source>
