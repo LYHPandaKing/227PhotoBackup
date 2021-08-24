@@ -41,6 +41,7 @@
 </tr>
 <tr>
   <th><a href="#Leisure_Treasure_PoolsideHunting">レジャー！トレジャー！！プールサイドハンティング！！！</a></th>
+  <th><a href="#Update_20210823">日常更新</a></th>
 </tr>
 </table>
 
@@ -814,5 +815,35 @@ Date: 2Aug,2021
 <img src="../../Img/Music/Nanaon_Cover/jacket_13200060.png" width="35%"><br>
 <audio controls="controls">
   <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/60.%201_2.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+<hr>
+<a name="Update_20210823"></a>
+#### 日常更新
+Date: 23Aug,2021
+
+**61. スケッチスイッチ**<br>
+河野都（CV. 倉岡水巴）<br>
+斎藤ニコル（CV. 河瀬詩）<br>
+東条悠希（CV. 高辻麗）<br>
+柊つぼみ（CV. 武田愛奈）<br>
+<br>
+原唱: 阿澄佳奈、水橋かおり、新谷良子、後藤邑子 / 《向陽素描》OP<br>
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200061.png" width="35%"><br>
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/61.%20スケッチスイッチ.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+**62. secret base 〜君がくれたもの〜**<br>
+滝川みう（CV. 西條和）<br>
+戸田ジュン（CV. 海乃るり）<br>
+藤間桜（CV. 天城サリー）<br>
+<br>
+原唱: ZONE / ZONE第3張單曲<br>
+<img src="../../Img/Music/Nanaon_Cover/jacket_13200062.png" width="35%"><br>
+<audio controls="controls">
+  <source type="audio/mp3" src="../../Music/227%20Ongaku%20no%20Jikan/Cover%20Songs/62.%20secret%20base%20〜君がくれたもの〜.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
