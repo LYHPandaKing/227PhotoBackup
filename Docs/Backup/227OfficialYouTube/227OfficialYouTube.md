@@ -1,6 +1,10 @@
 ### 22/7 OFFICIAL YouTube CHANNEL
 ##### [Back](../YouTube_List.md)
 
+- [22/7『11という名の永遠の素数 Release Tour 2021』昼公演ダイジェスト＠Zepp DiverCity（2021.07.22）](20210830_1stALReleaseLive_DayPerformance.md)<br>
+Date: 30Aug,2021<br>
+<img src="../../../Img/227OfficialYouTube/20210830_1stALReleaseLive_DayPerformance.jpg" width="50%">
+
 - [かなえるPROJECT ～あいなっちと双子コーデでバンジージャンプ～](20210822_KanaeruPROJECT_BungeeJumping.md)<br>
 Date: 22Aug,2021<br>
 <img src="../../../Img/227OfficialYouTube/20210822_KanaeruPROJECT_BungeeJumping.jpg" width="50%">
