@@ -1,6 +1,42 @@
 ### 22/7 OFFICIAL YouTube CHANNEL
 ##### [Back](../YouTube_List.md)
 
+- [かなえるPROJECT ～あいなっちと双子コーデでバンジージャンプ～](20210822_KanaeruPROJECT_BungeeJumping.md)<br>
+Date: 22Aug,2021<br>
+<img src="../../../Img/227OfficialYouTube/20210822_KanaeruPROJECT_BungeeJumping.jpg" width="50%">
+
+- [かなえるPROJECT ～みずはんとバカッコイイ動画を撮りたい～](20210821_KanaeruPROJECT_CoolVideo.md)<br>
+Date: 21Aug,2021<br>
+<img src="../../../Img/227OfficialYouTube/20210821_KanaeruPROJECT_CoolVideo.jpg" width="50%">
+
+- [かなえるPROJECT ～うたちゃんと江ノ島で共通点探しの旅～](20210820_KanaeruPROJECT_Enoshima.md)<br>
+Date: 20Aug,2021<br>
+<img src="../../../Img/227OfficialYouTube/20210820_KanaeruPROJECT_Enoshima.jpg" width="50%">
+
+- [かなえるPROJECT ～もえちゃんとドッグカフェで癒されたい～](20210819_KanaeruPROJECT_DogCafe.md)<br>
+Date: 19Aug,2021<br>
+<img src="../../../Img/227OfficialYouTube/20210819_KanaeruPROJECT_DogCafe.jpg" width="50%">
+
+- [22/7 生放送の時間 vol.11～ナナオン夏の陣～](20210724_Namahousounjikan_Vol11.md)<br>
+Date: 24Jul,2021<br>
+<img src="../../../Img/227OfficialYouTube/20210724_Namahousounjikan_Vol11.jpg" width="50%">
+
+- [22/7『タチツテトパワー』夜公演＠PACIFICO Yokohama（2021.02.28）](20210720_TachitsutetoPower_@PACIFICO_Yokohama.md)<br>
+Date: 20Jul,2021<br>
+<img src="../../../Img/227OfficialYouTube/20210720_TachitsutetoPower_@PACIFICO_Yokohama.jpg" width="50%">
+
+- [超!A&G+『くらてん！～1stアルバム「11という名の永遠の素数」発売記念スペシャル～』](20210716_Kuraten_1stALRelease_Special.md)<br>
+Date: 16Jul,2021<br>
+<img src="../../../Img/227OfficialYouTube/20210716_Kuraten_1stALRelease_Special.jpg" width="50%">
+
+- [22/7 紅組『雷鳴のDelay』夜公演＠PACIFICO Yokohama（2021.02.28）](20210715_RaimeinoDelay_@PACIFICO_Yokohama.md)<br>
+Date: 15Jul,2021<br>
+<img src="../../../Img/227OfficialYouTube/20210715_RaimeinoDelay_@PACIFICO_Yokohama.jpg" width="50%">
+
+- [22/7 白組『キウイの主張』夜公演＠PACIFICO Yokohama（2021.02.28）](20210714_KiwinoShuchoShirogumi_@PACIFICO_Yokohama.md)<br>
+Date: 14Jul,2021<br>
+<img src="../../../Img/227OfficialYouTube/20210714_KiwinoShuchoShirogumi_@PACIFICO_Yokohama.jpg" width="50%">
+
 - [22/7 復活定期公演「ナナニジライブ 2021」～あの日の彼女たち～ (2021.06.30)](20210707_NananijiLive_TheGirlsOfThatDay.md)<br>
 Date: 7Jul,2021<br>
 <img src="../../../Img/227OfficialYouTube/20210707_NananijiLive_TheGirlsOfThatDay.jpg" width="50%">
