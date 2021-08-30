@@ -106,7 +106,7 @@ https://nana-comi.com/community_details/faAGHO70RFeCjbGxJWj1/0<br><br>
 </section>
 
 <video width="100%" height="100%" controls>
-  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_OfficialYouTube/20210715_RaimeinoDelay_@PACIFICO_Yokohama.mp4" type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_OfficialYouTube/20210714_KiwinoShuchoShirogumi_@PACIFICO_Yokohama.mp4" type="video/mp4">
 </video>
 
 <table>
