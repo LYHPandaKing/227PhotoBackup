@@ -3,7 +3,7 @@
 
 - [22/7 ANNIVERSARY ONLINE 2021](Ann_Online_2021.md)<br>
 Date: 20Sep,2021<br>
-<img src="../../../Img/227Live/img_live_AnniversaryOnline2021.png" width="50%">
+<img src="../../../Img/227Live/img_live_AnniversaryOnline2021.jpg" width="50%">
 
 - [JAM EXPO 2020-2021](JAM_Expo_2021.md)<br>
 Date: 28Aug,2021<br>
