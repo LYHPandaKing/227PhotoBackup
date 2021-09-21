@@ -7,7 +7,7 @@ Also, provide useful information about 22/7. Please feel free to download and us
 
 Project started in May/2020<br>
 
-**最後更新日期 Last Update: 14Sep,2021 18:08 (HKT)**
+**最後更新日期 Last Update: 21Sep,2021 10:12 (HKT)**
 
 ### 相簿 Album
 - [出道前 Pre-Debut](Docs/Album/PreDebut.md)
@@ -17,8 +17,8 @@ Project started in May/2020<br>
 - [22/7 音楽の時間 Ongaku no Jikan](Docs/Album/Nanaon/Nanaon.md)
 <br><br>
 - [天城サリー Amaki Sally](Docs/Album/AmakiSally/AmakiSally.md)
-- [花川芽衣 Hanakawa Mei](Docs/Album/HanakawaMei/HanakawaMei.md)
-- [帆風千春 Hokaze Chiharu](Docs/Album/HokazeChiharu/HokazeChiharu.md)
+- [花川芽衣 Hanakawa Mei](Docs/Album/HanakawaMei/HanakawaMei.md) > 浅倉唯 Asakura Yui
+- [帆風千春 Hokaze Chiharu](Docs/Album/HokazeChiharu/HokazeChiharu.md) > 千春 Chiharu
 - [河瀬詩 Kawase Uta](Docs/Album/KawaseUta/KawaseUta.md)
 - [倉岡水巴 Kuraoka Mizuha](Docs/Album/KuraokaMizuha/KuraokaMizuha.md)
 - [宮瀬玲奈 Miyase Reina](Docs/Album/MiyaseReina/MiyaseReina.md)
