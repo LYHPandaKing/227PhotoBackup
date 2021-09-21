@@ -17,9 +17,46 @@ Date: 20Sep,2021
   <div class="content">
     <p>
 <blockquote>
-9/20（月･祝）に「ANNIVERSARY ONLINE 2021」と題してYouTubeLiveの配信が決定しました！<br>
-パフォーマンスとともに新情報もお届けします！<br>
-お楽しみに！<br><br>
+【9/27(月)23:59まで】9/20(月祝)配信「ANNIVERSARY ONLINE 2021」一週間限定アーカイブ配信中！<br>
+【9/21(火)23:59まで】Sony Music Shopにて限定特典付きCD予約販売中！ https://www.sonymusicshop.jp/m/arti/artiItm.php?site=S&cd=70008757<br><br>
+==================<br><br>
+【公演情報】<br><br>
+22/7「ANNIVERSARY ONLINE 2021」<br>
+配信日：9月20日（月･祝）18:00 START<br><br>
+＜セットリスト＞<br>
+～Overture～<br>
+01. 僕は存在していなかった<br>
+02. シャンプーの匂いがした<br>
+03. 理解者<br>
+04. 何もしてあげられない<br>
+05. ムズイ<br>
+06. 風は吹いてるか？ <br>
+07. 僕が持ってるものなら<br><br>
+==================<br><br>
+【22/7 新メンバーオーディション情報】<br><br>
+22/7の新メンバーオーディションを開催<br>
+応募期間：2021年9月20日(月・祝)20:00～2021年10月19日(火)17:00<br>
+オーデイションHP https://nanabunnonijyuuni.com/s/n129/page/new-member-audition<br><br>
+==================<br><br>
+【新公演情報】<br><br>
+22/7「ANNIVERSARY LIVE 2021」<br>
+日程：11月14日(日) 昼公演　開場13:00／開演　14:00　夜公演　開場　17:00／開演18:00<br>
+会場：東京国際フォーラム ホールA<br><br>
+★ファンクラブ先行受付はコチラ！<br>
+https://nanabunnonijyuuni-mobile.com/s/n110/page/anniversary-live-2021<br><br>
+==================<br><br>
+【22/7 1st写真集（タイトル未定）詳細】<br><br>
+発売日：2021年12月23日（木）<br>
+体裁：A4判・オールカラー128ページ<br>
+定価：3,200円（+税）<br>
+撮影：藤本和典・Marco Perboni<br>
+編集：声優グランプリ<br>
+各書店・専門店にて予約受付開始！　https://seigura.com/magazine_books/71946/<br><br>
+==================<br><br>
+■22/7 8th SINGLE『タイトル未定』2021年11月24日発売！<br>
+https://227.lnk.to/20211124<br><br>
+完全生産限定盤A・BのBlu-rayには、『11という名の永遠の素数Release Tour 2021』Zepp DiverCity(TOKYO)昼夜公演をそれぞれ収録！<br>
+また初回生産限定盤には、『11という名の永遠の素数Release Tour 2021』の裏側に密着したドキュメント映像も収録予定！<br><br>
 22/7「ANNIVERSARY ONLINE 2021」<br><br>
 9/20（月･祝）18:00 START<br>
 22/7 オフィシャルYouTubeチャンネル　https://youtu.be/QCE5rnZ-2LU<br><br>
