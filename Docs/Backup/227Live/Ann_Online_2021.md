@@ -43,7 +43,16 @@ Date: 20Sep,2021
     <p>
 <blockquote>
 Opening<br>
-1. ???<br>
+1. 僕は存在していなかった<br>
+MC<br>
+2. シャンプーの匂いがした<br>
+3. 理解者<br>
+4. 何もしてあげられない<br>
+MC<br>
+5. ムズイ<br>
+6. 風は吹いてるか？<br>
+MC<br>
+7. 僕が持ってるものなら<br>
 </blockquote>
 </p>
   </div>
