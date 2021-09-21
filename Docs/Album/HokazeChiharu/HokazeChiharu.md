@@ -2,6 +2,6 @@
 [![twitter_@c_hokaze227](../../../Img/Icon_Twitter_Mem.PNG){: height="30"}](https://twitter.com/c_hokaze227) [![twitter_@_satoreika](../../../Img/Icon_Twitter_Char.PNG){: height="30"}](https://twitter.com/_satoreika) [![instagram_@c_rurun410](../../../Img/Icon_Instagram.PNG){: height="30"}](https://www.instagram.com/c_rurun410/)  [![youtube](../../../Img/Icon_Youtube_Char.PNG){: height="30"}](https://www.youtube.com/channel/UC9E41LwRtQ2rFyNH3XsH3kQ) [![showroom_digital_idol_2](../../../Img/Icon_Showroom.PNG){: height="30"}](https://www.showroom-live.com/room/profile?room_id=87719) 
 ##### [Back](../../../readme.md)
 
-* 2021年9月起以「<a target="_blank" rel="noreferrer noopener" href="https://www.libera-japan.com/artist/asakurayui.php">千春 Chiharu</a>」加入響(HiBiKi)。
+* 2021年9月起以「<a target="_blank" rel="noreferrer noopener" href="https://hibiki-cast.jp/hibiki_f/961/">千春 Chiharu</a>」加入響(HiBiKi)。
 
 - [2017](Chiharu2017.md)
