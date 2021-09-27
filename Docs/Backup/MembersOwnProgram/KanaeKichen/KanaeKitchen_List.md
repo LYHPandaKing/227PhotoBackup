@@ -16,7 +16,7 @@
 
 <a name="Ep1-10"></a>
 #### [#2](Ep02.md)
-<img src="../../../../Img/MembersOwnProgram/KanaeKitchen_Ep02.png" width="50%">
+<img src="../../../../Img/MembersOwnProgram/20210923_KanaeKitchen_Ep02.png" width="50%">
 
 #### [#1](Ep01.md)
-<img src="../../../../Img/MembersOwnProgram/KanaeKitchen_Ep01.png" width="50%">
+<img src="../../../../Img/MembersOwnProgram/20210824_KanaeKitchen_Ep01.png" width="50%">
