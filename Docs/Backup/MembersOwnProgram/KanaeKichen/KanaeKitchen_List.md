@@ -1,5 +1,5 @@
 ### 白沢かなえのかなえるキッチン
-##### [Back](MembersOwnProgram_List.md)
+##### [Back](../MembersOwnProgram_List.md)
 
 <img src="../../../../Img/MembersOwnProgram/KanaeKitchen_Banner.png" width="vw">
 料理大好きな声優の白沢かなえが、毎月、旬な食材を使った料理をつくりながら、白沢かなえ自身も成長していく、お料理バラエティ番組！<br>
@@ -16,7 +16,7 @@
 
 <a name="Ep1-10"></a>
 #### [#2](Ep02.md)
-<img src="../../../../Img/MembersOwnProgram/KanaeKichen_Ep02.png" width="50%">
+<img src="../../../../Img/MembersOwnProgram/KanaeKitchen_Ep02.png" width="50%">
 
 #### [#1](Ep01.md)
-<img src="../../../../Img/MembersOwnProgram/KanaeKichen_Ep01.png" width="50%">
+<img src="../../../../Img/MembersOwnProgram/KanaeKitchen_Ep01.png" width="50%">
