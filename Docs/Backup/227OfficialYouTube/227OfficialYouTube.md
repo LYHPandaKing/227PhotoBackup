@@ -1,6 +1,10 @@
 ### 22/7 OFFICIAL YouTube CHANNEL
 ##### [Back](../YouTube_List.md)
 
+- [かなえるPROJECT ～なごみんとオリジナルブランド「SHIROSAI」プロデュース～](20210923_KanaeruPROJECT_OriginalBrand.md)<br>
+Date: 23Sep,2021<br>
+<img src="../../../Img/227OfficialYouTube/20210923_KanaeruPROJECT_OriginalBrand.jpg" width="50%">
+
 - [22/7『11という名の永遠の素数 Release Tour 2021』夜公演ダイジェスト＠Zepp DiverCity（2021.07.22）](20210831_1stALReleaseLive_EveningPerformance.md)<br>
 Date: 31Aug,2021<br>
 <img src="../../../Img/227OfficialYouTube/20210831_1stALReleaseLive_EveningPerformance.jpg" width="50%">
