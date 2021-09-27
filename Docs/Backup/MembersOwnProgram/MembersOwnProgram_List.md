@@ -1,5 +1,5 @@
 ### 22/7 成員冠名節目 Members Own Program
-##### [Back](readme.md)
+##### [Back](../../../readme.md)
 
 - 西條和のねむねむたいむ
 
