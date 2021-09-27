@@ -24,6 +24,7 @@ Twitter
 Other
 - <a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni.fandom.com/wiki/22/7_Wiki">22/7 Fandom Wiki</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://nanaon.fandom.com/wiki/Nanabunnonijyuuni:_Ongaku_no_Jikan_Wiki">22/7 Ongaku no Jikan Fandom Wiki</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://www.nananijinojikan.my.id/">Nananiji No Jikan (By 227IDFP)</a>
 - <a target="_blank" rel="noopener norrferrer" href="https://227.ouen.tw">22/7 粉絲同好會</a>
 - <a target="_blank" rel="noopener noreferrer" href="http://227cnwiki.com/wiki/%e9%a6%96%e9%a1%b5">22/7 中文 Wiki</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://yande.re/post">yande.re</a>
@@ -35,6 +36,5 @@ Other
 - <a target="_blank" rel="noopener noreferrer" href="https://space.bilibili.com/310812531/">bilibili - 网上商务模式</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://space.bilibili.com/942021">bilibili - VOCALOIDの生放送</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://space.bilibili.com/5471097/">bilibili - Amoyplane</a>
-<!--- - <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/spreadsheets/d/1WTivciQQNjgQg_e7i_2bT2AUOb9uE2gL7L9P8UZUs6c/">22/7 List File Download (By 227IDFP)</a> --->
-- <a target="_blank" rel="noopener noreferrer" href="https://www.nananijinojikan.my.id/">Nananiji No Jikan (By 227IDFP)</a>
-- <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/121gXCDH8lwlcEAQ0HDC338_QV1D5yqnH">22/7 Songs Compilation (By Aldair Stiph)</a>
+<!--- - <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/spreadsheets/d/1WTivciQQNjgQg_e7i_2bT2AUOb9uE2gL7L9P8UZUs6c/">22/7 List File Download (By 227IDFP)</a> 
+- <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/121gXCDH8lwlcEAQ0HDC338_QV1D5yqnH">22/7 Songs Compilation (By Aldair Stiph)</a> --->
