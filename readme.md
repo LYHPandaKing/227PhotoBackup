@@ -7,7 +7,7 @@ Also, provide useful information about 22/7. Please feel free to download and us
 
 Project started in May/2020<br>
 
-**最後更新日期 Last Update: 8Oct,2021 18:14 (HKT)**
+**最後更新日期 Last Update: 24Dec,2021 21:06 (HKT)**
 
 ### 相簿 Album
 - [出道前 Pre-Debut](Docs/Album/PreDebut.md)
@@ -27,7 +27,7 @@ Project started in May/2020<br>
 - [涼花萌 Suzuhana Moe](Docs/Album/SuzuhanaMoe/SuzuhanaMoe.md)
 - [高辻麗 Takatsuji Urara](Docs/Album/TakatsujiUrara/TakatsujiUrara.md)
 - [武田愛奈 Takeda Aina](Docs/Album/TakedaAina/TakedaAina.md)
-- [海乃るり Umino Ruri](Docs/Album/UminoRuri/UminoRuri.md)
+- [海乃るり Umino Ruri](Docs/Album/UminoRuri/UminoRuri.md) > 吉宮瑠織
 
 ### 備份 Backup
 - [Instagram](Docs/Backup/Instagram/IG_List.md)
