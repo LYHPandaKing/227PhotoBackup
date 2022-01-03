@@ -1,7 +1,7 @@
 ### 22/7 ANNIVERSARY LIVE 2021
 ##### [Back](Live_List.md)
 
-<Img src="../../../Img/227Live/img_live_AnniversaryLive2021.jpg" width="70%"><br>
+<Img src="../../../Img/227Live/img_live_AnniversaryLive2021.png" width="70%"><br>
 Date: 14Nov,2021<br>
 
 <a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni.com/s/n129/news/detail/10445?ima=4654">Official New</a>
