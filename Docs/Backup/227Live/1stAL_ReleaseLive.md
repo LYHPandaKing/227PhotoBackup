@@ -148,8 +148,9 @@ FC1. 僕が持ってるものなら<br>
 </section>
 
 Live w/ FC Talk<br>
-
-^ The online streaming service unavailable as file exceeds 2GB.<br>
+<video width="100%" height="100%" controls>
+  <source src="https://filedn.com/lAIJkrR1ef4bIR1iETG3U3F/Public_227/Live/20210722_227_1stALLive_Day.mp4" type="video/mp4">
+</video>
 
 <table>
 <tr>
@@ -212,8 +213,9 @@ FC1. 空のエメラルド<br>
 </section>
 
 Live w/ FC Talk<br>
-
-^ The online streaming service unavailable as file exceeds 2GB.<br>
+<video width="100%" height="100%" controls>
+  <source src="https://filedn.com/lAIJkrR1ef4bIR1iETG3U3F/Public_227/Live/20210722_227_1stALLive_Night.mp4" type="video/mp4">
+</video>
 
 <table>
 <tr>
