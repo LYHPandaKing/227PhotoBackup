@@ -7,7 +7,7 @@ Also, provide useful information about 22/7. Please feel free to download and us
 
 Project started in May/2020<br>
 
-**最後更新日期 Last Update: 3Jan,2022 15:07 (HKT)**
+**最後更新日期 Last Update: 5Jan,2022 15:17 (HKT)**
 
 ### 相簿 Album
 - [出道前 Pre-Debut](Docs/Album/PreDebut.md)
@@ -20,14 +20,14 @@ Project started in May/2020<br>
 - [花川芽衣 Hanakawa Mei](Docs/Album/HanakawaMei/HanakawaMei.md) > 浅倉唯 Asakura Yui
 - [帆風千春 Hokaze Chiharu](Docs/Album/HokazeChiharu/HokazeChiharu.md) > 千春 Chiharu
 - [河瀬詩 Kawase Uta](Docs/Album/KawaseUta/KawaseUta.md)
-- [倉岡水巴 Kuraoka Mizuha](Docs/Album/KuraokaMizuha/KuraokaMizuha.md)
+- [倉岡水巴 Kuraoka Mizuha](Docs/Album/KuraokaMizuha/KuraokaMizuha.md) > 倉丸莉子
 - [宮瀬玲奈 Miyase Reina](Docs/Album/MiyaseReina/MiyaseReina.md)
 - [西條和 Saijo Nagomi](Docs/Album/SaijoNagomi/SaijoNagomi.md)
 - [白沢かなえ Shirosawa Kanae](Docs/Album/ShirosawaKanae/ShirosawaKanae.md)
 - [涼花萌 Suzuhana Moe](Docs/Album/SuzuhanaMoe/SuzuhanaMoe.md)
 - [高辻麗 Takatsuji Urara](Docs/Album/TakatsujiUrara/TakatsujiUrara.md)
 - [武田愛奈 Takeda Aina](Docs/Album/TakedaAina/TakedaAina.md)
-- [海乃るり Umino Ruri](Docs/Album/UminoRuri/UminoRuri.md) > 吉宮瑠織 Yoshimiya Ruri
+- [海乃るり Umino Ruri](Docs/Album/UminoRuri/UminoRuri.md) > 吉宮瑠織
 
 ### 備份 Backup
 - [Instagram](Docs/Backup/Instagram/IG_List.md)
