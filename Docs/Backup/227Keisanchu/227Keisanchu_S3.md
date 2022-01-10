@@ -10,7 +10,16 @@
     <th><a href="#Ep21-30">Ep21-30</a></th>
     <th><a href="#Ep31-40">Ep31-40</a></th>
   </tr>
+  <tr>
+    <th rowspan="2"><a href="#Ep41-50">Ep41-50</a></th>
+    <th><a href="#Ep51-60"></a></th>
+  </tr>
 </table>
+
+<a name="Ep41-50"></a>
+#### [#41 もっと当たって当然！ナナニジ６<br>#41 再來當然會命中！ナナニジ６](S3/Ep41.md)
+<img src="../../../Img/227Keisanchu/20220108_S3Ep41.jpg" width="50%">
+<hr>
 
 <a name="Ep31-40"></a>
 #### [#40 ２０２２年を大予言！ナナニジ妄想初夢占い<br>#40 ２０２２年大預言！ナナニジ妄想初夢占卜](S3/Ep40.md)
