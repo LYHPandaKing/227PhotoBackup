@@ -73,7 +73,7 @@ Products and Live Tour News<br>
 </section>
 
 <video width="100%" height="100%" controls>
-  <source src="" type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20211226_227_5thBDLive_First.mp4" type="video/mp4">
 </video>
 
 <table>
@@ -129,7 +129,7 @@ Products and Live Tour News<br>
 </section>
 
 <video width="100%" height="100%" controls>
-  <source src="" type="video/mp4">
+  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20211226_227_5thBDLive_Second.mp4" type="video/mp4">
 </video>
 
 <table>
