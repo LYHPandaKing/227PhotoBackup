@@ -80,7 +80,7 @@ Products and Live Tour News<br>
 <tr>
  <th>Raw</th>
  <td><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1NS4y177x5">Source</a></td>
- <td>Download <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20211226_227_5thBDLive_First.mp4">Github</a></td>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20211226_227_5thBDLive_First.mp4">Download</a></td>
 </tr>
 <tr>
  <th>Sub</th>
@@ -136,7 +136,7 @@ Products and Live Tour News<br>
 <tr>
  <th>Raw</th>
  <td><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1Db4y1J7W2/">Source</a></td>
- <td>Download <a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20211226_227_5thBDLive_Second.mp4">Github</a></td>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Live/20211226_227_5thBDLive_Second.mp4">Download</a></td>
 </tr>
 <tr>
  <th>Sub</th>
