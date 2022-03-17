@@ -71,13 +71,13 @@ Date: 24Nov,2021<br>
 
 **03. 今年 初めての雪**<br>
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/08_Kakusei/03.%20今年%20初めての雪.mp3"></source>
+  <source type="audio/mp3" src="../../Music/08_Kakusei/04.%20今年%20初めての雪.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
 **03. ヘッドフォンを外せ！**<br>
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/08_Kakusei/03.%20ヘッドフォンを外せ！.mp3"></source>
+  <source type="audio/mp3" src="../../Music/08_Kakusei/05.%20ヘッドフォンを外せ！.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
