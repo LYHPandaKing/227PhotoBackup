@@ -18,6 +18,9 @@
 <a name="single"></a>
 #### 單曲 Single
 
+- [覚醒<br>Kakusei](Single_08.html)<br>
+<img src="../../Img/Music/KakuseiLimited.jpg" width="30%"><img src="../../Img/Music/Kakusei.jpg" width="30%">
+
 - [僕が持ってるものなら<br>Boku ga Motteru Mono Nara](Single_07.html)<br>
 <img src="../../Img/Music/MotteruLimited.jpg" width="30%"><img src="../../Img/Music/Motteru.jpg" width="30%">
 
