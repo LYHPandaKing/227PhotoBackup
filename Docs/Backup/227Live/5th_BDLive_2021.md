@@ -49,7 +49,7 @@ Date: 26Dec,2021<br>
     <p>
 <blockquote>
 Opening<br>
-1. 今年　初めての雪<br>
+1. 今年 初めての雪<br>
 MC<br>
 Release result of Christmas Confession Queen A Part<br>
 Promotion of KeisanchuS3 Blu-ray<br>
@@ -101,7 +101,6 @@ Products and Live Tour News<br>
   <div class="content">
     <p>
 <blockquote>
-Opening<br>
 Opening<br>
 1. ヘッドフォンを外せ！<br>
 MC<br>
