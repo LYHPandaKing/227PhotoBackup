@@ -59,7 +59,7 @@ Date: 24Nov,2021<br>
 
 **02. Just here and now**<br>
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/08_Kakusei/02.%20Just here and now.mp3"></source>
+  <source type="audio/mp3" src="../../Music/08_Kakusei/02.%20Just%20here%20and%20now.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
@@ -69,15 +69,15 @@ Date: 24Nov,2021<br>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-**03. 今年　初めての雪（22/7 紅組）**<br>
+**03. 今年 初めての雪**<br>
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/08_Kakusei/03.%20今年　初めての雪（22/7%20紅組）.mp3"></source>
+  <source type="audio/mp3" src="../../Music/08_Kakusei/03.%20今年%20初めての雪.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-**03. ヘッドフォンを外せ！（22/7 白組）**<br>
+**03. ヘッドフォンを外せ！**<br>
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/08_Kakusei/03.%20ヘッドフォンを外せ！（22/7%20白組）.mp3"></source>
+  <source type="audio/mp3" src="../../Music/08_Kakusei/03.%20ヘッドフォンを外せ！.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
@@ -101,7 +101,7 @@ Date: 24Nov,2021<br>
 
 **06. 今年　初めての雪 -off vocal ver.-** ^Currently Unavailable<br>
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/08_Kakusei/Off%20Vocal%20(Limited%20Edition)/06.%20今年　初めての雪%20-off%20vocal%20ver.-.mp3"></source>
+  <source type="audio/mp3" src="../../Music/08_Kakusei/Off%20Vocal%20(Limited%20Edition)/06.%20今年%20初めての雪%20-off%20vocal%20ver.-.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
