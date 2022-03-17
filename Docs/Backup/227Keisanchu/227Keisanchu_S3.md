@@ -5,13 +5,11 @@
   <tr>
     <th><a href="#Ep1-10">Ep1-10</a></th>
 	<th><a href="#Ep11-20">Ep11-20</a></th>
-  </tr>
-  <tr>
     <th><a href="#Ep21-30">Ep21-30</a></th>
-    <th><a href="#Ep31-40">Ep31-40</a></th>
   </tr>
   <tr>
-    <th rowspan="2"><a href="#Ep41-50">Ep41-50</a></th>
+    <th><a href="#Ep31-40">Ep31-40</a></th>
+    <th><a href="#Ep41-50">Ep41-50</a></th>
     <th><a href="#Ep51-60"></a></th>
   </tr>
 </table>
