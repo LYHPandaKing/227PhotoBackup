@@ -44,6 +44,16 @@ player.play();
 - <a target="_blank" rel="noopener noreferrer" href="https://live.bilibili.com/10112">Bilibili Live</a><br>
 <img src="../Img/BS11_BLive.jpg" alt="BS11_BLive" width="70%">
 
+  <video width="70%" height="70%" id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"  data-setup='{}'>
+    <source src="https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=10112&quality=0" type="application/x-mpegURL">
+  <p>Your browser does not support this HLS element.</p>
+  </video>
+  
+<script>
+var player = videojs('my_video_1');
+player.play();
+</script>
+
 <a target="_blank" rel="noopener noreferrer" href="https://www.bs11.jp/program/">BS11 番組表</a>
 
 <h4><a target="_blank" rel="noopener noreferrer" href="https://www.uniqueradio.jp/agplayer5/player.php">超！A＆G+</a></h4>
