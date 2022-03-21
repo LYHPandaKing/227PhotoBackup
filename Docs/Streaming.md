@@ -42,7 +42,7 @@ player.play();
 - <a target="_blank" rel="noopener noreferrer" href="https://live.bilibili.com/10112">Bilibili Live</a><br>
 <img src="../Img/BS11_BLive.jpg" alt="BS11_BLive" width="70%">
 
-<iframe style="width: 70%;height: 70%;" src="https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=10112&quality=1" frameborder="no"    framespacing="0" scrolling="no" allow="encrypted-media" allowfullscreen="true"></iframe>
+<iframe style="width: 70%;height: 70%;" src="https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=10112&quality=1" frameborder="no"    framespacing="0" scrolling="no" allow="autoplay; encrypted-media" allowfullscreen="true"></iframe>
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.bs11.jp/program/">BS11 番組表</a>
 <hr>
