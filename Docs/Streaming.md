@@ -22,7 +22,7 @@ jpth10 (960x540) : https://cdn.jpth10.jpnettv.live/jptv/kanto_tokyo_mx1_540/play
 2108 (960x540) : http://1.179.247.11:1935/jptv/kanto_tokyo_mx1_540/playlist.m3u8
 
 
-  <video width="70%" height="70%" id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"  data-setup='{}'>
+  <video width="70%" id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"  data-setup='{}'>
     <source src="" type="application/x-mpegURL">
   <p>Your browser does not support this HLS element.</p>
   </video>
@@ -42,14 +42,14 @@ player.play();
 - <a target="_blank" rel="noopener noreferrer" href="https://live.bilibili.com/10112">Bilibili Live</a><br>
 <img src="../Img/BS11_BLive.jpg" alt="BS11_BLive" width="70%">
 
-<iframe style="width: 70%;height: 70%;" src="https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=10112&quality=1" frameborder="no"    framespacing="0" scrolling="no" allow="autoplay; encrypted-media" allowfullscreen="true"></iframe>
+<iframe style="width: 70%;" src="https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=10112&quality=1" frameborder="no"    framespacing="0" scrolling="no" allow="autoplay; encrypted-media" allowfullscreen="true"></iframe>
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.bs11.jp/program/">BS11 番組表</a>
 <hr>
 
 <h4><a target="_blank" rel="noopener noreferrer" href="https://www.uniqueradio.jp/agplayer5/player.php">超！A＆G+</a></h4>
 
-  <video width="70%" height="70%" id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"  data-setup='{}'>
+  <video width="70%" id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"  data-setup='{}'>
     <source src="https://fms2.uniqueradio.jp/agqr10/aandg1.m3u8" type="application/x-mpegURL">
   <p>Your browser does not support this HLS element.</p>
   </video>
