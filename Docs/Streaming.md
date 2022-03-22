@@ -33,7 +33,7 @@ player.play();
 </script>
 -->
 
-<iframe src="//ok.ru/videoembed/3176970985207" scrolling="no" frameborder="0" width="70%" height="vh" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="//ok.ru/videoembed/3176970985207" scrolling="no" frameborder="0" width="70%" height="100%" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 <a target="_blank" rel="noopener noreferrer" href="https://s.mxtv.jp/bangumi/">Tokyo MX 番組表</a>
 <hr>
@@ -42,7 +42,7 @@ player.play();
 - <a target="_blank" rel="noopener noreferrer" href="https://live.bilibili.com/10112">Bilibili Live</a><br>
 <img src="../Img/BS11_BLive.jpg" alt="BS11_BLive" width="70%">
 
-<iframe style="width: 70%; height: vh" src="https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=10112&quality=1" frameborder="no"    framespacing="0" scrolling="no" allow="autoplay; encrypted-media" allowfullscreen="true"></iframe>
+<iframe style="width: 70%; height: 100%" src="https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=10112&quality=1" frameborder="no"    framespacing="0" scrolling="no" allow="autoplay; encrypted-media" allowfullscreen="true"></iframe>
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.bs11.jp/program/">BS11 番組表</a>
 <hr>
