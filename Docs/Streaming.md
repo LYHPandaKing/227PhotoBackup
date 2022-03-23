@@ -33,7 +33,7 @@ player.play();
 </script>
 -->
 
-<iframe src="//ok.ru/videoembed/3176970985207" scrolling="no" frameborder="0" width="70%" height="100%" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="//ok.ru/videoembed/3176970985207" scrolling="no" frameborder="0" width="vw" height="vh" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 <a target="_blank" rel="noopener noreferrer" href="https://s.mxtv.jp/bangumi/">Tokyo MX 番組表</a>
 <hr>
@@ -49,7 +49,7 @@ player.play();
 
 <h4><a target="_blank" rel="noopener noreferrer" href="https://www.uniqueradio.jp/agplayer5/player.php">超！A＆G+</a></h4>
 
-  <video width="70%" height="vh" id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"  data-setup='{}'>
+  <video width="vw" height="vh" id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"  data-setup='{}'>
     <source src="https://fms2.uniqueradio.jp/agqr10/aandg1.m3u8" type="application/x-mpegURL">
   <p>Your browser does not support this HLS element.</p>
   </video>
