@@ -10,11 +10,11 @@
   <tr>
     <th><a href="#Ep31-40">Ep31-40</a></th>
     <th><a href="#Ep41-50">Ep41-50</a></th>
-    <th><a href="#Ep51-60">Ep51-60</a></th>
+    <th><a href="#Ep51-52">Ep51-52</a></th>
   </tr>
 </table>
 
-<a name="Ep51-60"></a>
+<a name="Ep51-52"></a>
 #### [#52 22/7計算中season３ 私のお気に入りシーンBEST３ 2<br>#52 22/7計算中season３ 我最喜愛場面BEST３ 2](S3/Ep52.md)
 <img src="../../../Img/227Keisanchu/20220326_S3Ep52.jpg" width="50%">
 
