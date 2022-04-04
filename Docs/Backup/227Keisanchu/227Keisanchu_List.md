@@ -9,7 +9,7 @@ MCに人気お笑い芸人の三四郎を迎え、22/7のキャラクターた�
 
 - [Season 1](227Keisanchu_S1.md) (Jul2018 - Dec2019)
 
-- [Season 2](227Keisanchu_S2.md) (Mar2002 - Jan2021)
+- [Season 2](227Keisanchu_S2.md) (Mar2020 - Jan2021)
 
 - [Season 3](227Keisanchu_S3.md) (Apr2021 - Mar2022)
 
