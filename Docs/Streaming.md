@@ -20,10 +20,10 @@ us195 (960x540) : https://cdn.us195.jpnettv.live/jptv/kanto_tokyo_mx1_540/playli
 jpth10 (960x540) : https://cdn.jpth10.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8<br>
 2103 (640x360) : http://redlabmcdn.s.llnwi.net/jp01/ryowa8/index.m3u8<br>
 2108 (960x540) : http://1.179.247.11:1935/jptv/kanto_tokyo_mx1_540/playlist.m3u8
-
+-->
 
   <video width="70%" id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"  data-setup='{}'>
-    <source src="" type="application/x-mpegURL">
+    <source src="//ok.ru/videoembed/3176970985207" type="application/x-mpegURL">
   <p>Your browser does not support this HLS element.</p>
   </video>
 
@@ -31,9 +31,22 @@ jpth10 (960x540) : https://cdn.jpth10.jpnettv.live/jptv/kanto_tokyo_mx1_540/play
 var player = videojs('my_video_1');
 player.play();
 </script>
+
+<!--
+<iframe src="//ok.ru/videoembed/3176970985207" scrolling="no" frameborder="0" width="vw" height="vh" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 -->
 
-<iframe src="//ok.ru/videoembed/3176970985207" scrolling="no" frameborder="0" width="vw" height="vh" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+- Y萌动画测试站<br>
+
+  <video width="vw" height="vh" id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"  data-setup='{}'>
+    <source src="http://slb.live.ymoemoe.cn/live/31484_6f169f01112711eab04e6c92bf487b62.m3u8" type="application/x-mpegURL">
+  <p>Your browser does not support this HLS element.</p>
+  </video>
+  
+<script>
+var player = videojs('my_video_1');
+player.play();
+</script>
 
 <a target="_blank" rel="noopener noreferrer" href="https://s.mxtv.jp/bangumi/">Tokyo MX 番組表</a>
 <hr>
