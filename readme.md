@@ -7,7 +7,7 @@ Also, provide useful information about 22/7. Please feel free to download and us
 
 Project started in May/2020<br>
 
-**最後更新日期 Last Update: 4Apr,2022 14:30 (HKT)**
+**最後更新日期 Last Update: 11Apr,2022 15:00 (HKT)**
 
 ### 相簿 Album
 - [出道前 Pre-Debut](Docs/Album/PreDebut.md)
@@ -25,7 +25,7 @@ Project started in May/2020<br>
 - [西條和 Saijo Nagomi](Docs/Album/SaijoNagomi/SaijoNagomi.md)
 - [白沢かなえ Shirosawa Kanae](Docs/Album/ShirosawaKanae/ShirosawaKanae.md)
 - [涼花萌 Suzuhana Moe](Docs/Album/SuzuhanaMoe/SuzuhanaMoe.md)
-- [高辻麗 Takatsuji Urara](Docs/Album/TakatsujiUrara/TakatsujiUrara.md)
+- [高辻麗 Takatsuji Urara](Docs/Album/TakatsujiUrara/TakatsujiUrara.md) > 日永麗 Hinaga Urara
 - [武田愛奈 Takeda Aina](Docs/Album/TakedaAina/TakedaAina.md)
 - [海乃るり Umino Ruri](Docs/Album/UminoRuri/UminoRuri.md) > 吉宮瑠織
 
