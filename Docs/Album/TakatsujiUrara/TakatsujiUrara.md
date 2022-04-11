@@ -3,4 +3,5 @@
 ##### [Back](../../../readme.md)
 
 * 2022年4月起以「日永麗 Hinaga Urara<a target="_blank" rel="noreferrer noopener" href=""></a>」重開社交媒體帳戶。<br>
-<a target="_blank" rel="noreferrer noopener" href="https://twitter.com/hinagaurara">Twitter</a> | <a target="_blank" rel="noreferrer noopener" href="https://www.instagram.com/hinagaurara/">Instagram</a> | <a target="_blank" rel="noreferrer noopener" href="https://youtube.com/channel/UCpljjuJjgvUubfeasgw4PBA">Youtube</a>
+<a target="_blank" rel="noreferrer noopener" href="https://twitter.com/hinagaurara">Twitter</a> | <a target="_blank" rel="noreferrer noopener" href="https://www.instagram.com/hinagaurara/">Instagram</a> | <a target="_blank" rel="noreferrer noopener" href="https://youtube.com/channel/UCpljjuJjgvUubfeasgw4PBA">Youtube</a> | <a target="_blank" rel="noreferrer noopener" href="https://note.com/hinagaurara/">Note</a>
+
