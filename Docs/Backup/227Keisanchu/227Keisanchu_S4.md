@@ -10,5 +10,8 @@
 </table>
 
 <a name="Ep1-10"></a>
+#### [#2 ナナニジPhoto-1グランプリ<br>#2 ナナニジPhoto-1大獎賽](S4/Ep02.md)
+<img src="../../../Img/227Keisanchu/20220409_S4Ep02.jpg" width="50%">
+
 #### [#1 話を繋げよう！沈黙禁止トーク<br>#1 把說話連繫！沉默禁止Talk](S4/Ep01.md)
 <img src="../../../Img/227Keisanchu/20220402_S4Ep01.jpg" width="50%">
