@@ -3,6 +3,6 @@
 ##### [Back](../../../readme.md)
 
 * 2021年9月起以「<a target="_blank" rel="noreferrer noopener" href="https://hibiki-cast.jp/hibiki_f/961/">千春 Chiharu</a>」加入響(HiBiKi)。<br>
-<a target="_blank" rel="noreferrer noopener" href="https://mobile.twitter.com/chiharu_okr">Twitter</a> | <a target="_blank" rel="noreferrer noopener" href="https://instagram.com/chiharu_okr">Instagram</a>
+<a target="_blank" rel="noreferrer noopener" href="https://twitter.com/chiharu_okr">Twitter</a> | <a target="_blank" rel="noreferrer noopener" href="https://www.instagram.com/chiharu_okr">Instagram</a>
 
 - [2017](Chiharu2017.md)

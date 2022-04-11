@@ -1,3 +1,3 @@
-### 武田愛奈 Takeda Aina 
-[![twitter_@aina__227](../../../Img/Icon_Twitter_Mem.PNG){: height="30"}](https://twitter.com/aina__227) [![twitter_@tsubomihiiragi](../../../Img/Icon_Twitter_Char.PNG){: height="30"}](https://twitter.com/_tsubomihiiragi) [![instagram_@aina35](../../../Img/Icon_Instagram.PNG){: height="30"}](https://www.instagram.com/___aina35_____/) [![showroom_digital_idol_15](../../../Img/Icon_Showroom.PNG){: height="30"}](https://www.showroom-live.com/room/profile?room_id=87759) 
+### 武田愛奈 Takeda Aina
+<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/aina__227"><img src="../../../Img/Icon_Twitter_Mem.PNG" height="30"></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/_tsubomihiiragi"><img src="../../../Img/Icon_Twitter_Char.PNG" height="30"></a> <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/___aina35_____/"><img src="../../../Img/Icon_Instagram.PNG" height="30"></a> <a target="_blank" rel="noopener noreferrer" href="https://www.showroom-live.com/room/profile?room_id=87759"><img src="../../../Img/Icon_Showroom.PNG" height="30"></a>
 ##### [Back](../../../readme.md)
