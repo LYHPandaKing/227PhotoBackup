@@ -22,7 +22,7 @@ jpth10 (960x540) : https://cdn.jpth10.jpnettv.live/jptv/kanto_tokyo_mx1_540/play
 2108 (960x540) : http://1.179.247.11:1935/jptv/kanto_tokyo_mx1_540/playlist.m3u8
 -->
 
-<iframe src="//ok.ru/videoembed/3176970985207" scrolling="no" frameborder="0" width="70vw" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="//ok.ru/videoembed/3176970985207" scrolling="no" frameborder="0" width="100vw" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 <!--
   <video width="80vw" height="100vh" id="my_video_3" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"  data-setup='{}'>
@@ -39,21 +39,36 @@ player.play();
 <a target="_blank" rel="noopener noreferrer" href="http://beta.moeapi.cn/live/play.html">Y萌动画测试站</a><br>
 <br>
 
+1<br>
 <iframe src="http://slb.live.ymoemoe.cn/live/31484_6f169f01112711eab04e6c92bf487b62.m3u8" scrolling="no" frameborder="0" width="70vw" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
-<video id="hls-video" width="70vw" height="100vh" class="video-js vjs-default-skin"
-       playsinline webkit-playsinline
-       autoplay controls preload="auto"
-       x-webkit-airplay="true" x5-video-player-fullscreen="true" x5-video-player-typ="h5">
+2<br>
+  <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+  <script src="https://unpkg.com/video.js/dist/video.js"></script>
+  <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
+   
+</head>
+<body>
+  <video id="ymoevideo" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"
+  data-setup='{}'>
     <source src="http://slb.live.ymoemoe.cn/live/31484_6f169f01112711eab04e6c92bf487b62.m3u8" type="application/x-mpegURL">
-</video>
-
-<script src="http://cdn.bootcss.com/video.js/6.0.0-RC.5/video.js"></script>
-<script src="http://cdn.bootcss.com/videojs-contrib-hls/5.3.3/videojs-contrib-hls.js"></script>
+  </video>
+  
 <script>
-    var player = videojs('hls-video');
-    player.play();
+var player = videojs('ymoevideo');
+player.play();
 </script>
+
+3<br>
+<link href=“https://vjs.zencdn.net/6.6.3/video-js.css” rel=“stylesheet”>
+<script src=“https://vjs.zencdn.net/6.6.3/video.js”></script>
+<script src=“https://unpkg.com/videojs-flash/dist/videojs-flash.js”></script>
+<script src=“https://unpkg.com/videojs-contrib-hls/dist/video js-contrib-hls.js”></script>
+
+<video class=“video-js vjs-default-skin vjs-big-play-centered” data-setup=’{“controls”: true, “autoplay”: true }’>
+<source src=“http://slb.live.ymoemoe.cn/live/31484_6f169f01112711eab04e6c92bf487b62.m3u8” type=“application/x-mpegURL”>
+Your browser does not support HTML5 video.
+</video>
 
 
 <a target="_blank" rel="noopener noreferrer" href="https://s.mxtv.jp/bangumi/">Tokyo MX 番組表</a>
@@ -64,10 +79,10 @@ Bilibili直播<br>
 <img src="../Img/BS11_BLive.jpg" alt="BS11_BLive" width="50%">
 
 <a target="_blank" rel="noopener noreferrer" href="https://live.bilibili.com/10112">蓝原延珠_ 直播</a><br>
-<iframe style="width: 50vw;height: 100vh" src="https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=10112&quality=1" frameborder="no"   framespacing="0" scrolling="no" allow="autoplay; encrypted-media" allowfullscreen="true"></iframe>
+<iframe style="width: 80vw" src="https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=10112&quality=1" frameborder="no"   framespacing="0" scrolling="no" allow="autoplay; encrypted-media" allowfullscreen="true"></iframe>
 
 <a target="_blank" rel="noopener noreferrer" href="https://live.bilibili.com/26637">哈吉bye 直播</a><br>
-<iframe style="width: 60vw;height: 100vh;" src="https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=26637&quality=1" frameborder="no"    framespacing="0" scrolling="no" allow="autoplay; encrypted-media" allowfullscreen="true"></iframe>
+<iframe style="width: 80vw;height: 80vh;" src="https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=26637&quality=1" frameborder="no"    framespacing="0" scrolling="no" allow="autoplay; encrypted-media" allowfullscreen="true"></iframe>
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.bs11.jp/program/">BS11 番組表</a>
 <hr>
