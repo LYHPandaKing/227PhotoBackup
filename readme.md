@@ -85,7 +85,7 @@
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 13</div>
-  <img src="Img/Slideshow/SS_DebutSG.jpg" style="width:100%"
+  <img src="Img/Slideshow/SS_DebutSG.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
