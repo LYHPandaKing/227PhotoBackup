@@ -89,7 +89,7 @@
 </div>
 
 <script>
-let slideIndex = 1;
+let slideIndex = 13;
 showSlides(slideIndex);
 
 function plusSlides(n) {
