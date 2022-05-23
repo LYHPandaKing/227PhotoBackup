@@ -22,6 +22,9 @@ jpth10 (960x540) : https://cdn.jpth10.jpnettv.live/jptv/kanto_tokyo_mx1_540/play
 2108 (960x540) : http://1.179.247.11:1935/jptv/kanto_tokyo_mx1_540/playlist.m3u8
 -->
 
+<iframe src="//ok.ru/videoembed/3176970985207" scrolling="no" frameborder="0" width="100%" height="430" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+<!--
   <video width="80vw" height="100vh" id="my_video_3" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"  data-setup='{}'>
     <source src="//ok.ru/videoembed/3176970985207" type="application/x-mpegURL">
   <p>Your browser does not support this HLS element.</p>
@@ -31,11 +34,10 @@ jpth10 (960x540) : https://cdn.jpth10.jpnettv.live/jptv/kanto_tokyo_mx1_540/play
 var player = videojs('my_video_3');
 player.play();
 </script>
+-->
 
 <a target="_blank" rel="noopener noreferrer" href="http://beta.moeapi.cn/live/play.html">Y萌动画测试站</a><br>
 <br>
-
-http://slb.live.ymoemoe.cn/live/31484_6f169f01112711eab04e6c92bf487b62.m3u8
 
 <a target="_blank" rel="noopener noreferrer" href="https://s.mxtv.jp/bangumi/">Tokyo MX 番組表</a>
 <hr>
