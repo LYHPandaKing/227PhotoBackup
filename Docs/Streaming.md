@@ -1,6 +1,9 @@
 ### 直播源 Live Stream
 ##### [Back](../readme.md)
 
+^ 以下片源或服務均由第三方提供Z，請自行評估風險。如因使用以下服務而招致任何形式的損失，本網一概不負責。<br>
+^ The following streaming services are provided by third parties. We won't bear responsibility for any damages caused after using the services below.<br>
+
 #### Tokyo MX
 <!--
 - <a target="_blank" rel="noopener noreferrer" href="http://dsgstng.herokuapp.com/tv">Dテレ</a><br>
@@ -37,7 +40,6 @@ player.play();
 -->
 
 <a target="_blank" rel="noopener noreferrer" href="http://beta.moeapi.cn/live/play.html">Y萌动画测试站</a><br>
-<br>
 
 <a target="_blank" rel="noopener noreferrer" href="https://s.mxtv.jp/bangumi/">Tokyo MX 番組表</a>
 <hr>
@@ -60,6 +62,12 @@ Bilibili直播<br>
 </div>
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.bs11.jp/program/">BS11 番組表</a>
+<hr>
+
+#### 免費試用串流服務 Free Trial Streaming Service
+<a target="_blank" rel="noopener noreferrer" href="https://livejapanesetv.wordpress.com/">Yoitv</a><br>
+^ 跟隨網址內步驟安裝和試用。Please follow the steps on the website to install and watch in the trial period.<br>
+<img src="../Img/yoitv.png" alt="yoitv" width="70%">
 <hr>
 
 <h4><a target="_blank" rel="noopener noreferrer" href="https://www.uniqueradio.jp/agplayer5/player.php">超！A＆G+</a></h4>
