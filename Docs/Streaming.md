@@ -1,7 +1,7 @@
 ### 直播源 Live Stream
 ##### [Back](../readme.md)
 
-^ 以下片源或服務均由第三方提供Z，請自行評估風險。如因使用以下服務而招致任何形式的損失，本網一概不負責。<br>
+^ 以下片源或服務均由第三方提供，請自行評估風險。如因使用以下服務而招致任何形式的損失，本網一概不負責。<br>
 ^ The following streaming services are provided by third parties. We won't bear responsibility for any damages caused after using the services below.<br>
 
 #### Tokyo MX
@@ -17,14 +17,6 @@
 
 <a target="_blank" rel="noopener noreferrer" href="https://ok.ru/video/3176970985207">ok.ru</a><br>
 
-<!--
-エムキャス MX CASTING (1280x720): http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8<br>
-us195 (960x540) : https://cdn.us195.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8<br>
-jpth10 (960x540) : https://cdn.jpth10.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8<br>
-2103 (640x360) : http://redlabmcdn.s.llnwi.net/jp01/ryowa8/index.m3u8<br>
-2108 (960x540) : http://1.179.247.11:1935/jptv/kanto_tokyo_mx1_540/playlist.m3u8
--->
-
 <iframe src="//ok.ru/videoembed/3176970985207" scrolling="no" frameborder="0" width="100%" height="430" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 <!--
@@ -37,6 +29,18 @@ jpth10 (960x540) : https://cdn.jpth10.jpnettv.live/jptv/kanto_tokyo_mx1_540/play
 var player = videojs('my_video_3');
 player.play();
 </script>
+-->
+
+m3u8<br>
+
+<iframe src="https://cdn.us195.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8" scrolling="no" frameborder="0" width="100%" height="430" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+<!--
+エムキャス MX CASTING (1280x720): http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8<br>
+us195 (960x540) : https://cdn.us195.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8<br>
+jpth10 (960x540) : https://cdn.jpth10.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8<br>
+2103 (640x360) : http://redlabmcdn.s.llnwi.net/jp01/ryowa8/index.m3u8<br>
+2108 (960x540) : http://1.179.247.11:1935/jptv/kanto_tokyo_mx1_540/playlist.m3u8
 -->
 
 <a target="_blank" rel="noopener noreferrer" href="http://beta.moeapi.cn/live/play.html">Y萌动画测试站</a><br>
@@ -65,7 +69,7 @@ Bilibili直播<br>
 <hr>
 
 #### 免費試用串流服務 Free Trial Streaming Service
-<a target="_blank" rel="noopener noreferrer" href="https://livejapanesetv.wordpress.com/">Yoitv</a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://livejapanesetv.wordpress.com/">YoiTV</a><br>
 ^ 跟隨網址內步驟安裝和試用。Please follow the steps on the website to install and watch in the trial period.<br>
 <img src="../Img/yoitv.png" alt="yoitv" width="70%">
 <hr>
