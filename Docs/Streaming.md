@@ -33,7 +33,15 @@ player.play();
 
 m3u8<br>
 
-<iframe src="https://cdn.us195.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8" scrolling="no" frameborder="0" width="100%" height="430" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<video width="70%" height="70%" id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"  data-setup='{}'>
+  <source src="https://cdn.us195.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8" type="application/x-mpegURL">
+<p>Your browser does not support this HLS element.</p>
+</video>
+  
+<script>
+var player = videojs('my_video_1');
+player.play();
+</script>
 
 <!--
 エムキャス MX CASTING (1280x720): http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8<br>
