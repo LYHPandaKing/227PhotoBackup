@@ -119,7 +119,7 @@ function showSlides(n) {
 
 
 
-**最後更新日期 Last Update: 22Jun,2022 11:36 (HKT)**
+**最後更新日期 Last Update: 27Jun,2022 15:00 (HKT)**
 
 ### 相簿 Album
 - [出道前 Pre-Debut](Docs/Album/PreDebut.md)
