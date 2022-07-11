@@ -2,68 +2,73 @@
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 13</div>
+  <div class="numbertext">1 / 14</div>
   <img src="Img/Slideshow/SS_DebutSG.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 13</div>
+  <div class="numbertext">2 / 14</div>
   <img src="Img/Slideshow/SS_11Characters.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 13</div>
+  <div class="numbertext">3 / 14</div>
   <img src="Img/Slideshow/SS_Halloween.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 13</div>
+  <div class="numbertext">4 / 14</div>
   <img src="Img/Slideshow/SS_2ndSG.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">5 / 13</div>
+  <div class="numbertext">5 / 14</div>
   <img src="Img/Slideshow/SS_3rdSG.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">6 / 13</div>
+  <div class="numbertext">6 / 14</div>
   <img src="Img/Slideshow/SS_4thSG.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">7 / 13</div>
+  <div class="numbertext">7 / 14</div>
   <img src="Img/Slideshow/SS_5thSG.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">8 / 13</div>
+  <div class="numbertext">8 / 14</div>
   <img src="Img/Slideshow/SS_6thSG.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">9 / 13</div>
+  <div class="numbertext">9 / 14</div>
   <img src="Img/Slideshow/SS_11色の風.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">10 / 13</div>
+  <div class="numbertext">10 / 14</div>
   <img src="Img/Slideshow/SS_7thSG.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">11 / 13</div>
+  <div class="numbertext">11 / 14</div>
   <img src="Img/Slideshow/SS_1stAL.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">12 / 13</div>
+  <div class="numbertext">12 / 14</div>
   <img src="Img/Slideshow/SS_8thSG.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">13 / 13</div>
+  <div class="numbertext">13 / 14</div>
   <img src="Img/Slideshow/SS_9thSG.jpg" style="width:100%">
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">14 / 14</div>
+  <img src="Img/Slideshow/SS_CharColour.jpg" style="width:100%">
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -86,10 +91,11 @@
   <span class="dot" onclick="currentSlide(11)"></span> 
   <span class="dot" onclick="currentSlide(12)"></span> 
   <span class="dot" onclick="currentSlide(13)"></span> 
+  <span class="dot" onclick="currentSlide(14)"></span> 
 </div>
 
 <script>
-let slideIndex = 13;
+let slideIndex = 14;
 showSlides(slideIndex);
 
 function plusSlides(n) {
@@ -119,7 +125,7 @@ function showSlides(n) {
 
 
 
-**最後更新日期 Last Update: 5Jul,2022 17:10 (HKT)**
+**最後更新日期 Last Update: 11Jul,2022 12:00 (HKT)**
 
 ### 相簿 Album
 - [出道前 Pre-Debut](Docs/Album/PreDebut.md)
