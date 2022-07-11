@@ -32,7 +32,8 @@ Other
 - <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCKazYo0sU_5ca1Ugkqnd4PA">YouTube - シアトル</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://space.bilibili.com/118938280/">bilibili - 227中文应援站</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://space.bilibili.com/730686/">bilibili - Sov</a>
-- <a target="_blank" rel="noopener noreferrer" href="https://space.bilibili.com/571233650/">bilibili - ナナ二ジ的搬运工</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://space.bilibili.com/310812531/">bilibili - 网上商务模式</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://space.bilibili.com/736897">bilibili - 某病娇的超绅士橘</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://space.bilibili.com/571233650/">bilibili - ナナ二ジ的搬运工</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://space.bilibili.com/942021">bilibili - VOCALOIDの生放送</a>
 - <a target="_blank" rel="noopener noreferrer" href="https://space.bilibili.com/5471097/">bilibili - Amoyplane</a><br>
