@@ -6,16 +6,8 @@
 以下教學會以下載<b>22/7割り切れないラジオ+</b>影片作示例。<br>
 This tutorial will demonstrate how to download <b>22/7 Warikirenai Radio Plus</b> videos as an example.<br><br>
 
-<section class="accordion">
-  <input type="checkbox" name="collapse" id="handle2">
-  <h4 class="handle">
-    <label for="handle2">
-    舊方法(已失效) / Old method (Not working)
-    </label>
-  </h4>
-  
-  <div class="content">
-    <p>
+<!-- 舊方法(已失效) / Old method (Not working)
+
 <b>1. 所需程式 | Software(s) Needed</b><br>
 - VLC Player <a target="_blank" rel="noopener noreferrer" href="https://www.videolan.org/vlc/">Official Page</a><br><br>
 
@@ -79,7 +71,7 @@ Wait for the convert to complete. And check whether the video can play or not.<b
 <b>5. 完成 | Finish</b><br>
 <img src="../../../Img/Hosts/Article/Brightcove/step12.png" width="70%"><br><br>
 
----
+<hr>
 
 <b>6. 如無法直接找到 Brightcove player 網址 | If cannot find the Brightcove player link directly</b><br>
 如無法直接找到 Brightcove player 網址，則可以根據以下格式寫出。<br>
@@ -96,11 +88,9 @@ Eg. http://players.brightcove.net/<i><b>6160987587001</b></i>/<i><b>JUGBWWU4U</b
 
 然後跟上方步驟一樣貼上Brightcove player 網址至「Tube Offline」，繼續進行轉換過程。<br>
 Then just like the above steps, copy the Brightcove player link to "Tube Offline" and continue the convert process.<br>
-</p>
-  </div>
-</section>
+<hr>
 
-<br><br>
+-->
 
 新方法 / New Method<br>
 
