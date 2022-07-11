@@ -1,6 +1,10 @@
 ### 22/7 相關影片 Related Videos
 ##### [Back](../../../readme.md)
 
+- [日本テレビ「MUSIC BLOOD」](20220708_MUSIC_BLOOD.md)<br>
+Date: 8Jul,2022<br>
+<img src="../../../Img/227Related/20220708_MUSIC_BLOOD.jpg" width="50%">
+
 - [M-ON! SPECIAL 「22/7」](20220630_M-ON.md)<br>
 Date: 30Jun,2022<br>
 <img src="../../../Img/227Related/20220630_M-ON.jpg" width="50%">
