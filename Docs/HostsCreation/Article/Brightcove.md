@@ -10,7 +10,7 @@ This tutorial will demonstrate how to download <b>22/7 Warikirenai Radio Plus</b
   <input type="checkbox" name="collapse" id="handle2">
   <h4 class="handle">
     <label for="handle2">
-    舊方法(已失效) | Old method (Not working)
+    舊方法(已失效) / Old method (Not working)
     </label>
   </h4>
   
@@ -100,7 +100,9 @@ Then just like the above steps, copy the Brightcove player link to "Tube Offline
   </div>
 </section>
 
-新方法 | New Method<br>
+<br><br>
+
+新方法 / New Method<br>
 
 <b>1. 所需程式 | Software(s) Needed</b><br>
 - iTubeGo YouTube Downloader (Pro Version) <a target="_blank" rel="noopener noreferrer" href="https://itubego.com/4k-youtube-video-downloader63/">Official Page</a><br><br>
