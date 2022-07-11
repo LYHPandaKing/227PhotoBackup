@@ -5,7 +5,7 @@ Date: 8Jul,2022<br>
 <img src="../../../Img/227Related/20220708_MUSIC_BLOOD.jpg" width="70%">
 
 <video width="100%" height="100%" controls>
-  <source src="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Related_Videos/20220708_MUSIC_BLOOD.mp4" type="video/mp4">
+  <source src="https://filedn.com/lAIJkrR1ef4bIR1iETG3U3F/Public_227/Bangumi/20220708_MUSIC_BLOOD.mp4" type="video/mp4">
 </video>
 
 <table>
