@@ -1,11 +1,21 @@
 ### 下載 Brightcove Player 影片<br>Download Brightcove Player videos
 ##### [Back](/Article_List.md)
-###### 撰文日期 Date: 12Sep,2020
-
+###### 撰文日期 Publish Date: 12Sep,2020
+###### 更新日期 Update Date: 11Jul,2022
 
 以下教學會以下載<b>22/7割り切れないラジオ+</b>影片作示例。<br>
 This tutorial will demonstrate how to download <b>22/7 Warikirenai Radio Plus</b> videos as an example.<br><br>
 
+<section class="accordion">
+  <input type="checkbox" name="collapse" id="handle2">
+  <h4 class="handle">
+    <label for="handle2">
+    舊方法(已失效) | Old method (Not working)
+    </label>
+  </h4>
+  
+  <div class="content">
+    <p>
 <b>1. 所需程式 | Software(s) Needed</b><br>
 - VLC Player <a target="_blank" rel="noopener noreferrer" href="https://www.videolan.org/vlc/">Official Page</a><br><br>
 
@@ -86,5 +96,45 @@ Eg. http://players.brightcove.net/<i><b>6160987587001</b></i>/<i><b>JUGBWWU4U</b
 
 然後跟上方步驟一樣貼上Brightcove player 網址至「Tube Offline」，繼續進行轉換過程。<br>
 Then just like the above steps, copy the Brightcove player link to "Tube Offline" and continue the convert process.<br>
+</p>
+  </div>
+</section>
+
+新方法 | New Method<br>
+
+<b>1. 所需程式 | Software(s) Needed</b><br>
+- iTubeGo YouTube Downloader (Pro Version) <a target="_blank" rel="noopener noreferrer" href="https://itubego.com/4k-youtube-video-downloader63/">Official Page</a><br><br>
+
+<b>2. 取得 Brightcove Player 連結 | Get the Brightcove Player link</b><br>
+首先，進入「<a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni.com/s/n129/diary/special/list?ima=4358">22/7割り切れないラジオ+</a>」。<br>
+然後，在影片上方右擊，按「Player Information」。<br>
+First, go to "<a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni.com/s/n129/diary/special/list?ima=4358">22/7Warikirenai Radio Plus</a>" official page.<br>
+Then, hover the video and right click. Select "Player Information".<br>
+<img src="../../../Img/Hosts/Article/Brightcove/new_step1.png" width="70%"><br><br>
+
+按以下方式依次序填入「Account ID」、「Player ID」及「Video ID」。<br>
+Follow the sample link below and key in "Account ID", "Player ID", and "Video ID" correspondingly.<br><br>
+http://players.brightcove.net/<i><b>Account ID</b></i>/<i><b>Player ID</b></i>_default/index.html?videoId=<i><b>Video ID</b></i><br><br>
+Eg. http://players.brightcove.net/<i><b>4504957038001</b></i>/<i><b>default</b></i>_default/index.html?videoId=<b><i>6309097294112</i></b><br>
+<i>* 註：例子中的鏈結乃虛構。 Remark: The sample link is fictional.</i><br><br>
+
+將此連結複製。<br>
+Copy this Brightcove player link.<br><br>
+
+<b>2. 轉換 Brightcove player 連結至 MP4 | Convert Brightcove player link to MP4</b><br>
+開啟「iTubeGo YouTube Downloader」並貼上剛才的 Brightcove player 連結。然後按「Download」。<br>
+Open "iTubeGo YouTube Downloader" and paste the Brightcove player link. After that, press <i>Download</i>.<br>
+<img src="../../../Img/Hosts/Article/Brightcove/new_step2.png" width="70%"><br><br>
+
+等候下載。<br>
+Wait for the video to download.<br>
+<img src="../../../Img/Hosts/Article/Brightcove/new_step3.png" width="70%"><br><br>
+
+<b>3. 完成 | Finish</b><br>
+<img src="../../../Img/Hosts/Article/Brightcove/new_step4.png" width="70%"><br><br>
+
+^ 查看檔案是否能正常播放。<br>
+^ Check whether the video can play or not.<br>
+<img src="../../../Img/Hosts/Article/Brightcove/new_step5.png" width="70%"><br><br>
 
 <b>Fin.</b>
