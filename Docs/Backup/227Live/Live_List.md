@@ -1,6 +1,14 @@
 ﻿### 22/7 Live
 ##### [Back](../../../readme.md)
 
+- [22/7 LIVE TOUR 2022「14」追加公演](Live_Tour_2022_14_Additional.md)<br>
+Date: 20Apr,2022<br>
+<img src="../../../Img/227Live/img_Live_Tour_2022_14.png" width="50%">
+
+- [22/7 LIVE TOUR 2022「14」](Live_Tour_2022_14.md)<br>
+Date: 27Mar,2022<br>
+<img src="../../../Img/227Live/img_Live_Tour_2022_14.png" width="50%">
+
 - [22/7 5TH BIRTHDAY LIVE 2021 ～ Colors of Flowers ～](5th_BDLive_2021.md)<br>
 Date: 26Dec,2021<br>
 <img src="../../../Img/227Live/img_5th_BDLive_2021.png" width="50%">
