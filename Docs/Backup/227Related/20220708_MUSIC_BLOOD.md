@@ -14,4 +14,8 @@ Date: 8Jul,2022<br>
   <td><a target="_blank" rel="noreferrer noopener" href="https://www.bilibili.com/video/BV1GY4y1J785">Source</a></td>
   <td><a target="_blank" rel="noreferrer noopener" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/227_Related_Videos/20220708_MUSIC_BLOOD.mp4">Download</a></td>
  </tr>
+ <tr>
+  <th>Sub</th>
+  <td colspan="2"><a target="_blank" rel="noreferrer noopener" href="https://www.bilibili.com/video/BV14r4y1E7uL">CHS - bilibili</a></td>
+ </tr>
 </table>
