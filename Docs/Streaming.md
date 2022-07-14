@@ -94,7 +94,7 @@ var player = videojs('my_video_1');
 player.play();
 </script>
 
-<a target="_blank" rel="noopener noreferrer" href="https://www.agqr.jp/timetable/streaming.html">超！A&G+ 番組表</a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.joqr.co.jp/qr/agdailyprogram/agdailyprogram.html">超！A&G+ 番組表</a>
 
 <!--
 http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
