@@ -6,11 +6,11 @@
 Date: 27Jul,2022<br>
 <p><blockquote>
 1. 曇り空の向こうは晴れている<br>
-2. ???<br>
-3. ???<br>
+2. 打ち上げ花火の拒否権<br>
+3. 君は誰だ？/晴れた日のベンチ<br>
 4. 曇り空の向こうは晴れている -off vocal ver.-<br>
-5. ???<br>
-6. ???<br>
+5. 打ち上げ花火の拒否権 -off vocal ver.-<br>
+6. 君は誰だ？ -off vocal ver.-<br>
 </blockquote></p><br>
 
 #### 曇り空の向こうは晴れている【完全生産限定盤B】
@@ -18,11 +18,11 @@ Date: 27Jul,2022<br>
 Date: 27Jul,2022<br>
 <p><blockquote>
 1. 曇り空の向こうは晴れている<br>
-2. ???<br>
-3. ???<br>
+2. 打ち上げ花火の拒否権<br>
+3. 君は誰だ？/晴れた日のベンチ<br>
 4. 曇り空の向こうは晴れている -off vocal ver.-<br>
-5. ???<br>
-6. ???<br>
+5. 打ち上げ花火の拒否権 -off vocal ver.-<br>
+6. 君は誰だ？ -off vocal ver.-<br>
 </blockquote></p><br>
 
 #### 曇り空の向こうは晴れている【初回生産限定盤】
@@ -30,11 +30,11 @@ Date: 27Jul,2022<br>
 Date: 27Jul,2022<br>
 <p><blockquote>
 1. 曇り空の向こうは晴れている<br>
-2. ???<br>
-3. ???<br>
+2. 打ち上げ花火の拒否権<br>
+3. カントリーガール/気の抜けたサイダー<br>
 4. 曇り空の向こうは晴れている -off vocal ver.-<br>
-5. ???<br>
-6. ???<br>
+5. 打ち上げ花火の拒否権 -off vocal ver.-<br>
+6. カントリーガール –off vocal ver.-<br>
 </blockquote></p><br>
 
 #### 曇り空の向こうは晴れている【通常盤】
@@ -42,11 +42,11 @@ Date: 27Jul,2022<br>
 Date: 27Jul,2022<br>
 <p><blockquote>
 1. 曇り空の向こうは晴れている<br>
-2. ???<br>
-3. ???<br>
+2. 打ち上げ花火の拒否権<br>
+3. 読みかけの漫画/蛍光灯再生計画<br>
 4. 曇り空の向こうは晴れている -off vocal ver.-<br>
-5. ???<br>
-6. ???<br>
+5. 打ち上げ花火の拒否権 -off vocal ver.-<br>
+6. 読みかけの漫画 –off vocal ver.-<br>
 </blockquote></p><br>
 
 #### 曇り空の向こうは晴れている 先行配信
