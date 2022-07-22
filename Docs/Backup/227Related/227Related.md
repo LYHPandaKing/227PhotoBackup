@@ -1,6 +1,10 @@
 ### 22/7 相關影片 Related Videos
 ##### [Back](../../../readme.md)
 
+- [読売テレビ「カミオト夜」](20220721_Kamioto-Yoru.md)<br>
+Date: 21Jul,2022<br>
+<img src="../../../Img/227Related/20220721_Kamioto-Yoru.jpg" width="50%">
+
 - [日本テレビ「MUSIC BLOOD」](20220708_MUSIC_BLOOD.md)<br>
 Date: 8Jul,2022<br>
 <img src="../../../Img/227Related/20220708_MUSIC_BLOOD.jpg" width="50%">
