@@ -16,6 +16,6 @@ Date: 21Jul,2022<br>
  </tr>
  <tr>
   <th>Sub</th>
-  <td colspan="2"><a target="_blank" rel="noreferrer noopener" href="https://www.bilibili.com/video/BV1H94y1X7h1">CHS - bilibili</a></td>
+  <td colspan="2">CHS - bilibili<a target="_blank" rel="noreferrer noopener" href=""></a></td>
  </tr>
 </table>
