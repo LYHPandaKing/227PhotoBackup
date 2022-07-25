@@ -1,6 +1,10 @@
 ### 22/7 相關影片 Related Videos
 ##### [Back](../../../readme.md)
 
+- [フジテレビ「Love music」](20220725_Love_music.md)<br>
+Date: 25Jul,2022<br>
+<img src="../../../Img/227Related/20220725_Love_music.png" width="50%">
+
 - [読売テレビ「カミオト夜」](20220721_Kamioto-Yoru.md)<br>
 Date: 21Jul,2022<br>
 <img src="../../../Img/227Related/20220721_Kamioto-Yoru.jpg" width="50%">
