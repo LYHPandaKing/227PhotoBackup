@@ -1,6 +1,10 @@
 ### 22/7 OFFICIAL YouTube CHANNEL
 ##### [Back](../YouTube_List.md)
 
+- [22/7 『曇り空の向こうは晴れている』music video](20220727_Kumorizora_no_muko_wa_hareteiru_MV.md)<br>
+Date: 27Jul,2022<br>
+<img src="../../../Img/227OfficialYouTube/20220727_Kumorizora_no_muko_wa_hareteiru_MV.jpg" width="50%">
+
 - [22/7『僕は存在していなかった』× 360 Reality Audio スペシャルビデオ](20211222_BokuwaSonzai_360RealityAudio.md)<br>
 Date: 22Dec,2021<br>
 <img src="../../../Img/227OfficialYouTube/20211222_BokuwaSonzai_360RealityAudio.jpg" width="50%">
