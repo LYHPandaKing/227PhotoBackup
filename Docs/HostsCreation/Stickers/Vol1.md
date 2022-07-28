@@ -10,7 +10,7 @@
  </tr>
  <tr>
 <td>3<br><img src="../../../Img/Nanaon/Stamp/Original/10000003.png" width="45%"><img src="../../../Img/Nanaon/Stamp/CHT/10000003.png" width="45%"><br>よろしくお願いします<br>請多多指教</td>
-<td>4<br><img src="../../../Img/Nanaon/Stamp/Original/10000004.png" width="45%"><br>>Good Luck!</td>
+<td>4<br><img src="../../../Img/Nanaon/Stamp/Original/10000004.png" width="45%"><br>Good Luck!</td>
  </tr>
  <tr>
 <td>5<br><img src="../../../Img/Nanaon/Stamp/Original/10000005.png" width="45%"><img src="../../../Img/Nanaon/Stamp/CHT/10000005.png" width="45%"><br>計算通リです<br>和計劃的一樣</td>
@@ -50,6 +50,6 @@
  </tr>
  <tr>
 <td>23<br><img src="../../../Img/Nanaon/Stamp/Original/10000023.png" width="45%"><br>ゴゴゴゴ…!</td>
-<td>24<br><img src="../../../Img/Nanaon/Stamp/Original/10000024.png" width="45%"><img src="../../../Img/Nanaon/Stamp/CHT/10000024.png" width="45%"><br>キラーン<br>容光煥發</td>
+<td>24<br><img src="../../../Img/Nanaon/Stamp/Original/10000024.png" width="45%"><img src="../../../Img/Nanaon/Stamp/CHT/10000024.png" width="45%"><br>キラーン!<br>容光煥發!</td>
  </tr>
 </table>
