@@ -20,4 +20,21 @@
  </tr>
 </table>
 
+##### 計算中 Keisanchu
+
+<table>
+ <tr>
+ <th></th>
+ <th>WhatsApp</th>
+ <th>Telegram</th>
+ <th>Signal</th>
+ </tr>
+ <tr>
+ <th><a target="_blank" rel="noopener noreferrer" href="Vol1.html">計算中 Keisanchu</a><br>UPD: 1Aug2022 1523</th>
+ <th>No.1-5/<a target="_blank" rel="noopener noreferrer" href="https://whatsticker.online/p/612524tNKHh1o/HK/zh">WhatSticker</a></th>
+ <th>No.1-5/<a target="_blank" rel="noopener noreferrer" href="https://t.me/addstickers/keisanchu227_1">Telegram</a></th>
+ <th>No.1-5/(NA)<a target="_blank" rel="noopener noreferrer" href=""></a></th>
+ </tr>
+</table>
+
 <img src="../../../Img/Stickers_Demo.png" width="vw">
