@@ -1,6 +1,14 @@
 ### 22/7 OFFICIAL YouTube CHANNEL
 ##### [Back](../YouTube_List.md)
 
+- [22/7 LIVE TOUR 2022「14」夜公演＠Zepp DiverCity(TOKYO)（2022.03.27）](https://227.nets.hk/Docs/Backup/227Live/Live_Tour_2022_14.html#YT_Night)<br>
+Date: 10Aug,2022<br>
+<img src="../../../Img/227OfficialYouTube/20220810_227_LiveTour2022_14_YT_Night.jpg" width="50%">
+
+- [22/7 LIVE TOUR 2022「14」昼公演＠Zepp DiverCity(TOKYO)（2022.03.27）](https://227.nets.hk/Docs/Backup/227Live/Live_Tour_2022_14.html#YT_Day)<br>
+Date: 9Aug,2022<br>
+<img src="../../../Img/227OfficialYouTube/20220809_227_LiveTour2022_14_YT_Day.jpg" width="50%">
+
 - [22/7 『曇り空の向こうは晴れている』music video](20220727_Kumorizora_no_muko_wa_hareteiru_MV.md)<br>
 Date: 27Jul,2022<br>
 <img src="../../../Img/227OfficialYouTube/20220727_Kumorizora_no_muko_wa_hareteiru_MV.jpg" width="50%">

@@ -158,6 +158,12 @@ Live w/ FC Talk<br>
   <source src="https://filedn.com/lAIJkrR1ef4bIR1iETG3U3F/Public_227/Live/20220327_227_LiveTour2022_14_First.mp4" type="video/mp4">
 </video>
 
+<a name="YT_Day"></a>
+YouTube Version<br>
+<video width="100%" height="100%" controls>
+  <source src="https://filedn.com/lAIJkrR1ef4bIR1iETG3U3F/Public_227/Live/20220809_227_LiveTour2022_14_YT_Day.mp4" type="video/mp4">
+</video>
+
 <table>
 <tr>
  <th>Raw</th>
@@ -166,9 +172,18 @@ Live w/ FC Talk<br>
  <td>Download <a target="_blank" rel="noopener noreferrer" href="20220327_227_LiveTour2022_14_First.zip.001">Part1 </a>| <a target="_blank" rel="noopener noreferrer" href="20220327_227_LiveTour2022_14_First.zip.002">Part2</a></td>
 </tr>
 <tr>
- <th>Sub</th>
+ <th>YouTube Version</th>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1zV4y1x71g">Source</a></td>
+ <td><a target="_blank" rel="noopener noreferrer" href="">Download</a></td>
+</tr>
+<tr>
+ <th rowspan="2">Sub</th>
  <th>Live w/ FC Talk</th>
- <td colspan="2">CHS - Bilibili<a target="_blank" rel="noopener noreferrer" href=""></a></td>
+ <td colspan="2">NA<a target="_blank" rel="noopener noreferrer" href=""></a></td>
+</tr>
+<tr>
+ <th>YouTube Version</th>
+ <td colspan="2">NA<a target="_blank" rel="noopener noreferrer" href=""></a></td>
 </tr>
 </table>
 
@@ -216,16 +231,31 @@ Live w/ FC Talk<br>
   <source src="https://filedn.com/lAIJkrR1ef4bIR1iETG3U3F/Public_227/Live/20220327_227_LiveTour2022_14_Second.mp4" type="video/mp4">
 </video>
 
+<a name="YT_Night"></a>
+YouTube Version<br>
+<video width="100%" height="100%" controls>
+  <source src="https://filedn.com/lAIJkrR1ef4bIR1iETG3U3F/Public_227/Live/20220810_227_LiveTour2022_14_YT_Night.mp4" type="video/mp4">
+</video>
+
 <table>
 <tr>
- <th>Raw</th>
+ <th rowspan="2">Raw</th>
  <th>Live w/ FC Talk</th>
  <td><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1zY4y1q7WS?p=2">Source</a></td>
  <td>Download <a target="_blank" rel="noopener noreferrer" href="20220327_227_LiveTour2022_14_Second.zip.001">Part1 </a>| <a target="_blank" rel="noopener noreferrer" href="20220327_227_LiveTour2022_14_Second.zip.002">Part2</a></td>
 </tr>
 <tr>
- <th>Sub</th>
+ <th>YouTube Version</th>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1Nd4y1m7q6">Source</a></td>
+ <td><a target="_blank" rel="noopener noreferrer" href="">Download</a></td>
+</tr>
+<tr>
+ <th rowspan="2">Sub</th>
  <th>Live w/ FC Talk</th>
- <td colspan="2">CHS - Bilibili<a target="_blank" rel="noopener noreferrer" href=""></a></td>
+ <td colspan="2">NA<a target="_blank" rel="noopener noreferrer" href=""></a></td>
+</tr>
+<tr>
+ <th>YouTube Version</th>
+ <td colspan="2">NA<a target="_blank" rel="noopener noreferrer" href=""></a></td>
 </tr>
 </table>
