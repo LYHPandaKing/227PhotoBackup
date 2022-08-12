@@ -173,8 +173,8 @@ YouTube Version<br>
 </tr>
 <tr>
  <th>YouTube Version</th>
- <td><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1zV4y1x71g">Source</a></td>
- <td><a target="_blank" rel="noopener noreferrer" href="">Download</a></td>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1ga411P7Gh">Source</a></td>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/20220809_227_LiveTour2022_14_YT_Day.mp4">Download</a></td>
 </tr>
 <tr>
  <th rowspan="2">Sub</th>
@@ -247,7 +247,7 @@ YouTube Version<br>
 <tr>
  <th>YouTube Version</th>
  <td><a target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1Nd4y1m7q6">Source</a></td>
- <td><a target="_blank" rel="noopener noreferrer" href="">Download</a></td>
+ <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/LYHPandaKing/227PhotoBackup/releases/download/20220810_227_LiveTour2022_14_YT_Night.mp4">Download</a></td>
 </tr>
 <tr>
  <th rowspan="2">Sub</th>
