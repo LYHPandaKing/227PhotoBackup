@@ -30,7 +30,7 @@ Official News<a target="_blank" rel="noopener noreferrer" href="https://nanabunn
   <th>清井美那<br><img src="../../../Img/227Live/SummerFest_Illus/illust-img_a16.jpg" width="vw"></th>
  </tr>
  <tr>
-  <th>西條和<br><img src="../../../Img/227Live/SummerFest_Illus/illust-img_a4.jpg.jpg" width="vw"></th>
+  <th>西條和<br><img src="../../../Img/227Live/SummerFest_Illus/illust-img_a4.jpg" width="vw"></th>
   <th>椎名桜月<br><img src="../../../Img/227Live/SummerFest_Illus/illust-img_a17.jpg" width="vw"></th>
   <th>四条月<br><img src="../../../Img/227Live/SummerFest_Illus/illust-img_a18.jpg" width="vw"></th>
  </tr>
