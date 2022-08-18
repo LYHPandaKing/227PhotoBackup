@@ -1,12 +1,13 @@
 ### 22/7 割り切れないラジオ+ Warikirenai Radio Plus
 ##### [Back](../Radio_List.md)
 
-![Title](../../../Img/227Warikirenai_Radio_Plus/title_radio-main_plus.png)
-[Official Site](http://www.nanabunnonijyuuni.com/special/radio-2/)
+<img src="../../../../Img/227Warikirenai_Radio_Plus/title_radio-main_plus.png" width="70%">
+<a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni.com/s/n129/diary/special/list?ima=5408">Official Site</a>
 
 #### 2022
 
 ##### August
+- [Ep115 - 20220813 河瀬詩・麻丘真央・椎名桜月](20220813_Ep115.md)<br>
 - [Ep114 - 20220806 白沢かなえ・相川奈央・雨夜音](20220806_Ep114.md)<br>
 <hr>
 
