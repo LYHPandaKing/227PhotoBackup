@@ -1,6 +1,7 @@
 
 <div class="slideshow-container">
 
+
 <div class="mySlides fade">
   <div class="numbertext">1 / 14</div>
   <img src="Img/Slideshow/SS_DebutSG.jpg" style="width:100%">
@@ -123,7 +124,7 @@ function showSlides(n) {
 }
 </script>
 
-**最後更新日期 Last Update: 15Aug,2022 14:35 (HKT)**
+**最後更新日期 Last Update: 18Aug,2022 15:35 (HKT)**
 
 ### 相簿 Album
 - [出道前 Pre-Debut](Docs/Album/PreDebut.md)
