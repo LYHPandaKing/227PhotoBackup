@@ -1,6 +1,14 @@
 ﻿### 22/7 Live
 ##### [Back](../../../readme.md)
 
+- 22/7 CHARACTER LIVE -6th BIRTHDAY PARTY 2022-<br>
+Date: 24Dec,2022<br>
+<img src="../../../Img/227Live/img_6th_BDLive_2022.png" width="50%">
+
+- [22/7 ANNIVERSARY LIVE 2022](Ann_Live_2022.md)<br>
+Date: 22-23Oct,2022<br>
+<img src="../../../Img/227Live/img_Ann_Live_2022.png" width="50%">
+
 - [ナナニジ 夏祭り 2022](SummerFest_2022.md)<br>
 Date: 11Aug,2022<br>
 <img src="../../../Img/227Live/img_SummerFest_2022.png" width="50%">
