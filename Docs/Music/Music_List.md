@@ -18,6 +18,9 @@
 <a name="single"></a>
 #### 單曲 Single
 
+- [神様だって決められない<br>Kamisama datte kimerarenai](Single_10.html)<br>
+<img src="../../Img/Music/Kamisama_CompleteA.jpg" width="30%"><img src="../../Img/Music/Kamisama_CompleteB.jpg" width="30%"><img src="../../Img/Music/Kamisama_Limited.jpg" width="30%">
+
 - [曇り空の向こうは晴れている<br>Kumorizora no Muko wa Hareteiru](Single_09.html)<br>
 <img src="../../Img/Music/Kumorizora_CompleteA.jpg" width="30%"><img src="../../Img/Music/Kumorizora_CompleteB.jpg" width="30%"><img src="../../Img/Music/Kumorizora_Limited.jpg" width="30%">
 
