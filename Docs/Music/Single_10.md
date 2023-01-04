@@ -121,6 +121,6 @@ Date: 20Dec,2022<br>
 先行配信<br>
 **01. 神様だって決められない**<br>
 <audio controls="controls">
-  <source type="audio/mp3" src="../../Music/10_Kamisama%20datte%20kimerarenai/先行配信/01.%20神様だって決められない.flac"></source>
+  <source type="audio/mp3" src="../../Music/10_Kamisama%20datte%20kimerarenai/先行配信/01.%20神様だって決められない.mp3"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
