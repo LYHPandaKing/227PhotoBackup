@@ -132,26 +132,26 @@ MC<br>
 <blockquote>
 Opening<br>
 あの日のれたしたち (宮瀬玲奈)<br>
-1. シャンプーの匂いがした
-2. 人格崩壊
-3. 循環バス
-4. やさしい記憶
-5. 叫ぶしかない青春
-MC
+1. シャンプーの匂いがした<br>
+2. 人格崩壊<br>
+3. 循環バス<br>
+4. やさしい記憶<br>
+5. 叫ぶしかない青春<br>
+MC<br>
 あの日のれたしたち (天城サリー)<br>
-6. 風は吹いてるか？
-7. 半チャーハン
-8. タトゥー・ラブ
-9. ソフトクリーム落としちゃった
-10. ポニーテールは振り向かせない
+6. 風は吹いてるか？<br>
+7. 半チャーハン<br>
+8. タトゥー・ラブ<br>
+9. ソフトクリーム落としちゃった<br>
+10. ポニーテールは振り向かせない<br>
 あの日のれたしたち (涼花萌)<br>
-11. 何もしてあげられない
-12. とんぼの気持ち
-13. ロマンスの積み木
-14. 君はMoon
-MC
-15. Rain of lies
-MC
+11. 何もしてあげられない<br>
+12. とんぼの気持ち<br>
+13. ロマンスの積み木<br>
+14. 君はMoon<br>
+MC<br>
+15. Rain of lies<br>
+MC<br>
 理解者之館 (椎名桜月、白沢かなえ、相川奈央、西條和)<br>
 </blockquote>
 </p>
@@ -178,9 +178,9 @@ MC
 
 23Oct夜場：<br>
 <section class="accordion">
-  <input type="checkbox" name="collapse" id="handle3">
+  <input type="checkbox" name="collapse" id="handle4">
   <h4 class="handle">
-    <label for="handle3">
+    <label for="handle4">
     流程 Rundown
     </label>
   </h4>
