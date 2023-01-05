@@ -1,7 +1,7 @@
 ﻿### 22/7 Live
 ##### [Back](../../../readme.md)
 
-- 22/7 CHARACTER LIVE -6th BIRTHDAY PARTY 2022-<br>
+- [22/7 CHARACTER LIVE -6th BIRTHDAY PARTY 2022-](6th_BDLive_2022.md)<br>
 Date: 24Dec,2022<br>
 <img src="../../../Img/227Live/img_6th_BDLive_2022.png" width="50%">
 
