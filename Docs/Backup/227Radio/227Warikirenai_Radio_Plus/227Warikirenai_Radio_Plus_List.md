@@ -4,6 +4,12 @@
 <img src="../../../../Img/227Warikirenai_Radio_Plus/title_radio-main_plus.png" width="70%"><br>
 <a target="_blank" rel="noopener noreferrer" href="https://nanabunnonijyuuni.com/s/n129/diary/special/list?ima=5408">Official Site</a>
 
+#### 2023
+
+##### January
+- [Ep136 - 20230107 西條和・月城咲舞・望月りの](20230107_Ep136.md)<br>
+<hr>
+
 #### 2022
 
 ##### December
