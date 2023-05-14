@@ -3,78 +3,83 @@
 
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 15</div>
+  <div class="numbertext">1 / 16</div>
   <img src="Img/Slideshow/SS_DebutSG.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 15</div>
+  <div class="numbertext">2 / 16</div>
   <img src="Img/Slideshow/SS_11Characters.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 15</div>
+  <div class="numbertext">3 / 16</div>
   <img src="Img/Slideshow/SS_Halloween.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 15</div>
+  <div class="numbertext">4 / 16</div>
   <img src="Img/Slideshow/SS_2ndSG.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">5 / 15</div>
+  <div class="numbertext">5 / 16</div>
   <img src="Img/Slideshow/SS_3rdSG.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">6 / 15</div>
+  <div class="numbertext">6 / 16</div>
   <img src="Img/Slideshow/SS_4thSG.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">7 / 15</div>
+  <div class="numbertext">7 / 16</div>
   <img src="Img/Slideshow/SS_5thSG.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">8 / 15</div>
+  <div class="numbertext">8 / 16</div>
   <img src="Img/Slideshow/SS_6thSG.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">9 / 15</div>
+  <div class="numbertext">9 / 16</div>
   <img src="Img/Slideshow/SS_11色の風.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">10 / 15</div>
+  <div class="numbertext">10 / 16</div>
   <img src="Img/Slideshow/SS_7thSG.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">11 / 15</div>
+  <div class="numbertext">11 / 16</div>
   <img src="Img/Slideshow/SS_1stAL.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">12 / 15</div>
+  <div class="numbertext">12 / 16</div>
   <img src="Img/Slideshow/SS_8thSG.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">13 / 15</div>
+  <div class="numbertext">13 / 16</div>
   <img src="Img/Slideshow/SS_9thSG.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">14 / 15</div>
+  <div class="numbertext">14 / 16</div>
   <img src="Img/Slideshow/SS_CharColour.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">15 / 15</div>
+  <div class="numbertext">15 / 16</div>
   <img src="Img/Slideshow/SS_10thSG.jpg" style="width:100%">
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">16 / 16</div>
+  <img src="Img/Slideshow/SS_11thSG.jpg" style="width:100%">
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -98,11 +103,12 @@
   <span class="dot" onclick="currentSlide(12)"></span> 
   <span class="dot" onclick="currentSlide(13)"></span> 
   <span class="dot" onclick="currentSlide(14)"></span> 
-  <span class="dot" onclick="currentSlide(15)"></span> 
+  <span class="dot" onclick="currentSlide(15)"></span>
+  <span class="dot" onclick="currentSlide(16)"></span> 
 </div>
 
 <script>
-let slideIndex = 15;
+let slideIndex = 16;
 showSlides(slideIndex);
 
 function plusSlides(n) {
@@ -130,7 +136,7 @@ function showSlides(n) {
 }
 </script>
 
-**最後更新日期 Last Update: 12Jan,2023 11:30 (HKT)**
+**最後更新日期 Last Update: 14May,2023 14:30 (HKT)**
 
 ### 相簿 Album
 - [出道前 Pre-Debut](Docs/Album/PreDebut.md)
