@@ -1,5 +1,5 @@
 <div class="slideshow-container">
-<div class="mySlides1 fade">
+<div class="mySlides1">
   <div class="numbertext">1 / 16</div>
   <img src="Img/Slideshow/SS_DebutSG.jpg" style="width:100%">
 </div>
