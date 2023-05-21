@@ -9,6 +9,10 @@
 </table>
 
 <a name="Ep1-10"></a>
+
+#### [#8 わかって当然！計算中season４インパクトクイズ<br>#8 當然知道！計算中 season4印象問答<br>](S5/Ep08.md)<br>
+<img src="../../../Img/227Keisanchu/20230520_S5Ep08.jpg" width="50%">
+
 #### [#7 11thシングル"僕は今夜、出て行く"ヒット祈願 最終章<br>#7 11th單曲『僕は今夜、出ていく』大賣祈願 最終章](S5/Ep07.md)<br>
 <img src="../../../Img/227Keisanchu/20230513_S5Ep07.jpg" width="50%">
 
