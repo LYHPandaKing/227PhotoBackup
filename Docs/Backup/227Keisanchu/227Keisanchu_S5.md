@@ -9,6 +9,8 @@
 </table>
 
 <a name="Ep1-10"></a>
+#### [#9 わかって当然！計算中season４インパクトクイズ 後半戦<br>#9 當然知道！計算中 season4印象問答 後半戰](S5/Ep09.md)<br>
+<img src="../../../Img/227Keisanchu/20230527_S5Ep09.jpg" width="50%">
 
 #### [#8 わかって当然！計算中season４インパクトクイズ<br>#8 當然知道！計算中 season4印象問答](S5/Ep08.md)<br>
 <img src="../../../Img/227Keisanchu/20230520_S5Ep08.jpg" width="50%">
