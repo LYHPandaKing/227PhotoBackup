@@ -1,5 +1,7 @@
 ### 關於 About
 
+**已永久停止更新，多謝支持。Permanently stop updating. Thank you for your support!**<br>
+
 <img src="../Img/227Cover_v2.PNG" alt="Cover" width="vw"><br>
 
 此為非官方 22/7 網頁，主要備份元祖成員Twitter、Instagram及公式照等，並提供資訊，供粉絲使用及收藏。<br>
